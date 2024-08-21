@@ -21,4 +21,4 @@ if you want to contribute, you can pick:
 3. species (pick a species & list all the info that will be on the card)
 4. jargon (cards that explain scientific terms)
 
-Right now we are tracking all the info inside of [issues](https://github.com/shreshthmohan/wildex/issues)
+Right now we are tracking all the info inside of [issues](https://github.com/shreshthmohan/wildex/issues). So you can start contributing there.
