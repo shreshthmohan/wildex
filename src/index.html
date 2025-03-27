@@ -78,10 +78,48 @@
       }
     </style>
   </head>
-  <body
-    class="bg-stone-200 flex justify-center items-center min-h-screen mx-auto px-4 py-32"
-  >
-    <!-- Template Card (hidden by default) -->
+  <body class="bg-stone-200 min-h-screen mx-auto pt-20">
+    <header class="flex flex-col items-center mb-16">
+      <h1 class="text-4xl font-bold font-san-s">Wildex</h1>
+      <p class="text-lg font-medium text-stone-900">
+        Learn about India's Fauna
+      </p>
+    </header>
+    <div class="flex justify-center mb-16 px-4">
+      <div
+        id="bear-container"
+        class="grid grid-cols-1 md:grid-cols-2 auto-rows-fr gap-12"
+      ></div>
+    </div>
+
+    <footer class="py-8 px-4 border-t border-gray-400 dark:border-gray-600">
+      <div class="max-w-6xl mx-auto flex justify-between items-center">
+        <div>
+          <a
+            href="https://sm0.dev"
+            target="_blank"
+            class="text-xl font-bold tracking-normal"
+          >
+            Shreshth
+          </a>
+        </div>
+        <div class="flex items-center gap-4 text-xs">
+          <div class="">
+            <span class="inline-block transform rotate-180 text-lg mb-2"
+              >©</span
+            >
+            GPLv3 2025 -
+            <a
+              href="https://github.com/shreshthmohan/wildex"
+              target="_blank"
+              rel="noreferrer noopener"
+              class="underline"
+              >Seek. Settle. Sustain.</a
+            >
+          </div>
+        </div>
+      </div>
+    </footer>
     <template id="bear-card-template">
       <div
         class="max-w-[22rem] rounded-xl overflow-hidden shadow-lg flex flex-col"
@@ -208,7 +246,6 @@
             </div>
           </div>
         </div>
-
         <!-- Distinguishing feature -->
         <div class="p-4 bg-earth-light text-earth-dark h-20">
           <div class="flex gap-3">
@@ -227,12 +264,6 @@
         </div>
       </div>
     </template>
-
-    <div
-      id="bear-container"
-      class="grid grid-cols-1 md:grid-cols-2 auto-rows-fr gap-12"
-    ></div>
-
     <!-- Data and app logic -->
     <script src="bear-data.js"></script>
     <script>
