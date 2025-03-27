@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indian Bears | Forest Beings</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // add text-xxs
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontSize: {
+              xxs: "0.625rem",
+            },
+            colors: {
+              earth: {
+                dark: "#5D5852",
+                mid: "#7D7772",
+                light: "#F1EFEB",
+                accent: "#B7B2A9",
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap");
+
+      * {
+        font-family: "Cormorant Garamond", serif;
+      }
+
+      /* Only keeping minimal CSS that's challenging to do with Tailwind */
+
+      .india-map {
+        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M30,20 C25,30 20,40 25,45 C30,50 25,60 30,70 C35,80 45,85 50,80 C55,75 65,80 70,75 C75,70 80,60 75,55 C70,50 80,45 75,40 C70,35 65,25 60,20 C55,15 45,10 40,15 C35,20 35,10 30,20 Z" fill="%23B7B2A9" stroke="white" stroke-width="1"/></svg>');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+      }
+
+      .region-highlight {
+        position: absolute;
+        background-color: rgba(255, 255, 255, 0.2);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+      }
+
+      /* Region highlights */
+      .region-all {
+        top: 20%;
+        left: 20%;
+        width: 60%;
+        height: 60%;
+      }
+
+      .region-north {
+        top: 20%;
+        left: 30%;
+        width: 40%;
+        height: 30%;
+      }
+
+      .region-northeast {
+        top: 30%;
+        left: 60%;
+        width: 30%;
+        height: 30%;
+      }
+
+      .region-north-northeast {
+        top: 20%;
+        left: 30%;
+        width: 60%;
+        height: 30%;
+      }
+    </style>
+  </head>
+  <body
+    class="bg-stone-200 flex justify-center items-center min-h-screen mx-auto px-4 py-32"
+  >
+    <!-- Template Card (hidden by default) -->
+    <template id="bear-card-template">
+      <div
+        class="max-w-[22rem] rounded-xl overflow-hidden shadow-lg flex flex-col"
+      >
+        <!-- Main content area -->
+        <div class="bg-earth-dark text-earth-light flex-grow">
+          <!-- Top section with name and basic info -->
+          <div class="flex">
+            <!-- Left column with stats -->
+            <div class="p-3 w-2/5 border-r border-earth-mid/30">
+              <div>
+                <div class="text-xl font-medium bear-name">Bear Name</div>
+                <div
+                  class="italic text-white/60 border-b border-earth-accent/30 pb-1 scientific-name"
+                >
+                  Scientific name
+                </div>
+              </div>
+              <div class="space-y-2 mt-2">
+                <div>
+                  <div class="text-2xl font-bold lifespan">25 years</div>
+                  <div class="text-xxs text-stone-400">
+                    Life span in the wild
+                  </div>
+                </div>
+
+                <div>
+                  <div class="text-xl font-bold size">
+                    Size
+                    <span class="font-light text-stone-400">cm</span>
+                  </div>
+                  <div class="text-xxs text-stone-400">Height</div>
+                </div>
+
+                <div>
+                  <div class="text-xl font-bold weight">
+                    Weight
+                    <span class="font-light text-stone-400">kg</span>
+                  </div>
+                  <div class="text-xs text-stone-400">Weight</div>
+                </div>
+
+                <!-- Geographic context -->
+                <div
+                  class="bg-earth-mid/60 india-map h-20 object-cover relative"
+                >
+                  <div class="region-highlight region-map"></div>
+                  <div
+                    class="text-sm absolute bottom-1 left-1 right-1 text-center bg-earth-dark/60 text-xs rounded"
+                  >
+                    Geographic range Placeholder
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Right side with image and status -->
+            <div class="w-3/5">
+              <!-- Image of bear -->
+              <div class="h-48 overflow-hidden bg-earth-mid">
+                <img
+                  class="w-full h-full object-cover card-image"
+                  src=""
+                  alt=""
+                />
+              </div>
+              <div class="p-3 border-t border-earth-mid/30">
+                <div class="">
+                  <div class="text-sm conservation-status">
+                    Conservation Status
+                  </div>
+                  <div class="space-x-1 flex text-xxs">
+                    <div
+                      class="status-circle data-[active=true]:bg-black data-[active=true]:text-red-600 w-5 h-5 border border-black data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="ex"
+                    >
+                      EX
+                    </div>
+                    <div
+                      class="status-circle data-[active=true]:bg-black data-[active=true]:text-white w-5 h-5 border border-black data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="ew"
+                    >
+                      EW
+                    </div>
+                    <div
+                      class="status-circle data-[active=true]:bg-red-600 data-[active=true]:text-red-200 w-5 h-5 border border-red-600 data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="cr"
+                    >
+                      CR
+                    </div>
+                    <div
+                      class="status-circle data-[active=true]:bg-amber-600 data-[active=true]:text-orange-200 w-5 h-5 border border-amber-600 data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="en"
+                    >
+                      EN
+                    </div>
+                    <div
+                      class="status-circle data-[active=true]:bg-yellow-600 data-[active=true]:text-yellow-100 w-5 h-5 border border-yellow-600 data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="vu"
+                    >
+                      VU
+                    </div>
+                    <div
+                      class="status-circle data-[active=true]:bg-teal-800 data-[active=true]:text-green-200 w-5 h-5 border border-teal-800 data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="nt"
+                    >
+                      NT
+                    </div>
+                    <div
+                      class="data-[active=true]:bg-green-800 data-[active=true]:text-white w-5 h-5 border border-green-800 data-[active=true]:font-semibold rounded-full flex items-center justify-center"
+                      data-status-value="lc"
+                    >
+                      LC
+                    </div>
+                  </div>
+                  <div class="text-xs text-stone-400">IUCN Status</div>
+                </div>
+
+                <div class="">
+                  <div class="text-xl font-bold population">Population</div>
+                  <div class="text-xs text-stone-400">Population</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Distinguishing feature -->
+        <div class="p-4 bg-earth-light text-earth-dark h-20">
+          <div class="flex gap-3">
+            <div>
+              <div class="text-lg font-bold safety-title">Threat Level</div>
+              <div
+                class="bg-white p-1 rounded-full flex items-center justify-center space-x-1 my-1 safety-indicators"
+              >
+                <!-- Safety indicators will be added dynamically -->
+              </div>
+            </div>
+            <div class="text-xs font-medium text-stone-900 safety-notes">
+              Safety notes here
+            </div>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <div
+      id="bear-container"
+      class="grid grid-cols-1 md:grid-cols-2 auto-rows-fr gap-12"
+    ></div>
+
+    <!-- Data and app logic -->
+    <script src="bear-data.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Get container and template
+        const container = document.getElementById("bear-container");
+        const template = document.getElementById("bear-card-template");
+
+        // Process each bear in the data
+        bearsData.forEach((bear) => {
+          // Clone the template
+          const card = template.content.cloneNode(true);
+
+          // Set basic information
+          card.querySelector(".card-image").src = bear.image;
+          card.querySelector(".bear-name").textContent = bear.name;
+          card.querySelector(".scientific-name").textContent =
+            bear.scientificName;
+          card.querySelector(".lifespan").textContent = bear.lifespan;
+          card.querySelector(".size").textContent = bear.size;
+          card.querySelector(".weight").textContent = bear.weight;
+          card.querySelector(".population").textContent = bear.population;
+          card.querySelector(".conservation-status").textContent =
+            bear.conservationStatus;
+          card.querySelector(".safety-notes").textContent = bear.safetyNotes;
+
+          // Set region on map
+          const regionMap = card.querySelector(".region-map");
+          regionMap.classList.add(`region-${bear.mapRegion}`);
+
+          // Set safety title based on threat level
+          const threatLevel = parseInt(bear.safetyThreat) || 0;
+          const safetyTitles = [
+            "None",
+            "Low",
+            "Moderate",
+            "Cautious",
+            "High",
+            "Extreme",
+          ];
+          card.querySelector(".safety-title").textContent =
+            safetyTitles[threatLevel] || "Unknown";
+
+          // Add safety indicators
+          const safetyContainer = card.querySelector(".safety-indicators");
+          safetyContainer.innerHTML = ""; // Clear template content
+          for (let i = 0; i < 5; i++) {
+            const indicator = document.createElement("div");
+            indicator.className =
+              "w-2 h-2 rounded-full border border-earth-dark/50";
+
+            // Color the indicator if it's within the threat level
+            if (i < threatLevel) {
+              indicator.classList.add("bg-red-500");
+            }
+
+            safetyContainer.appendChild(indicator);
+          }
+
+          // Set IUCN status
+          const statusCircles = card.querySelectorAll(".status-circle");
+          statusCircles.forEach((circle) => {
+            const value = circle.getAttribute("data-status-value");
+            if (value.toUpperCase() === bear.iucnStatus) {
+              // Apply active styling based on status
+              circle.setAttribute("data-active", "true");
+            }
+          });
+
+          // Add the card to the container
+          container.appendChild(card);
+        });
+      });
+    </script>
+  </body>
+</html>
