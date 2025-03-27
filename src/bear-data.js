@@ -26,7 +26,7 @@ const bearsData = [
       "Protected under Schedule I of the Indian Wildlife Protection Act",
     extraInfo:
       "These bears are the heaviest and largest of the four bears, with weights reaching a maximum of 550 kg for males. During autumn, they descend to lower altitudes to feed on fruits and berries.",
-    image: "/images/himalayan-brown-bear.jpg",
+    image: "./images/himalayan-brown-bear.jpg",
   },
   {
     name: "Sloth Bear",
@@ -55,7 +55,7 @@ const bearsData = [
       "Protected under CITES Appendix I and Schedule I of the Indian Wildlife Protection Act",
     extraInfo:
       "Sloth bears have long claws to dig up termite mounds and have also lost their front teeth which helps them to suck up insects in an efficient manner.",
-    image: "/images/sloth-bear.webp",
+    image: "./images/sloth-bear.webp",
   },
   {
     name: "Asiatic Black Bear",
@@ -81,7 +81,7 @@ const bearsData = [
       "Protected under CITES Appendix I and Schedule II of India's Wildlife (Protection) Act, 1972",
     extraInfo:
       "The Asiatic black bear has seven subspecies, out of which we find the Himalayan Black Bear (Ursus thibetanus laniger) subspecies in India.",
-    image: "/images/asiatic-black-bear.jpg",
+    image: "./images/asiatic-black-bear.jpg",
   },
   {
     name: "Sun Bear",
@@ -107,6 +107,6 @@ const bearsData = [
       "Protected under Schedule I of the Indian Wildlife Protection Act",
     extraInfo:
       "The Sun Bear is a very rare and elusive animal, and is only found in north-east India. They have the longest tongue of all the bear species which helps them to feed on termites and ants.",
-    image: "/images/sun-bear.webp",
+    image: "./images/sun-bear.webp",
   },
 ];
