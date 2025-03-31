@@ -1,4 +1,43 @@
 // bear-data.js - Data about Indian bear species
+const states = [
+  "Arunachal Pradesh",
+  "Assam",
+  "Chandigarh",
+  "Karnataka",
+  "Manipur",
+  "Meghalaya",
+  "Mizoram",
+  "Nagaland",
+  "Punjab",
+  "Rajasthan",
+  "Sikkim",
+  "Tripura",
+  "Uttarakhand",
+  "Telangana",
+  "Bihar",
+  "Kerala",
+  "Madhya Pradesh",
+  "Andaman & Nicobar",
+  "Gujarat",
+  "Lakshadweep",
+  "Odisha",
+  "Dadra and Nagar Haveli and Daman and Diu",
+  "Jammu & Kashmir",
+  "Chhattisgarh",
+  "Delhi",
+  "Goa",
+  "Haryana",
+  "Himachal Pradesh",
+  "Jharkhand",
+  "Tamil Nadu",
+  "Uttar Pradesh",
+  "West Bengal",
+  "Andhra Pradesh",
+  "Puducherry",
+  "Maharashtra",
+  "Ladakh",
+];
+
 const bearsData = [
   {
     name: "Himalayan Brown Bear",
@@ -19,6 +58,12 @@ const bearsData = [
     conservationStatus: "Endangered",
     geographicRange:
       "Himalayas i.e. Jammu & Kashmir, Himachal Pradesh, northern Uttarakhand",
+    foundInStates: [
+      "Jammu & Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Ladakh",
+    ],
     mapRegion: "north",
     threats:
       "Climate change, habitat loss, poaching for body parts and human-wildlife conflict",
@@ -48,6 +93,17 @@ const bearsData = [
     conservationStatus: "Vulnerable",
     geographicRange:
       "Western Ghats, Madhya Pradesh, Uttar Pradesh, Chhattisgarh, West Bengal and north-east India",
+    foundInStates: [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Chhattisgarh",
+      "West Bengal",
+      "Maharashtra",
+      "Karnataka",
+      "Kerala",
+      "Assam",
+      "Tamil Nadu",
+    ],
     mapRegion: "all",
     threats:
       "Human-wildlife conflict, habitat fragmentation, hunting and poaching",
@@ -75,6 +131,7 @@ const bearsData = [
     cubsPerLitter: "Two to four",
     conservationStatus: "Vulnerable",
     geographicRange: "Jammu & Kashmir, Assam, Sikkim, Arunachal Pradesh",
+    foundInStates: ["Jammu & Kashmir", "Assam", "Sikkim", "Arunachal Pradesh"],
     mapRegion: "north-northeast",
     threats: "Climate change, habitat loss and poaching for body parts",
     protectionStatus:
@@ -101,6 +158,16 @@ const bearsData = [
     cubsPerLitter: "1",
     conservationStatus: "Vulnerable",
     geographicRange: "North-east India",
+    foundInStates: [
+      "Assam",
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Nagaland",
+      "Sikkim",
+      "Mizoram",
+      "Tripura",
+    ],
     mapRegion: "northeast",
     threats: "Habitat fragmentation and commercial hunting",
     protectionStatus:
