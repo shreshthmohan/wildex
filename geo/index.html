@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>India States Map</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <style>
+      .state {
+        fill: #e5d8d7;
+        /* stroke: #eee; */
+        stroke-width: 1;
+        transition: fill 0.3s ease;
+      }
+      .state.active {
+        fill: #d5bcbf;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-100 min-h-screen p-4">
+    <div class="max-w-6xl mx-auto">
+      <h1 class="text-3xl font-bold text-center mb-6 text-gray-800">
+        India States Map
+      </h1>
+      <div class="bg-white p-4 rounded-lg shadow-md">
+        <div id="map-container" class="w-full flex justify-center"></div>
+      </div>
+    </div>
+
+    <script>
+      // The GeoJSON data is from your uploaded file
+      fetch("./indian-states-topo.json")
+        .then((response) => response.json())
+        .then((shapeData) => {
+          const shapeGeo = topojson.feature(
+            shapeData,
+            shapeData.objects.Admin2
+          );
+
+          const width = 670;
+          const height = 760;
+
+          const svg = d3
+            .select("#map-container")
+            .append("svg")
+            // viewbox
+            .attr("viewBox", `0 0 ${width} ${height}`);
+          // .attr("width", width)
+          // .attr("height", height);
+
+          const stateMesh = topojson.mesh(
+            shapeData,
+            shapeData.objects.Admin2,
+            // internal boundaries
+            (a, b) => a !== b
+            // external boundaries
+            // (a, b) => a == b,
+          );
+
+          const path = d3
+            .geoPath()
+            .projection(d3.geoMercator().fitSize([width, height], shapeGeo));
+
+          // tooltip
+          const tooltip = d3
+            .select("body")
+            .append("div")
+            .attr("class", "tooltip")
+            .style("position", "absolute")
+            .style("opacity", 0);
+
+          svg
+            .append("g")
+            .selectAll("path")
+            .data(shapeGeo.features)
+            .join("path")
+            .attr("data-name", (d) => d.properties.ST_NM)
+            .classed("state", true)
+            .classed("active", (d) => Math.random() > 0.5)
+            .attr("d", path)
+            // .attr()
+            .on("click", function (event, d) {
+              console.log(d);
+              // toggle active
+              const active = d3.select(this).classed("active");
+              d3.select(this).classed("active", !active);
+            })
+            .on("mouseover", function (event, d) {
+              d3.select(this).attr("fill", "#60a5fa");
+              tooltip.style("opacity", 1).text(d.properties.ST_NM);
+            })
+            .on("mouseout", function (event, d) {
+              d3.select(this).attr("fill", "#ccc");
+              tooltip.style("opacity", 0);
+            });
+        });
+    </script>
+  </body>
+</html>
