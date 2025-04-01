@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>India States Map</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+      .state {
+        fill: #e8e8e8;
+        stroke: #000;
+        stroke-width: 1;
+        transition: fill 0.3s ease;
+      }
+      .state:hover {
+        fill: #d5bcbf;
+        cursor: pointer;
+      }
+      .state.active {
+        fill: #d5bcbf;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-100 min-h-screen p-4">
+    <div class="max-w-6xl mx-auto">
+      <h1 class="text-3xl font-bold text-center mb-6 text-gray-800">
+        India States Map
+      </h1>
+      <div class="bg-white p-4 rounded-lg shadow-md">
+        <div id="map-container" class="w-full flex justify-center"></div>
+        <div id="info-panel" class="mt-4 text-center text-gray-700"></div>
+      </div>
+    </div>
+
+    <script>
+      // Function to reverse coordinates in all rings of all polygons
+      function reversePolygonWinding(geometry) {
+        if (!geometry) return null;
+
+        // Clone the geometry to avoid modifying the original
+        const newGeometry = JSON.parse(JSON.stringify(geometry));
+
+        if (geometry.type === "Polygon") {
+          // Reverse each ring in the polygon
+          newGeometry.coordinates = geometry.coordinates.map((ring) => {
+            return ring.slice().reverse();
+          });
+        } else if (geometry.type === "MultiPolygon") {
+          // Handle each polygon in the multi-polygon
+          newGeometry.coordinates = geometry.coordinates.map((polygon) => {
+            return polygon.map((ring) => {
+              return ring.slice().reverse();
+            });
+          });
+        }
+
+        return newGeometry;
+      }
+
+      // Fetch the GeoJSON data
+      fetch("./indian-states.json")
+        .then((response) => response.json())
+        .then((shapeData) => {
+          // Filter out features with null geometry and process the rest
+          const processedFeatures = shapeData.features
+            .filter((f) => f.geometry)
+            .map((feature) => {
+              // Create a new feature with reversed winding for geometry
+              return {
+                type: feature.type,
+                properties: feature.properties,
+                geometry: reversePolygonWinding(feature.geometry),
+              };
+            });
+
+          // Create a new GeoJSON object with processed features
+          const processedShapeData = {
+            type: "FeatureCollection",
+            features: processedFeatures,
+          };
+
+          // Get container dimensions
+          const container = document.getElementById("map-container");
+          const width = container.clientWidth;
+          const height = width * 1.2; // Good aspect ratio for India
+
+          // Create SVG container
+          const svg = d3
+            .select("#map-container")
+            .append("svg")
+            .attr("viewBox", `0 0 ${width} ${height}`)
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+          // Create projection
+          const projection = d3
+            .geoMercator()
+            .fitSize([width, height], processedShapeData);
+
+          // Create path generator
+          const pathGenerator = d3.geoPath().projection(projection);
+
+          // Create group for all states
+          const statesGroup = svg.append("g");
+
+          // Bind data and create paths
+          const states = statesGroup
+            .selectAll(".state")
+            .data(processedFeatures)
+            .enter()
+            .append("path")
+            .attr("class", "state")
+            .attr("d", pathGenerator)
+            .attr("data-name", (d) => d.properties.ST_NM);
+
+          // Add click event for interactivity
+          states.on("click", function (event, d) {
+            const isActive = d3.select(this).classed("active");
+            d3.select(this).classed("active", !isActive);
+
+            document.getElementById("info-panel").textContent = isActive
+              ? ""
+              : `Selected: ${d.properties.ST_NM}`;
+          });
+
+          // Update info with counts
+          document.getElementById(
+            "info-panel"
+          ).textContent = `${processedFeatures.length} states loaded. Click on a state to select it.`;
+        })
+        .catch((error) => {
+          console.error("Error loading the map:", error);
+          document.getElementById("map-container").innerHTML =
+            '<p class="text-red-500 text-center p-4">Failed to load the map. Please check the console for details.</p>';
+        });
+    </script>
+  </body>
+</html>
