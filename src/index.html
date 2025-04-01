@@ -278,22 +278,12 @@
             <div
               class="relative rounded-xl overflow-hidden shadow-tarot hover:shadow-tarot-hover border-2 border-bear-ink/30 dark:border-parchment-dark/30 h-[550px]"
             >
-              <!-- Card Frame (decorative elements) -->
-              <div class="card-decoration absolute inset-0 z-10"></div>
-
               <!-- Card background -->
               <div
                 class="card-content absolute inset-0 border-8 border-parchment-light/80 dark:border-bear-ink-light/40 transition-all duration-300"
               >
                 <!-- Bear illustration/content area -->
                 <div class="flex flex-col h-full p-4 relative">
-                  <!-- Card number -->
-                  <div
-                    class="absolute top-2 left-1/2 -translate-x-1/2 text-xl font-display"
-                  >
-                    {{ romanNumerals[index] }}
-                  </div>
-
                   <!-- Bear name -->
                   <div class="text-center mt-8 mb-3">
                     <h3 class="text-2xl font-display font-bold tracking-wide">
@@ -304,22 +294,16 @@
                     </p>
                   </div>
 
-                  <!-- Map area placeholder -->
+                  <!-- Bear image -->
                   <div
-                    class="map-container my-6 relative aspect-square max-w-[200px] mx-auto"
+                    class="my-6 relative overflow-hidden rounded-lg border-2 border-bear-ink/30 dark:border-parchment/20 -mx-4"
                   >
-                    <div
-                      class="border-2 border-bear-ink/30 dark:border-parchment/20 p-2 h-full"
-                    >
-                      <div
-                        class="flex justify-center items-center h-full bg-bear-ink/5 dark:bg-parchment/5"
-                      >
-                        <p class="text-center text-sm italic opacity-70">
-                          Map of {{ bear.mapRegion.charAt(0).toUpperCase() +
-                          bear.mapRegion.slice(1) }} India
-                        </p>
-                      </div>
-                    </div>
+                    <img
+                      :src="bear.image"
+                      :alt="bear.name"
+                      class="w-full h-full object-cover"
+                      loading="lazy"
+                    />
                   </div>
 
                   <!-- Threat level indicators -->
@@ -353,13 +337,6 @@
                     >
                       {{ bear.safetyNotes }}
                     </p>
-                  </div>
-
-                  <!-- Card name at bottom -->
-                  <div
-                    class="absolute bottom-2 left-1/2 -translate-x-1/2 uppercase text-xs tracking-widest font-display opacity-70"
-                  >
-                    {{ getCardName(index) }}
                   </div>
                 </div>
               </div>
