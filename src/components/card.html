@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indian Bears Species Cards</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              "work-sans": ['"Work Sans"', "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body
+    class="font-work-sans flex justify-center items-center min-h-screen p-2 lg:p-8 bg-stone-300"
+  >
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl">
+      <div
+        class="relative rounded-xl overflow-hidden shadow-lg bg-[#e7dbc145] h-full flex flex-col"
+      >
+        <!-- Species image -->
+        <div class="w-full h-64 lg:h-80 bg-gray-300">
+          <img
+            src="../images/sloth-bear.webp"
+            alt="Sloth bear in its natural habitat"
+            class="w-full h-full object-cover"
+          />
+        </div>
+
+        <!-- Content area -->
+        <div class="p-8 flex-grow">
+          <!-- Species names -->
+          <div class="mb-6">
+            <h2 class="font-semibold text-2xl text-[#2a3027]">Sloth Bear</h2>
+            <p class="font-light text-lg italic text-[#4a4e47]">
+              Melursus ursinus
+            </p>
+          </div>
+
+          <!-- Danger indicator -->
+          <div class="flex items-center mb-4">
+            <div
+              class="bg-amber-500 text-white px-3 py-1 rounded-full text-sm font-medium"
+            >
+              Potentially Dangerous
+            </div>
+          </div>
+          <p class="font-light leading-relaxed text-[#4a4e47]">
+            Known to be aggressive when surprised or with cubs. If encountered
+            in forests, maintain distance and back away slowly. Common in
+            Central and Eastern Indian forests, particularly in Madhya Pradesh
+            and Chhattisgarh.
+          </p>
+        </div>
+
+        <!-- Attribution -->
+        <div
+          class="absolute bottom-4 right-6 text-xs text-[#78816e] opacity-70 z-10"
+        >
+          Indian Wildlife Database • 2025
+        </div>
+      </div>
+
+      <div
+        class="relative rounded-xl overflow-hidden shadow-lg bg-[#e7dbc145] h-full flex flex-col"
+      >
+        <!-- Species image -->
+        <div class="w-full h-64 lg:h-80 bg-gray-300">
+          <img
+            src="../images/asiatic-black-bear.jpg"
+            alt="Asiatic black bear in its natural habitat"
+            class="w-full h-full object-cover"
+          />
+        </div>
+
+        <!-- Content area -->
+        <div class="p-8 flex-grow">
+          <!-- Species names -->
+          <div class="mb-6">
+            <h2 class="font-semibold text-2xl text-[#2a3027]">
+              Asiatic Black Bear
+            </h2>
+            <p class="font-light text-lg italic text-[#4a4e47]">
+              Ursus thibetanus
+            </p>
+          </div>
+
+          <!-- Danger indicator -->
+          <div class="flex items-center mb-4">
+            <div
+              class="bg-amber-500 text-white px-3 py-1 rounded-full text-sm font-medium"
+            >
+              Potentially Dangerous
+            </div>
+          </div>
+          <p class="font-light leading-relaxed text-[#4a4e47]">
+            Distinguished by its black coat and distinctive white crescent on
+            the chest. Found in the Himalayan regions of India, particularly
+            Jammu & Kashmir, Himachal Pradesh, and Arunachal Pradesh. Can be
+            aggressive when threatened and has been known to attack humans when
+            surprised or if cubs are nearby.
+          </p>
+        </div>
+
+        <!-- Attribution -->
+        <div
+          class="absolute bottom-4 right-6 text-xs text-[#78816e] opacity-70 z-10"
+        >
+          Indian Wildlife Database • 2025
+        </div>
+      </div>
+
+      <div
+        class="relative rounded-xl overflow-hidden shadow-lg bg-[#e7dbc145] h-full flex flex-col"
+      >
+        <!-- Species image -->
+        <div class="w-full h-64 lg:h-80 bg-gray-300">
+          <img
+            src="../images/himalayan-brown-bear.jpg"
+            alt="Himalayan brown bear in its natural habitat"
+            class="w-full h-full object-cover"
+          />
+        </div>
+
+        <!-- Content area -->
+        <div class="p-8 flex-grow">
+          <!-- Species names -->
+          <div class="mb-6">
+            <h2 class="font-semibold text-2xl text-[#2a3027]">
+              Himalayan Brown Bear
+            </h2>
+            <p class="font-light text-lg italic text-[#4a4e47]">
+              Ursus arctos isabellinus
+            </p>
+          </div>
+
+          <!-- Danger indicator -->
+          <div class="flex items-center mb-4">
+            <div
+              class="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-medium"
+            >
+              Highly Dangerous
+            </div>
+          </div>
+          <p class="font-light leading-relaxed text-[#4a4e47]">
+            The largest bear species in India, with reddish-brown to
+            sandy-colored fur. Critically endangered, found in high altitude
+            Himalayan regions of Jammu & Kashmir and Himachal Pradesh. Extremely
+            powerful and territorial. If encountered, remain calm, avoid direct
+            eye contact, and back away slowly.
+          </p>
+        </div>
+
+        <!-- Attribution -->
+        <div
+          class="absolute bottom-4 right-6 text-xs text-[#78816e] opacity-70 z-10"
+        >
+          Indian Wildlife Database • 2025
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

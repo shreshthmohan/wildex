@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wildlife Encounter Cards</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['"Work Sans"', "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="bg-stone-100 text-stone-800 font-sans">
+    <div class="container mx-auto px-4 py-8">
+      <header class="mb-10">
+        <h1 class="text-4xl font-semibold text-stone-800 mb-2">
+          Forest Beings
+        </h1>
+        <p class="text-stone-600 max-w-2xl text-xl font-light">
+          Living wisely alongside the beings who shape and inhabit these
+          landscapes
+        </p>
+      </header>
+
+      <!-- Card Grid: 2 columns on larger screens, 1 on mobile -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <!-- Sloth Bear Card -->
+        <div
+          class="bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200"
+        >
+          <div class="relative">
+            <!-- Main Image -->
+            <img
+              src="../images/sloth-bear.webp"
+              alt="Sloth Bear standing on a rock surrounded by forest vegetation"
+              class="w-full h-72 object-cover"
+            />
+
+            <!-- Habitat Icon Overlay -->
+            <div
+              class="absolute top-4 right-4 bg-amber-100 bg-opacity-90 rounded-full p-3"
+              title="Rocky forest terrain"
+            >
+              <i class="fas fa-mountain text-amber-800 text-lg"></i>
+            </div>
+          </div>
+
+          <div class="p-6">
+            <!-- Name and Scientific Classification -->
+            <div class="mb-4">
+              <h2 class="text-2xl font-medium">Sloth Bear</h2>
+              <p class="text-stone-500 italic text-base mt-1">
+                Melursus ursinus
+              </p>
+            </div>
+
+            <!-- Region Badge -->
+            <div class="mb-5">
+              <span
+                class="inline-block bg-emerald-100 text-emerald-800 text-sm px-3 py-1 rounded-full font-medium"
+                >Central & Eastern India</span
+              >
+            </div>
+
+            <!-- Encounter Information -->
+            <div class="space-y-4">
+              <!-- Activity Pattern -->
+              <div class="flex items-center text-base">
+                <div class="w-10 text-amber-700">
+                  <i class="fas fa-moon text-lg"></i>
+                </div>
+                <span>Active at dawn, dusk & on cloudy days</span>
+              </div>
+
+              <!-- Encounter Guidance -->
+              <div class="flex items-center text-base">
+                <div class="w-10 text-amber-700">
+                  <i class="fas fa-hand text-lg"></i>
+                </div>
+                <span>If encountered: Stand still, never run</span>
+              </div>
+
+              <!-- Signs of Presence -->
+              <div class="flex items-center text-base">
+                <div class="w-10 text-amber-700">
+                  <i class="fas fa-paw text-lg"></i>
+                </div>
+                <span>Look for dug termite mounds & claw marks on trees</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Learn More Footer -->
+          <div class="bg-stone-50 px-6 py-4 border-t border-stone-200">
+            <a
+              href="#"
+              class="text-amber-700 hover:text-amber-900 text-base font-medium flex items-center"
+            >
+              Deepen understanding
+              <i class="fas fa-arrow-right ml-2"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Space for additional bear cards -->
+      </div>
+    </div>
+  </body>
+</html>

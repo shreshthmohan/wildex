@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- tailwind from cdn -->
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div>
+      <div>
+        <!-- svg to trim here -->
+      </div>
+    </div>
+    <script>
+      // select g in svg
+      const svg = document.querySelector("svg");
+
+      // select g
+      const g = svg.querySelector("g");
+
+      const bboxSvg = svg.getBoundingClientRect();
+      const bboxG = g.getBoundingClientRect();
+
+      // offset svg by bboxG
+      const offsetX = -bboxSvg.x + bboxG.x;
+      const offsetY = -bboxSvg.y + bboxG.y;
+
+      // modify viewbox so that the g fits edge to edge
+      svg.setAttribute(
+        "viewBox",
+        `${offsetX} ${offsetY} ${bboxG.width} ${bboxG.height}`
+      );
+
+      svg.removeAttribute("width");
+      svg.removeAttribute("height");
+    </script>
+  </body>
+</html>

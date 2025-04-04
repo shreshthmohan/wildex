@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grainy Card</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              "work-sans": ['"Work Sans"', "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body
+    class="font-work-sans flex justify-center items-center min-h-screen p-8"
+  >
+    <div
+      class="relative max-w-lg p-12 rounded-xl overflow-hidden shadow-lg bg-[#e7dbc145]"
+    >
+      <div class="relative z-10">
+        <h2 class="font-semibold text-[1.75rem] mb-5 text-[#2a3027]">
+          The Gentle Resilience of Ecosystems
+        </h2>
+        <p class="font-light leading-relaxed text-[#4a4e47]">
+          In the interplay of soil and sunlight, each organism finds its niche
+          through patient adaptation rather than force. Nature's wisdom lies not
+          in dominance but in relationship—the subtle give and take that allows
+          systems to flourish through countless subtle adjustments. Our place
+          within this living tapestry calls for attentive participation rather
+          than mastery.
+        </p>
+      </div>
+      <div
+        class="absolute bottom-4 right-6 text-xs text-[#78816e] opacity-70 z-10"
+      >
+        Field Notes • Spring 2025
+      </div>
+    </div>
+  </body>
+</html>
