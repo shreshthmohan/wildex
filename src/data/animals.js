@@ -1,0 +1,86 @@
+export const animals = [
+  {
+    name: "Sloth Bear",
+    scientificName: "Melursus ursinus",
+    region: "Central & Eastern India",
+    image: "../images/sloth-bear.webp",
+    imageAlt: "Sloth Bear standing on a rock surrounded by forest vegetation",
+    habitat: {
+      icon: "mountain",
+      title: "Rocky forest terrain",
+      colorClass: "amber",
+    },
+    activity: "Active at night, dawn, dusk & on cloudy days",
+    encounterGuidance: "If encountered: Stand still, never run",
+    presenceSigns: "Look for dug termite mounds & claw marks on trees",
+    themeColor: "amber",
+  },
+  {
+    name: "Indian Hare",
+    scientificName: "Lepus nigricollis",
+    region: "Throughout Indian subcontinent",
+    image: "../images/indian-hare.jpg",
+    imageAlt: "Indian Hare alert and attentive in grassland",
+    habitat: {
+      icon: "seedling",
+      title: "Grassland and scrub forest",
+      colorClass: "blue",
+    },
+    activity: "Most active at twilight & during moonlit nights",
+    encounterGuidance: "Observe quietly; sudden movements trigger flight",
+    presenceSigns: "Creates grass tunnels & pellet-like scat clusters",
+    themeColor: "blue",
+  },
+  {
+    name: "Himalayan Brown Bear",
+    scientificName: "Ursus arctos isabellinus",
+    region:
+      "Himalayas (Jammu & Kashmir, Himachal Pradesh, Uttarakhand, Ladakh)",
+    image: "../images/himalayan-brown-bear.jpg",
+    imageAlt: "Himalayan Brown Bear in its natural mountain habitat",
+    habitat: {
+      icon: "mountain",
+      title: "Higher altitude Himalayan regions",
+      colorClass: "brown",
+    },
+    activity: "More active during day, hibernates in winter",
+    encounterGuidance:
+      "If encountered: Keep distance, especially during mating season or when cubs present",
+    presenceSigns: "Look for large paw prints and disturbed roots or berries",
+    themeColor: "brown",
+  },
+  {
+    name: "Asiatic Black Bear",
+    scientificName: "Ursus thibetanus",
+    region: "Jammu & Kashmir, Assam, Sikkim, Arunachal Pradesh",
+    image: "../images/asiatic-black-bear.jpg",
+    imageAlt: "Asiatic Black Bear with distinctive white crescent on chest",
+    habitat: {
+      icon: "tree",
+      title: "Temperate forests to alpine meadows",
+      colorClass: "slate",
+    },
+    activity: "Primarily active during dawn and dusk",
+    encounterGuidance:
+      "If encountered: Don't climb trees - they are excellent climbers",
+    presenceSigns: "Claw marks on trees and disturbed fruit-bearing plants",
+    themeColor: "slate",
+  },
+  {
+    name: "Sun Bear",
+    scientificName: "Helarctos malayanus",
+    region: "North-east India (Assam, Arunachal Pradesh, Manipur, Meghalaya)",
+    image: "../images/sun-bear.webp",
+    imageAlt: "Small Sun Bear with distinctive chest marking",
+    habitat: {
+      icon: "tree",
+      title: "Tropical rainforests",
+      colorClass: "yellow",
+    },
+    activity: "Primarily diurnal, active during day",
+    encounterGuidance:
+      "If encountered: Keep distance despite small size, sharp claws for climbing",
+    presenceSigns: "Broken termite mounds and honeycomb remnants",
+    themeColor: "yellow",
+  },
+];

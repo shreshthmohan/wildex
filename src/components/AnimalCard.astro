@@ -1,0 +1,95 @@
+---
+interface Props {
+  name: string;
+  scientificName: string;
+  region: string;
+  image: string;
+  imageAlt: string;
+  habitat: {
+    icon: string;
+    title: string;
+    colorClass: string;
+  };
+  activity: string;
+  encounterGuidance: string;
+  presenceSigns: string;
+  themeColor: string;
+}
+
+const { 
+  name,
+  scientificName,
+  region,
+  image,
+  imageAlt,
+  habitat,
+  activity,
+  encounterGuidance,
+  presenceSigns,
+  themeColor
+} = Astro.props;
+---
+
+<div class="flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200">
+  <div class="relative">
+    <img
+      src={image}
+      alt={imageAlt}
+      class="w-full h-72 object-cover"
+    />
+    <div
+      class={`absolute top-4 right-4 bg-${habitat.colorClass}-100 bg-opacity-90 rounded-full p-3`}
+      title={habitat.title}
+    >
+      <i class={`fas fa-${habitat.icon} text-${habitat.colorClass}-800 text-lg`}></i>
+    </div>
+  </div>
+
+  <div class="p-6 h-full">
+    <div class="mb-4">
+      <h2 class="text-2xl font-medium">{name}</h2>
+      <p class="text-stone-500 italic text-base mt-1">
+        {scientificName}
+      </p>
+    </div>
+
+    <div class="mb-5">
+      <span
+        class="inline-block bg-emerald-100 text-emerald-800 text-sm px-3 py-1 rounded-full font-medium"
+      >{region}</span>
+    </div>
+
+    <div class="space-y-4">
+      <div class="flex items-center text-base">
+        <div class={`w-10 text-${themeColor}-700`}>
+          <i class="fas fa-moon text-lg"></i>
+        </div>
+        <span>{activity}</span>
+      </div>
+
+      <div class="flex items-center text-base">
+        <div class={`w-10 text-${themeColor}-700`}>
+          <i class="fas fa-hand text-lg"></i>
+        </div>
+        <span>{encounterGuidance}</span>
+      </div>
+
+      <div class="flex items-center text-base">
+        <div class={`w-10 text-${themeColor}-700`}>
+          <i class="fas fa-paw text-lg"></i>
+        </div>
+        <span>{presenceSigns}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-stone-50 px-6 py-4 border-t border-stone-200 mt-auto">
+    <a
+      href="#"
+      class={`text-${themeColor}-700 hover:text-${themeColor}-900 text-base font-medium flex items-center`}
+    >
+      I want to know more
+      <i class="fas fa-arrow-right ml-2"></i>
+    </a>
+  </div>
+</div>
