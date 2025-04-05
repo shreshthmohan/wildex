@@ -1,0 +1,31 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { animals } from '../data/animals.js';
+import AnimalCard from '../components/AnimalCard.astro';
+
+// Add these to Layout.astro head
+const headContent = {
+  title: 'Wildlife Encounter Cards',
+};
+---
+
+<Layout {...headContent}>
+    <header class="mx-auto py-8 md:py-16 lg:py-20 max-w-6xl px-4">
+      <h1 class="text-4xl font-semibold text-stone-800 mb-2">
+        Forest Beings
+      </h1>
+      <p class="text-stone-600 max-w-2xl text-xl font-light">
+        Living wisely alongside the beings who shape and inhabit these
+        landscapes
+      </p>
+    </header>
+
+
+    <div class="grid grid-cols-1 md:grid-cols-2  xl:grid-cols-3 gap-8 max-w-7xl mx-auto px-4">
+      {animals.map((animal) => (
+        <AnimalCard
+          {...animal}
+        />
+      ))}
+    </div>
+</Layout>
