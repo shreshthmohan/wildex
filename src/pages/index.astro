@@ -10,8 +10,7 @@ const headContent = {
 ---
 
 <Layout {...headContent}>
-  <div class="container mx-auto px-4 py-8">
-    <header class="mb-10">
+    <header class="mx-auto py-8 md:py-16 lg:py-20 max-w-6xl px-4">
       <h1 class="text-4xl font-semibold text-stone-800 mb-2">
         Forest Beings
       </h1>
@@ -21,10 +20,25 @@ const headContent = {
       </p>
     </header>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+
+    <div class="grid grid-cols-1 md:grid-cols-2  xl:grid-cols-3 gap-8 max-w-7xl mx-auto px-4">
       {animals.map((animal) => (
-        <AnimalCard {...animal} />
+        <AnimalCard
+          {...animal}
+        />
       ))}
     </div>
-  </div>
+    <!-- footer -->
+    <footer class="py-6 border-t border-gray-400 mt-8 md:mt-12 lg:mt-16">
+      <div class="max-w-6xl px-4 mx-auto flex justify-between items-center">
+        <div class="text-xl font-bold tracking-normal">Wildex</div>
+        <div class="flex items-center gap-4 ">
+          <div class="">
+            <span class="inline-block transform rotate-180 text-lg mb-2">©</span>
+            GPLv3 2025 -
+            <a href="#" class="underline">Seek. Settle. Sustain.</a>
+          </div>
+        </div>
+      </div>
+    </footer>
 </Layout>
