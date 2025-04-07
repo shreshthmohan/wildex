@@ -9,22 +9,18 @@ export const animals = [
     mainImage: "/images/sloth-bear.webp",
     image: "../images/sloth-bear.webp",
     imageAlt: "Sloth Bear standing on a rock surrounded by forest vegetation",
-    iconClass: "mountain", // Icon class
-    iconTitle: "Rocky forest terrain",
+    habitatTitle: "Rocky forest terrain",
     region: "Central & Eastern India",
     regionClass: "bg-emerald-100 text-emerald-800",
     endangeredStatus: "Vulnerable",
     activity: {
-      icon: "moon",
       text: "Active at night, dawn, dusk & on cloudy days",
     },
 
     encounterGuidance: {
-      icon: "hand",
       text: "If encountered: Stand still, never run",
     },
     presenceSigns: {
-      icon: "paw",
       text: "Look for dug termite mounds & claw marks on trees",
     },
     habitat: {
@@ -35,7 +31,6 @@ export const animals = [
         "Grasslands with rocky outcrops",
         "Scrub forests",
       ],
-      icon: "mountain",
       title: "Rocky forest terrain",
       colorClass: "amber",
     },
@@ -126,20 +121,16 @@ export const animals = [
     image: "../images/himalayan-brown-bear.jpg",
     imageAlt: "Himalayan Brown Bear in its natural mountain habitat",
     habitat: {
-      icon: "mountain",
       title: "Higher altitude Himalayan regions",
       colorClass: "brown",
     },
     activity: {
-      icon: "moon",
       text: "More active during day, hibernates in winter",
     },
     encounterGuidance: {
-      icon: "hand",
       text: "If encountered: Keep distance, especially during mating season or when cubs present",
     },
     presenceSigns: {
-      icon: "paw",
       text: "Look for large paw prints and disturbed roots or berries",
     },
     themeColor: "brown",
@@ -153,20 +144,16 @@ export const animals = [
     image: "../images/asiatic-black-bear.jpg",
     imageAlt: "Asiatic Black Bear with distinctive white crescent on chest",
     habitat: {
-      icon: "tree",
       title: "Temperate forests to alpine meadows",
       colorClass: "slate",
     },
     activity: {
-      icon: "moon",
       text: "Primarily active during dawn and dusk",
     },
     encounterGuidance: {
-      icon: "hand",
       text: "If encountered: Don't climb trees - they are excellent climbers",
     },
     presenceSigns: {
-      icon: "paw",
       text: "Claw marks on trees and disturbed fruit-bearing plants",
     },
     themeColor: "slate",
@@ -180,7 +167,6 @@ export const animals = [
     image: "../images/sun-bear.webp",
     imageAlt: "Small Sun Bear with distinctive chest marking",
     habitat: {
-      icon: "tree",
       title: "Tropical rainforests",
       colorClass: "yellow",
       preferredAreas: ["Tropical rainforests"],
@@ -196,15 +182,12 @@ export const animals = [
       },
     },
     activity: {
-      icon: "moon",
       text: "Primarily diurnal, active during day",
     },
     encounterGuidance: {
-      icon: "hand",
       text: "If encountered: Keep distance despite small size, sharp claws for climbing",
     },
     presenceSigns: {
-      icon: "paw",
       text: "Broken termite mounds and honeycomb remnants",
     },
     themeColor: "yellow",
@@ -273,20 +256,16 @@ export const animals = [
     image: "../images/indian-hare.jpg",
     imageAlt: "Indian Hare alert and attentive in grassland",
     habitat: {
-      icon: "seedling",
       title: "Grassland and scrub forest",
       colorClass: "blue",
     },
     activity: {
-      icon: "moon",
       text: "Most active at twilight & during moonlit nights",
     },
     encounterGuidance: {
-      icon: "eye",
       text: "Observe quietly; sudden movements trigger flight",
     },
     presenceSigns: {
-      icon: "paw",
       text: "Creates grass tunnels & pellet-like scat clusters",
     },
     themeColor: "blue",

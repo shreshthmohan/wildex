@@ -1,27 +1,22 @@
 ---
-import IconLoader from './icons/IconLoader.astro';
 
 interface Props {
-  name: string;
+  commonName: string;
   scientificName: string;
   region: string;
   image: string;
   imageAlt: string;
   habitat: {
-    icon: string;
     title: string;
     colorClass: string;
   };
   activity: {
-    icon: string;
     text: string;
   };
   encounterGuidance: {
-    icon: string;
     text: string;
   };
   presenceSigns: {
-    icon: string;
     text: string;
   };
   id: string;
@@ -30,7 +25,7 @@ interface Props {
 
 const { 
   id,
-  name,
+  commonName,
   scientificName,
   region,
   image,
@@ -45,15 +40,7 @@ const {
 // Static class mappings for Tailwind
 type ColorKey = 'amber' | 'blue' | 'brown' | 'slate' | 'yellow' | 'emerald' | string;
 
-const bgColorClasses: Record<ColorKey, string> = {
-  amber: "bg-amber-100/70",
-  blue: "bg-blue-100/70",
-  brown: "bg-amber-100/70", // Using amber as substitute for brown
-  slate: "bg-slate-100/70",
-  yellow: "bg-yellow-100/70",
-  emerald: "bg-emerald-100/70",
-  default: "bg-gray-100/70"
-};
+
 
 const textColorClasses: Record<ColorKey, string> = {
   amber: "text-amber-800",
@@ -65,10 +52,6 @@ const textColorClasses: Record<ColorKey, string> = {
   default: "text-gray-800"
 };
 
-// Get background and text color classes
-const habitatBgClass = bgColorClasses[habitat.colorClass] || bgColorClasses.default;
-const habitatTextClass = textColorClasses[habitat.colorClass] || textColorClasses.default;
-const themeTextClass = textColorClasses[themeColor] || textColorClasses.default;
 
 // Map for hover classes
 const hoverClasses: Record<ColorKey, string> = {
@@ -81,7 +64,7 @@ const hoverClasses: Record<ColorKey, string> = {
   default: "hover:text-gray-900"
 };
 
-const themeHoverClass = hoverClasses[themeColor] || hoverClasses.default;
+// No need to define a variable here as we're using the direct reference in the template
 ---
 
 <div class="flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200">
@@ -92,19 +75,11 @@ const themeHoverClass = hoverClasses[themeColor] || hoverClasses.default;
       alt={imageAlt}
       class="w-full h-72 object-cover"
     />
-    <div
-      class={`absolute top-2 right-2 ${habitatBgClass} bg-opacity-50 rounded-full p-3`}
-      title={habitat.title}
-    >
-      <div class={`${habitatTextClass}`}>
-        <IconLoader iconName={habitat.icon} className="size-4" />
-      </div>
-    </div>
   </a>
 
   <div class="p-6 h-full">
     <div class="mb-4">
-      <h2 class="text-2xl font-medium">{name}</h2>
+      <h2 class="text-2xl font-medium">{commonName}</h2>
       <p class="text-stone-500 italic text-base mt-1">
         {scientificName}
       </p>
@@ -116,34 +91,23 @@ const themeHoverClass = hoverClasses[themeColor] || hoverClasses.default;
       >{region}</span>
     </div>
 
-    <div class="space-y-4">
-      <div class="flex items-center text-base">
-        <div class={`flex-shrink-0 w-10 ${themeTextClass}`}>
-          <IconLoader iconName={activity.icon} />
-        </div>
-        <span>{activity.text}</span>
-      </div>
-
-      <div class="flex items-center text-base">
-        <div class={`flex-shrink-0 w-10 ${themeTextClass}`}>
-          <IconLoader iconName={encounterGuidance.icon} />
-        </div>
-        <span>{encounterGuidance.text}</span>
-      </div>
-
-      <div class="flex items-center text-base">
-        <div class={`flex-shrink-0 w-10 ${themeTextClass}`}>
-          <IconLoader iconName={presenceSigns.icon} />
-        </div>
-        <span>{presenceSigns.text}</span>
-      </div>
-    </div>
+    <ul class="space-y-3 list-disc pl-5">
+      <li >
+        {activity.text}
+      </li>
+      <li >
+        {encounterGuidance.text}
+      </li>
+      <li >
+        {presenceSigns.text}
+      </li>
+    </ul>
   </div>
 
   <div class="bg-stone-50 px-6 py-4 border-t border-stone-200 mt-auto">
     <a
       href={`/a/${id}`}
-      class={`${themeTextClass} ${themeHoverClass} text-base font-medium flex items-center`}
+      class={`${textColorClasses[themeColor] || textColorClasses.default} ${hoverClasses[themeColor] || hoverClasses.default} text-base font-medium flex items-center`}
     >
       I want to know more
       <span class="ml-2">→</span>
