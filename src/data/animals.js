@@ -10,8 +10,17 @@
 
 export const animals = [
   {
-    // Indian eagle-owl Bubo bengalensis
-    // kkoshy, flickr
+    // Drosera burmanni, the tropical sundew
+    id: "drosera-burmanni",
+    scientificName: "Drosera burmanni",
+    commonName: "Tropical Sundew",
+    category: "plants",
+    image: "../images/tropical-sundew.webp",
+    imageCredit: "",
+    imageAlt: "Tropical Sundew in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+  {
     id: "indian-eagle-owl",
     scientificName: "Bubo bengalensis",
     commonName: "Indian Eagle-Owl",
@@ -22,7 +31,6 @@ export const animals = [
     conservationStatus: "Least Concern",
   },
   {
-    // Indian jackal (Canis aureus indicus)
     id: "indian-jackal",
     scientificName: "Canis aureus indicus",
     commonName: "Indian Jackal",
@@ -33,7 +41,6 @@ export const animals = [
     conservationStatus: "Least Concern",
   },
   {
-    // gaur (Bos gaurus
     id: "gaur",
     scientificName: "Bos gaurus",
     commonName: "Gaur",
@@ -44,7 +51,6 @@ export const animals = [
     conservationStatus: "Vulnerable",
   },
   {
-    // small Indian civet (Viverricula indica)
     id: "small-indian-civet",
     scientificName: "Viverricula indica",
     commonName: "Small Indian Civet",
@@ -55,7 +61,6 @@ export const animals = [
     conservationStatus: "Least Concern",
   },
   {
-    // Asian palm civet (Paradoxurus hermaphroditus)
     id: "asian-palm-civet",
     scientificName: "Paradoxurus hermaphroditus",
     commonName: "Asian Palm Civet",
@@ -67,7 +72,6 @@ export const animals = [
   },
 
   {
-    // Indian boar (Sus scrofa cristatus)
     id: "indian-boar",
     scientificName: "Sus scrofa cristatus",
     commonName: "Indian Boar",
@@ -78,7 +82,6 @@ export const animals = [
     conservationStatus: "Least Concern",
   },
   {
-    // Ziziphus mauritiana, also known as Indian jujube
     id: "indian-jujube",
     scientificName: "Ziziphus mauritiana",
     commonName: "Indian Jujube",
@@ -92,7 +95,6 @@ export const animals = [
     },
   },
   {
-    // Indian elephant (Elephas maximus indicus
     id: "indian-elephant",
     scientificName: "Elephas maximus indicus",
     commonName: "Indian Elephant",
@@ -113,7 +115,6 @@ export const animals = [
     conservationStatus: "Near threatened",
   },
   {
-    // Indian crested porcupine (Hystrix indica)
     id: "indian-crested-porcupine",
     scientificName: "Hystrix indica",
     commonName: "Indian Crested Porcupine",
