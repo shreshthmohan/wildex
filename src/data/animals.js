@@ -1,17 +1,160 @@
 // animals.js - Data structure for forest animals
 
+// to be added:
+// Ochotona roylei / Royle's pika
+// flying fox (bat)
+// antlion
+// ant
+// dragonfly
+// damselfly
+
 export const animals = [
+  {
+    // Indian eagle-owl Bubo bengalensis
+    // kkoshy, flickr
+    id: "indian-eagle-owl",
+    scientificName: "Bubo bengalensis",
+    commonName: "Indian Eagle-Owl",
+    category: "birds",
+    image: "../images/indian-eagle-owl.webp",
+    imageCredit: "kkoshy, flickr",
+    imageAlt: "Indian Eagle-Owl in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+  {
+    // Indian jackal (Canis aureus indicus)
+    id: "indian-jackal",
+    scientificName: "Canis aureus indicus",
+    commonName: "Indian Jackal",
+    category: "mammals",
+    image: "../images/indian-jackal.webp",
+    imageCredit: "",
+    imageAlt: "Indian Jackal in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+  {
+    // gaur (Bos gaurus
+    id: "gaur",
+    scientificName: "Bos gaurus",
+    commonName: "Gaur",
+    category: "mammals",
+    image: "../images/gaur.webp",
+    imageCredit: "",
+    imageAlt: "Gaur in its natural habitat",
+    conservationStatus: "Vulnerable",
+  },
+  {
+    // small Indian civet (Viverricula indica)
+    id: "small-indian-civet",
+    scientificName: "Viverricula indica",
+    commonName: "Small Indian Civet",
+    category: "mammals",
+    image: "../images/small-indian-civet.webp",
+    imageCredit: "",
+    imageAlt: "Small Indian Civet in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+  {
+    // Asian palm civet (Paradoxurus hermaphroditus)
+    id: "asian-palm-civet",
+    scientificName: "Paradoxurus hermaphroditus",
+    commonName: "Asian Palm Civet",
+    category: "mammals",
+    image: "../images/asian-palm-civet.webp",
+    imageCredit: "",
+    imageAlt: "Asian Palm Civet in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+
+  {
+    // Indian boar (Sus scrofa cristatus)
+    id: "indian-boar",
+    scientificName: "Sus scrofa cristatus",
+    commonName: "Indian Boar",
+    category: "mammals",
+    image: "../images/indian-boar.webp",
+    imageCredit: "",
+    imageAlt: "Indian Boar in its natural habitat",
+    conservationStatus: "Least Concern",
+  },
+  {
+    // Ziziphus mauritiana, also known as Indian jujube
+    id: "indian-jujube",
+    scientificName: "Ziziphus mauritiana",
+    commonName: "Indian Jujube",
+    category: "plants",
+    image: "../images/indian-jujube.webp",
+    imageCredit: "Wibowo Djatmiko",
+    imageAlt: "Indian Jujube",
+    conservationStatus: "Least Concern",
+    otherNames: {
+      hi: " बेर",
+    },
+  },
+  {
+    // Indian elephant (Elephas maximus indicus
+    id: "indian-elephant",
+    scientificName: "Elephas maximus indicus",
+    commonName: "Indian Elephant",
+    category: "mammals",
+    image: "../images/indian-elephant.webp",
+    imageCredit: "",
+    imageAlt: "Indian Elephant in its natural habitat",
+    conservationStatus: "Endangered",
+  },
+  {
+    id: "indian-leopard",
+    scientificName: "Panthera pardus fusca",
+    commonName: "Indian Leopard",
+    category: "mammals",
+    image: "../images/indian-leopard.webp",
+    imageCredit: "Srikaanth Sekar, Flickr",
+    imageAlt: "Indian Leopard in its natural habitat",
+    conservationStatus: "Near threatened",
+  },
+  {
+    // Indian crested porcupine (Hystrix indica)
+    id: "indian-crested-porcupine",
+    scientificName: "Hystrix indica",
+    commonName: "Indian Crested Porcupine",
+    category: "rodents",
+    image: "../images/indian-crested-porcupine.webp",
+    imageCredit: "tgerus, flickr",
+    imageAlt: "Indian Crested Porcupine with quills",
+    conservationStatus: "Least Concern",
+  },
+  {
+    id: "golden-shower-tree",
+    scientificName: "Cassia fistula",
+    commonName: "Golden Shower Tree",
+    category: "plants",
+    image: "/images/golden-shower-tree.webp",
+    imageCredit: "",
+    imageAlt: "Golden Shower Tree in full bloom with fragrant flowers",
+  },
   {
     id: "sloth-bear",
     commonName: "Sloth Bear",
     scientificName: "Melursus ursinus",
+    otherNames: {
+      hi: ["भालू", "रीछ", "Bhālu"],
+      kn: ["ಕರಡಿ", "Karaḍi"],
+    },
+    subspecies: [
+      {
+        scientificName: "Melursus ursinus ursinus",
+        commonName: "Indian Sloth Bear",
+      },
+      {
+        scientificName: "Melursus ursinus inornatus",
+        commonName: "Sri Lankan Sloth Bear",
+      },
+    ],
     category: "bears",
     mainImage: "/images/sloth-bear.webp",
     image: "../images/sloth-bear.webp",
     imageAlt: "Sloth Bear standing on a rock surrounded by forest vegetation",
     habitatTitle: "Rocky forest terrain",
-    region: "Central & Eastern India",
-    regionClass: "bg-emerald-100 text-emerald-800",
     endangeredStatus: "Vulnerable",
     activity: {
       text: "Active at night, dawn, dusk & on cloudy days",
@@ -59,66 +202,6 @@ export const animals = [
         "Grainy texture due to termite exoskeletons, often contains fruit seeds depending on season",
       image: "/images/sloth-bear-scat.jpg",
     },
-    diet: {
-      primary: ["Termites", "Ants"],
-      secondary: ["Fruits", "Honey", "Flowers"],
-      notes:
-        "Uses long snout, protrusible lips and puffing to extract and consume insects from mounds",
-    },
-    behavior: {
-      social: "Generally solitary except mothers with cubs",
-      movement:
-        "Active primarily during cooler hours, capable of running up to 30 km/h",
-      climbing:
-        "Excellent climbers despite size, often climb trees for fruits or honey",
-      sounds:
-        "Loud sucking noise when feeding on termites, can make loud huffing and grunting sounds when threatened",
-    },
-    humanInteractions: {
-      threats:
-        "Highly unpredictable and potentially aggressive when surprised or with cubs",
-      attacks: "Known to target the face and head during attacks",
-      avoidance:
-        "Make noise while walking, avoid dawn/dusk travel in known habitats",
-      if_encountered:
-        "Stay upright, don't run, if approached duck down and cover head with arms",
-    },
-    seasonalPatterns: {
-      mating: "June to July",
-      cubBirth: "December to January (after ~6-7 month gestation)",
-      fruitForaging:
-        "Increases during monsoon and post-monsoon seasons when fruits are abundant",
-    },
-    conservationStatus: {
-      status: "Vulnerable",
-      threats: [
-        "Habitat loss",
-        "Poaching for medicinal use",
-        "Human-wildlife conflict",
-      ],
-      population: "Declining across most of its range",
-    },
-    culturalSignificance: {
-      folklore:
-        "Features in many tribal stories and traditions across Central India",
-      localNames: {
-        hindi: "Bhalu",
-        telugu: "Elugu Banti",
-        kannada: "Karadi",
-        marathi: "Aswal",
-      },
-    },
-    detailedDescription:
-      "If you spot a hairy black creature, roughly the size of human almost anywhere in South India, it's most likely a sloth bear. Don't go by its name - sloth bears aren't slow or docile like sloths. They're very fast and the most aggressive among any bears found in India. Sloth bears have attacked several humans over the years in India and few have survived to tell the horrific tale of the attack.\n\nSloth bears have poor eyesight, but an exceptional sense of smell. Hearing is moderately developed. They will likely smell you before they see you. Bears usually forage for food in the dark, so during dusk, night and dawn they're likely to be moving around.\n\nWhat to do if you see a sloth bear? Stay where you are. Stand upright. Don't run! You can't outrun a bear. If you run it will follow and mostly attack you. If it approaches very close, duck down and cover your head with your folded arms. You increase chances of survival because bears usually attack the head first.",
-  },
-
-  {
-    id: "himalayan-brown-bear",
-    commonName: "Himalayan Brown Bear",
-    scientificName: "Ursus arctos isabellinus",
-    category: "bears",
-    region: "Himalayas",
-    image: "../images/himalayan-brown-bear.jpg",
     imageAlt: "Himalayan Brown Bear in its natural mountain habitat",
     habitat: {
       title: "Higher altitude Himalayan regions",
@@ -141,7 +224,7 @@ export const animals = [
     scientificName: "Ursus thibetanus",
     category: "bears",
     region: "J&K, Northeast India",
-    image: "../images/asiatic-black-bear.jpg",
+    image: "../images/asiatic-black-bear.webp",
     imageAlt: "Asiatic Black Bear with distinctive white crescent on chest",
     habitat: {
       title: "Temperate forests to alpine meadows",
@@ -253,7 +336,7 @@ export const animals = [
     scientificName: "Lepus nigricollis",
     category: "small-mammals",
     region: "Throughout India",
-    image: "../images/indian-hare.jpg",
+    image: "../images/indian-hare.webp",
     imageAlt: "Indian Hare alert and attentive in grassland",
     habitat: {
       title: "Grassland and scrub forest",

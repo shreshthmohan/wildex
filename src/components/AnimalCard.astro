@@ -73,7 +73,7 @@ const hoverClasses: Record<ColorKey, string> = {
       loading="lazy"
       src={image}
       alt={imageAlt}
-      class="w-full h-72 object-cover"
+      class="w-full h-auto object-contain"
     />
   </a>
 
@@ -92,15 +92,15 @@ const hoverClasses: Record<ColorKey, string> = {
     </div>
 
     <ul class="space-y-3 list-disc pl-5">
-      <li >
+      {activity && <li >
         {activity.text}
-      </li>
-      <li >
+      </li>}
+      {encounterGuidance && <li >
         {encounterGuidance.text}
-      </li>
-      <li >
+      </li>}
+      {presenceSigns && <li >
         {presenceSigns.text}
-      </li>
+      </li>}
     </ul>
   </div>
 
