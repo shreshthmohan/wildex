@@ -7,6 +7,10 @@
 // ant
 // dragonfly
 // damselfly
+// peepal - religiosa
+// rumphii
+// lotus
+// water lily
 
 export const animals = [
   {
@@ -374,6 +378,6 @@ export function getAnimalsByCategory(category) {
 // Function to get animal by name
 export function getAnimalByName(name) {
   return animals.find(
-    (animal) => animal.commonName === name || animal.name === name
+    (animal) => animal.commonName === name || animal.name === name,
   );
 }
