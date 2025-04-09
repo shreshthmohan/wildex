@@ -1,5 +1,4 @@
 ---
-
 interface Props {
   commonName: string;
   scientificName: string;
@@ -23,7 +22,7 @@ interface Props {
   themeColor: string;
 }
 
-const { 
+const {
   id,
   commonName,
   scientificName,
@@ -34,13 +33,18 @@ const {
   activity,
   encounterGuidance,
   presenceSigns,
-  themeColor
+  themeColor,
 } = Astro.props;
 
 // Static class mappings for Tailwind
-type ColorKey = 'amber' | 'blue' | 'brown' | 'slate' | 'yellow' | 'emerald' | string;
-
-
+type ColorKey =
+  | "amber"
+  | "blue"
+  | "brown"
+  | "slate"
+  | "yellow"
+  | "emerald"
+  | string;
 
 const textColorClasses: Record<ColorKey, string> = {
   amber: "text-amber-800",
@@ -49,9 +53,8 @@ const textColorClasses: Record<ColorKey, string> = {
   slate: "text-slate-800",
   yellow: "text-yellow-800",
   emerald: "text-emerald-800",
-  default: "text-gray-800"
+  default: "text-gray-800",
 };
-
 
 // Map for hover classes
 const hoverClasses: Record<ColorKey, string> = {
@@ -61,19 +64,55 @@ const hoverClasses: Record<ColorKey, string> = {
   slate: "hover:text-slate-900",
   yellow: "hover:text-yellow-900",
   emerald: "hover:text-emerald-900",
-  default: "hover:text-gray-900"
+  default: "hover:text-gray-900",
 };
 
 // No need to define a variable here as we're using the direct reference in the template
 ---
 
-<div class="flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200">
-  <a href={`/a/${id}`} class="relative">
+<div
+  class="flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200"
+>
+  <!-- 0. <a href={`/a/${id}`} class="relative">
     <img
       loading="lazy"
       src={image}
       alt={imageAlt}
       class="w-full h-auto object-contain"
+    />
+  </a> -->
+  <!-- 1. <a href={`/a/${id}`} class="relative h-64 overflow-hidden flex items-center justify-center bg-stone-100">
+  <img
+    loading="lazy"
+    src={image}
+    alt={imageAlt}
+    class="max-w-full max-h-full object-contain"
+  />
+</a> -->
+  <!-- 2. looks good! -->
+  <!-- <a href={`/a/${id}`} class="relative block pt-[75%] overflow-hidden bg-white">
+  <div class="absolute inset-0 shadow-[inset_0_0_20px_rgba(0,0,0,0.1)]"></div>
+  <img
+    loading="lazy"
+    src={image}
+    alt={imageAlt}
+    class="absolute inset-0 w-full h-full object-contain p-2 z-10"
+  />
+</a> -->
+  <a href={`/a/${id}`} class="relative block pt-[75%] overflow-hidden">
+    <!-- Blurred background version of the same image -->
+    <div
+      class="absolute inset-0 bg-cover bg-center blur-xl"
+      style={`background-image: url(${image});`}
+    >
+    </div>
+
+    <!-- Actual image on top -->
+    <img
+      loading="lazy"
+      src={image}
+      alt={imageAlt}
+      class="absolute inset-0 w-full h-full object-contain p-2 z-10"
     />
   </a>
 
@@ -88,19 +127,14 @@ const hoverClasses: Record<ColorKey, string> = {
     <div class="mb-5">
       <span
         class="inline-block bg-emerald-100 text-emerald-800 text-sm px-3 py-1 rounded-full font-medium"
-      >{region}</span>
+        >{region}</span
+      >
     </div>
 
     <ul class="space-y-3 list-disc pl-5">
-      {activity && <li >
-        {activity.text}
-      </li>}
-      {encounterGuidance && <li >
-        {encounterGuidance.text}
-      </li>}
-      {presenceSigns && <li >
-        {presenceSigns.text}
-      </li>}
+      {activity && <li>{activity.text}</li>}
+      {encounterGuidance && <li>{encounterGuidance.text}</li>}
+      {presenceSigns && <li>{presenceSigns.text}</li>}
     </ul>
   </div>
 </div>
