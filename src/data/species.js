@@ -1,4 +1,4 @@
-// animals.js - Data structure for forest animals
+// species.js - Data structure for forest species
 
 // to be added:
 // Ochotona roylei / Royle's pika
@@ -12,7 +12,7 @@
 // lotus
 // water lily
 
-export const animals = [
+export const species = [
   {
     // Drosera burmanni, the tropical sundew
     id: "drosera-burmanni",
@@ -360,24 +360,24 @@ export const animals = [
   },
 ];
 
-// Function to get animal by ID
-export function getAnimalById(id) {
-  return animals.find((animal) => animal.id === id);
+// Function to get species by ID
+export function getSpeciesById(id) {
+  return species.find((animal) => animal.id === id);
 }
 
-// Function to get all animals
-export function getAllAnimals() {
-  return animals;
+// Function to get all species
+export function getAllSpecies() {
+  return species;
 }
 
-// Function to get animals by category
-export function getAnimalsByCategory(category) {
-  return animals.filter((animal) => animal.category === category);
+// Function to get species by category
+export function getSpeciesByCategory(category) {
+  return species.filter((animal) => animal.category === category);
 }
 
-// Function to get animal by name
-export function getAnimalByName(name) {
-  return animals.find(
+// Function to get species by name
+export function getSpeciesByName(name) {
+  return species.find(
     (animal) => animal.commonName === name || animal.name === name,
   );
 }

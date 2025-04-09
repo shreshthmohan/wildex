@@ -1,6 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { animals } from "../data/animals.js";
+import { species } from "../data/species.js";
 import SpeciesCard from "../components/SpeciesCard.astro";
 
 // Add these to Layout.astro head
@@ -20,6 +20,6 @@ const headContent = {
   <div
     class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 max-w-7xl mx-auto px-4"
   >
-    {animals.map((animal) => <SpeciesCard {...animal} />)}
+    {species.map((species) => <SpeciesCard {...species} />)}
   </div>
 </Layout>
