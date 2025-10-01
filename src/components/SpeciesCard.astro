@@ -20,6 +20,7 @@ interface Props {
   };
   id: string;
   themeColor: string;
+  audio: string;
 }
 
 const {
@@ -34,6 +35,7 @@ const {
   encounterGuidance,
   presenceSigns,
   themeColor,
+  audio,
 } = Astro.props;
 
 // Static class mappings for Tailwind
@@ -71,7 +73,8 @@ const hoverClasses: Record<ColorKey, string> = {
 ---
 
 <div
-  class="flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200"
+  class="species-card flex flex-col bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-lg border border-stone-200"
+  data-species-id={id}
 >
   <!-- 0. <a href={`/a/${id}`} class="relative">
     <img
@@ -123,6 +126,107 @@ const hoverClasses: Record<ColorKey, string> = {
         {scientificName}
       </p>
     </div>
+    <!-- Custom audio player with Wikipedia-style play button -->
+    {
+      audio && (
+        <div class="mb-4 flex items-center">
+          <button
+            type="button"
+            class="audio-play-btn bg-stone-200 hover:bg-stone-300 rounded-full p-1.5 mr-2 transition-colors"
+            aria-label="Play audio"
+            data-audio-src={audio}
+            data-audio-element-id={`audio-${id}`}
+            onclick="toggleAudio(this)"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+              class="w-4 h-4"
+            >
+              <path
+                id="play-icon"
+                fill-rule="evenodd"
+                d="M4.5 5.653c0-1.427 1.529-2.33 2.779-1.643l11.54 6.347c1.295.712 1.295 2.573 0 3.286L7.28 19.99c-1.25.687-2.779-.217-2.779-1.643V5.653Z"
+                clip-rule="evenodd"
+              />
+              <path
+                id="pause-icon"
+                class="hidden"
+                fill-rule="evenodd"
+                d="M6.75 5.25a.75.75 0 0 1 .75-.75H9a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H7.5a.75.75 0 0 1-.75-.75V5.25zm7.5 0A.75.75 0 0 1 15 4.5h1.5a.75.75 0 0 1 .75.75v13.5a.75.75 0 0 1-.75.75H15a.75.75 0 0 1-.75-.75V5.25z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+          <span class="text-sm text-stone-600 italic">Listen to call</span>
+          <audio id={`audio-${id}`} preload="none" class="hidden">
+            <source src={audio} type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      )
+    }
+
+    <script is:inline>
+      // Use window object to store the global variable to avoid redeclaration
+      if (typeof window.currentlyPlayingAudio === "undefined") {
+        window.currentlyPlayingAudio = null;
+      }
+
+      function toggleAudio(button) {
+        // Get the audio element directly using the data attribute on the button
+        const audioElementId = button.getAttribute("data-audio-element-id");
+        if (!audioElementId) return; // Safety check
+
+        const audioEl = document.getElementById(audioElementId);
+        if (!audioEl) return; // Safety check
+
+        // If there's another audio playing, stop it first
+        if (
+          window.currentlyPlayingAudio &&
+          window.currentlyPlayingAudio !== audioEl
+        ) {
+          window.currentlyPlayingAudio.pause();
+          window.currentlyPlayingAudio.currentTime = 0;
+          // Reset the button icon for the previously playing audio
+          document.querySelectorAll(".audio-play-btn").forEach((btn) => {
+            if (btn !== button) {
+              btn.querySelector("#play-icon").classList.remove("hidden");
+              btn.querySelector("#pause-icon").classList.add("hidden");
+              btn.classList.remove("bg-stone-300");
+              btn.classList.add("bg-stone-200");
+            }
+          });
+        }
+
+        if (audioEl.paused) {
+          audioEl.play();
+          window.currentlyPlayingAudio = audioEl;
+          button.querySelector("#play-icon").classList.add("hidden");
+          button.querySelector("#pause-icon").classList.remove("hidden");
+          button.classList.remove("bg-stone-200");
+          button.classList.add("bg-stone-300");
+        } else {
+          audioEl.pause();
+          audioEl.currentTime = 0;
+          window.currentlyPlayingAudio = null;
+          button.querySelector("#play-icon").classList.remove("hidden");
+          button.querySelector("#pause-icon").classList.add("hidden");
+          button.classList.remove("bg-stone-300");
+          button.classList.add("bg-stone-200");
+        }
+
+        // When audio ends, reset the button
+        audioEl.onended = function () {
+          button.querySelector("#play-icon").classList.remove("hidden");
+          button.querySelector("#pause-icon").classList.add("hidden");
+          button.classList.remove("bg-stone-300");
+          button.classList.add("bg-stone-200");
+          window.currentlyPlayingAudio = null;
+        };
+      }
+    </script>
 
     <div class="mb-5">
       <span

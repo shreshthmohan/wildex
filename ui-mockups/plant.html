@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plant Observation - Acacia auriculiformis</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              serif: ["Crimson Text", "serif"],
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="font-serif bg-stone-50 text-stone-900">
+    <!-- Desktop Left Navigation -->
+    <nav
+      class="hidden lg:block fixed left-0 top-0 h-full w-64 bg-stone-50/95 backdrop-blur-sm border-r border-stone-200 z-50"
+    >
+      <div class="p-6">
+        <h1 class="text-lg font-semibold italic mb-8">Acacia auriculiformis</h1>
+        <div class="space-y-4">
+          <button
+            onclick="scrollToSection('overview')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-home text-stone-600"></i>
+            <span>Overview</span>
+          </button>
+          <button
+            onclick="scrollToSection('plant')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-tree text-stone-600"></i>
+            <span>Plant</span>
+          </button>
+          <button
+            onclick="scrollToSection('leaf')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-leaf text-stone-600"></i>
+            <span>Leaf</span>
+          </button>
+          <button
+            onclick="scrollToSection('flower')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-seedling text-stone-600"></i>
+            <span>Flower</span>
+          </button>
+          <button
+            onclick="scrollToSection('fruit')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-apple-alt text-stone-600"></i>
+            <span>Fruit</span>
+          </button>
+          <button
+            onclick="scrollToSection('trunk')"
+            class="nav-link flex items-center space-x-3 w-full text-left py-2 px-3 rounded hover:bg-stone-100 transition-colors"
+          >
+            <i class="fas fa-grip-lines text-stone-600"></i>
+            <span>Trunk</span>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Mobile Bottom Navigation -->
+    <nav
+      class="lg:hidden fixed bottom-0 left-0 right-0 bg-stone-50/95 backdrop-blur-sm border-t border-stone-200 z-50"
+    >
+      <div class="flex justify-around py-3">
+        <button
+          onclick="scrollToSection('overview')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-home text-stone-600 mb-1"></i>
+        </button>
+        <button
+          onclick="scrollToSection('plant')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-tree text-stone-600 mb-1"></i>
+        </button>
+        <button
+          onclick="scrollToSection('leaf')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-leaf text-stone-600 mb-1"></i>
+        </button>
+        <button
+          onclick="scrollToSection('flower')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-seedling text-stone-600 mb-1"></i>
+        </button>
+        <button
+          onclick="scrollToSection('fruit')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-apple-alt text-stone-600 mb-1"></i>
+        </button>
+        <button
+          onclick="scrollToSection('trunk')"
+          class="nav-link flex flex-col items-center py-2 px-3 text-xs"
+        >
+          <i class="fas fa-grip-lines text-stone-600 mb-1"></i>
+        </button>
+      </div>
+    </nav>
+
+    <div class="lg:ml-64 pb-20 lg:pb-8 px-4 py-8 max-w-4xl mx-auto">
+      <!-- Overview Section -->
+      <section id="overview" class="mb-16">
+        <div class="text-center mb-8">
+          <h2 class="text-3xl font-semibold mb-2">Acacia auriculiformis</h2>
+          <p class="text-stone-600 italic">Family: Fabaceae</p>
+          <p class="text-sm text-stone-500 mt-1">Work Tree • Pencil Maram</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8 mb-8">
+          <div>
+            <div class="aspect-[4/3] bg-stone-200 rounded mb-4 overflow-hidden">
+              <img
+                src="https://plantekey.com/admin/images/plants/257_d.jpg"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="prose prose-stone">
+              <p class="text-sm leading-relaxed">
+                A medium-sized tree reaching ten meters in height, this
+                evergreen specimen presents itself with rough bark and an
+                absence of thorns. The naturalized exotic has established itself
+                in forest areas and wild situations alike, demonstrating the
+                adaptability that characterizes successful colonizers.
+              </p>
+            </div>
+            <div class="bg-stone-100 p-6 rounded">
+              <h3 class="font-semibold mb-3 text-sm uppercase tracking-wide">
+                Classification
+              </h3>
+              <div class="text-sm space-y-1">
+                <div>Family: <span class="font-medium">Fabaceae</span></div>
+                <div>Type: <span class="font-medium">Tree</span></div>
+                <div>Habit: <span class="font-medium">Evergreen</span></div>
+                <div>Height: <span class="font-medium">10 meters</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Plant Section -->
+      <section id="plant" class="mb-16">
+        <h2 class="text-2xl font-semibold mb-6 border-b border-stone-200 pb-2">
+          Plant Structure
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <div
+              class="aspect-[4/3] bg-stone-200 rounded mb-4 flex items-center justify-center text-stone-500"
+            >
+              <img
+                src="https://plantekey.com/admin/images/plants/257_d.jpg"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+            <div class="flex space-x-2 justify-center">
+              <button
+                class="photo-nav w-2 h-2 bg-stone-400 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="bg-stone-100 p-4 rounded">
+              <h3 class="font-semibold text-sm uppercase tracking-wide mb-2">
+                Characteristics
+              </h3>
+              <div class="text-sm space-y-2">
+                <div class="flex justify-between">
+                  <span>Woody</span>
+                  <span class="font-medium">Yes</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Latex</span>
+                  <span class="font-medium">Absent</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Thorny</span>
+                  <span class="font-medium">Absent</span>
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-stone-600 leading-relaxed">
+              <p>
+                The specimen demonstrates the robust architecture typical of
+                successful pioneer species. Fast-growing with considerable
+                canopy potential, it establishes itself through minimal soil
+                requirements and full sun tolerance.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Leaf Section -->
+      <section id="leaf" class="mb-16">
+        <h2 class="text-2xl font-semibold mb-6 border-b border-stone-200 pb-2">
+          Leaf Morphology
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <div
+              class="aspect-[4/3] bg-stone-200 rounded mb-4 flex items-center justify-center text-stone-500"
+            >
+              <img
+                src="https://plantekey.com/admin/images/plants/257_lf.JPG"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+            <div class="flex space-x-2 justify-center">
+              <button
+                class="photo-nav w-2 h-2 bg-stone-400 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="bg-stone-100 p-4 rounded">
+              <h3 class="font-semibold text-sm uppercase tracking-wide mb-2">
+                Measurements
+              </h3>
+              <div class="text-sm space-y-2">
+                <div class="flex justify-between">
+                  <span>Type</span>
+                  <span class="font-medium">Simple</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Arrangement</span>
+                  <span class="font-medium">Alternate</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Length</span>
+                  <span class="font-medium">12 cm</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Width</span>
+                  <span class="font-medium">2 cm</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Aroma</span>
+                  <span class="font-medium">None detected</span>
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-stone-600 leading-relaxed">
+              <p>
+                The simple leaf structure reveals an efficient design—narrow and
+                elongated, suggesting adaptation to environments where water
+                conservation may be advantageous. The alternate arrangement
+                maximizes light capture while minimizing self-shading.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Flower Section -->
+      <section id="flower" class="mb-16">
+        <h2 class="text-2xl font-semibold mb-6 border-b border-stone-200 pb-2">
+          Floral Architecture
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <div
+              class="aspect-[4/3] bg-stone-200 rounded mb-4 flex items-center justify-center text-stone-500"
+            >
+              <img
+                src="https://plantekey.com/admin/images/plants/257_d.jpg"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+            <div class="flex space-x-2 justify-center">
+              <button
+                class="photo-nav w-2 h-2 bg-stone-400 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="bg-stone-100 p-4 rounded">
+              <h3 class="font-semibold text-sm uppercase tracking-wide mb-2">
+                Characteristics
+              </h3>
+              <div class="text-sm space-y-2">
+                <div class="flex justify-between">
+                  <span>Size</span>
+                  <span class="font-medium">0.3 cm</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Color</span>
+                  <span class="font-medium">Yellow</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Fragrance</span>
+                  <span class="font-medium">Present</span>
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-stone-600 leading-relaxed">
+              <p>
+                The diminutive golden flowers, though modest in individual
+                scale, collectively create impressive displays. Their aromatic
+                quality suggests pollinator relationships that extend beyond
+                mere visual attraction—a reminder of the complex chemical
+                conversations occurring within natural systems.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Fruit Section -->
+      <section id="fruit" class="mb-16">
+        <h2 class="text-2xl font-semibold mb-6 border-b border-stone-200 pb-2">
+          Fruit Development
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <div
+              class="aspect-[4/3] bg-stone-200 rounded mb-4 flex items-center justify-center text-stone-500"
+            >
+              <img
+                src="https://plantekey.com/admin/images/plants/257_gf.jpg"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+            <div class="flex space-x-2 justify-center">
+              <button
+                class="photo-nav w-2 h-2 bg-stone-400 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="bg-stone-100 p-4 rounded">
+              <h3 class="font-semibold text-sm uppercase tracking-wide mb-2">
+                Pod Specifications
+              </h3>
+              <div class="text-sm space-y-2">
+                <div class="flex justify-between">
+                  <span>Type</span>
+                  <span class="font-medium">Pod</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Size</span>
+                  <span class="font-medium">3 cm</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Color</span>
+                  <span class="font-medium">Brown</span>
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-stone-600 leading-relaxed">
+              <p>
+                The seed pods represent the culmination of the plant's
+                reproductive cycle—compact vessels containing the genetic
+                blueprint for future generations. Their robust construction
+                ensures successful dispersal while protecting the precious cargo
+                within.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Trunk Section -->
+      <section id="trunk" class="mb-16">
+        <h2 class="text-2xl font-semibold mb-6 border-b border-stone-200 pb-2">
+          Trunk & Bark
+        </h2>
+        <div class="grid md:grid-cols-2 gap-8">
+          <div>
+            <div
+              class="aspect-[4/3] bg-stone-200 rounded mb-4 flex items-center justify-center text-stone-500"
+            >
+              <img
+                src="https://plantekey.com/admin/images/plants/257_br.jpg"
+                alt="Acacia auriculiformis overview"
+                class="w-full h-full object-cover"
+              />
+            </div>
+            <div class="flex space-x-2 justify-center">
+              <button
+                class="photo-nav w-2 h-2 bg-stone-400 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+              <button
+                class="photo-nav w-2 h-2 bg-stone-300 rounded-full"
+              ></button>
+            </div>
+          </div>
+          <div class="space-y-4">
+            <div class="bg-stone-100 p-4 rounded">
+              <h3 class="font-semibold text-sm uppercase tracking-wide mb-2">
+                Surface Characteristics
+              </h3>
+              <div class="text-sm space-y-2">
+                <div class="flex justify-between">
+                  <span>Texture</span>
+                  <span class="font-medium">Rough</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Pattern</span>
+                  <span class="font-medium">Fissured</span>
+                </div>
+              </div>
+            </div>
+            <div class="text-sm text-stone-600 leading-relaxed">
+              <p>
+                The roughened bark tells the story of years weathering the
+                elements—each fissure and ridge a testament to resilience. This
+                protective outer layer serves multiple functions: defense
+                against pests, regulation of moisture, and accommodation of the
+                growing cambium beneath.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Uses & Propagation -->
+      <section class="mb-16 bg-stone-100 p-6 rounded">
+        <h2 class="text-2xl font-semibold mb-6">
+          Traditional Uses & Cultivation
+        </h2>
+        <div class="grid md:grid-cols-2 gap-6 text-sm text-stone-700">
+          <div>
+            <h3 class="font-semibold mb-2">Historical Applications</h3>
+            <p class="leading-relaxed">
+              Seeds have been traditionally employed as a fish poison, while the
+              wood finds purpose in furniture making—demonstrating humanity's
+              resourceful relationship with plant materials across cultures.
+            </p>
+          </div>
+          <div>
+            <h3 class="font-semibold mb-2">Propagation Notes</h3>
+            <p class="leading-relaxed">
+              Seeds require hot water soaking for twelve hours to break
+              dormancy—a simple treatment that mimics natural fire or seasonal
+              conditions that would trigger germination in the wild.
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      // Fruit images array
+      const fruitImages = [
+        "https://plantekey.com/admin/images/plants/257_fr_d.jpg", // mature fruit
+        "https://plantekey.com/admin/images/plants/257_gf.jpg", // green fruit
+      ];
+
+      function scrollToSection(sectionId) {
+        const element = document.getElementById(sectionId);
+        const navHeight = window.innerWidth >= 1024 ? 0 : 80; // No top margin on desktop, account for bottom nav on mobile
+        const elementPosition = element.offsetTop - navHeight;
+
+        window.scrollTo({
+          top: elementPosition,
+          behavior: "smooth",
+        });
+      }
+
+      function switchFruitImage(index) {
+        const fruitImg = document.getElementById("fruit-img");
+        const buttons = document.querySelectorAll("#fruit .photo-nav");
+
+        // Update image source
+        fruitImg.src = fruitImages[index];
+
+        // Update button states
+        buttons.forEach((btn, i) => {
+          if (i === index) {
+            btn.classList.remove("bg-stone-300");
+            btn.classList.add("bg-stone-400");
+          } else {
+            btn.classList.remove("bg-stone-400");
+            btn.classList.add("bg-stone-300");
+          }
+        });
+      }
+
+      // Simple photo navigation for other sections (placeholder functionality)
+      document.addEventListener("DOMContentLoaded", function () {
+        document
+          .querySelectorAll(".photo-nav:not(#fruit .photo-nav)")
+          .forEach((button, index) => {
+            button.addEventListener("click", function () {
+              // Remove active state from siblings
+              this.parentNode.querySelectorAll(".photo-nav").forEach((btn) => {
+                btn.classList.remove("bg-stone-400");
+                btn.classList.add("bg-stone-300");
+              });
+              // Add active state to clicked button
+              this.classList.remove("bg-stone-300");
+              this.classList.add("bg-stone-400");
+            });
+          });
+      });
+    </script>
+  </body>
+</html>

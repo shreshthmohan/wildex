@@ -33,6 +33,7 @@ export const species = [
     imageCredit: "kkoshy, flickr",
     imageAlt: "Indian Eagle-Owl in its natural habitat",
     conservationStatus: "Least Concern",
+    audio: "../audio/indian-eagle-owl.call.mp3",
   },
   {
     id: "indian-jackal",
