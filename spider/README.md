@@ -75,6 +75,19 @@ uv run scrapy crawl species
 # Output: species_output.json
 ```
 
+### Get Species List
+
+To get a list of all species with their basic info (names, links, thumbnails) without scraping full details:
+
+```sh
+uv run scrapy crawl ah-spider -O species_list.json
+```
+
+This is much faster and useful for:
+- Getting an overview of available species
+- Finding species IDs to scrape individually
+- Building an index/catalog
+
 ## Output Format
 
 The spider outputs JSON with the following structure:

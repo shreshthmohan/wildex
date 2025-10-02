@@ -25,18 +25,28 @@ class SpeciesSpider(scrapy.Spider):
 
     # Be polite - wait between requests
     custom_settings = {
-        "DOWNLOAD_DELAY": 2,  # Wait 3 seconds between requests
+        "DOWNLOAD_DELAY": 3,  # Wait 3 seconds between requests
         "RANDOMIZE_DOWNLOAD_DELAY": True,  # Add randomness to avoid patterns
         "ROBOTSTXT_OBEY": False,  # Site doesn't have robots.txt
         "CONCURRENT_REQUESTS_PER_DOMAIN": 1,  # Sequential requests
-        "RETRY_TIMES": 3,  # Retry on 429 errors
+        "RETRY_TIMES": 5,  # Retry failed requests
         "RETRY_HTTP_CODES": [429, 500, 502, 503, 504],
-        "FEEDS": {
-            "%(name)s_output.json": {
-                "format": "json",
-                "overwrite": True,  # Overwrite existing file
-            }
+
+        # Allow 429 and 5xx errors to pass through to retry middleware
+        "HTTPERROR_ALLOWED_CODES": [429, 500, 502, 503, 504],
+
+        # Exponential backoff for retries
+        "RETRY_BACKOFF_MULTIPLIER": 0.5,  # Wait 0.5s, 1s, 2s, 4s, 8s between retries
+
+        # Incremental saving pipeline
+        "ITEM_PIPELINES": {
+            "crawler.pipelines.SpeciesAggregationPipeline": 300,  # Aggregates sections
+            "crawler.pipelines.IncrementalSavingPipeline": 400,   # Saves immediately
         },
+
+        # Configure output directory for incremental saves
+        "INCREMENTAL_OUTPUT_DIR": "output/species",
+
         "LOG_FILE": "spider.log",  # Write logs to file
         "LOG_FILE_APPEND": False,  # Overwrite log file each run
         "LOG_LEVEL": "INFO",  # INFO, DEBUG, WARNING, ERROR
@@ -69,10 +79,38 @@ class SpeciesSpider(scrapy.Spider):
         },
     }
 
-    def __init__(self, species_id=None, max_species=None, *args, **kwargs):
+    def __init__(self, species_id=None, max_species=None, resume=False, retry_failed=False, *args, **kwargs):
         super(SpeciesSpider, self).__init__(*args, **kwargs)
         self.species_id = species_id
         self.max_species = int(max_species) if max_species else None
+        self.resume = resume if isinstance(resume, bool) else resume.lower() in ('true', '1', 'yes')
+        self.retry_failed = retry_failed if isinstance(retry_failed, bool) else retry_failed.lower() in ('true', '1', 'yes')
+
+        # Track available sections per species
+        self.available_sections = {}
+
+        # Load scraping status if resume or retry_failed
+        if self.resume or self.retry_failed:
+            self.scraping_status = self._load_scraping_status()
+            completed_count = len(self.scraping_status.get('completed', {}))
+            failed_count = len(self.scraping_status.get('failed', {}))
+            self.logger.info(f"Status: {completed_count} completed, {failed_count} failed")
+        else:
+            self.scraping_status = {'completed': {}, 'failed': {}}
+
+    def _load_scraping_status(self):
+        """Load scraping status from _scraping_status.json"""
+        from pathlib import Path
+        import json
+
+        status_file = Path('output/species/_scraping_status.json')
+        if status_file.exists():
+            try:
+                with open(status_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                self.logger.error(f"Failed to load status file: {e}")
+        return {'completed': {}, 'failed': {}}
 
     async def start(self):
         """
@@ -83,6 +121,12 @@ class SpeciesSpider(scrapy.Spider):
 
         To scrape limited number of species:
             scrapy crawl species -a max_species=5
+
+        To resume interrupted scraping:
+            scrapy crawl species -a resume=True
+
+        To retry only failed species:
+            scrapy crawl species -a retry_failed=True
 
         To scrape all species:
             scrapy crawl species
@@ -99,6 +143,7 @@ class SpeciesSpider(scrapy.Spider):
     def parse_species_menu(self, response):
         """
         Parse the species menu to get all species IDs
+        Store them and start processing one at a time
         """
         # Extract all unique species IDs
         species_links = response.css(
@@ -106,15 +151,55 @@ class SpeciesSpider(scrapy.Spider):
         ).getall()
         unique_links = list(set(species_links))
 
+        self.logger.info(f"Found {len(unique_links)} unique species links")
+
+        # Filter based on scraping status
+        if self.resume:
+            filtered_links = []
+            completed_ids = set(self.scraping_status.get('completed', {}).keys())
+
+            for link in unique_links:
+                species_id = str(self.extract_species_id(link))
+                if species_id not in completed_ids:
+                    filtered_links.append(link)
+                else:
+                    self.logger.debug(f"Skipping successfully scraped species {species_id}")
+
+            unique_links = filtered_links
+            self.logger.info(f"Resume mode: {len(unique_links)} species remaining to scrape")
+
+        # Retry failed species only (but only retryable ones)
+        if self.retry_failed:
+            filtered_links = []
+            failed_dict = self.scraping_status.get('failed', {})
+
+            for link in unique_links:
+                species_id = str(self.extract_species_id(link))
+                if species_id in failed_dict:
+                    # Only retry if marked as retryable
+                    if failed_dict[species_id].get('retryable', True):
+                        filtered_links.append(link)
+                        self.logger.debug(f"Will retry species {species_id} ({failed_dict[species_id]['error_type']})")
+                    else:
+                        self.logger.debug(f"Skipping permanent failure {species_id} ({failed_dict[species_id]['error_type']})")
+
+            unique_links = filtered_links
+            self.logger.info(f"Retry mode: {len(unique_links)} retryable failures to retry")
+
         # Limit species if max_species is set
         if self.max_species:
-            unique_links = unique_links[: self.max_species]
+            unique_links = unique_links[:self.max_species]
             self.logger.info(f"Limiting to {self.max_species} species")
 
-        self.logger.info(f"Found {len(unique_links)} unique species")
+        self.logger.info(f"Scraping {len(unique_links)} species sequentially")
 
-        # Follow each species link
-        for link in unique_links:
+        # Store remaining species to scrape
+        self.species_queue = unique_links
+        self.current_species_index = 0
+
+        # Start with the first species only
+        if self.species_queue:
+            link = self.species_queue[0]
             yield response.follow(link, callback=self.parse_species_index)
 
     def parse_species_index(self, response):
@@ -123,6 +208,57 @@ class SpeciesSpider(scrapy.Spider):
         """
         # Extract species ID from URL
         species_id = self.extract_species_id(response.url)
+
+        # Get pipeline for error tracking
+        try:
+            pipeline = self.crawler.engine.scraper.itemproc.middlewares[1]  # IncrementalSavingPipeline at 400
+        except (AttributeError, IndexError):
+            pipeline = None
+
+        # Handle permanent failures (don't retry)
+        if response.status == 404:
+            self.logger.warning(f"✗ Species {species_id} not found (404)")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='404_permanent',
+                                   error_msg='Page not found', retryable=False)
+            return
+
+        if response.status == 410:
+            self.logger.warning(f"✗ Species {species_id} gone (410)")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='410_permanent',
+                                   error_msg='Resource gone', retryable=False)
+            return
+
+        if response.status == 403:
+            self.logger.warning(f"✗ Species {species_id} forbidden (403)")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='403_permanent',
+                                   error_msg='Access forbidden', retryable=False)
+            return
+
+        # Handle temporary failures (can retry)
+        if response.status >= 500:
+            self.logger.error(f"✗ Server error for species {species_id} (status {response.status})")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='server_error',
+                                   error_msg=f'HTTP {response.status}', retryable=True)
+            return
+
+        if response.status == 429:
+            self.logger.error(f"✗ Rate limited for species {species_id} (429)")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='rate_limit',
+                                   error_msg='Too many requests', retryable=True)
+            return
+
+        # Check for empty/invalid response
+        if not response.body or len(response.body) < 100:
+            self.logger.error(f"✗ Empty response for species {species_id}")
+            if pipeline and hasattr(pipeline, 'mark_failed'):
+                pipeline.mark_failed(species_id, error_type='empty_response',
+                                   error_msg='Response body too small', retryable=True)
+            return
 
         # Initialize the species item
         species_data = SpeciesItem()
@@ -146,54 +282,73 @@ class SpeciesSpider(scrapy.Spider):
         species_data["conservation"] = {}
         species_data["nomenclature"] = {}
 
+        # Extract available sections from menu to know what to expect
+        available_sections = self.extract_available_menu_sections(response)
+        self.available_sections[species_id] = available_sections
+        self.logger.info(f"Species {species_id}: Found {len(available_sections)} available sections in menu: {available_sections}")
+
         # Store initial data in meta for aggregation
         meta = {"species_data": dict(species_data)}
 
-        # Scrape nomenclature page (different structure)
-        url = f"{self.base_url}/contents/nomenclature.php?id={species_id}"
-        yield scrapy.Request(
-            url, callback=self.parse_nomenclature, meta=meta.copy(), dont_filter=True
-        )
+        # Only scrape pages that are actually in the menu (available_sections)
+        # Scrape nomenclature page if available
+        if 'nomenclature._complete' in available_sections:
+            url = f"{self.base_url}/contents/nomenclature.php?id={species_id}"
+            yield scrapy.Request(
+                url,
+                callback=self.parse_nomenclature,
+                meta=meta.copy(),
+                errback=self.handle_error,
+                dont_filter=True
+            )
 
-        # Scrape all description pages
+        # Scrape description pages (only those in menu)
         for section_name, page_url in self.CONTENT_PAGES["description"].items():
-            url = f"{self.base_url}/{page_url}?id={species_id}"
-            meta_copy = meta.copy()
-            meta_copy["section"] = "description"
-            meta_copy["subsection"] = section_name
-            yield scrapy.Request(
-                url, callback=self.parse_content_page, meta=meta_copy, dont_filter=True
-            )
+            if f"description.{section_name}" in available_sections:
+                url = f"{self.base_url}/{page_url}?id={species_id}"
+                meta_copy = meta.copy()
+                meta_copy["section"] = "description"
+                meta_copy["subsection"] = section_name
+                yield scrapy.Request(
+                    url, callback=self.parse_content_page, meta=meta_copy,
+                    errback=self.handle_error, dont_filter=True
+                )
 
-        # Scrape all ecology pages
+        # Scrape ecology pages (only those in menu)
         for section_name, page_url in self.CONTENT_PAGES["ecology"].items():
-            url = f"{self.base_url}/{page_url}?id={species_id}"
-            meta_copy = meta.copy()
-            meta_copy["section"] = "ecology"
-            meta_copy["subsection"] = section_name
-            yield scrapy.Request(
-                url, callback=self.parse_content_page, meta=meta_copy, dont_filter=True
-            )
+            if f"ecology.{section_name}" in available_sections:
+                url = f"{self.base_url}/{page_url}?id={species_id}"
+                meta_copy = meta.copy()
+                meta_copy["section"] = "ecology"
+                meta_copy["subsection"] = section_name
+                yield scrapy.Request(
+                    url, callback=self.parse_content_page, meta=meta_copy,
+                    errback=self.handle_error, dont_filter=True
+                )
 
-        # Scrape all human uses pages
+        # Scrape human uses pages (only those in menu)
         for section_name, page_url in self.CONTENT_PAGES["human_uses"].items():
-            url = f"{self.base_url}/{page_url}?id={species_id}"
-            meta_copy = meta.copy()
-            meta_copy["section"] = "human_uses"
-            meta_copy["subsection"] = section_name
-            yield scrapy.Request(
-                url, callback=self.parse_content_page, meta=meta_copy, dont_filter=True
-            )
+            if f"human_uses.{section_name}" in available_sections:
+                url = f"{self.base_url}/{page_url}?id={species_id}"
+                meta_copy = meta.copy()
+                meta_copy["section"] = "human_uses"
+                meta_copy["subsection"] = section_name
+                yield scrapy.Request(
+                    url, callback=self.parse_content_page, meta=meta_copy,
+                    errback=self.handle_error, dont_filter=True
+                )
 
-        # Scrape all conservation pages
+        # Scrape conservation pages (only those in menu)
         for section_name, page_url in self.CONTENT_PAGES["conservation"].items():
-            url = f"{self.base_url}/{page_url}?id={species_id}"
-            meta_copy = meta.copy()
-            meta_copy["section"] = "conservation"
-            meta_copy["subsection"] = section_name
-            yield scrapy.Request(
-                url, callback=self.parse_content_page, meta=meta_copy, dont_filter=True
-            )
+            if f"conservation.{section_name}" in available_sections:
+                url = f"{self.base_url}/{page_url}?id={species_id}"
+                meta_copy = meta.copy()
+                meta_copy["section"] = "conservation"
+                meta_copy["subsection"] = section_name
+                yield scrapy.Request(
+                    url, callback=self.parse_content_page, meta=meta_copy,
+                    errback=self.handle_error, dont_filter=True
+                )
 
     def parse_content_page(self, response):
         """
@@ -226,6 +381,57 @@ class SpeciesSpider(scrapy.Spider):
         yield SpeciesItem(species_data)
 
     # ========== Extraction Methods ==========
+
+    def extract_available_menu_sections(self, response):
+        """
+        Extract which sections are actually available for this species from the menu.
+        Returns a set of section keys like 'description.habit', 'nomenclature._complete', etc.
+        """
+        available = set()
+
+        # Check for Nomenclature
+        if response.css('div#plant_menu[title="Nomenclature"] a'):
+            available.add('nomenclature._complete')
+
+        # Check for Description subsections
+        desc_menu_items = {
+            'Habit': 'habit',
+            'Leaf': 'leaf',
+            'Flower': 'flower',
+            'Fruit': 'fruit',
+            'Seed': 'seed',
+            'Stem': 'stem_bark',
+        }
+        for title, key in desc_menu_items.items():
+            if response.css(f'div#plant_sousmenu[title="{title}"] a'):
+                available.add(f'description.{key}')
+
+        # Check for Ecology sections
+        if response.css('div#plant_menu[title="Phenology"] a'):
+            available.add('ecology.phenology')
+        if response.css('div#plant_menu[title="Reproduction"] a'):
+            available.add('ecology.reproduction_dispersal')
+        if response.css('div#plant_menu[title="Distribution"] a'):
+            available.add('ecology.distribution')
+
+        # Check for Human uses subsections
+        human_uses_items = {
+            'Culinary': 'culinary',
+            'Handicrafts': 'handicrafts',
+            'Veterinary': 'veterinary',
+            'Others': 'others',
+        }
+        for title, key in human_uses_items.items():
+            if response.css(f'div#plant_sousmenu[title="{title}"] a'):
+                available.add(f'human_uses.{key}')
+
+        # Check for Conservation sections
+        if response.css('div#plant_menu[title="Conservation status"] a'):
+            available.add('conservation.status')
+        if response.css('div#plant_menu[title="Reforestation"] a'):
+            available.add('conservation.reforestation')
+
+        return available
 
     def extract_species_id(self, url):
         """Extract species ID from URL"""
@@ -438,3 +644,23 @@ class SpeciesSpider(scrapy.Spider):
             "etymology": etymology_clean if etymology_clean else None,
             "etymology_html": etymology_html,
         }
+
+    def handle_error(self, failure):
+        """Handle request failures (network errors, timeouts, etc.)"""
+        species_id = self.extract_species_id(failure.request.url)
+
+        # Get pipeline for error tracking
+        try:
+            pipeline = self.crawler.engine.scraper.itemproc.middlewares[1]  # IncrementalSavingPipeline
+        except (AttributeError, IndexError):
+            pipeline = None
+
+        # Network/timeout errors are retryable
+        error_type = failure.type.__name__ if hasattr(failure, 'type') else 'unknown'
+        error_msg = str(failure.value) if hasattr(failure, 'value') else str(failure)
+
+        self.logger.error(f"✗ Request failed for species {species_id}: {error_type}")
+
+        if pipeline and hasattr(pipeline, 'mark_failed'):
+            pipeline.mark_failed(species_id, error_type='network_error',
+                               error_msg=error_msg, retryable=True)

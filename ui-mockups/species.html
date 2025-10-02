@@ -1,0 +1,672 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>Species Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "media",
+        theme: {
+          extend: {
+            fontFamily: {
+              serif: ["Crimson Text", "Georgia", "serif"],
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Crimson Text", Georgia, serif;
+      }
+
+      /* Desktop sidebar navigation */
+      @media (min-width: 768px) {
+        .nav-sidebar {
+          position: sticky;
+          top: 1rem;
+          height: calc(100vh - 2rem);
+          overflow-y: auto;
+        }
+      }
+
+      /* Mobile navigation toggle */
+      .mobile-nav-toggle {
+        display: none;
+      }
+
+      .mobile-nav-toggle:checked ~ .mobile-nav-menu {
+        display: block;
+      }
+
+      /* Highlight active section in nav */
+      :target {
+        scroll-margin-top: 2rem;
+      }
+
+      /* Active navigation highlighting removed - will be handled by JS */
+
+      /* Print styles */
+      @media print {
+        .nav-sidebar,
+        .mobile-nav-toggle-label {
+          display: none;
+        }
+
+        .content-main {
+          max-width: 100%;
+        }
+      }
+
+      /* Safe area for mobile */
+      .mobile-nav-toggle-label {
+        bottom: calc(1rem + env(safe-area-inset-bottom));
+        right: calc(1rem + env(safe-area-inset-right));
+      }
+
+      .mobile-nav-menu {
+        padding-bottom: env(safe-area-inset-bottom);
+      }
+
+      /* Instant scrolling (no smooth scroll) */
+      html {
+        scroll-behavior: auto;
+      }
+
+      /* Image max height constraint */
+      .species-image {
+        max-height: 70vh;
+        width: auto;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body class="bg-white text-black dark:bg-black dark:text-white">
+    <!-- Mobile Navigation Toggle -->
+    <input
+      type="checkbox"
+      id="mobile-nav-toggle"
+      class="mobile-nav-toggle"
+      aria-label="Toggle navigation"
+    />
+    <label
+      for="mobile-nav-toggle"
+      class="mobile-nav-toggle-label fixed z-50 md:hidden bg-black text-white dark:bg-white dark:text-black w-12 h-12 flex items-center justify-center cursor-pointer border-2 border-black dark:border-white"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="w-6 h-6"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+        />
+      </svg>
+    </label>
+
+    <!-- Mobile Navigation Menu (Overlay) -->
+    <div
+      class="mobile-nav-menu hidden md:hidden fixed inset-0 bg-white dark:bg-black z-40 overflow-y-auto p-8"
+    >
+      <nav class="space-y-4" aria-label="Species sections">
+        <div id="mobile-nav-content">
+          <!-- Navigation will be populated by JavaScript -->
+        </div>
+      </nav>
+    </div>
+
+    <div class="md:flex md:gap-8 max-w-screen-xl mx-auto p-4 md:p-8">
+      <!-- Main Content -->
+      <main class="flex-1 md:pr-8" id="main-content">
+        <!-- Content will be populated by JavaScript -->
+      </main>
+
+      <!-- Desktop Sidebar Navigation -->
+      <aside class="hidden md:block w-64 flex-shrink-0">
+        <nav
+          class="nav-sidebar space-y-2 border-l-2 border-black dark:border-white pl-4"
+          aria-label="Species sections"
+          id="desktop-nav"
+        >
+          <!-- Navigation will be populated by JavaScript -->
+        </nav>
+      </aside>
+    </div>
+
+    <script>
+      // Get species ID from URL parameter
+      function getSpeciesId() {
+        const params = new URLSearchParams(window.location.search);
+        return params.get("id");
+      }
+
+      // Load and render species data
+      async function loadSpecies() {
+        const speciesId = getSpeciesId();
+
+        if (!speciesId) {
+          document.getElementById("main-content").innerHTML = `
+          <div class="p-8 border-2 border-black dark:border-white">
+            <h1 class="text-2xl font-bold mb-4">No Species Selected</h1>
+            <p class="text-lg">Please select a species from the <a href="index.html" class="underline">species list</a>.</p>
+          </div>
+        `;
+          return;
+        }
+
+        const DATA_PATH = `../spider/output/species/species-${speciesId}.json`;
+
+        console.log("DATA_PATH:", DATA_PATH);
+
+        try {
+          const response = await fetch(DATA_PATH);
+          if (!response.ok) {
+            throw new Error(`Species data not found (HTTP ${response.status})`);
+          }
+          const species = await response.json();
+
+          renderSpecies(species);
+          renderNavigation(species);
+        } catch (error) {
+          document.getElementById("main-content").innerHTML = `
+          <div class="p-8 border-2 border-black dark:border-white">
+            <h1 class="text-2xl font-bold mb-4">Error Loading Species Data</h1>
+            <p class="text-lg">Could not load species data for ID: ${speciesId}</p>
+            <p class="text-sm mt-2 font-mono">${error.message}</p>
+            <p class="text-lg mt-4"><a href="index.html" class="underline">Back to species list</a></p>
+          </div>
+        `;
+        }
+      }
+
+      function renderNavigation(species) {
+        const navItems = buildNavItems(species);
+        const navHTML = navItems
+          .map((item) => {
+            if (item.children) {
+              return `
+            <div class="mb-4">
+              <a href="#${item.id}" class="md:text-xl block py-1 hover:underline transition-all">${item.label}</a>
+              <div class="ml-4 mt-2 space-y-1">
+                ${item.children
+                  .map(
+                    (child) => `
+                  <a href="#${child.id}" class="block py-1 text-sm hover:font-bold transition-all">${child.label}</a>
+                `,
+                  )
+                  .join("")}
+              </div>
+            </div>
+          `;
+            }
+            return `<a href="#${item.id}" class="md:text-xl block py-1 hover:underline transition-all">${item.label}</a>`;
+          })
+          .join("");
+
+        document.getElementById("desktop-nav").innerHTML = navHTML;
+        document.getElementById("mobile-nav-content").innerHTML = navHTML;
+
+        // Close mobile menu when clicking any nav link
+        document.querySelectorAll("#mobile-nav-content a").forEach((link) => {
+          link.addEventListener("click", () => {
+            document.getElementById("mobile-nav-toggle").checked = false;
+          });
+        });
+      }
+
+      function buildNavItems(species) {
+        const items = [
+          { id: "overview", label: species.basic_info.scientific_name },
+        ];
+
+        // Flat description subsections (no parent "Description")
+        if (species.description?.habit?.text)
+          items.push({ id: "habit", label: "Habit" });
+        if (species.description?.stem_bark?.text)
+          items.push({ id: "stem", label: "Stem/Bark" });
+        if (species.description?.leaf?.text)
+          items.push({ id: "leaf", label: "Leaf" });
+        if (species.description?.flower?.text)
+          items.push({ id: "flower", label: "Flower" });
+        if (species.description?.fruit?.text)
+          items.push({ id: "fruit", label: "Fruit" });
+        if (species.description?.seed?.text)
+          items.push({ id: "seed", label: "Seed" });
+
+        // Flat ecology subsections (no parent "Ecology")
+        if (species.ecology?.distribution?.text)
+          items.push({ id: "distribution", label: "Distribution" });
+        if (species.ecology?.reproduction_dispersal?.text)
+          items.push({ id: "reproduction", label: "Reproduction" });
+        if (species.ecology?.phenology?.text)
+          items.push({ id: "phenology", label: "Phenology" });
+
+        // Human Uses section (no children shown in menu)
+        const hasUsesData =
+          species.human_uses?.culinary?.text ||
+          species.human_uses?.handicrafts?.text ||
+          species.human_uses?.veterinary?.text ||
+          species.human_uses?.others?.text;
+
+        if (hasUsesData) {
+          items.push({ id: "uses", label: "Human Uses" });
+        }
+
+        // Flat conservation items (reforestation before status)
+        if (species.conservation?.reforestation?.text)
+          items.push({ id: "reforestation", label: "Reforestation" });
+        if (species.conservation?.status?.text)
+          items.push({ id: "status", label: "Status" });
+
+        // Nomenclature and Collection at bottom
+        items.push({ id: "nomenclature", label: "Nomenclature" });
+        items.push({ id: "collection", label: "Collection" });
+
+        return items;
+      }
+
+      function renderSpecies(species) {
+        const content = document.getElementById("main-content");
+
+        let html = `
+        <!-- Overview Section -->
+        <section id="overview" class="mb-20">
+          <h1 class="text-6xl font-bold mb-3 italic">${species.basic_info.scientific_name}</h1>
+          ${species.basic_info.authority ? `<p class="text-2xl mb-6">${species.basic_info.authority}</p>` : ""}
+          <p class="text-3xl mb-8">${species.basic_info.family}</p>
+
+          ${
+            species.nomenclature.english_names
+              ? `
+            <div class="mb-3">
+              <span class="font-bold text-xl">English Names:</span>
+              <span class="text-xl ml-2">${species.nomenclature.english_names}</span>
+            </div>
+          `
+              : ""
+          }
+
+          ${
+            species.nomenclature.indian_names &&
+            typeof species.nomenclature.indian_names === "object"
+              ? `
+            <div class="mb-3">
+              <span class="font-bold text-xl">Indian Names:</span>
+              <div class="ml-2 mt-1">
+                ${Object.entries(species.nomenclature.indian_names)
+                  .map(
+                    ([lang, names]) =>
+                      `<span class="text-xl">${lang}: ${names.join(", ")}</span>`,
+                  )
+                  .join('<span class="text-xl mx-2">•</span>')}
+              </div>
+            </div>
+          `
+              : species.nomenclature.indian_names
+                ? `
+            <div class="mb-3">
+              <span class="font-bold text-xl">Indian Names:</span>
+              <span class="text-xl ml-2">${species.nomenclature.indian_names}</span>
+            </div>
+          `
+                : ""
+          }
+
+          ${
+            species.images?.main_specimen
+              ? `
+            <div class="mt-10">
+              <img src="${species.images.main_specimen}" alt="${species.basic_info.scientific_name} specimen" class="species-image border-2 border-black dark:border-white">
+              <p class="text-base mt-2">Main specimen</p>
+            </div>
+          `
+              : ""
+          }
+
+          ${
+            species.images?.dry_herbarium
+              ? `
+            <div class="mt-10">
+              <img src="${species.images.dry_herbarium}" alt="${species.basic_info.scientific_name} herbarium" class="species-image border-2 border-black dark:border-white">
+              <p class="text-base mt-2">Dry herbarium specimen</p>
+            </div>
+          `
+              : ""
+          }
+        </section>
+      `;
+
+        // Description subsections (standalone, no parent section)
+        if (species.description) {
+          // Habit
+          if (species.description.habit?.text) {
+            html += renderStandaloneSection(
+              "habit",
+              "Habit",
+              species.description.habit,
+            );
+          }
+
+          // Stem/Bark
+          if (species.description.stem_bark?.text) {
+            html += renderStandaloneSection(
+              "stem",
+              "Stem & Bark",
+              species.description.stem_bark,
+            );
+          }
+
+          // Leaf
+          if (species.description.leaf?.text) {
+            html += renderStandaloneSection(
+              "leaf",
+              "Leaf",
+              species.description.leaf,
+            );
+          }
+
+          // Flower
+          if (species.description.flower?.text) {
+            html += renderStandaloneSection(
+              "flower",
+              "Flower",
+              species.description.flower,
+            );
+          }
+
+          // Fruit
+          if (species.description.fruit?.text) {
+            html += renderStandaloneSection(
+              "fruit",
+              "Fruit",
+              species.description.fruit,
+            );
+          }
+
+          // Seed
+          if (species.description.seed?.text) {
+            html += renderStandaloneSection(
+              "seed",
+              "Seed",
+              species.description.seed,
+            );
+          }
+        }
+
+        // Ecology subsections (standalone, no parent section)
+        if (species.ecology) {
+          if (species.ecology.distribution?.text) {
+            html += renderStandaloneSection(
+              "distribution",
+              "Distribution",
+              species.ecology.distribution,
+            );
+          }
+
+          if (species.ecology.reproduction_dispersal?.text) {
+            html += renderStandaloneSection(
+              "reproduction",
+              "Reproduction & Dispersal",
+              species.ecology.reproduction_dispersal,
+            );
+          }
+
+          if (species.ecology.phenology?.text) {
+            html += renderStandaloneSection(
+              "phenology",
+              "Phenology",
+              species.ecology.phenology,
+            );
+          }
+        }
+
+        // Human Uses Section (with subsections inside)
+        if (species.human_uses) {
+          const hasUsesData =
+            species.human_uses.culinary?.text ||
+            species.human_uses.handicrafts?.text ||
+            species.human_uses.veterinary?.text ||
+            species.human_uses.others?.text;
+
+          if (hasUsesData) {
+            html += `<section id="uses" class="mb-20 border-t-2 border-black dark:border-white pt-10">
+            <h2 class="text-4xl font-bold mb-8">Human Uses</h2>`;
+
+            if (species.human_uses.culinary?.text) {
+              html += renderSubsection(
+                "culinary",
+                "Culinary",
+                species.human_uses.culinary,
+              );
+            }
+
+            if (species.human_uses.handicrafts?.text) {
+              html += renderSubsection(
+                "handicrafts",
+                "Handicrafts",
+                species.human_uses.handicrafts,
+              );
+            }
+
+            if (species.human_uses.veterinary?.text) {
+              html += renderSubsection(
+                "veterinary",
+                "Veterinary",
+                species.human_uses.veterinary,
+              );
+            }
+
+            if (species.human_uses.others?.text) {
+              html += renderSubsection(
+                "other-uses",
+                "Other Uses",
+                species.human_uses.others,
+              );
+            }
+
+            html += `</section>`;
+          }
+        }
+
+        // Conservation subsections (standalone - reforestation before status)
+        if (species.conservation) {
+          if (species.conservation.reforestation?.text) {
+            html += renderStandaloneSection(
+              "reforestation",
+              "Reforestation",
+              species.conservation.reforestation,
+            );
+          }
+
+          if (species.conservation.status?.text) {
+            html += renderStandaloneSection(
+              "status",
+              "Conservation Status",
+              species.conservation.status,
+            );
+          }
+        }
+
+        // Nomenclature Section (moved to bottom, above collection)
+        html += `<section id="nomenclature" class="mb-20 border-t-2 border-black dark:border-white pt-10">
+          <h2 class="text-4xl font-bold mb-8">Nomenclature</h2>
+
+          ${
+            species.nomenclature.botanical_name
+              ? `
+            <div class="mb-6">
+              <h3 class="text-2xl font-bold mb-3">Botanical Name</h3>
+              <p class="text-xl italic">${species.nomenclature.botanical_name}</p>
+            </div>
+          `
+              : ""
+          }
+
+          ${
+            species.nomenclature.author
+              ? `
+            <div class="mb-6">
+              <h3 class="text-2xl font-bold mb-3">Author</h3>
+              <p class="text-xl">${species.nomenclature.author}</p>
+            </div>
+          `
+              : ""
+          }
+
+          ${
+            species.nomenclature.etymology
+              ? `
+            <div class="mb-6">
+              <h3 class="text-2xl font-bold mb-3">Etymology</h3>
+              <div class="text-xl prose max-w-none">${species.nomenclature.etymology_html || species.nomenclature.etymology}</div>
+            </div>
+          `
+              : ""
+          }
+
+          ${
+            species.nomenclature.synonyms &&
+            species.nomenclature.synonyms.length > 0
+              ? `
+            <div class="mb-6">
+              <h3 class="text-2xl font-bold mb-3">Synonyms</h3>
+              <ul class="list-disc list-inside text-xl space-y-2">
+                ${species.nomenclature.synonyms.map((syn) => `<li class="italic">${syn}</li>`).join("")}
+              </ul>
+            </div>
+          `
+              : ""
+          }
+        </section>`;
+
+        // Collection Section (moved to bottom)
+        html += `<section id="collection" class="mb-20 border-t-2 border-black dark:border-white pt-10">
+          <h2 class="text-4xl font-bold mb-8">Collection Details</h2>
+          <dl class="space-y-3 text-xl">
+            ${
+              species.collection_metadata.date
+                ? `
+              <div>
+                <dt class="font-bold inline">Date:</dt>
+                <dd class="inline">${species.collection_metadata.date}</dd>
+              </div>
+            `
+                : ""
+            }
+            ${
+              species.collection_metadata.collected_by
+                ? `
+              <div>
+                <dt class="font-bold inline">Collected by:</dt>
+                <dd class="inline">${species.collection_metadata.collected_by}</dd>
+              </div>
+            `
+                : ""
+            }
+            ${
+              species.collection_metadata.locality
+                ? `
+              <div>
+                <dt class="font-bold inline">Locality:</dt>
+                <dd class="inline">${species.collection_metadata.locality}</dd>
+              </div>
+            `
+                : ""
+            }
+            ${
+              species.collection_metadata.gps_coordinates?.raw
+                ? `
+              <div>
+                <dt class="font-bold inline">GPS Coordinates:</dt>
+                <dd class="inline">${species.collection_metadata.gps_coordinates.raw}</dd>
+              </div>
+            `
+                : ""
+            }
+          </dl>
+        </section>`;
+
+        content.innerHTML = html;
+      }
+
+      // Render standalone section (top-level section with border)
+      function renderStandaloneSection(id, title, data) {
+        let html = `
+        <section id="${id}" class="mb-20 border-t-2 border-black dark:border-white pt-10 scroll-mt-8">
+          <h2 class="text-4xl font-bold mb-6">${title}</h2>
+          <div class="text-xl leading-relaxed mb-6">
+            ${data.text_html || `<p>${data.text}</p>` || '<p class="text-gray-500 dark:text-gray-400">No data available</p>'}
+          </div>
+      `;
+
+        if (data.images && data.images.length > 0) {
+          html += `<div class="space-y-8 mt-8">`;
+          data.images.forEach((img) => {
+            html += `
+            <div>
+              <img src="${img.url}" alt="${img.caption}" class="species-image border-2 border-black dark:border-white mb-2">
+              ${img.caption ? `<p class="text-base italic text-lg">${img.caption}</p>` : ""}
+            </div>
+          `;
+          });
+          html += `</div>`;
+        }
+
+        html += `</section>`;
+        return html;
+      }
+
+      // Render subsection (nested within a parent section, no border)
+      function renderSubsection(id, title, data) {
+        let html = `
+        <div id="${id}" class="mb-10 scroll-mt-8">
+          <h3 class="text-2xl font-bold mb-4">${title}</h3>
+          <div class="text-xl leading-relaxed mb-4">
+            ${data.text_html || `<p>${data.text}</p>` || '<p class="text-gray-500 dark:text-gray-400">No data available</p>'}
+          </div>
+      `;
+
+        if (data.images && data.images.length > 0) {
+          html += `<div class="space-y-6 mt-6">`;
+          data.images.forEach((img) => {
+            html += `
+            <div>
+              <img src="${img.url}" alt="${img.caption}" class="species-image border-2 border-black dark:border-white mb-2">
+              ${img.caption ? `<p class="text-base italic text-lg">${img.caption}</p>` : ""}
+            </div>
+          `;
+          });
+          html += `</div>`;
+        }
+
+        html += `</div>`;
+        return html;
+      }
+
+      // Load species on page load
+      loadSpecies();
+    </script>
+  </body>
+</html>
