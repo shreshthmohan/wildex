@@ -12,3 +12,18 @@ pnpm-debug.log*
 .env.local
 
 dist/
+
+
+
+# Python virtual environments
+spider/.venv/
+spider/**/__pycache__/
+
+# Spider artifacts
+*.log
+
+# Spider output files (keep reference files in spider/output/)
+spider/species-batch-of-*.json
+spider/species-*.json
+spider/species_links.json
+spider/species_output.json

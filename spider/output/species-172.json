@@ -1,0 +1,267 @@
+[
+  {
+    "species_id": 172,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=172",
+    "scraped_at": "2025-10-02T11:36:52.524314Z",
+    "basic_info": {
+      "scientific_name": "Cascabela thevetia",
+      "authority": "(L.) Lippold",
+      "family": "Apocynaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cascabela_thevetia.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.th_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "22 Mar, 2016",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99397 N",
+        "longitude": "79.82368 E",
+        "raw": "11.99397 N - 79.82368 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Cascabela thevetia",
+      "author": "Lippold, Hans (1980)",
+      "family": "Apocynaceae",
+      "english_names": "Yellow oleander",
+      "indian_names": {
+        "Hindi": ["Peeli kaner"],
+        "Marathi": ["Bitti"],
+        "Tamil": ["Arali", "ponnarali"]
+      },
+      "synonyms": [
+        "Cascabela peruviana",
+        "Cerbera linearifolia",
+        "Cerbera peruviana",
+        "Cerbera thevetia",
+        "Thevetia linearis",
+        "Thevetia linearis",
+        "Thevetia neriifolia",
+        "Thevetia neriifolia var. hirsuta",
+        "Thevetia neriifolia var. leucantha",
+        "Thevetia neriifolia var. pubescens",
+        "Thevetia peruviana",
+        "Thevetia peruviana f. aurantiaca",
+        "Thevetia thevetia",
+        "The Plant List, 2015, http://www.theplantlist.org"
+      ],
+      "etymology": "-\nCascabela\n: From the Spanish\ncascabel, cascabela\nfor a small bell, jingle bell, in reference to the flowers of some species of the genus.\n-\nThevetia\n: For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.",
+      "etymology_html": "<p>- <i>Cascabela</i> : From the Spanish <i>cascabel, cascabela</i> for a small bell, jingle bell, in reference to the flowers of some species of the genus.<br>- <i>Thevetia</i> : For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Cascabela thevetia is light brown-coloured and rough. It flakes off in thin and irregular scales.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Cascabela thevetia</i> is light brown-coloured and rough. It flakes off in thin and irregular scales.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem1.jpg",
+            "caption": "Cascabela thevetia stems"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem2.jpg",
+            "caption": "Cascabela thevetia trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem3.jpg",
+            "caption": "Cascabela thevetia bark"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Cascabela thevetia are enclosed into a subellipsoid stone. The stone is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds. The seeds are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Cascabela thevetia</i> are enclosed into a subellipsoid stone. The <strong>stone</strong> is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds.<br>The <strong>seeds</strong> are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed1.jpg",
+            "caption": "Cascabela thevetia stones"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed2.jpg",
+            "caption": "Cascabela thevetia seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed3.jpg",
+            "caption": "Cascabela thevetia stone longitudinal section"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed4.jpg",
+            "caption": "Cascabela thevetia stones"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed5.jpg",
+            "caption": "Cascabela thevetia seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Cascabela thevetia is a globose drupe . The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Cascabela thevetia</i> is a globose <strong>drupe</strong>. The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit1.jpg",
+            "caption": "Cascabela thevetia young fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit2.jpg",
+            "caption": "Cascabela thevetia unripe fruit transversal section"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit3.jpg",
+            "caption": "Cascabela thevetia fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit4.jpg",
+            "caption": "Cascabela thevetia fruit"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Cascabela thevetia are grouped in axillary few-flowered cymes. The calyx is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous. The corolla is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The corolla-lobes are obovate and overlapping, 4 cm long and 3.5 cm wide. The androecium is composed of 5 included stamens at the throat of the tube. The pistil is stout and very short with a conical and large stigma .",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Cascabela thevetia</i> are grouped in axillary few-flowered cymes.<br>The <strong>calyx</strong> is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous.<br>The <strong>corolla</strong> is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The <strong>corolla-lobes</strong> are obovate and overlapping, 4 cm long and 3.5 cm wide.<br>The <strong>androecium</strong> is composed of 5 included stamens at the throat of the tube.<br>The <strong>pistil</strong> is stout and very short with a conical and large <strong>stigma</strong>.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower1.jpg",
+            "caption": "Cascabela thevetia flower colour variations"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower2.jpg",
+            "caption": "Cascabela thevetia flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower3.jpg",
+            "caption": "Cascabela thevetia corolla"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower4.jpg",
+            "caption": "Cascabela thevetia flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower5.jpg",
+            "caption": "Cascabela thevetia flower structures"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower6.jpg",
+            "caption": "Cascabela thevetia flower, bud and young fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower7.jpg",
+            "caption": "Cascabela thevetia flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower8.jpg",
+            "caption": "Cascabela thevetia in bloom"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Cascabela thevetia grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides. The leaves are subsessile. The leaf of Cascabela thevetia is 12-15 cm long and about 1 cm wide. The shape of the blade is linear-lanceolate, the apex is acute, the base is cuneate and the margins are entire.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Cascabela thevetia</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides.<br>The leaves are subsessile.<br>The leaf of <i>Cascabela thevetia</i> is 12-15 cm long and about 1 cm wide. The shape of the <strong>blade</strong> is linear-lanceolate, the <strong>apex</strong> is acute, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf1.jpg",
+            "caption": "Cascabela thevetia twig"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf2.jpg",
+            "caption": "Cascabela thevetia leaf (upper and lower sides)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf3.jpg",
+            "caption": "Cascabela thevetia leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf4.jpg",
+            "caption": "Cascabela thevetia branch"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf5.jpg",
+            "caption": "Cascabela thevetia foliage"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf6.jpg",
+            "caption": "Cascabela thevetia foliage"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Cascabela thevetia is a thornless, small-sized and evergreen tree growing up to 6-8 m high.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Cascabela thevetia</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 6-8 m high.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit1.jpg",
+            "caption": "Cascabela thevetia tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit2.jpg",
+            "caption": "Cascabela thevetia tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit3.jpg",
+            "caption": "Cascabela thevetia young trees"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "Not specified. Cascabela thevetia is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>Not specified.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Cascabela thevetia</i> is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Cascabela thevetia is bisexual (each flower of each individual has both male and female structures). Cascabela thevetia is pollinated by a wide variety of insects and sunbirds (in India). The seeds of Cascabela thevetia are mainly dispersed by frugivorous birds and mammals.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Cascabela thevetia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Cascabela thevetia</i> is pollinated by a wide variety of insects and sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Cascabela thevetia</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction1.jpg",
+            "caption": "Cascabela thevetia flower reproductive structures"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction2.jpg",
+            "caption": "Cascabela thevetia flower reproductive structures"
+          }
+        ]
+      },
+      "phenology": {
+        "text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": "All parts of Cascabela thevetia are poisonous, extremely toxic (cardiac glycosides).",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>All parts of <i>Cascabela thevetia</i> are <strong>poisonous, extremely toxic</strong> (cardiac glycosides).</p>      \n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Cascabela thevetia can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 12 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Cascabela thevetia</i> can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  }
+]
+[
+{"species_id": 172, "url": "https://aurovilleherbarium.org/herbarium.php?id=172", "scraped_at": "2025-10-02T11:55:11.357250Z", "basic_info": {"scientific_name": "Cascabela thevetia", "authority": "(L.) Lippold", "family": "Apocynaceae"}, "images": {"main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cascabela_thevetia.jpg", "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.th_herb1.jpg"}, "collection_metadata": {"date": "22 Mar, 2016", "collected_by": "N.L.I.B.", "gps_coordinates": {"latitude": "11.99397 N", "longitude": "79.82368 E", "raw": "11.99397 N - 79.82368 E"}, "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"}, "nomenclature": {"botanical_name": "Cascabela thevetia", "author": "Lippold, Hans (1980)", "family": "Apocynaceae", "english_names": "Yellow oleander", "indian_names": {"Hindi": ["Peeli kaner"], "Marathi": ["Bitti"], "Tamil": ["Arali", "ponnarali"]}, "synonyms": ["Cascabela peruviana", "Cerbera linearifolia", "Cerbera peruviana", "Cerbera thevetia", "Thevetia linearis", "Thevetia linearis", "Thevetia neriifolia", "Thevetia neriifolia var. hirsuta", "Thevetia neriifolia var. leucantha", "Thevetia neriifolia var. pubescens", "Thevetia peruviana", "Thevetia peruviana f. aurantiaca", "Thevetia thevetia", "The Plant List, 2015, http://www.theplantlist.org"], "etymology": "-\nCascabela\n: From the Spanish\ncascabel, cascabela\nfor a small bell, jingle bell, in reference to the flowers of some species of the genus.\n-\nThevetia\n: For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.", "etymology_html": "<p>- <i>Cascabela</i> : From the Spanish <i>cascabel, cascabela</i> for a small bell, jingle bell, in reference to the flowers of some species of the genus.<br>- <i>Thevetia</i> : For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.</p>"}, "description": {"stem_bark": {"text": "The bark of Cascabela thevetia is light brown-coloured and rough. It flakes off in thin and irregular scales.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Cascabela thevetia</i> is light brown-coloured and rough. It flakes off in thin and irregular scales.</p>      \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem1.jpg", "caption": "Cascabela thevetia stems"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem2.jpg", "caption": "Cascabela thevetia trunk"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem3.jpg", "caption": "Cascabela thevetia bark"}]}, "seed": {"text": "The seeds of Cascabela thevetia are enclosed into a subellipsoid stone. The stone is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds. The seeds are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.", "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Cascabela thevetia</i> are enclosed into a subellipsoid stone. The <strong>stone</strong> is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds.<br>The <strong>seeds</strong> are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.</p>    \n    \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed1.jpg", "caption": "Cascabela thevetia stones"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed2.jpg", "caption": "Cascabela thevetia seeds"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed3.jpg", "caption": "Cascabela thevetia stone longitudinal section"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed4.jpg", "caption": "Cascabela thevetia stones"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed5.jpg", "caption": "Cascabela thevetia seeds"}]}, "fruit": {"text": "The fruit of Cascabela thevetia is a globose drupe . The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Cascabela thevetia</i> is a globose <strong>drupe</strong>. The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.</p>      \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit1.jpg", "caption": "Cascabela thevetia young fruit"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit2.jpg", "caption": "Cascabela thevetia unripe fruit transversal section"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit3.jpg", "caption": "Cascabela thevetia fruit"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit4.jpg", "caption": "Cascabela thevetia fruit"}]}, "flower": {"text": "The flowers of Cascabela thevetia are grouped in axillary few-flowered cymes. The calyx is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous. The corolla is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The corolla-lobes are obovate and overlapping, 4 cm long and 3.5 cm wide. The androecium is composed of 5 included stamens at the throat of the tube. The pistil is stout and very short with a conical and large stigma .", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Cascabela thevetia</i> are grouped in axillary few-flowered cymes.<br>The <strong>calyx</strong> is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous.<br>The <strong>corolla</strong> is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The <strong>corolla-lobes</strong> are obovate and overlapping, 4 cm long and 3.5 cm wide.<br>The <strong>androecium</strong> is composed of 5 included stamens at the throat of the tube.<br>The <strong>pistil</strong> is stout and very short with a conical and large <strong>stigma</strong>.</p>      \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower1.jpg", "caption": "Cascabela thevetia flower colour variations"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower2.jpg", "caption": "Cascabela thevetia flower"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower3.jpg", "caption": "Cascabela thevetia corolla"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower4.jpg", "caption": "Cascabela thevetia flower buds"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower5.jpg", "caption": "Cascabela thevetia flower structures"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower6.jpg", "caption": "Cascabela thevetia flower, bud and young fruit"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower7.jpg", "caption": "Cascabela thevetia flower buds"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower8.jpg", "caption": "Cascabela thevetia in bloom"}]}, "leaf": {"text": "The leaves of Cascabela thevetia grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides. The leaves are subsessile. The leaf of Cascabela thevetia is 12-15 cm long and about 1 cm wide. The shape of the blade is linear-lanceolate, the apex is acute, the base is cuneate and the margins are entire.", "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Cascabela thevetia</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides.<br>The leaves are subsessile.<br>The leaf of <i>Cascabela thevetia</i> is 12-15 cm long and about 1 cm wide. The shape of the <strong>blade</strong> is linear-lanceolate, the <strong>apex</strong> is acute, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.</p>    \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf1.jpg", "caption": "Cascabela thevetia twig"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf2.jpg", "caption": "Cascabela thevetia leaf (upper and lower sides)"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf3.jpg", "caption": "Cascabela thevetia leaves"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf4.jpg", "caption": "Cascabela thevetia branch"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf5.jpg", "caption": "Cascabela thevetia foliage"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf6.jpg", "caption": "Cascabela thevetia foliage"}]}, "habit": {"text": "Cascabela thevetia is a thornless, small-sized and evergreen tree growing up to 6-8 m high.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Cascabela thevetia</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 6-8 m high.</p>      \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit1.jpg", "caption": "Cascabela thevetia tree"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit2.jpg", "caption": "Cascabela thevetia tree"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit3.jpg", "caption": "Cascabela thevetia young trees"}]}}, "ecology": {"distribution": {"text": "Not specified. Cascabela thevetia is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>Not specified.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Cascabela thevetia</i> is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.</p>        </li>\n      \n    </div>", "images": []}, "reproduction_dispersal": {"text": "Cascabela thevetia is bisexual (each flower of each individual has both male and female structures). Cascabela thevetia is pollinated by a wide variety of insects and sunbirds (in India). The seeds of Cascabela thevetia are mainly dispersed by frugivorous birds and mammals.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Cascabela thevetia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Cascabela thevetia</i> is pollinated by a wide variety of insects and sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Cascabela thevetia</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>", "images": [{"url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction1.jpg", "caption": "Cascabela thevetia flower reproductive structures"}, {"url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction2.jpg", "caption": "Cascabela thevetia flower reproductive structures"}]}, "phenology": {"text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )", "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>", "images": []}}, "human_uses": {"others": {"text": null, "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>", "images": []}, "veterinary": {"text": null, "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>", "images": []}, "culinary": {"text": "All parts of Cascabela thevetia are poisonous, extremely toxic (cardiac glycosides).", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>All parts of <i>Cascabela thevetia</i> are <strong>poisonous, extremely toxic</strong> (cardiac glycosides).</p>      \n    </div>", "images": []}}, "conservation": {"reforestation": {"text": "Cascabela thevetia can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 12 hours of soaking in water accelerates the germination process.", "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Cascabela thevetia</i> can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>", "images": []}, "status": {"text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)", "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>", "images": []}}}
+]

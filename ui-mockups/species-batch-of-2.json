@@ -1,0 +1,480 @@
+[
+  {
+    "species_id": 172,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=172",
+    "scraped_at": "2025-10-02T03:29:09.908837Z",
+    "basic_info": {
+      "scientific_name": "Cascabela thevetia",
+      "authority": "(L.) Lippold",
+      "family": "Apocynaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cascabela_thevetia.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.th_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "22 Mar, 2016",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99397 N",
+        "longitude": "79.82368 E",
+        "raw": "11.99397 N - 79.82368 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Cascabela thevetia",
+      "author": "Lippold, Hans (1980)",
+      "family": "Apocynaceae",
+      "english_names": "Yellow oleander",
+      "indian_names": "Hindi :",
+      "synonyms": [
+        "Cascabela peruviana",
+        "Cerbera linearifolia",
+        "Cerbera peruviana",
+        "Cerbera thevetia",
+        "Thevetia linearis",
+        "Thevetia linearis",
+        "Thevetia neriifolia",
+        "Thevetia neriifolia var. hirsuta",
+        "Thevetia neriifolia var. leucantha",
+        "Thevetia neriifolia var. pubescens",
+        "Thevetia peruviana",
+        "Thevetia peruviana f. aurantiaca",
+        "Thevetia thevetia",
+        "The Plant List, 2015, http://www.theplantlist.org"
+      ],
+      "etymology": "-\nCascabela\n: From the Spanish\ncascabel, cascabela\nfor a small bell, jingle bell, in reference to the flowers of some species of the genus.\n-\nThevetia\n: For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.",
+      "etymology_html": "<p>- <i>Cascabela</i> : From the Spanish <i>cascabel, cascabela</i> for a small bell, jingle bell, in reference to the flowers of some species of the genus.<br>- <i>Thevetia</i> : For Andre Thevet (1502-1592), a French traveller in Brazil and Guiana.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Cascabela thevetia is light brown-coloured and rough. It flakes off in thin and irregular scales.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Cascabela thevetia</i> is light brown-coloured and rough. It flakes off in thin and irregular scales.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem1.jpg",
+            "caption": "Cascabela thevetia stems"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem2.jpg",
+            "caption": "Cascabela thevetia trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cascabela_thevetia_stem3.jpg",
+            "caption": "Cascabela thevetia bark"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Cascabela thevetia are enclosed into a subellipsoid stone. The stone is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds. The seeds are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Cascabela thevetia</i> are enclosed into a subellipsoid stone. The <strong>stone</strong> is brown-coloured with a longitudinal and a transversal furrow. Each stone contains 2 seeds.<br>The <strong>seeds</strong> are whitish-coloured and subglobose. They are about 1.3 cm in diameter with a small beak.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed1.jpg",
+            "caption": "Cascabela thevetia stones"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed2.jpg",
+            "caption": "Cascabela thevetia seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed3.jpg",
+            "caption": "Cascabela thevetia stone longitudinal section"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed4.jpg",
+            "caption": "Cascabela thevetia stones"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cascabela_thevetia_seed5.jpg",
+            "caption": "Cascabela thevetia seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Cascabela thevetia is a globose drupe . The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Cascabela thevetia</i> is a globose <strong>drupe</strong>. The fruit is about 3-4 cm across with a 3-4 cm long peduncle. It is green-coloured turning dark brown blackish-coloured when fully ripe. Each drupe contains one stone.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit1.jpg",
+            "caption": "Cascabela thevetia young fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit2.jpg",
+            "caption": "Cascabela thevetia unripe fruit transversal section"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit3.jpg",
+            "caption": "Cascabela thevetia fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cascabela_thevetia_fruit4.jpg",
+            "caption": "Cascabela thevetia fruit"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Cascabela thevetia are grouped in axillary few-flowered cymes. The calyx is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous. The corolla is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The corolla-lobes are obovate and overlapping, 4 cm long and 3.5 cm wide. The androecium is composed of 5 included stamens at the throat of the tube. The pistil is stout and very short with a conical and large stigma .",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Cascabela thevetia</i> are grouped in axillary few-flowered cymes.<br>The <strong>calyx</strong> is composed of 5 triangular sepals. They are 1 cm long and 0.4 mm wide. The calyx is light green-coloured and glabrous.<br>The <strong>corolla</strong> is composed of 5 yellow-coloured petals (sometimes white or pink-coloured). The petals are connate at the base into a 2.5 cm long tube. The <strong>corolla-lobes</strong> are obovate and overlapping, 4 cm long and 3.5 cm wide.<br>The <strong>androecium</strong> is composed of 5 included stamens at the throat of the tube.<br>The <strong>pistil</strong> is stout and very short with a conical and large <strong>stigma</strong>.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower1.jpg",
+            "caption": "Cascabela thevetia flower colour variations"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower2.jpg",
+            "caption": "Cascabela thevetia flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower3.jpg",
+            "caption": "Cascabela thevetia corolla"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower4.jpg",
+            "caption": "Cascabela thevetia flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower5.jpg",
+            "caption": "Cascabela thevetia flower structures"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower6.jpg",
+            "caption": "Cascabela thevetia flower, bud and young fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower7.jpg",
+            "caption": "Cascabela thevetia flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cascabela_thevetia_flower8.jpg",
+            "caption": "Cascabela thevetia in bloom"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Cascabela thevetia grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides. The leaves are subsessile. The leaf of Cascabela thevetia is 12-15 cm long and about 1 cm wide. The shape of the blade is linear-lanceolate, the apex is acute, the base is cuneate and the margins are entire.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Cascabela thevetia</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, glossy and glabrous on both sides.<br>The leaves are subsessile.<br>The leaf of <i>Cascabela thevetia</i> is 12-15 cm long and about 1 cm wide. The shape of the <strong>blade</strong> is linear-lanceolate, the <strong>apex</strong> is acute, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf1.jpg",
+            "caption": "Cascabela thevetia twig"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf2.jpg",
+            "caption": "Cascabela thevetia leaf (upper and lower sides)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf3.jpg",
+            "caption": "Cascabela thevetia leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf4.jpg",
+            "caption": "Cascabela thevetia branch"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf5.jpg",
+            "caption": "Cascabela thevetia foliage"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cascabela_thevetia_leaf6.jpg",
+            "caption": "Cascabela thevetia foliage"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Cascabela thevetia is a thornless, small-sized and evergreen tree growing up to 6-8 m high.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Cascabela thevetia</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 6-8 m high.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit1.jpg",
+            "caption": "Cascabela thevetia tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit2.jpg",
+            "caption": "Cascabela thevetia tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cascabela_thevetia_habit3.jpg",
+            "caption": "Cascabela thevetia young trees"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "Not specified. Cascabela thevetia is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>Not specified.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Cascabela thevetia</i> is native to tropical America. The plant is cultivated as an ornamental tree and naturalized throughout the tropics.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Cascabela thevetia is bisexual (each flower of each individual has both male and female structures). Cascabela thevetia is pollinated by a wide variety of insects and sunbirds (in India). The seeds of Cascabela thevetia are mainly dispersed by frugivorous birds and mammals.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Cascabela thevetia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Cascabela thevetia</i> is pollinated by a wide variety of insects and sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Cascabela thevetia</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction1.jpg",
+            "caption": "Cascabela thevetia flower reproductive structures"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cascabela_thevetia_reproduction2.jpg",
+            "caption": "Cascabela thevetia flower reproductive structures"
+          }
+        ]
+      },
+      "phenology": {
+        "text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": "All parts of Cascabela thevetia are poisonous, extremely toxic (cardiac glycosides).",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>All parts of <i>Cascabela thevetia</i> are <strong>poisonous, extremely toxic</strong> (cardiac glycosides).</p>      \n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Cascabela thevetia can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 12 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Cascabela thevetia</i> can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 365,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=365",
+    "scraped_at": "2025-10-02T03:29:13.980217Z",
+    "basic_info": {
+      "scientific_name": "Setaria flavida",
+      "authority": null,
+      "family": "Poaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/67820a4510939_67820a4510930_Se.fl_mp.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Se.fl_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "23 Oct, 2024",
+      "collected_by": "M.d.H, U.M.P.",
+      "gps_coordinates": {
+        "latitude": "11°59'15 N",
+        "longitude": "79°48'23 E",
+        "raw": "11°59'15 N- 79°48'23 E"
+      },
+      "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Setaria flavida",
+      "author": "(Retz.) Veldkamp, Jan Frederik (1994)",
+      "family": "Poaceae",
+      "english_names": "Yellow water-crown grass",
+      "indian_names": "- Tamil:",
+      "synonyms": [
+        "Panicum flavidum",
+        "Paspalidium flavidum",
+        "Panicum flavidum var. orarium",
+        "Panicum floridum",
+        "Panicum granulare",
+        "Paspalidium breviflorum",
+        "Paspalum villosum"
+      ],
+      "etymology": "-\nSetaria\n: From the Latin word\nseta\n, meaning bristle or hair, which refers to the bristly spikelets.\n-\nflavida\n: From the Latin word which describe pale yellow colour, referring to the creamy yellow florets.",
+      "etymology_html": "<p>- <i>Setaria</i>: From the Latin word <i>seta</i>, meaning bristle or hair, which refers to the bristly spikelets.<br>- <i>flavida</i>: From the Latin word which describe pale yellow colour, referring to the creamy yellow florets.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The culms of Setaria flavida are growing 15 to 65 cm long. The culms are tufted, with a decumbent base. The nodes are glabrous.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Setaria flavida are growing 15 to 65 cm long.  <br>The culms are tufted, with a decumbent base. <br>The nodes are glabrous.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.fl_st3.jpg",
+            "caption": "Setaria flavida blooming culm"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.fl_st1.jpg",
+            "caption": "Setaria flavida culm"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.fl_st2.jpg",
+            "caption": "Setaria flavida roots"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.fl_st4.jpg",
+            "caption": "Setaria flavida rachis (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.fl_st5.jpg",
+            "caption": "Setaria flavida culm"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The fruits of Setaria flavida is a caryopis. The grain is up to 1.5 mm long, and is ovoid in shape.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruits of Setaria flavida is a caryopis. <br>The grain is up to 1.5 mm long, and is ovoid in shape.</p>    \n    \n    </div>",
+        "images": []
+      },
+      "fruit": {
+        "text": "The fruits of Setaria flavida is a caryopis. The grain is up to 1.5 mm long, and is ovoid in shape.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Setaria flavida is a caryopis. <br>The grain is up to 1.5 mm long, and is ovoid in shape.</p>      \n    </div>",
+        "images": []
+      },
+      "flower": {
+        "text": "The inflorescences of Setaria flavida are spiciform and 10 to 25 cm long. The racemes are growing alternate, by 4 to 8 in number. Each raceme is 1 to 2 cm long, with a narrowly winged rachis. The spikelets are 10 to 25 per raceme, 1-3 mm long, globose and gibbous. The lower glume is 0.5-1 x 1-1.5 mm, orbicular. The upper glume is 2-3 x 1.5-2 mm, ovate. The lower floret is barren. The upper floret is bisexual. There are 3 stamens. The ovary is oblong.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Setaria flavida are spiciform and 10 to 25 cm long. <br>The racemes are growing alternate, by 4 to 8 in number. <br>Each raceme is 1 to 2 cm long, with a narrowly winged rachis. <br>The spikelets are 10 to 25 per raceme, 1-3 mm long, globose and gibbous. <br>The lower glume is 0.5-1 x 1-1.5 mm, orbicular. <br>The upper glume is 2-3 x 1.5-2 mm, ovate. <br>The lower floret is barren. The upper floret is bisexual.<br>There are 3 stamens. <br>The ovary is oblong.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl1.jpg",
+            "caption": "Setaria flavida flowering raceme"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl3.jpg",
+            "caption": "Setaria flavida closed florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl4.jpg",
+            "caption": "Setaria flavida floret showing yellow anthers and white pistils"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl2.jpg",
+            "caption": "Setaria flavida florets with yellow anthers and white pistils"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl6.jpg",
+            "caption": "Setaria flavida florets with yellow anthers and white pistils"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl8.jpg",
+            "caption": "Setaria flavida floret with yellow hanging anthers and white pistils"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl7.jpg",
+            "caption": "Setaria flavida florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl5.jpg",
+            "caption": "Setaria flavida raceme"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl10.jpg",
+            "caption": "Setaria flavida florets with yellow hanging anthers and white pistils"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.fl_fl9.jpg",
+            "caption": "Setaria flavida young immature raceme"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Setaria flavida are flat or folded, and linear in shape. The leaf base is round and the apex is blunt. They are 7 to 20 cm long and 0.3 to 0.7 cm wide. The sheaths are up to 10 cm long, compressed and strongly keeled. The ligules are annular.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Setaria flavida are flat or folded, and linear in shape. <br>The leaf base is round and the apex is blunt. <br>They are 7 to 20 cm long and 0.3 to 0.7 cm wide. <br>The sheaths are up to 10 cm long, compressed and strongly keeled. <br>The ligules are annular.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf3.jpg",
+            "caption": "Setaria flavida leaf"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf1.jpg",
+            "caption": "Setaria flavida leaf apex"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf2.jpg",
+            "caption": "Setaria flavida leaf apex"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf4.jpg",
+            "caption": "Setaria flavida ligule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf5.jpg",
+            "caption": "Setaria flavida ligule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf6.jpg",
+            "caption": "Setaria flavida leaf blade"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.fl_lf7.jpg",
+            "caption": "Setaria flavida leaf arrangement"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Setaria flavida is a tufted annual or perennial herb, growing up to 65 cm.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Setaria flavida is a tufted annual or perennial herb, growing up to 65 cm.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Se.fl_ha1.jpg",
+            "caption": "Setaria flavida habit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Se.fl_ha2.jpg",
+            "caption": "Setaria flavida habit"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "Setaria flavida is found in plains and marsh localities.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>Setaria flavida is found in plains and marsh localities.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": "Setaria flavida is an ornamental grass used in landscaping.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Setaria flavida is an ornamental grass used in landscaping.</p>      \n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+        "images": []
+      }
+    }
+  }
+]

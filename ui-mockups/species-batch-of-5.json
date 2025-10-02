@@ -1,0 +1,1400 @@
+[
+  {
+    "species_id": 33,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=33",
+    "scraped_at": "2025-10-01T17:41:44.944055Z",
+    "basic_info": {
+      "scientific_name": "Polyalthia suberosa",
+      "authority": "(Roxb.) Thwaites",
+      "family": "Annonaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/polyalthia_suberosa.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Po.su_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "14 May, 2015",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99480 N",
+        "longitude": "79.82204 E",
+        "raw": "11.99480 N - 79.82204 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Polyalthia suberosa",
+      "author": "Thwaites, George Henry Kendrick (1864)",
+      "family": "Annonaceae",
+      "english_names": "Not specified",
+      "indian_names": "Hindi :",
+      "synonyms": [
+        "Guatteria suberosa",
+        "Uvaria suberosa",
+        "The Plant List, 2015, http://www.theplantlist.org)"
+      ],
+      "etymology": "-\nPolyalthia\n: Multi-healing ; from the Greek\npolys\n\"many\" and\nalthos\n\"a cure, something that heals, a healing\", referring to its use in native and popular medicine.\n-\nSuberosa\n: Corky.",
+      "etymology_html": "<p>- <i>Polyalthia</i> : Multi-healing ; from the Greek <i>polys</i> \"many\" and <i>althos</i> \"a cure, something that heals, a healing\", referring to its use in native and popular medicine.<br>- <i>Suberosa</i> : Corky.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Polyalthia suberosa is corky, ridged (deeply fissured) and brown-greyish coloured. The young branchlets are rufous and tomentose.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Polyalthia suberosa</i> is corky, ridged (deeply fissured) and brown-greyish coloured. <br>The young branchlets are rufous and tomentose.<br> </p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/polyalthia_suberosa_stem1.jpg",
+            "caption": "Polyalthia suberosa trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/polyalthia_suberosa_stem2.jpg",
+            "caption": "Polyalthia suberosa bark"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Po.su_st3.jpg",
+            "caption": "Polyalthia suberosa branches"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Po.su_st1.jpg",
+            "caption": "Polyalthia suberosa branches"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Po.su_st2.jpg",
+            "caption": "Polyalthia suberosa branchlet"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Polyalthia suberosa are globose and smooth. There is one seed per drupe.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Polyalthia suberosa</i> are globose and smooth. There is one seed per drupe.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/polyalthia_suberosa_seed1.jpg",
+            "caption": "Polyalthia suberosa seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/polyalthia_suberosa_seed2.jpg",
+            "caption": "Polyalthia suberosa seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Polyalthia suberosa is an aggregate of drupes. The fruitlets are subglobose and 6-7 mm across. The fruits are violet-black when ripe with a 4-5 mm long and slender stalk.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Polyalthia suberosa</i> is an aggregate of drupes. The fruitlets are subglobose and 6-7 mm across. The fruits are violet-black when ripe with a 4-5 mm long and slender stalk.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit1.jpg",
+            "caption": "Polyalthia suberosa ripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit2.jpg",
+            "caption": "Polyalthia suberosa dry fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit3.jpg",
+            "caption": "Polyalthia suberosa fruits (ripe, right and unripe, left)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit4.jpg",
+            "caption": "Polyalthia suberosa unripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit6.jpg",
+            "caption": "Polyalthia suberosa not yet ripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_suberosa_fruit5.jpg",
+            "caption": "Polyalthia suberosa ripe fruits"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Polyalthia suberosa are solitary and axillary. The pedicel is slender and about 1-1.5 cm long. The calyx is composed of 3 ovate-triangular and spreading sepals. They are 2 mm long and 2 mm wide. The sepals are light green, pubescent outside and glabrous inside. The corolla is composed of 6 (3+3) yellowish green petals. The outer petals are ovate-triangular (acute apex), shorter than inner petals (3x2 mm), outside pubescent and inside glabrous. The inner petals are oblong with an acute apex, erect and curved, 6-8 mm long and 3 mm wide. The androecium is composed of numerous, 1 mm long stamens. The pistil is composed of a short and oblong style and a triangular and flat stigma . There are 1 or 2 ovules per carpel. The carpels are stalked and pubescent.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Polyalthia suberosa</i> are solitary and axillary. The <strong>pedicel</strong> is slender and about 1-1.5 cm long.<br>The <strong>calyx</strong> is composed of 3 ovate-triangular and spreading sepals. They are 2 mm long and 2 mm wide. The sepals are light green, pubescent outside and glabrous inside.<br>The <strong>corolla</strong> is composed of 6 (3+3) yellowish green petals. The outer petals are ovate-triangular (acute apex), shorter than inner petals (3x2 mm), outside pubescent and inside glabrous. The inner petals are oblong with an acute apex, erect and curved, 6-8 mm long and 3 mm wide.<br>The <strong>androecium</strong> is composed of numerous, 1 mm long stamens.<br>The <strong>pistil</strong> is composed of a short and oblong style and a triangular and flat <strong>stigma</strong>. There are 1 or 2 <strong>ovules</strong> per carpel. The <strong>carpels</strong> are stalked and pubescent.<br> </p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower1.jpg",
+            "caption": "Polyalthia suberosa solitary flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower2.jpg",
+            "caption": "Polyalthia suberosa flower (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower3.jpg",
+            "caption": "Polyalthia suberosa flower (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower4.jpg",
+            "caption": "Polyalthia suberosa pollinated flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower5.jpg",
+            "caption": "Polyalthia suberosa flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower6.jpg",
+            "caption": "Polyalthia suberosa flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower7.jpg",
+            "caption": "Polyalthia suberosa flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_suberosa_flower8.jpg",
+            "caption": "Polyalthia suberosa flower (lower side)"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Polyalthia suberosa grow alternately on the stem (distichous). The leaves have a 0.5 cm long petiole. The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides (some minute hairs on the margins and on the midrib beneath). The leaf of Polyalthia suberosa is 8-13 cm long and 3-4 cm wide. The shape is elliptic, the apex is acute to acuminate (sometimes obtuse), the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Polyalthia suberosa</i> grow alternately on the stem (distichous).<br>The leaves have a 0.5 cm long petiole.<br>The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides (some minute hairs on the margins and on the midrib beneath).<br>The leaf of <i>Polyalthia suberosa</i> is 8-13 cm long and 3-4 cm wide. The shape is elliptic, the <strong>apex</strong> is acute to acuminate (sometimes obtuse), the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf1.jpg",
+            "caption": "Polyalthia suberosa branchlet"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf2.jpg",
+            "caption": "Polyalthia suberosa leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf3.jpg",
+            "caption": "Polyalthia suberosa leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf4.jpg",
+            "caption": "Polyalthia suberosa leaf (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf5.jpg",
+            "caption": "Polyalthia suberosa new leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf6.jpg",
+            "caption": "Polyalthia suberosa foliage"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf7.jpg",
+            "caption": "Polyalthia suberosa leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_suberosa_leaf8.jpg",
+            "caption": "Polyalthia suberosa leaf (lower side)"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Polyalthia suberosa is a twiggy, small and evergreen tree up to 5-6 m.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Polyalthia suberosa</i> is a twiggy, small and <strong>evergreen tree</strong> up to 5-6 m.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/polyalthia_suberosa_habit1.jpg",
+            "caption": "Polyalthia suberosa young tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/polyalthia_suberosa_habit2.jpg",
+            "caption": "Polyalthia suberosa young tree"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "Polyalthia suberosa is an understorey species of evergreen forests of the coasts from the plains to 1000 m on the hills. Indo-Malesia biogeographical region.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Polyalthia suberosa</i> is an understorey species of evergreen forests of the coasts from the plains to 1000 m on the hills.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Polyalthia suberosa is bisexual (each flower of each individual has both male and female structures). Polyalthia suberosa is pollinated by a wide variety of insects. The seeds of Polyalthia suberosa are mainly dispersed by frugivorous birds and mammals.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Polyalthia suberosa</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Polyalthia suberosa</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Polyalthia suberosa</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "Throughout the year. Throughout the year . Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year .</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": "The fruits of Polyalthia suberosa are edible.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruits</strong> of <i>Polyalthia suberosa</i> are edible.</p>      \n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Polyalthia suberosa is able to grow in a wide range of soils but all soils need to be free draining. This tree is drought tolerant and prefers to establish in the shade. Polyalthia suberosa is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Polyalthia suberosa</i> is able to grow in a wide range of soils but all soils need to be free draining. This tree is drought tolerant and prefers to establish in the shade.<br><i>Polyalthia suberosa</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 301,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=301",
+    "scraped_at": "2025-10-01T19:21:44.899428Z",
+    "basic_info": {
+      "scientific_name": "Syzygium caryophyllatum",
+      "authority": null,
+      "family": "Myrtaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/65251839ab964_65251839ab954_Sy.ca_mp2.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Sy.ca_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "07 Sep, 2023",
+      "collected_by": "A.S, M.D, S.G",
+      "gps_coordinates": {
+        "latitude": "12°10'51 N",
+        "longitude": "79°17'21 E",
+        "raw": "12°10'51 N - 79°17'21 E"
+      },
+      "locality": "Auroville Botanical Gardens and Pakkamalai RF, Gingee, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Syzygium caryophyllatum",
+      "author": "Alston, Arthur Hugh Garfit (1931)",
+      "family": "Myrtaceae",
+      "english_names": "Dwarf black Plum tree, Indian Blackberry",
+      "indian_names": "- tamil:",
+      "synonyms": [
+        "Calyptranthes caryophyllata",
+        "Jambosa caryophyllata",
+        "Myrtus caryophyllata",
+        "Eugenia",
+        "caryophyllaea",
+        "Eugenia corymbosa",
+        "Syzygium bournei",
+        "Syzygium caryophyllaeum",
+        "Syzygium caryophyllatum var. abrahamianum"
+      ],
+      "etymology": "-\nSyzygium\n: From the Greek\nsyzygos\n\"coupled, joined\", in reference to the paired branches and leaves.\n-\ncaryophyllatum\n: From the Greek\ncaryon\n\"nut\" and\nphyllatum\n\"leaves\", for this tree resembling or associated with the clove plant.",
+      "etymology_html": "<p>- <i>Syzygium</i>: From the Greek <i>syzygos</i> \"coupled, joined\", in reference to the paired branches and leaves.<br>- <i>caryophyllatum</i>: From the Greek <i>caryon</i> \"nut\" and <i>phyllatum</i> \"leaves\", for this tree resembling or associated with the clove plant.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Syzygium caryophyllatum is grey in colour and smooth. The branchlets are subterete and glabrous.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Syzygium caryophyllatum is grey in colour and smooth. <br>The branchlets are subterete and glabrous.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st1.jpg",
+            "caption": "Syzygium caryophyllatum branches on young specimen"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st2.jpg",
+            "caption": "Syzygium caryophyllatum young stem"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st3.jpg",
+            "caption": "Syzygium caryophyllatum twig"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st4%20.jpg",
+            "caption": "Syzygium caryophyllatum leaves on stem"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seed of Syzygium caryophyllatum is enclosed in the flesh of the berry. It is about 0.5 cm across, light beige in colour. It is composed of 2 half green spheres, protected in a shell.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seed of Syzygium caryophyllatum is enclosed in the flesh of the berry.<br>It is about 0.5 cm across, light beige in colour.<br>It is composed of 2 half green spheres, protected in a shell.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd1.jpg",
+            "caption": "Syzygium caryophyllatum seed enclosed in the berry"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd2.jpg",
+            "caption": "Syzygium caryophyllatum seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd3.jpg",
+            "caption": "Syzygium caryophyllatum seeds and their shell"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruits of Syzygium caryophyllatum are globose berries. The berry is crowned with the calyx lobes and it is glabrous. It is 0.5 cm across. The fruits are green, then pink and turn a deep purple or black colour at maturity. The fruits are edible.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Syzygium caryophyllatum are globose berries. <br>The berry is crowned with the calyx lobes and it is glabrous. <br>It is 0.5 cm across. <br>The fruits are green, then pink and turn a deep purple or black colour at maturity. <br>The fruits are edible.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr1.jpg",
+            "caption": "Syzygium caryophyllatum globose berries"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr2.jpg",
+            "caption": "Syzygium caryophyllatum fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr3.jpg",
+            "caption": "Syzygium caryophyllatum unripe young fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr4.jpg",
+            "caption": "Syzygium caryophyllatum unripe young fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr6.jpg",
+            "caption": "Syzygium caryophyllatum ripe berries"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr5.jpg",
+            "caption": "Syzygium caryophyllatum globose berry"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The inflorescences of Syzygium caryophyllatum are growing in terminal corymbose cymes. The flowers are bisexual. They are white in colour and 0.5 cm in size. The petals are calyptrate, with numerous stamens which bent inwards at the middle when in bud.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Syzygium caryophyllatum are growing in terminal corymbose cymes. <br>The flowers are bisexual. <br>They are white in colour and 0.5 cm in size. <br>The petals are calyptrate, with numerous stamens which bent inwards at the middle when in bud.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl1.jpg",
+            "caption": "Syzygium caryophyllatum flowers in cymes"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl2.jpg",
+            "caption": "Syzygium caryophyllatum flowers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl3.jpg",
+            "caption": "Syzygium caryophyllatum flower with numerous stamens"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl4.jpg",
+            "caption": "Syzygium caryophyllatum inflorescence"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Syzygium caryophyllatum are simple, growing in an opposite and decussate arrangement. The petiole is less than 1cm long, canaliculate and glabrous. The leaves are 5 to 10 cm long and 1.5 to 4 cm wide. The leaf is obovate in shape, the apex is obtuse, the base is attenuate to acute and the margin is entire. There are many lateral nerves close, slender and prominent looped at the margin.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Syzygium caryophyllatum are simple, growing in an opposite and decussate arrangement. <br>The petiole is less than 1cm long, canaliculate and glabrous. <br>The leaves are 5 to 10 cm long and 1.5 to 4 cm wide. <br>The leaf is obovate in shape, the apex is obtuse, the base is attenuate to acute and the margin is entire. <br>There are many lateral nerves close, slender and prominent looped at the margin.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf1.jpg",
+            "caption": "Syzygium caryophyllatum leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf2.jpg",
+            "caption": "Syzygium caryophyllatum leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf3.jpg",
+            "caption": "Syzygium caryophyllatum opposite decussate leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf4.jpg",
+            "caption": "Syzygium caryophyllatum leaf arrangement"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf5.jpg",
+            "caption": "Syzygium caryophyllatum young leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf7.jpg",
+            "caption": "Syzygium caryophyllatum leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf8.jpg",
+            "caption": "Syzygium caryophyllatum leaf (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf9.jpg",
+            "caption": "Syzygium caryophyllatum nervation"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf10.jpg",
+            "caption": "Syzygium caryophyllatum leaves on stem"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Syzygium caryophyllatum is a small evergreen tree, growing up to 6 m in height.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Syzygium caryophyllatum is a small evergreen tree, growing up to 6 m in height.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha1.jpg",
+            "caption": "Syzygium caryophyllatum habit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha2.jpg",
+            "caption": "Syzygium caryophyllatum foliage"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha3.jpg",
+            "caption": "Syzygium caryophyllatum young specimen"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "EN",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>EN</p>  \n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 345,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=345",
+    "scraped_at": "2025-10-01T19:21:41.346588Z",
+    "basic_info": {
+      "scientific_name": "Cymbopogon martini",
+      "authority": null,
+      "family": "Poaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/671f1d20be205_671f1d20be200_Cy.ma_mp.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Cy.ma_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "27 Aug, 2024",
+      "collected_by": "M.D",
+      "gps_coordinates": {
+        "latitude": "11°59'14 N",
+        "longitude": "79°48'22 E",
+        "raw": "11°59'14 N- 79°48'22 E"
+      },
+      "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Cymbopogon martini",
+      "author": "(Roxb.) Watson, Sir William (1882)",
+      "family": "Poaceae",
+      "english_names": "Palmarosa grass, Geranium grass, Ginger grass, Rusha grass",
+      "indian_names": "- Tamil:",
+      "synonyms": [
+        "Andropogon martini",
+        "Andropogon schoenanthus var. martini",
+        "Cymbopogon martinianus",
+        "Gymnanthelia martini",
+        "Andropogon calamus-aromaticus",
+        "Andropogon pachnodes",
+        "Cymbopogon martini var. sofia",
+        "Cymbopogon motia",
+        "Cymbopogon pachnodes"
+      ],
+      "etymology": "-\nCymbopogon\n: From the Greek words\nkymbe\n- boat and\npogon\n- beard, alluding to the fact that in most species, the hairy spikelets project from boat-shaped spathes.\n-\nmartini\n: After Claude Martin (1731–1800), French-born British soldier who collected plants in India.",
+      "etymology_html": "<p>- <i>Cymbopogon</i>: From the Greek words <i>kymbe</i>- boat and <i>pogon</i>- beard, alluding to the fact that in most species, the hairy spikelets project from boat-shaped spathes.<br>- <i>martini</i>: After Claude Martin (1731–1800), French-born British soldier who collected plants in India.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The culms of Cymbopogon martini are growing from 1.5 m up to 3 m long. They arise from a short, stout, woody rootstock. The culm-nodes flush with the internodes, the lower nodes are often swollen.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Cymbopogon martini are growing from 1.5 m up to 3 m long. <br>They arise from a short, stout, woody rootstock. <br>The culm-nodes flush with the internodes, the lower nodes are often swollen.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cy.ma_st1.jpg",
+            "caption": "Cymbopogon martini stem base"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cy.ma_st2.jpg",
+            "caption": "Cymbopogon martini node"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cy.ma_st3.jpg",
+            "caption": "Cymbopogon martini sheaths at the plant base"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The fruits of Cymbopogon martini is a caryopsis, oblong, subterete to plano-convex.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruits of Cymbopogon martini is a caryopsis, oblong, subterete to plano-convex.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Cy.ma_sd1.jpg",
+            "caption": "Cymbopogon martin seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruits of Cymbopogon martini is a caryopsis, oblong, subterete to plano-convex.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Cymbopogon martini is a caryopsis, oblong, subterete to plano-convex.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cy.ma_fr1.jpg",
+            "caption": "Cymbopogon martini awned florets ready for seeding"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cy.ma_fr2.jpg",
+            "caption": "Cymbopogon martini florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cy.ma_fr3.jpg",
+            "caption": "Cymbopogon martini florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cy.ma_fr4.jpg",
+            "caption": "Cymbopogon martini hairy lemmas"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cy.ma_fr5.jpg",
+            "caption": "Cymbopogon martini isolated hairy caryopsis with its long awn"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Cymbopogon martini are growing in erect false panicles. The false panicles are linear-oblong, up to 30 cm long. The spatheoles are narrowly elliptic or lanceshaped, 2 to 4 cm long. The spatheoles are green in colour becoming orange or red at maturity. The racemes are 1.5 to 2 cm long, the lowermost pedicle is swollen and barrel-shaped. The internodes and flower-stalks are densely fringed with hairs along the margins and are sparsely hairy on the back. The sessile spikelets are elliptic-oblong or oblong in shape and about 4.5 mm in size. The lower glume is flat on the back in the upper half and with a deep V-shaped groove in the lower. The keels are winged above. The upper lemma is deeply bifid, with an awn of 1.2 to 1.8 cm long.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Cymbopogon martini are growing in erect false panicles. <br>The false panicles are linear-oblong, up to 30 cm long. <br>The spatheoles are narrowly elliptic or lanceshaped, 2 to 4 cm long.<br>The spatheoles are green in colour becoming orange or red at maturity. <br>The racemes are 1.5 to 2 cm long, the lowermost pedicle is swollen and barrel-shaped. <br>The internodes and flower-stalks are densely fringed with hairs along the margins and are sparsely hairy on the back.<br>The sessile spikelets are elliptic-oblong or oblong in shape and about 4.5 mm in size. <br>The lower glume is flat on the back in the upper half and with a deep V-shaped groove in the lower. <br>The keels are winged above. <br>The upper lemma is deeply bifid, with an awn of 1.2 to 1.8 cm long.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl1.jpg",
+            "caption": "Cymbopogon martini spikelet"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl2.jpg",
+            "caption": "Cymbopogon martini florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl3.jpg",
+            "caption": "Cymbopogon martini florets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl4.jpg",
+            "caption": "Cymbopogon martini floret with awns"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl6.jpg",
+            "caption": "Cymbopogon martini hanging yellow anthers and bicolor awns on the upper lemma"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl7.jpg",
+            "caption": "Cymbopogon martini floret with purple stigmas and yellow anthers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl9.jpg",
+            "caption": "Cymbopogon martini florets with purple stigmas, yellow anthers, yellow and black awns"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl10.jpg",
+            "caption": "Cymbopogon martini floret with purple stigmas"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl5.jpg",
+            "caption": "Cymbopogon martini florets with purple stigmas and yellow hanging anthers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cy.ma_fl8.jpg",
+            "caption": "Cymbopogon martini immature spikelet"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaf of Cymbopogon martini are linear or lanceshaped. The blades are up to 50 cm long and 1 to 3 cm wide. The leaves are glaucous or powdery on the lower side, and green to dark green on the upper side. The leaves feel prickly even without hairs.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of Cymbopogon martini are linear or lanceshaped. <br>The blades are up to 50 cm long and 1 to 3 cm wide. <br>The leaves are glaucous or powdery on the lower side, and green to dark green on the upper side. <br>The leaves feel prickly even without hairs.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf1.jpg",
+            "caption": "Cymbopogon martini leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf6.jpg",
+            "caption": "Cymbopogon martini leaf arrangement on the culm"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf2.jpg",
+            "caption": "Cymbopogon martini leaf ligule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf7.jpg",
+            "caption": "Cymbopogon martini leaf ligule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf4.jpg",
+            "caption": "Cymbopogon martini full leaf blade"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf5.jpg",
+            "caption": "Cymbopogon martini ligule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cy.ma_lf3.jpg",
+            "caption": "Cymbopogon martini leaf nervation"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Cymbopogon martini is a tufted perennial aromatic herb with numerous erect culms arising from a short, stout, woody rhizome. The stems are up to 3 m tall.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Cymbopogon martini is a tufted perennial aromatic herb with numerous erect culms arising from a short, stout, woody rhizome. <br>The stems are up to 3 m tall.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cy.ma_ha1.jpg",
+            "caption": "Cymbopogon martini habit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cy.ma_ha2.jpg",
+            "caption": "Cymbopogon martini tuft habit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cy.ma_ha3.jpg",
+            "caption": "Cymbopogon martini habit"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 203,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=203",
+    "scraped_at": "2025-10-01T19:21:34.486493Z",
+    "basic_info": {
+      "scientific_name": "Wrightia arborea",
+      "authority": null,
+      "family": "Apocynaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62297f75791e1_62297f75791d6_Wr.ar_mp.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Wr.ar_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "07 Jun, 2021",
+      "collected_by": "A.A.S., M.N., S.S.",
+      "gps_coordinates": {
+        "latitude": "11.5939 N",
+        "longitude": "79.4811 E",
+        "raw": "11.5939 N - 79.4811 E"
+      },
+      "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Wrightia arborea",
+      "author": "Mabberley, David (1948)",
+      "family": "Apocynaceae",
+      "english_names": "Woolly dyeing rosebay",
+      "indian_names": "Tamil:",
+      "synonyms": [
+        "Beaumontia wallichii",
+        "Chonemorpha vestita",
+        "Echites tomentosus",
+        "Echites vestitus",
+        "Hunteria eugeniifolia",
+        "Nerium corae",
+        "Nerium tomentosum",
+        "Periploca arborea",
+        "Wrightia coalita",
+        "Wrightia coraia",
+        "Wrightia hamiltoniana",
+        "Wrightia mollissima",
+        "Wrightia pubescens",
+        "Wrightia rheedei",
+        "Wrightia tomentosa",
+        "Wrightia tomentosa subsp. pauciflora",
+        "Wrightia wallichii"
+      ],
+      "etymology": "-\nWrightia\n: For Dr William Wright (1740 - 1827), Scottish botanist\n-\narborea\n: From the Latin \"tree\"",
+      "etymology_html": "<p>- <i>Wrightia</i>: For Dr William Wright (1740 - 1827), Scottish botanist <br>- <i>arborea</i>: From the Latin \"tree\"</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Wrightia arborea is grey with lenticels. It grows thick and corky when ageing. The stem of Wrightia arborea can grow up to 40 cm in diameter. The branches have slight tomentose.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Wrightia arborea is grey with lenticels. It grows thick and corky when ageing.<br>The stem of Wrightia arborea can grow up to 40 cm in diameter. <br>The branches have slight tomentose.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229808ed16b5_Wr.ar_bk1.jpg",
+            "caption": "Wrightia arborea grey trunk with lenticels"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229809023379_Wr.ar_bk2.jpg",
+            "caption": "Wrightia arborea trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622980994e04b_Wr.ar_bk3.jpg",
+            "caption": "Wrightia arborea grey bark with lenticels"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229809c4b886_Wr.ar_st1.jpg",
+            "caption": "Wrightia arborea stem"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622980a09ce6b_Wr.ar_st2.jpg",
+            "caption": "Wrightia arborea branches"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Wrightia arborea are contained within the 2 cylindric fruits joined together. The seeds are linear, with a tuft of soft hairs at one end.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Wrightia arborea are contained within the 2 cylindric fruits joined together. <br>The seeds are linear, with a tuft of soft hairs at one end.</p>    \n    \n    </div>",
+        "images": []
+      },
+      "fruit": {
+        "text": "The fruit of Wrightia arborea is composed of 2 long seedpods joined together. The length of the fruit is more than 15 cm. They are green and covered with thin brown hairs, turning dark brown when mature.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Wrightia arborea is composed of 2 long seedpods joined together. <br>The length of the fruit is more than 15 cm. <br>They are green and covered with thin brown hairs, turning dark brown when mature.</p>      \n    </div>",
+        "images": []
+      },
+      "flower": {
+        "text": "The flowers of Wrightia arborea are pale yellow or flesh pink with a strong orange-red corona of 5 scales at the centre. The 5 petals are covered with a thin velvet. The size of the flower of Wrightia arborea is between 1 to 3 cm. The flowers of Wrightia arborea are organised in corymbose cymes at the end of the branches. They are bisexual.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Wrightia arborea are pale yellow or flesh pink with a strong orange-red corona of 5 scales at the centre. <br>The 5 petals are covered with a thin velvet. <br>The size of the flower of Wrightia arborea is between 1 to 3 cm. <br>The flowers of Wrightia arborea are organised in corymbose cymes at the end of the branches. <br>They are bisexual.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62297ffff1d03_Wr.ar_fl1.jpg",
+            "caption": "Wrightia arborea flowers at the tip of the branch"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62298000a9ce0_Wr.ar_fl2.jpg",
+            "caption": "Wrightia arborea flower and buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62298008b45b1_Wr.ar_fl3.jpg",
+            "caption": "Wrightia arborea flower and buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229800ae7fcd_Wr.ar_fl4.jpg",
+            "caption": "Wrightia arborea flowers and buds on stem"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62298011ca036_Wr.ar_fl5.jpg",
+            "caption": "Wrightia arborea flower with corona of red scales at the centre"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62298014c4f02_Wr.ar_fl6.jpg",
+            "caption": "Wrightia arborea flower with corona of red scales at the centre"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6347ec0b53958_Wr.ar_fl7.jpg",
+            "caption": "Wrightia arborea flowers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6347ec0e7e08f_Wr.ar_fl8.jpg",
+            "caption": "Wrightia arborea flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6347ec12ab6c4_Wr.ar_fl9.jpg",
+            "caption": "Wrightia arborea flower"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaf of Wrightia arborea is simple, with a velvety surface on the upper side. The lower side of the leaves has apparent veins. The shape of Wrightia arborea leaf is eliptic or obovate with fine tips. The length of the leaf is between 5 and 10 cm, the width of the leaves between 1.5 and 5cm. The leaves arrangement is opposite along the stem.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of Wrightia arborea is simple, with a velvety surface on the upper side. <br>The lower side of the leaves has apparent veins. <br>The shape of Wrightia arborea leaf is eliptic or obovate with fine tips. <br>The length of the leaf is between 5 and 10 cm, the width of the leaves between 1.5 and 5cm. <br>The leaves arrangement is opposite along the stem. </p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fbe54298_Wr.ar_lf1.jpg",
+            "caption": "Wrightia arborea opposite leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fc11c965_Wr.ar_lf2.jpg",
+            "caption": "Wrightia arborea leaves"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fc5b5d71_Wr.ar_lf3.jpg",
+            "caption": "Wrightia arborea opposite group of leaves (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fc8aa6e2_Wr.ar_lf4.jpg",
+            "caption": "Wrightia arborea opposite group of leaves (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fce029b4_Wr.ar_lf5.jpg",
+            "caption": "Wrightia arborea leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fd197fa2_Wr.ar_lf6.jpg",
+            "caption": "Wrightia arborea leaf (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297fd940b84_Wr.ar_lf7.jpg",
+            "caption": "Wrightia arborea leaf with tiny hairs"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Wrightia arborea is a small deciduous tree growing up to a height of 6 m. It has a rounded crown with small branches and densely velvety leaves.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Wrightia arborea is a small deciduous tree growing up to a height of 6 m.<br>It has a rounded crown with small branches and densely velvety leaves.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62297f8cc81cf_Wr.ar_ha1.jpg",
+            "caption": "Wrightia arborea young tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62297f8d6df55_Wr.ar_ha2.jpg",
+            "caption": "Wrightia arborea young tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62297f9ec90db_Wr.ar_ha3.jpg",
+            "caption": "Wrightia arborea young tree"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 210,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=210",
+    "scraped_at": "2025-10-01T19:21:31.528139Z",
+    "basic_info": {
+      "scientific_name": "Hibiscus tiliaceus",
+      "authority": null,
+      "family": "Malvaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/6229b7c52f049_6229b7c52f038_Hi.ti_mp.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Hi.ti_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "30 Nov, 2021",
+      "collected_by": "A.A.S, M.D, R.S",
+      "gps_coordinates": { "raw": "11.9869 N 79.8084 E" },
+      "locality": "Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Hibiscus tiliaceus",
+      "author": "Linnaeus, Carl von (1767)",
+      "family": "Malvaceae",
+      "english_names": "Beach hibiscus",
+      "indian_names": "Tamil:",
+      "synonyms": [
+        "Hibiscus tiliaceus var. genuinus",
+        "Hibiscus tiliifolius",
+        "Parita tiliaceus",
+        "Pariti tiliaceum",
+        "Pariti tiliifolium",
+        "Talipariti tiliaceum"
+      ],
+      "etymology": "- Hibiscus\n: From the Greek\nibískos\n“marsh mallow”\n- tiliaceus\n: From the Latin\ntilia\n\"lime tree\" referring to the shape of the leaves similar to the lime tree",
+      "etymology_html": "<p><i>- Hibiscus</i>: From the Greek <i>ibískos</i> “marsh mallow”<br><i>- tiliaceus</i>: From the Latin <i>tilia</i> \"lime tree\" referring to the shape of the leaves similar to the lime tree</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Hibiscus tiliaceus is grey or light brown. The bark is smooth, with longitudinal fissures and vertical cracks. It becomes thick and rough with age. The trunk is often short and crooked. The stems are long and flexible. The young branches are densely covered with short soft hairs.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Hibiscus tiliaceus is grey or light brown. <br>The bark is smooth, with longitudinal fissures and vertical cracks. <br>It becomes thick and rough with age. <br>The trunk is often short and crooked. <br>The stems are long and flexible. <br>The young branches are densely covered with short soft hairs.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c0478704a_Hi.ti_bk1.jpg",
+            "caption": "Hibiscus tiliaceus light brown bark with lenticels"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c04b36fe2_Hi.ti_st1.jpg",
+            "caption": "Hibiscus tiliaceus light brown branch with lenticels"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c053a1ae5_Hi.ti_st2.jpg",
+            "caption": "Hibiscus tiliaceus pubescent young branches"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c0565e3b1_Hi.ti_st3.jpg",
+            "caption": "Hibiscus tiliaceus pubescent young branches"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Hibiscus tiliaceus are shaped like kidney, minutely warty, and approximately 5 mm in size. They are about 5 seeds per cell, and 10 cells per capsule.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Hibiscus tiliaceus are shaped like kidney, minutely warty, and approximately 5 mm in size. <br>They are about 5 seeds per cell, and 10 cells per capsule.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229c00fb89d8_Hi.ti_sd1.jpg",
+            "caption": "Hibiscus tiliaceus open capsule on stem with some seeds inside"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229c01347037_Hi.ti_sd2.jpg",
+            "caption": "Hibiscus tiliaceus woody capsule with kidney shape seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229c02dafbec_Hi.ti_sd3.jpg",
+            "caption": "Hibiscus tiliaceus fresh (left) and dry open (right) woody capsules with kidney shape seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruits of Hibiscus tiliaceus are light brown, ovoid, dry woody capsules. The size of the capsule is between 3 to 5 cm. It splits open in 5 segments, showing 10 cells of seeds at maturity, and stays for weeks on the stem.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Hibiscus tiliaceus are light brown, ovoid, dry woody capsules. <br>The size of the capsule is between 3 to 5 cm. <br>It splits open in 5 segments, showing 10 cells of seeds at maturity, and stays for weeks on the stem.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229bfe477caf_Hi.ti_fr1.jpg",
+            "caption": "Hibiscus tiliaceus fruit bud"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229bfef0d774_Hi.ti_fr3.jpg",
+            "caption": "Hibiscus tiliaceus fruit capsule"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Hi.ti_fr2.jpg",
+            "caption": "Hibiscus tiliaceus fruit bud cut in half"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Hibiscus tiliaceus are 3 to 5 cm wide. They are solitary, terminal or axillary, looking like typical hibiscus flower with 5 petals and a central column which bears the stamens and the pistil. The flowers are yellow with a deep red centre and over the day they turn orange and pale pink when they wither. The staminal column is approximately 3.5 cm and shorter than the petals. It is covered in yellow anthers with a terminal, red, five-parted style.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Hibiscus tiliaceus are 3 to 5 cm wide. <br>They are solitary, terminal or axillary, looking like typical hibiscus flower with 5 petals and a central column which bears the stamens and the pistil. <br>The flowers are yellow with a deep red centre and over the day they turn orange and pale pink when they wither. <br>The staminal column is approximately 3.5 cm and shorter than the petals. <br>It is covered in yellow anthers with a terminal, red, five-parted style.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bf5e11911_Hi.ti_fl1.jpg",
+            "caption": "Hibiscus tiliaceus young flower (yellow)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bf5ff349f_Hi.ti_fl2.jpg",
+            "caption": "Hibiscus tiliaceus young flower profile"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bf66a2738_Hi.ti_fl3.jpg",
+            "caption": "Hibiscus tiliaceus red heart at the base of the petals with the staminal column"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bf6a4b32a_Hi.ti_fl4.jpg",
+            "caption": "Hibiscus tiliaceus fallen flower (pink-orange)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bfc77bc6d_Hi.ti_fl5.jpg",
+            "caption": "Hibiscus tiliaceus full fallen flower (pink-orange)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229bfca564fd_Hi.ti_fl6.jpg",
+            "caption": "Hibiscus tiliaceus disected petals of young (top row) and mature (below) flower"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Hibiscus tiliaceus are cordate with pointed tips. The leaf arrangement is alternate. The upper side of the leaf is glabrous and the lower side has white tomentose. The leaves are leathery, and 5 to 15 cm in size. The margin is crenate and entire. The petioles are long, between 4 to 10 cm.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Hibiscus tiliaceus are cordate with pointed tips. <br>The leaf arrangement is alternate. <br>The upper side of the leaf is glabrous and the lower side has white tomentose. <br>The leaves are leathery, and 5 to 15 cm in size. <br>The margin is crenate and entire. <br>The petioles are long, between 4 to 10 cm. </p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229b81d629c4_Hi.ti_lf1.jpg",
+            "caption": "Hibiscus tiliaceus cordate leaf"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229b8205916a_Hi.ti_lf2.jpg",
+            "caption": "Hibiscus tiliaceus leaves (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229b82723c0e_Hi.ti_lf3.jpg",
+            "caption": "Hibiscus tiliaceus leaves (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229b82b6d994_Hi.ti_lf4.jpg",
+            "caption": "Hibiscus tiliaceus leaves on alternate arrangement"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Hibiscus tiliaceus is a small common coastal tree growing up to 6 m in height, at a fast rate. The branches of the tree often curve over time. The canopy is spreading as wide as its hight. It has a sprawling form.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Hibiscus tiliaceus is a small common coastal tree growing up to 6 m in height, at a fast rate. <br>The branches of the tree often curve over time. <br>The canopy is spreading as wide as its hight. It has a sprawling form.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6229b7dc72299_Hi.ti_ha1.jpg",
+            "caption": "Hibiscus tiliaceus habit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6229b7e176371_Hi.ti_ha2.jpg",
+            "caption": "Hibiscus tiliaceus habit"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+        "images": []
+      }
+    }
+  },
+  {
+    "species_id": 176,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=176",
+    "scraped_at": "2025-10-01T19:21:37.312153Z",
+    "basic_info": {
+      "scientific_name": "Rauvolfia tetraphylla",
+      "authority": "L.",
+      "family": "Apocynaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/rauvolfia_tetraphylla.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ra.te_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "15 Aug, 2015",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99579 N",
+        "longitude": "79.82147 E",
+        "raw": "11.99579 N - 79.82147 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Rauvolfia tetraphylla",
+      "author": "Linnaeus, Carl von (1753)",
+      "family": "Apocynaceae",
+      "english_names": "Be still tree, devil pepper, wild snake root",
+      "indian_names": "Hindi :",
+      "synonyms": [
+        "Rauvolfia canescens",
+        "Rauvolfia canescens var. glabra",
+        "Rauvolfia canescens var. intermedia",
+        "Rauvolfia canescens var. tomentosa",
+        "Rauvolfia heterophylla",
+        "Rauvolfia heterophylla var. puberula",
+        "Rauvolfia hirsuta",
+        "Rauvolfia hirsuta var. glabra",
+        "Rauvolfia latifolia var. minor",
+        "Rauvolfia nitida",
+        "Rauvolfia odontophora",
+        "Rauvolfia subpubescens",
+        "Rauvolfia tomentosa",
+        "The Plant List, 2015, http://www.theplantlist.org"
+      ],
+      "etymology": "-\nRauvolfia\n: For the German physician and botanist Leonhart Rauwolff (1535-1596).\n-\nTetraphylla\n: Four-leaved, with leaves in fours.",
+      "etymology_html": "<p>- <i>Rauvolfia</i> : For the German physician and botanist Leonhart Rauwolff (1535-1596).<br>- <i>Tetraphylla</i> : Four-leaved, with leaves in fours.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Rauvolfia tetraphylla is greyish-coloured and smooth.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Rauvolfia tetraphylla</i> is greyish-coloured and smooth.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/rauvolfia_tetraphylla_stem1.jpg",
+            "caption": "Rauvolfia tetraphylla stem"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/rauvolfia_tetraphylla_stem2.jpg",
+            "caption": "Rauvolfia tetraphylla bark"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seed of Rauvolfia tetraphylla is enclosed into a kidney-shaped stone. The stone is 5 mm long and about 3 mm wide and pale brown yellowish-coloured. There is one seed per stone.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Rauvolfia tetraphylla</i> is enclosed into a kidney-shaped stone. The <strong>stone</strong> is 5 mm long and about 3 mm wide and pale brown yellowish-coloured. There is one seed per stone.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/rauvolfia_tetraphylla_seed1.jpg",
+            "caption": "Rauvolfia tetraphylla stones"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/rauvolfia_tetraphylla_seed2.jpg",
+            "caption": "Rauvolfia tetraphylla stones"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Rauvolfia tetraphylla is a globose drupe . It is about 0.8 cm across, reddish-coloureed when ripe and it contains 1 stone.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Rauvolfia tetraphylla</i> is a globose <strong>drupe</strong>. It is about 0.8 cm across, reddish-coloureed when ripe and it contains 1 stone.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit1.jpg",
+            "caption": "Rauvolfia tetraphylla ripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit2.jpg",
+            "caption": "Rauvolfia tetraphylla ripe fruit (upper and lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit3.jpg",
+            "caption": "Rauvolfia tetraphylla unripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit4.jpg",
+            "caption": "Rauvolfia tetraphylla ripe fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit5.jpg",
+            "caption": "Rauvolfia tetraphylla fruiting branchlets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/rauvolfia_tetraphylla_fruit6.jpg",
+            "caption": "Rauvolfia tetraphylla in fruit"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Rauvolfia tetraphylla are grouped in axillary or terminal few-flowered cymes . The calyx-tube is cup-shaped, 5-lobed and 2 mm long and 2.5 mm wide. The calyx is light green and finely pubescent. The corolla-tube is 3.5 mm long and 2 mm wide. The corolla is 5-lobed. The corolla-lobes are ovate, 1.5 mm long and 1 mm wide. The corolla is white and light green-coloured and pubescent without. The androecium is composed of 5 stamens. The filaments are about 1.5 mm long. The style is filiform, 2 mm long with a capitate stigma . The flowers are fragrant.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Rauvolfia tetraphylla</i> are grouped in axillary or terminal few-flowered <strong>cymes</strong>.<br>The <strong>calyx-tube</strong> is cup-shaped, 5-lobed and 2 mm long and 2.5 mm wide. The calyx is light green and finely pubescent.<br>The <strong>corolla-tube</strong> is 3.5 mm long and 2 mm wide. The corolla is 5-lobed. The <strong>corolla-lobes</strong> are ovate, 1.5 mm long and 1 mm wide. The corolla is white and light green-coloured and pubescent without.<br>The <strong>androecium</strong> is composed of 5 stamens. The filaments are about 1.5 mm long.<br>The <strong>style</strong> is filiform, 2 mm long with a capitate <strong>stigma</strong>.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/rauvolfia_tetraphylla_flower1.jpg",
+            "caption": "Rauvolfia tetraphylla inflorescence"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/rauvolfia_tetraphylla_flower2.jpg",
+            "caption": "Rauvolfia tetraphylla inflorescences"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/rauvolfia_tetraphylla_flower3.jpg",
+            "caption": "Rauvolfia tetraphylla inflorescence"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Rauvolfia tetraphylla grow in fours on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and tomentose on both sides. The leaves have a 6-7 mm long petiole . The leaf of Rauvolfia tetraphylla is 5-10 cm long and 2-4 cm wide. The shape of the blade is elliptic, the apex is acute or obtuse, the base is rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Rauvolfia tetraphylla</i> grow in fours on the stem.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and tomentose on both sides.<br>The leaves have a 6-7 mm long <strong>petiole</strong>.<br>The leaf of <i>Rauvolfia tetraphylla</i> is 5-10 cm long and 2-4 cm wide. The shape of the <strong>blade</strong> is elliptic, the <strong>apex</strong> is acute or obtuse, the <strong>base</strong> is rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf1.jpg",
+            "caption": "Rauvolfia tetraphylla twig"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf2.jpg",
+            "caption": "Rauvolfia tetraphylla leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf3.jpg",
+            "caption": "Rauvolfia tetraphylla leaf (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf4.jpg",
+            "caption": "Rauvolfia tetraphylla leaves (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf5.jpg",
+            "caption": "Rauvolfia tetraphylla leaves (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf6.jpg",
+            "caption": "Rauvolfia tetraphylla branchlet"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/rauvolfia_tetraphylla_leaf7.jpg",
+            "caption": "Rauvolfia tetraphylla leaves"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Rauvolfia tetraphylla is a thornless, much-branched and deciduous shrub growing up to 2-3 m high.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Rauvolfia tetraphylla</i> is a thornless, much-branched and <strong>deciduous shrub</strong> growing up to 2-3 m high.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/rauvolfia_tetraphylla_habit1.jpg",
+            "caption": "Rauvolfia tetraphylla shrub"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/rauvolfia_tetraphylla_habit2.jpg",
+            "caption": "Rauvolfia tetraphylla shrub"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/rauvolfia_tetraphylla_habit3.jpg",
+            "caption": "Rauvolfia tetraphylla fruiting shrub"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "Rauvolfia tetraphylla is found in \"wet to dry thickets, often in second growth or in waste ground or old fields, usually at elevations below 500 metres\". ( Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info) ). Rauvolfia tetraphylla is native to tropical America but the species is now widely cultivated and naturalised throughout the tropics.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Rauvolfia tetraphylla</i> is found in \"wet to dry thickets, often in second growth or in waste ground or old fields, usually at elevations below 500 metres\". (<i>Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i>).</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Rauvolfia tetraphylla</i> is native to tropical America but the species is now widely cultivated and naturalised throughout the tropics.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Rauvolfia tetraphylla is bisexual (each flower of each individual has both male and female structures). Rauvolfia tetraphylla is pollinated by a wide variety of insects. The seeds of Rauvolfia tetraphylla are mainly dispersed by frugivorous birds and mammals.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Rauvolfia tetraphylla</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Rauvolfia tetraphylla</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Rauvolfia tetraphylla</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "Throughout the year. Throughout the year. Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Rauvolfia tetraphylla can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Rauvolfia tetraphylla</i> can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  }
+]

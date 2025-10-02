@@ -1,0 +1,969 @@
+<!doctype html>
+<!--
+  🌿 PLANTEX v3 - Dynamic Botanical Specimen Viewer
+
+  HOW TO USE:
+  1. Update the dataUrl to point to your JSON file (line ~336)
+  2. Choose your species by either:
+     - Setting selectedSpeciesIndex (0 for first, 1 for second, etc.)
+     - OR setting selectedSpeciesId to the species_id number
+
+  The page will automatically load and display the selected species!
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plant Observation - Loading...</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      tailwind.config = {
+        darkMode: "media",
+        theme: {
+          extend: {
+            fontFamily: {
+              serif: ["Crimson Text", "serif"],
+            },
+            colors: {
+              forest: {
+                light: "#5a9244",
+                DEFAULT: "#3a6622",
+                dark: "#2d5016",
+              },
+              amber: {
+                light: "#d4a574",
+                DEFAULT: "#c19a6b",
+                dark: "#b8925f",
+              },
+              vintage: {
+                paper: "#f5f1e8",
+                ink: "#2a2a2a",
+                night: "#1c1810",
+                parchment: "#e8e4dc",
+                sepia: "#d4c5a9",
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+          transition-duration: 0.01ms !important;
+        }
+      }
+
+      body {
+        background-image: url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' /%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='0.08'/%3E%3C/svg%3E");
+        background-color: #f5f1e8;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #1c1810;
+          background-image: url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' /%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23noise)' opacity='0.15'/%3E%3C/svg%3E");
+        }
+      }
+
+      .hand-underline {
+        position: relative;
+      }
+
+      .hand-underline::after {
+        content: "";
+        position: absolute;
+        bottom: -4px;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'%3E%3Cpath d='M0,1 Q25,0.5 50,1 T100,1' stroke='currentColor' stroke-width='0.5' fill='none' opacity='0.4'/%3E%3C/svg%3E");
+        background-repeat: repeat-x;
+      }
+
+      .sketch-border {
+        position: relative;
+        border: none !important;
+      }
+
+      .sketch-border::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        border: 1px solid currentColor;
+        opacity: 0.3;
+        border-radius: inherit;
+        transform: rotate(0.3deg);
+      }
+
+      .sketch-border::after {
+        content: "";
+        position: absolute;
+        top: 1px;
+        left: 1px;
+        right: 1px;
+        bottom: 1px;
+        border: 1px solid currentColor;
+        opacity: 0.2;
+        border-radius: inherit;
+        transform: rotate(-0.2deg);
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      .fade-in {
+        opacity: 0;
+        transform: translateY(20px);
+        transition:
+          opacity 0.6s ease-out,
+          transform 0.6s ease-out;
+      }
+
+      .fade-in.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      .gallery-image {
+        transition: opacity 0.3s ease-in-out;
+      }
+
+      .nav-tab {
+        position: relative;
+        transition: all 0.2s ease;
+      }
+
+      .nav-tab::before {
+        content: "";
+        position: absolute;
+        right: -2px;
+        top: 10%;
+        height: 80%;
+        width: 2px;
+        background: linear-gradient(
+          to bottom,
+          transparent,
+          currentColor,
+          transparent
+        );
+        opacity: 0.2;
+      }
+
+      .nav-tab:hover {
+        transform: translateX(-2px);
+      }
+
+      .nav-tab.active {
+        background: linear-gradient(
+          to right,
+          rgba(58, 102, 34, 0.1),
+          transparent
+        );
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .nav-tab.active {
+          background: linear-gradient(
+            to right,
+            rgba(90, 146, 68, 0.15),
+            transparent
+          );
+        }
+      }
+
+      .vintage-card {
+        position: relative;
+        box-shadow: inset 0 0 0 1px rgba(42, 42, 42, 0.1);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .vintage-card {
+          box-shadow: inset 0 0 0 1px rgba(232, 228, 220, 0.1);
+        }
+      }
+
+      .vintage-card::before,
+      .vintage-card::after {
+        content: "";
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        opacity: 0.25;
+      }
+
+      .vintage-card::before {
+        top: 8px;
+        left: 8px;
+        border-left: 1.5px solid currentColor;
+        border-top: 1.5px solid currentColor;
+        transform: rotate(-0.5deg);
+      }
+
+      .vintage-card::after {
+        bottom: 8px;
+        right: 8px;
+        border-right: 1.5px solid currentColor;
+        border-bottom: 1.5px solid currentColor;
+        transform: rotate(0.5deg);
+      }
+
+      .specimen-label {
+        border-left: 3px double currentColor;
+        padding-left: 1rem;
+        opacity: 0.8;
+      }
+
+      .field-note {
+        font-style: italic;
+        letter-spacing: 0.02em;
+        line-height: 1.8;
+      }
+
+      .fab-menu {
+        position: fixed;
+        bottom: 1.5rem;
+        right: 1.5rem;
+        z-index: 100;
+      }
+
+      .fab-button {
+        width: 56px;
+        height: 56px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .fab-button:hover {
+        transform: scale(1.05);
+      }
+
+      .fab-items {
+        position: absolute;
+        bottom: 70px;
+        right: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.3s ease;
+      }
+
+      .fab-menu.open .fab-items {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      .fab-item {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        white-space: nowrap;
+      }
+
+      .fab-item-button {
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: all 0.2s ease;
+      }
+
+      .fab-item-button:hover {
+        transform: scale(1.1);
+      }
+
+      @media (max-width: 1023px) {
+        button,
+        a {
+          min-height: 44px;
+          min-width: 44px;
+        }
+      }
+    </style>
+  </head>
+  <body
+    class="font-serif bg-vintage-paper dark:bg-vintage-night text-stone-900 dark:text-vintage-parchment transition-colors duration-300"
+  >
+    <!-- Desktop Side Navigation -->
+    <nav
+      id="desktop-nav"
+      class="hidden lg:flex fixed left-0 top-0 h-full w-64 bg-vintage-paper/95 dark:bg-vintage-night/95 backdrop-blur-sm border-r border-stone-200 dark:border-stone-700 z-50 flex-col transition-colors duration-300"
+      role="navigation"
+      aria-label="Main navigation"
+    >
+      <div class="p-6">
+        <h1
+          id="nav-title"
+          class="text-xl font-semibold italic mb-2 text-forest dark:text-forest-light hand-underline"
+        >
+          Loading...
+        </h1>
+        <p class="text-sm text-stone-600 dark:text-stone-500 mb-8 italic">
+          Botanical Specimen
+        </p>
+        <div id="nav-links" class="space-y-1">
+          <!-- Navigation links will be inserted here -->
+        </div>
+      </div>
+      <div class="mt-auto p-6 border-t border-stone-200 dark:border-stone-700">
+        <p
+          id="collection-date"
+          class="text-sm text-stone-500 dark:text-stone-400 italic specimen-label"
+        >
+          Field observations
+        </p>
+      </div>
+    </nav>
+
+    <!-- Mobile FAB Navigation -->
+    <div class="lg:hidden fab-menu" id="fab-menu">
+      <div class="fab-items" id="fab-items">
+        <!-- FAB items will be inserted here -->
+      </div>
+      <button
+        id="fab-button"
+        onclick="toggleFab()"
+        class="fab-button bg-amber dark:bg-amber-dark text-white"
+        aria-label="Toggle navigation menu"
+        aria-expanded="false"
+      >
+        <svg
+          id="fab-icon"
+          class="w-6 h-6"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"
+          />
+        </svg>
+      </button>
+    </div>
+
+    <div class="lg:ml-64 px-4 py-8 max-w-4xl mx-auto" id="main-content">
+      <!-- Content will be dynamically inserted here -->
+    </div>
+
+    <script>
+      // ============================================
+      // 🌿 CONFIGURATION - Change these settings
+      // ============================================
+
+      const dataUrl = "./species-batch-of-5.json"; // Your data file
+      const selectedSpeciesIndex = 2; // Change this to select different species (0-4 for batch of 5)
+      // Or select by species_id:
+      const selectedSpeciesId = null; // Set to species_id number to override index (e.g., 33, 141)
+
+      // ============================================
+
+      let allSpeciesData = [];
+      let speciesData = null;
+
+      // Navigation sections mapping
+      const sectionConfig = [
+        {
+          id: "overview",
+          label: "Overview",
+          icon: "M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6",
+        },
+        {
+          id: "habit",
+          label: "Habit",
+          icon: "M12 3v18m0 0l-6-6m6 6l6-6M3 12h18",
+          dataKey: "habit",
+        },
+        {
+          id: "leaf",
+          label: "Leaf",
+          icon: "M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z",
+          dataKey: "leaf",
+        },
+        {
+          id: "flower",
+          label: "Flower",
+          icon: "M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4",
+          dataKey: "flower",
+        },
+        {
+          id: "fruit",
+          label: "Fruit",
+          icon: "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+          dataKey: "fruit",
+        },
+        {
+          id: "seed",
+          label: "Seed",
+          icon: "M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z",
+          dataKey: "seed",
+        },
+        {
+          id: "stem",
+          label: "Stem & Bark",
+          icon: "M4 6h16M4 12h16M4 18h16",
+          dataKey: "stem_bark",
+        },
+      ];
+
+      async function loadData() {
+        try {
+          const response = await fetch(dataUrl);
+          const data = await response.json();
+          allSpeciesData = Array.isArray(data) ? data : [data];
+
+          // Select species based on configuration
+          if (selectedSpeciesId !== null) {
+            // Find by species_id
+            speciesData = allSpeciesData.find(
+              (s) => s.species_id === selectedSpeciesId,
+            );
+            if (!speciesData) {
+              console.warn(
+                `Species with id ${selectedSpeciesId} not found. Using first species.`,
+              );
+              speciesData = allSpeciesData[0];
+            }
+          } else {
+            // Use index
+            const index = Math.max(
+              0,
+              Math.min(selectedSpeciesIndex, allSpeciesData.length - 1),
+            );
+            speciesData = allSpeciesData[index];
+          }
+
+          if (!speciesData) {
+            throw new Error("No species data available");
+          }
+
+          console.log(
+            `📚 Loaded ${allSpeciesData.length} species. Displaying: ${speciesData.basic_info.scientific_name} (ID: ${speciesData.species_id})`,
+          );
+          renderPage();
+        } catch (error) {
+          console.error("Error loading data:", error);
+          document.getElementById("main-content").innerHTML =
+            '<p class="text-center text-red-600">Error loading species data</p>';
+        }
+      }
+
+      function renderPage() {
+        if (!speciesData) return;
+
+        // Update page title
+        document.title = `Plant Observation - ${speciesData.basic_info.scientific_name}`;
+        document.getElementById("nav-title").textContent =
+          speciesData.basic_info.scientific_name;
+
+        // Update collection date
+        if (speciesData.collection_metadata?.date) {
+          const dateText = `Field observations, ${speciesData.collection_metadata.date}`;
+          document.getElementById("collection-date").textContent = dateText;
+        }
+
+        // Build navigation
+        renderNavigation();
+
+        // Build main content
+        renderMainContent();
+
+        // Initialize observers
+        initializeObservers();
+      }
+
+      function renderNavigation() {
+        const navLinks = document.getElementById("nav-links");
+        const fabItems = document.getElementById("fab-items");
+
+        // Filter sections that have data
+        const availableSections = sectionConfig.filter((section) => {
+          if (section.id === "overview") return true;
+          if (!section.dataKey) return false;
+          return speciesData.description?.[section.dataKey];
+        });
+
+        // Desktop nav
+        navLinks.innerHTML = availableSections
+          .map(
+            (section) => `
+          <button
+            onclick="scrollToSection('${section.id}')"
+            class="nav-tab flex items-center space-x-3 w-full text-left py-3 px-4 rounded-l transition-colors"
+            aria-label="Navigate to ${section.label.toLowerCase()} section"
+          >
+            <svg class="w-5 h-5 text-forest dark:text-forest-light" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="${section.icon}"/>
+            </svg>
+            <span class="text-base">${section.label}</span>
+          </button>
+        `,
+          )
+          .join("");
+
+        // Mobile FAB
+        fabItems.innerHTML = availableSections
+          .map(
+            (section) => `
+          <div class="fab-item">
+            <span class="text-sm bg-vintage-paper dark:bg-vintage-night px-3 py-2 rounded shadow-md dark:text-vintage-parchment">
+              ${section.label}
+            </span>
+            <button
+              onclick="scrollToSection('${section.id}'); toggleFab()"
+              class="fab-item-button bg-forest dark:bg-forest-light text-white"
+              aria-label="Navigate to ${section.label.toLowerCase()}"
+            >
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="${section.icon}"/>
+              </svg>
+            </button>
+          </div>
+        `,
+          )
+          .join("");
+      }
+
+      function renderMainContent() {
+        const content = document.getElementById("main-content");
+        let html = "";
+
+        // Overview section
+        html += renderOverviewSection();
+
+        // Other sections
+        sectionConfig.forEach((section) => {
+          if (section.id === "overview") return;
+          if (section.dataKey && speciesData.description?.[section.dataKey]) {
+            html +=
+              '<div class="my-12 flex items-center justify-center"><div class="h-px bg-gradient-to-r from-transparent via-stone-300 dark:via-stone-700 to-transparent w-full max-w-md"></div></div>';
+            html += renderDescriptionSection(section);
+          }
+        });
+
+        // Ecology & Uses sections
+        if (
+          speciesData.ecology ||
+          speciesData.human_uses ||
+          speciesData.conservation
+        ) {
+          html +=
+            '<div class="my-12 flex items-center justify-center"><div class="h-px bg-gradient-to-r from-transparent via-stone-300 dark:via-stone-700 to-transparent w-full max-w-md"></div></div>';
+          html += renderEcologyAndUses();
+        }
+
+        // Footer
+        html += renderFooter();
+
+        content.innerHTML = html;
+      }
+
+      function renderOverviewSection() {
+        const basic = speciesData.basic_info;
+        const nomenclature = speciesData.nomenclature;
+        const metadata = speciesData.collection_metadata;
+        const habit = speciesData.description?.habit;
+
+        return `
+          <section id="overview" class="mb-20 fade-in">
+            <div class="text-center mb-12">
+              <h2 class="text-5xl font-semibold mb-4 text-forest dark:text-forest-light hand-underline inline-block">
+                ${basic.scientific_name}
+              </h2>
+              ${basic.authority ? `<p class="text-stone-500 dark:text-stone-400 text-sm mt-2">${basic.authority}</p>` : ""}
+              <p class="text-stone-600 dark:text-stone-400 italic text-lg mt-4">
+                Family: ${basic.family}
+              </p>
+              ${
+                nomenclature?.english_names
+                  ? `
+                <p class="text-base text-stone-500 dark:text-stone-500 mt-2 tracking-wide">
+                  ${nomenclature.english_names}
+                </p>
+              `
+                  : ""
+              }
+            </div>
+
+            <div class="grid md:grid-cols-5 gap-8 mb-8">
+              <div class="md:col-span-2">
+                ${
+                  speciesData.images?.main_specimen
+                    ? `
+                  <div class="aspect-[4/3] bg-stone-200 dark:bg-stone-800 rounded-lg overflow-hidden shadow-lg">
+                    <img
+                      src="${speciesData.images.main_specimen}"
+                      alt="${basic.scientific_name} specimen"
+                      class="w-full h-full object-cover"
+                    />
+                  </div>
+                `
+                    : ""
+                }
+              </div>
+              <div class="md:col-span-3 space-y-6">
+                ${
+                  habit?.text
+                    ? `
+                  <div class="prose prose-stone dark:prose-invert">
+                    <p class="text-base leading-relaxed text-stone-700 dark:text-stone-300 field-note">
+                      ${habit.text}
+                    </p>
+                  </div>
+                `
+                    : ""
+                }
+
+                <div class="vintage-card sketch-border bg-stone-50 dark:bg-stone-900 p-8 rounded-lg">
+                  <h3 class="font-semibold mb-4 text-base uppercase tracking-wider text-amber-dark dark:text-amber-light flex items-center gap-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                    </svg>
+                    Classification
+                  </h3>
+                  <div class="text-base space-y-3">
+                    <div class="flex justify-between border-b border-stone-200 dark:border-stone-700 pb-2">
+                      <span class="text-stone-600 dark:text-stone-400">Family:</span>
+                      <span class="font-medium text-stone-900 dark:text-vintage-parchment italic">${basic.family}</span>
+                    </div>
+                    ${
+                      nomenclature?.author
+                        ? `
+                      <div class="flex justify-between border-b border-stone-200 dark:border-stone-700 pb-2">
+                        <span class="text-stone-600 dark:text-stone-400">Author:</span>
+                        <span class="font-medium text-stone-900 dark:text-vintage-parchment text-sm">${nomenclature.author}</span>
+                      </div>
+                    `
+                        : ""
+                    }
+                  </div>
+                </div>
+
+                ${
+                  metadata?.locality || nomenclature?.etymology
+                    ? `
+                  <div class="vintage-card sketch-border bg-amber/5 dark:bg-amber-dark/10 p-6 rounded-lg border-l-4 border-amber-dark dark:border-amber-light">
+                    <h4 class="font-semibold text-sm uppercase tracking-wider text-amber-dark dark:text-amber-light mb-3 flex items-center gap-2">
+                      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z" />
+                      </svg>
+                      Field Notes
+                    </h4>
+                    ${
+                      metadata?.locality
+                        ? `
+                      <p class="text-sm italic text-stone-600 dark:text-stone-400 leading-relaxed mb-2">
+                        <strong>Locality:</strong> ${metadata.locality}
+                      </p>
+                    `
+                        : ""
+                    }
+                    ${
+                      metadata?.collected_by
+                        ? `
+                      <p class="text-sm italic text-stone-600 dark:text-stone-400 leading-relaxed mb-2">
+                        <strong>Collected by:</strong> ${metadata.collected_by}
+                      </p>
+                    `
+                        : ""
+                    }
+                    ${
+                      nomenclature?.etymology
+                        ? `
+                      <p class="text-sm italic text-stone-600 dark:text-stone-400 leading-relaxed">
+                        <strong>Etymology:</strong> ${nomenclature.etymology.replace(/<[^>]*>/g, "").replace(/\n/g, " ")}
+                      </p>
+                    `
+                        : ""
+                    }
+                  </div>
+                `
+                    : ""
+                }
+              </div>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderDescriptionSection(section) {
+        const data = speciesData.description[section.dataKey];
+        if (!data) return "";
+
+        const images = data.images || [];
+        const mainImage = images[0]?.url || "";
+
+        return `
+          <section id="${section.id}" class="mb-20 fade-in">
+            <h2 class="text-4xl font-semibold mb-8 pb-3 text-forest dark:text-forest-light flex items-center gap-4 border-b-2 border-stone-300 dark:border-stone-700">
+              <svg class="w-10 h-10 text-amber dark:text-amber-light" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="${section.icon}"/>
+              </svg>
+              <span>${section.label}</span>
+            </h2>
+            <div class="grid md:grid-cols-2 gap-8">
+              ${
+                images.length > 0
+                  ? `
+                <div class="gallery-container" data-gallery="${section.id}">
+                  <div class="aspect-[4/3] bg-stone-200 dark:bg-stone-800 rounded-lg mb-4 overflow-hidden shadow-lg">
+                    <img
+                      id="${section.id}-img"
+                      src="${mainImage}"
+                      alt="${images[0]?.caption || section.label}"
+                      class="gallery-image w-full h-full object-cover"
+                    />
+                  </div>
+                  ${
+                    images.length > 1
+                      ? `
+                    <div class="flex space-x-2 justify-center flex-wrap gap-2">
+                      ${images
+                        .map(
+                          (img, idx) => `
+                        <button
+                          onclick="switchImage('${section.id}', ${idx})"
+                          class="photo-nav w-3 h-3 rounded-full ${idx === 0 ? "bg-amber dark:bg-amber-light" : "bg-stone-300 dark:bg-stone-600"} transition-all hover:bg-stone-400 dark:hover:bg-stone-500"
+                          aria-label="View ${img.caption || "image " + (idx + 1)}"
+                        ></button>
+                      `,
+                        )
+                        .join("")}
+                    </div>
+                  `
+                      : ""
+                  }
+                </div>
+              `
+                  : ""
+              }
+              <div class="space-y-6 ${images.length === 0 ? "md:col-span-2" : ""}">
+                ${
+                  data.text
+                    ? `
+                  <div class="text-base text-stone-700 dark:text-stone-300 leading-relaxed field-note">
+                    <p>${data.text}</p>
+                  </div>
+                `
+                    : ""
+                }
+              </div>
+            </div>
+          </section>
+        `;
+      }
+
+      function renderEcologyAndUses() {
+        let html =
+          '<section class="mb-20 fade-in vintage-card sketch-border bg-stone-50 dark:bg-stone-900 p-10 rounded-lg">';
+        html +=
+          '<h2 class="text-4xl font-semibold mb-8 text-forest dark:text-forest-light hand-underline inline-block">Ecology & Uses</h2>';
+        html +=
+          '<div class="grid md:grid-cols-2 gap-10 text-base text-stone-700 dark:text-stone-300">';
+
+        // Human uses
+        if (speciesData.human_uses) {
+          Object.entries(speciesData.human_uses).forEach(([key, value]) => {
+            if (value?.text) {
+              html += `
+                <div class="specimen-label">
+                  <h3 class="font-semibold mb-4 font-serif text-amber-dark dark:text-amber-light uppercase tracking-wider text-sm">
+                    ${key.replace(/_/g, " ")}
+                  </h3>
+                  <p class="leading-relaxed field-note">${value.text}</p>
+                </div>
+              `;
+            }
+          });
+        }
+
+        // Ecology
+        if (speciesData.ecology) {
+          Object.entries(speciesData.ecology).forEach(([key, value]) => {
+            if (value?.text) {
+              html += `
+                <div class="specimen-label">
+                  <h3 class="font-semibold mb-4 font-serif text-amber-dark dark:text-amber-light uppercase tracking-wider text-sm">
+                    ${key.replace(/_/g, " ")}
+                  </h3>
+                  <p class="leading-relaxed field-note">${value.text}</p>
+                </div>
+              `;
+            }
+          });
+        }
+
+        // Conservation
+        if (speciesData.conservation) {
+          Object.entries(speciesData.conservation).forEach(([key, value]) => {
+            if (value?.text) {
+              html += `
+                <div class="specimen-label">
+                  <h3 class="font-semibold mb-4 font-serif text-amber-dark dark:text-amber-light uppercase tracking-wider text-sm">
+                    ${key.replace(/_/g, " ")}
+                  </h3>
+                  <p class="leading-relaxed field-note">${value.text}</p>
+                </div>
+              `;
+            }
+          });
+        }
+
+        html += "</div></section>";
+        return html;
+      }
+
+      function renderFooter() {
+        return `
+          <footer class="text-center py-12 text-base font-serif text-stone-500 dark:text-stone-500 border-t-2 border-stone-300 dark:border-stone-700">
+            <p class="italic text-lg mb-2 field-note">Field observations and botanical documentation</p>
+            <p class="mt-2 text-sm tracking-wide">Compiled with care for naturalist study</p>
+            ${speciesData.url ? `<p class="mt-4 text-xs"><a href="${speciesData.url}" class="hover:text-amber-dark dark:hover:text-amber-light" target="_blank" rel="noopener">Source: Auroville Herbarium</a></p>` : ""}
+            <p class="mt-4 text-xs opacity-70">— Anno Domini MMXXV —</p>
+          </footer>
+        `;
+      }
+
+      // Gallery image switching
+      window.galleryImages = {};
+
+      function switchImage(sectionId, index) {
+        const section = sectionConfig.find((s) => s.id === sectionId);
+        if (!section || !section.dataKey) return;
+
+        const images = speciesData.description[section.dataKey]?.images || [];
+        if (index >= images.length) return;
+
+        const img = document.getElementById(`${sectionId}-img`);
+        const buttons = document.querySelectorAll(`#${sectionId} .photo-nav`);
+
+        img.style.opacity = "0";
+        setTimeout(() => {
+          img.src = images[index].url;
+          img.alt = images[index].caption || section.label;
+
+          buttons.forEach((btn, i) => {
+            if (i === index) {
+              btn.classList.remove("bg-stone-300", "dark:bg-stone-600");
+              btn.classList.add("bg-amber", "dark:bg-amber-light");
+            } else {
+              btn.classList.remove("bg-amber", "dark:bg-amber-light");
+              btn.classList.add("bg-stone-300", "dark:bg-stone-600");
+            }
+          });
+
+          img.style.opacity = "1";
+        }, 150);
+      }
+
+      function scrollToSection(sectionId) {
+        const element = document.getElementById(sectionId);
+        const offset = window.innerWidth >= 1024 ? 100 : 100;
+        const elementPosition = element.offsetTop - offset;
+
+        window.scrollTo({
+          top: elementPosition,
+          behavior: "smooth",
+        });
+
+        updateActiveNav(sectionId);
+      }
+
+      function updateActiveNav(sectionId) {
+        document.querySelectorAll("#desktop-nav .nav-tab").forEach((tab) => {
+          tab.classList.remove("active");
+        });
+        const activeTab = document.querySelector(
+          `#desktop-nav button[onclick="scrollToSection('${sectionId}')"]`,
+        );
+        if (activeTab) {
+          activeTab.classList.add("active");
+        }
+      }
+
+      function toggleFab() {
+        const fabMenu = document.getElementById("fab-menu");
+        const fabButton = document.getElementById("fab-button");
+        const fabIcon = document.getElementById("fab-icon");
+
+        fabMenu.classList.toggle("open");
+        const isOpen = fabMenu.classList.contains("open");
+
+        fabButton.setAttribute("aria-expanded", isOpen);
+
+        if (isOpen) {
+          fabIcon.innerHTML =
+            '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />';
+        } else {
+          fabIcon.innerHTML =
+            '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />';
+        }
+      }
+
+      function initializeObservers() {
+        const observerOptions = {
+          threshold: 0.1,
+          rootMargin: "0px 0px -100px 0px",
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add("visible");
+            }
+          });
+        }, observerOptions);
+
+        document.querySelectorAll(".fade-in").forEach((section) => {
+          observer.observe(section);
+        });
+
+        const firstNavTab = document.querySelector("#desktop-nav .nav-tab");
+        if (firstNavTab) {
+          firstNavTab.classList.add("active");
+        }
+      }
+
+      // Close FAB menu when clicking outside
+      document.addEventListener("click", (e) => {
+        const fabMenu = document.getElementById("fab-menu");
+        if (
+          fabMenu &&
+          fabMenu.classList.contains("open") &&
+          !fabMenu.contains(e.target)
+        ) {
+          toggleFab();
+        }
+      });
+
+      // Load data on page load
+      loadData();
+    </script>
+  </body>
+</html>

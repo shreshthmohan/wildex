@@ -1,0 +1,248 @@
+[
+  {
+    "species_id": 109,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=109",
+    "scraped_at": "2025-10-02T10:59:16.988157Z",
+    "basic_info": {
+      "scientific_name": "Majidea zanguebarica",
+      "authority": "J. Kirk ex Oliv.",
+      "family": "Sapindaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/majidea_zanguebarica.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ma.za_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "25 Aug, 2015",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99533 N",
+        "longitude": "79.82408 E",
+        "raw": "11.99533 N - 79.82408 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Majidea zanguebarica",
+      "author": "Kirk, John (1871)",
+      "family": "Sapindaceae",
+      "english_names": "Velvet seed tree",
+      "indian_names": null,
+      "synonyms": [
+        "Majidea zanguebarica subsp. zanguebarica",
+        "The Plant List, 2015, http://www.theplantlist.org"
+      ],
+      "etymology": "-\nZanguebarica\n: From Zanzibar (Zanguebar), East Africa",
+      "etymology_html": "<p>-<i>Zanguebarica</i> : From Zanzibar (Zanguebar), East Africa</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Majidea zanguebarica is greyish-coloured, rough, longitudinally fissured and transversally cracked.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Majidea zanguebarica</i> is greyish-coloured, rough, longitudinally fissured and transversally cracked.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/majidea_zanguebarica_stem1.jpg",
+            "caption": "Majidea zanguebarica trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/majidea_zanguebarica_stem2.jpg",
+            "caption": "Majidea zanguebarica bark"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Majidea zanguebarica are subglobose, less than 1 cm in diameter, black-coloured and velvety.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Majidea zanguebarica</i> are subglobose, less than 1 cm in diameter, black-coloured and velvety.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/majidea_zanguebarica_seed1.jpg",
+            "caption": "Majidea zanguebarica seeds (immature)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/majidea_zanguebarica_seed2.jpg",
+            "caption": "Majidea zanguebarica seeds (mature)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/majidea_zanguebarica_seed3.jpg",
+            "caption": "Majidea zanguebarica seeds (immature)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/majidea_zanguebarica_seed4.jpg",
+            "caption": "Majidea zanguebarica seeds (mature)"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Majidea zanguebarica is a 3-lobed capsule. The fruit is 3 cm long and wide with an apical beak and it is yellow-pinkish-coloured. The ripe fruits split, exposing the bright red interior, with 3 spherical velvety black seeds.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Majidea zanguebarica</i> is a 3-lobed capsule. The fruit is 3 cm long and wide with an apical beak and it is yellow-pinkish-coloured.<br>The ripe fruits split, exposing the bright red interior, with 3 spherical velvety black seeds.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit1.jpg",
+            "caption": "Majidea zanguebarica fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit2.jpg",
+            "caption": "Majidea zanguebarica fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit3.jpg",
+            "caption": "Majidea zanguebarica fruit transversal section"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit4.jpg",
+            "caption": "Majidea zanguebarica open fruit"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit5.jpg",
+            "caption": "Majidea zanguebarica fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/majidea_zanguebarica_fruit6.jpg",
+            "caption": "Majidea zanguebarica fruit"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Majidea zanguebarica are grouped in terminal panicles. The calyx is composed of 5 sepals. The sepals are 7 mm long and 4 mm wide and lanceolate. The calyx is light green and finely tomentose. The corolla is composed of 4 pink-coloured petals. The petals are oblong and clawed, 5 mm long and 2.5 mm wide. The androecium is composed of 8 stamens. The filaments are about 1 cm long and the anthers are 1 mm long. The style is very short with a simple stigma . The ovary is 3-celled. The buds are covered with short and white hairs.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Majidea zanguebarica</i> are grouped in terminal panicles.<br>The <strong>calyx</strong> is composed of 5 sepals. The sepals are 7 mm long and 4 mm wide and lanceolate. The calyx is light green and finely tomentose.<br>The <strong>corolla</strong> is composed of 4 pink-coloured petals. The petals are oblong and clawed, 5 mm long and 2.5 mm wide.<br>The <strong>androecium</strong> is composed of 8 stamens. The filaments are about 1 cm long and the anthers are 1 mm long.<br>The <strong>style</strong> is very short with a simple <strong>stigma</strong>.<br>The <strong>ovary</strong> is 3-celled.<br>The <strong>buds</strong> are covered with short and white hairs.<br> </p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower1.jpg",
+            "caption": "Majidea zanguebarica inflorescence"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower2.jpg",
+            "caption": "Majidea zanguebarica inflorescence sub-division"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower3.jpg",
+            "caption": "Majidea zanguebarica flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower4.jpg",
+            "caption": "Majidea zanguebarica flower structures"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower5.jpg",
+            "caption": "Majidea zanguebarica flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower6.jpg",
+            "caption": "Majidea zanguebarica inflorescence"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower7.jpg",
+            "caption": "Majidea zanguebarica inflorescence"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower8.jpg",
+            "caption": "Majidea zanguebarica flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower9.jpg",
+            "caption": "Majidea zanguebarica flower"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/majidea_zanguebarica_flower10.jpg",
+            "caption": "Majidea zanguebarica flower buds"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaves of Majidea zanguebarica grow alternately on the stem (spirally arranged). The leaf is compound, imparipinnate with a 3 cm long petiole. The leaflets are bright green-coloured above and paler beneath. The leaflet is coriaceous and glabrous on both sides (some minute hairs on the midrib beneath). The leaves have a very short petiolule . The leaflet of Majidea zanguebarica is 4-5 cm long and 1.5-2 cm wide. The shape of the blade is ovate to lanceolate, the apex is obtuse and slightly retuse, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Majidea zanguebarica</i> grow alternately on the stem (spirally arranged).<br>The <strong>leaf</strong> is compound, imparipinnate with a 3 cm long petiole.<br>The <strong>leaflets</strong> are bright green-coloured above and paler beneath. The leaflet is coriaceous and glabrous on both sides (some minute hairs on the midrib beneath).<br>The leaves have a very short <strong>petiolule</strong>.<br>The leaflet of <i>Majidea zanguebarica</i> is 4-5 cm long and 1.5-2 cm wide. The shape of the <strong>blade</strong> is ovate to lanceolate, the <strong>apex</strong> is obtuse and slightly retuse, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf1.jpg",
+            "caption": "Majidea zanguebarica leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf2.jpg",
+            "caption": "Majidea zanguebarica leaf (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf3.jpg",
+            "caption": "Majidea zanguebarica leaflet (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf4.jpg",
+            "caption": "Majidea zanguebarica leaflet (lower side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf5.jpg",
+            "caption": "Majidea zanguebarica leaf (upper side)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/majidea_zanguebarica_leaf6.jpg",
+            "caption": "Majidea zanguebarica leaf (lower side)"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Majidea zanguebarica is a thornless, small-sized and evergreen tree growing up to 5-6 m high.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Majidea zanguebarica</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 5-6 m high.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/majidea_zanguebarica_habit1.jpg",
+            "caption": "Majidea zanguebarica tree"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "In India, Majidea zanguebarica is a naturalized exotic species which is planted along the roads and cultivated in parks and gardens for its evergreen foliage, showy flowers and fruits. Majidea zanguebarica is native to eastern Africa and it is found throughout the tropics in cultivation.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>In India, <i>Majidea zanguebarica</i> is a naturalized exotic species which is planted along the roads and cultivated in parks and gardens for its evergreen foliage, showy flowers and fruits.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Majidea zanguebarica</i> is native to eastern Africa and it is found throughout the tropics in cultivation.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Majidea zanguebarica is bisexual (each flower of each individual has both male and female structures). Majidea zanguebarica is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Majidea zanguebarica</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Majidea zanguebarica</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.</p></li>\n      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/majidea_zanguebarica_reproduction1.jpg",
+            "caption": "Majidea zanguebarica flower (hairy and short style surrounding by filiform stamens)"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/majidea_zanguebarica_reproduction2.jpg",
+            "caption": "Majidea zanguebarica stamens"
+          }
+        ]
+      },
+      "phenology": {
+        "text": "From May to September. From August to November. From August to November. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From May to September.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From August to November.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From August to November.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": null,
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Majidea zanguebarica is able to flourish in a wide range of soils but all soils need to be free draining. The species prefers full sun but can withstand moderate shade. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Majidea zanguebarica</i> is able to flourish in a wide range of soils but all soils need to be free draining. <br>The species prefers full sun but can withstand moderate shade.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  }
+]

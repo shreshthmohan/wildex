@@ -1,0 +1,251 @@
+[
+  {
+    "species_id": 141,
+    "url": "https://aurovilleherbarium.org/herbarium.php?id=141",
+    "scraped_at": "2025-10-01T17:27:26.418405Z",
+    "basic_info": {
+      "scientific_name": "Acacia holosericea",
+      "authority": "A.Cunn. ex G.Don",
+      "family": "Fabaceae"
+    },
+    "images": {
+      "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/acacia_holosericea.jpg",
+      "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ac.ho_herb1.jpg"
+    },
+    "collection_metadata": {
+      "date": "17 Feb, 2016",
+      "collected_by": "N.L.I.B.",
+      "gps_coordinates": {
+        "latitude": "11.99621 N",
+        "longitude": "79.82411 E",
+        "raw": "11.99621 N - 79.82411 E"
+      },
+      "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+    },
+    "nomenclature": {
+      "botanical_name": "Acacia holosericea",
+      "author": "Cunningham, Allan (1832)",
+      "family": "Fabaceae",
+      "english_names": "Soapbush wattle, strap wattle",
+      "indian_names": "Not specified.",
+      "synonyms": [
+        "Acacia holosericea var. glabrata",
+        "Acacia holosericea var. multispirea",
+        "Acacia holosericea var. typica",
+        "Acacia mangium var. holosericea",
+        "Racosperma holosericeum",
+        "The Plant List, 2015, http://www.theplantlist.org"
+      ],
+      "etymology": "-\nAcacia\n: From the Greek\nakakia\nused by Dioscorides ; from\nake\n,\nakis\n\"tip, thorn\".\n-\nHolosericea\n: Completely silky-haired.",
+      "etymology_html": "<p>- <i>Acacia</i> : From the Greek <i>akakia</i> used by Dioscorides ; from <i>ake</i>, <i>akis</i> \"tip, thorn\".<br>- <i>Holosericea</i> : Completely silky-haired.</p>"
+    },
+    "description": {
+      "stem_bark": {
+        "text": "The bark of Acacia holosericea is grey light brown-coloured and densely lenticellate.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Acacia holosericea</i> is grey light brown-coloured and densely lenticellate.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/acacia_holosericea_stem1.jpg",
+            "caption": "Acacia holosericea trunk"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/stem/acacia_holosericea_stem2.jpg",
+            "caption": "Acacia holosericea bark"
+          }
+        ]
+      },
+      "seed": {
+        "text": "The seeds of Acacia holosericea are oblong-ovate, 4-5 mm long and 2-3 mm wide. The seeds are black-coloured with a long showy yellow-coloured and fleshy funicle.",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Acacia holosericea</i> are oblong-ovate, 4-5 mm long and 2-3 mm wide. The seeds are black-coloured with a long showy yellow-coloured and fleshy funicle.</p>    \n    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_holosericea_seed1.jpg",
+            "caption": "Acacia holosericea seeds and opened pods"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_holosericea_seed2.jpg",
+            "caption": "Acacia holosericea seeds with their funicles"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_holosericea_seed3.jpg",
+            "caption": "Acacia holosericea hanging seeds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_holosericea_seed4.jpg",
+            "caption": "Acacia holosericea seeds"
+          }
+        ]
+      },
+      "fruit": {
+        "text": "The fruit of Acacia holosericea is a spirally twisted pod . The pod is 8-12 cm long and 0.4 mm wide, flattened and it usually contains 6-12 seeds. The pod is brownish-coloured and woody when ripe.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Acacia holosericea</i> is a spirally twisted <strong>pod</strong>. The pod is 8-12 cm long and 0.4 mm wide, flattened and it usually contains 6-12 seeds. The pod is brownish-coloured and woody when ripe.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit1.jpg",
+            "caption": "Acacia holosericea opened (empty) pods"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit2.jpg",
+            "caption": "Acacia holosericea fruits"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit3.jpg",
+            "caption": "Acacia holosericea unripe pod"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit4.jpg",
+            "caption": "Acacia holosericea ripe pod"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit5.jpg",
+            "caption": "Acacia holosericea pods"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_holosericea_fruit6.jpg",
+            "caption": "Acacia holosericea unripe pods"
+          }
+        ]
+      },
+      "flower": {
+        "text": "The flowers of Acacia holosericea are grouped in axillary and terminal spikes . The bright-yellow spikes are 5-8 cm long and have a 0.5 cm peduncle . The calyx-tube is cup-shaped with 5 short and triangular lobes. The calyx is light green yellowish and glabrous. The corolla is composed of 5 yellow-coloured and glabrous petals. The petals are ovate-lanceolate and recurved, about 1 mm long and 0.6-0.7 mm wide. The androecium is composed of numerous and bright yellow stamens. The filaments are 1.5-2 mm with tiny and globular anthers. The style is yellow-coloured, 2.5-3 mm long and the stigma is simple. The ovary is globose and about 1 mm across. The flowers are fragrant.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Acacia holosericea</i> are grouped in axillary and terminal <strong>spikes</strong>. The bright-yellow spikes are 5-8 cm long and have a 0.5 cm <strong>peduncle</strong>.<br>The <strong>calyx-tube</strong> is cup-shaped with 5 short and triangular lobes. The calyx is light green yellowish and glabrous.<br>The <strong>corolla</strong> is composed of 5 yellow-coloured and glabrous petals. The petals are ovate-lanceolate and recurved, about 1 mm long and 0.6-0.7 mm wide.<br>The <strong>androecium</strong> is composed of numerous and bright yellow stamens. The filaments are 1.5-2 mm with tiny and globular anthers.<br>The <strong>style</strong> is yellow-coloured, 2.5-3 mm long and the <strong>stigma</strong> is simple.<br>The <strong>ovary</strong> is globose and about 1 mm across.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower1.jpg",
+            "caption": "Acacia holosericea inflorescences"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower2.jpg",
+            "caption": "Acacia holosericea inflorescence"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower3.jpg",
+            "caption": "Acacia holosericea flowers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower4.jpg",
+            "caption": "Acacia holosericea inflorescences in buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower5.jpg",
+            "caption": "Acacia holosericea flower buds"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower6.jpg",
+            "caption": "Acacia holosericea inflorescences"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower7.jpg",
+            "caption": "Acacia holosericea inflorescences"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower8.jpg",
+            "caption": "Acacia holosericea flowers"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower9.jpg",
+            "caption": "Acacia holosericea flowering branchlets"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_holosericea_flower10.jpg",
+            "caption": "Acacia holosericea in bloom"
+          }
+        ]
+      },
+      "leaf": {
+        "text": "The leaf of Acacia holosericea is actually an expanded petiole resembling and having the function of a leaf, a phyllode . The phyllodes of Acacia holosericea grow alternately on the stem (spirally arranged). The phyllode is coriaceous and densely covered with short hairs (silky) on both sides. It is greyish-whitish and light green-coloured. The phyllode of Acacia holosericea is 15-20 cm long and 3-5 cm wide. The shape is elliptic and falcate, the apex is obtuse or acute, the base is attenuate and the margins are entire. The phyllode has parallel and arching veins .",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of <i>Acacia holosericea</i> is actually an expanded petiole resembling and having the function of a leaf, a <strong>phyllode</strong>.<br>The <strong>phyllodes</strong> of <i>Acacia holosericea</i> grow alternately on the stem (spirally arranged).<br>The phyllode is coriaceous and densely covered with short hairs (silky) on both sides. It is greyish-whitish and light green-coloured.<br>The phyllode of <i>Acacia holosericea</i> is 15-20 cm long and 3-5 cm wide. The shape is elliptic and falcate, the <strong>apex</strong> is obtuse or acute, the <strong>base</strong> is attenuate and the <strong>margins</strong> are entire.<br>The phyllode has parallel and arching <strong>veins</strong>.</p>    \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf1.jpg",
+            "caption": "Acacia holosericea twig"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf2.jpg",
+            "caption": "Acacia holosericea phyllode"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf3.jpg",
+            "caption": "Acacia holosericea phyllode"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf4.jpg",
+            "caption": "Acacia holosericea phyllodes"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf5.jpg",
+            "caption": "Acacia holosericea phyllode branches"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_holosericea_leaf6.jpg",
+            "caption": "Acacia holosericea phyllode foliage"
+          }
+        ]
+      },
+      "habit": {
+        "text": "Acacia holosericea is a thornless, small-sized and evergreen tree growing up to 8-10 m high.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Acacia holosericea</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 8-10 m high.</p>      \n    </div>",
+        "images": [
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_holosericea_habit1.jpg",
+            "caption": "Acacia holosericea young trees"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_holosericea_habit2.jpg",
+            "caption": "Acacia holosericea tree"
+          },
+          {
+            "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_holosericea_habit3.jpg",
+            "caption": "Acacia holosericea seedlings"
+          }
+        ]
+      }
+    },
+    "ecology": {
+      "distribution": {
+        "text": "\" Acacia holosericea grows on a wide range of soils from shallow acidic sandy lithosols, shallow loams, red volcanic and solodized solonets soils.\" ( Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide ) Natural stands of Acacia holosericea are found in Northern Australia. Acacia holosericea has been extensively introduced across the tropics.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>\"<i>Acacia holosericea</i> grows on a wide range of soils from shallow acidic sandy lithosols, shallow loams, red volcanic and solodized solonets soils.\" (<i>Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i>)</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p>Natural stands of <i>Acacia holosericea</i> are found in Northern Australia.<br><i>Acacia holosericea</i> has been extensively introduced across the tropics.<br><br> </p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "reproduction_dispersal": {
+        "text": "Acacia holosericea is bisexual (each flower of each individual has both male and female structures). Acacia holosericea is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Acacia holosericea</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Acacia holosericea</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+        "images": []
+      },
+      "phenology": {
+        "text": "From December to March. From February to May. From March to May. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+        "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From March to May.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+        "images": []
+      }
+    },
+    "human_uses": {
+      "others": {
+        "text": "Acacia holosericea \"grows fast, it has a dense crown and fixes nitrogen and has vigorous colonizing characteristics. These make it ideal for revegetation and restoration of degraded land (mining sites) and fixation of sand dunes\". ( Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide )",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Acacia holosericea</i> \"grows fast, it has a dense crown and fixes nitrogen and has vigorous colonizing characteristics. These make it ideal for revegetation and restoration of degraded land (mining sites) and fixation of sand dunes\". (<i>Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i>)</p>      \n    </div>",
+        "images": []
+      },
+      "veterinary": {
+        "text": "The dried phyllodes of Acacia holosericea are sometimes used as fodder .",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The dried phyllodes of <i>Acacia holosericea</i> are sometimes used as <strong>fodder</strong>.</p>      \n    </div>",
+        "images": []
+      },
+      "culinary": {
+        "text": "The seeds of Acacia holosericea are edible.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>seeds</strong> of <i>Acacia holosericea</i> are edible.</p>      \n    </div>",
+        "images": []
+      }
+    },
+    "conservation": {
+      "reforestation": {
+        "text": "Acacia holosericea is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+        "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Acacia holosericea</i> is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+        "images": []
+      },
+      "status": {
+        "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+        "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+        "images": []
+      }
+    }
+  }
+]
