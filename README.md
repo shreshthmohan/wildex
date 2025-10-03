@@ -81,7 +81,12 @@ brew install uv
 uv run scrapy crawl species -a max_species=5
 
 # Scrape specific species by ID
-uv run scrapy crawl species -a species_id=172 -O output/species/species-172.json
+
+# automatically saves to output/species/species-172.json
+uv run scrapy crawl species -a species_id=172
+
+# save to custom file location
+uv run scrapy crawl species -a species_id=172 -O custom-dir/filename.json
 
 # Scrape all species
 uv run scrapy crawl species
