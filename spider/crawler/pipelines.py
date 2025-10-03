@@ -7,6 +7,37 @@ Handles aggregation of species data from multiple page requests
 from itemadapter import ItemAdapter
 from collections import defaultdict
 import logging
+from scrapy.exporters import JsonItemExporter
+
+
+class SingleObjectJsonItemExporter(JsonItemExporter):
+    """
+    Custom JSON exporter that writes a single object instead of an array.
+    Perfect for exporting a single scraped item as a clean JSON object.
+    """
+    def __init__(self, file, **kwargs):
+        super().__init__(file, **kwargs)
+        self.first_item = True
+
+    def start_exporting(self):
+        # Don't write opening bracket
+        pass
+
+    def finish_exporting(self):
+        # Don't write closing bracket
+        self.file.write(b'\n')
+
+    def export_item(self, item):
+        if not self.first_item:
+            # If multiple items, we'd need to handle this differently
+            # For now, just overwrite with the last item
+            pass
+        self.first_item = False
+
+        # Write the item as a plain object (not in an array)
+        itemdict = dict(self._get_serialized_fields(item))
+        data = self.encoder.encode(itemdict) + '\n'
+        self.file.write(data.encode('utf-8'))
 
 
 class SpeciesAggregationPipeline:

@@ -92,9 +92,9 @@
 
       /* Image max height constraint */
       .species-image {
-        max-height: 70vh;
-        width: auto;
-        height: auto;
+        max-height: 98vh;
+        /* width: auto; */
+        /* height: auto; */
       }
     </style>
   </head>
@@ -244,10 +244,10 @@
         // Flat description subsections (no parent "Description")
         if (species.description?.habit?.text)
           items.push({ id: "habit", label: "Habit" });
-        if (species.description?.stem_bark?.text)
-          items.push({ id: "stem", label: "Stem/Bark" });
         if (species.description?.leaf?.text)
           items.push({ id: "leaf", label: "Leaf" });
+        if (species.description?.stem_bark?.text)
+          items.push({ id: "stem", label: "Stem/Bark" });
         if (species.description?.flower?.text)
           items.push({ id: "flower", label: "Flower" });
         if (species.description?.fruit?.text)
@@ -256,6 +256,8 @@
           items.push({ id: "seed", label: "Seed" });
 
         // Flat ecology subsections (no parent "Ecology")
+        if (species.ecology?.ecology?.text)
+          items.push({ id: "ecology", label: "Ecology" });
         if (species.ecology?.distribution?.text)
           items.push({ id: "distribution", label: "Distribution" });
         if (species.ecology?.reproduction_dispersal?.text)
@@ -266,6 +268,7 @@
         // Human Uses section (no children shown in menu)
         const hasUsesData =
           species.human_uses?.culinary?.text ||
+          species.human_uses?.medicinal?.text ||
           species.human_uses?.handicrafts?.text ||
           species.human_uses?.veterinary?.text ||
           species.human_uses?.others?.text;
@@ -283,6 +286,7 @@
         // Nomenclature and Collection at bottom
         items.push({ id: "nomenclature", label: "Nomenclature" });
         items.push({ id: "collection", label: "Collection" });
+        items.push({ id: "source", label: "Source" });
 
         return items;
       }
@@ -346,7 +350,7 @@
           }
 
           ${
-            species.images?.dry_herbarium
+            species.images?.dry_herbarium && false
               ? `
             <div class="mt-10">
               <img src="${species.images.dry_herbarium}" alt="${species.basic_info.scientific_name} herbarium" class="species-image border-2 border-black dark:border-white">
@@ -417,6 +421,14 @@
 
         // Ecology subsections (standalone, no parent section)
         if (species.ecology) {
+          if (species.ecology.ecology?.text) {
+            html += renderStandaloneSection(
+              "ecology",
+              "Ecology",
+              species.ecology.ecology,
+            );
+          }
+
           if (species.ecology.distribution?.text) {
             html += renderStandaloneSection(
               "distribution",
@@ -446,6 +458,7 @@
         if (species.human_uses) {
           const hasUsesData =
             species.human_uses.culinary?.text ||
+            species.human_uses.medicinal?.text ||
             species.human_uses.handicrafts?.text ||
             species.human_uses.veterinary?.text ||
             species.human_uses.others?.text;
@@ -459,6 +472,14 @@
                 "culinary",
                 "Culinary",
                 species.human_uses.culinary,
+              );
+            }
+
+            if (species.human_uses.medicinal?.text) {
+              html += renderSubsection(
+                "medicinal",
+                "Medicinal",
+                species.human_uses.medicinal,
               );
             }
 
@@ -606,6 +627,21 @@
                 : ""
             }
           </dl>
+        </section>`;
+
+        // Source Section (last section)
+        html += `<section id="source" class="mb-20 border-t-2 border-black dark:border-white pt-10">
+          <h2 class="text-4xl font-bold mb-8">Source</h2>
+          <p class="text-xl mb-4">Information on this page is sourced from:</p>
+          ${
+            species.url
+              ? `
+            <a href="${species.url}" target="_blank" rel="noopener noreferrer" class="text-xl underline hover:font-bold transition-all">
+              ${species.url}
+            </a>
+          `
+              : '<p class="text-xl text-gray-500 dark:text-gray-400">Source URL not available</p>'
+          }
         </section>`;
 
         content.innerHTML = html;

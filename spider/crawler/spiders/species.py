@@ -65,9 +65,10 @@ class SpeciesSpider(scrapy.Spider):
         "ecology": {
             "phenology": "contents/phenology.php",
             "reproduction_dispersal": "contents/reproduction.php",
-            "distribution": "contents/ecology-distribution.php",
+            "ecology_distribution": "contents/ecology-distribution.php",
         },
         "human_uses": {
+            "medicinal": "contents/medicinal.php",
             "culinary": "contents/culinary.php",
             "handicrafts": "contents/handicrafts.php",
             "veterinary": "contents/veterinary.php",
@@ -316,7 +317,18 @@ class SpeciesSpider(scrapy.Spider):
 
         # Scrape ecology pages (only those in menu)
         for section_name, page_url in self.CONTENT_PAGES["ecology"].items():
-            if f"ecology.{section_name}" in available_sections:
+            # Special handling for combined ecology-distribution page
+            if section_name == "ecology_distribution":
+                if "ecology.distribution" in available_sections:
+                    url = f"{self.base_url}/{page_url}?id={species_id}"
+                    meta_copy = meta.copy()
+                    meta_copy["section"] = "ecology"
+                    meta_copy["subsection"] = "ecology_distribution"
+                    yield scrapy.Request(
+                        url, callback=self.parse_ecology_distribution, meta=meta_copy,
+                        errback=self.handle_error, dont_filter=True
+                    )
+            elif f"ecology.{section_name}" in available_sections:
                 url = f"{self.base_url}/{page_url}?id={species_id}"
                 meta_copy = meta.copy()
                 meta_copy["section"] = "ecology"
@@ -380,6 +392,25 @@ class SpeciesSpider(scrapy.Spider):
         # Yield partial data - pipeline will aggregate
         yield SpeciesItem(species_data)
 
+    def parse_ecology_distribution(self, response):
+        """
+        Parse combined ecology-distribution page (has both ecology and distribution in one page)
+        """
+        species_data = response.meta["species_data"]
+
+        # Extract ecology and distribution separately from the same page
+        ecology_data = self.extract_ecology_from_combined_page(response)
+        distribution_data = self.extract_distribution_from_combined_page(response)
+
+        # Store both sections
+        if ecology_data:
+            species_data["ecology"]["ecology"] = ecology_data
+        if distribution_data:
+            species_data["ecology"]["distribution"] = distribution_data
+
+        # Yield partial data - pipeline will aggregate
+        yield SpeciesItem(species_data)
+
     # ========== Extraction Methods ==========
 
     def extract_available_menu_sections(self, response):
@@ -411,18 +442,21 @@ class SpeciesSpider(scrapy.Spider):
             available.add('ecology.phenology')
         if response.css('div#plant_menu[title="Reproduction"] a'):
             available.add('ecology.reproduction_dispersal')
-        if response.css('div#plant_menu[title="Distribution"] a'):
+        if response.css('div#plant_menu[title="Ecology"]'):
             available.add('ecology.distribution')
 
         # Check for Human uses subsections
         human_uses_items = {
+            'Medicinal': 'medicinal',
             'Culinary': 'culinary',
             'Handicrafts': 'handicrafts',
             'Veterinary': 'veterinary',
             'Others': 'others',
         }
         for title, key in human_uses_items.items():
-            if response.css(f'div#plant_sousmenu[title="{title}"] a'):
+            # Medicinal can be either a link or selected (span)
+            if response.css(f'div#plant_sousmenu[title="{title}"] a') or \
+               response.css(f'div#plant_sousmenu[title="{title}"] span.subselected'):
                 available.add(f'human_uses.{key}')
 
         # Check for Conservation sections
@@ -563,6 +597,55 @@ class SpeciesSpider(scrapy.Spider):
                 )
 
         return images
+
+    def extract_ecology_from_combined_page(self, response):
+        """
+        Extract ecology section from the combined ecology-distribution page
+        """
+        # Extract content from the "Ecology :" section
+        # The HTML has <p><li><span class="titchap">Ecology :</span><br><p>content</p></li></p>
+        ecology_text_parts = response.xpath(
+            '//span[@class="titchap" and contains(text(), "Ecology")]/following-sibling::p//text()'
+        ).getall()
+        ecology_text = " ".join([t.strip() for t in ecology_text_parts if t.strip()])
+
+        # Extract HTML - get the parent li element
+        ecology_html = response.xpath(
+            '//span[@class="titchap" and contains(text(), "Ecology")]/parent::li'
+        ).get()
+
+        # Extract images (if any in this section)
+        images = []
+
+        return {
+            "text": ecology_text if ecology_text else None,
+            "text_html": ecology_html,
+            "images": images,
+        }
+
+    def extract_distribution_from_combined_page(self, response):
+        """
+        Extract distribution section from the combined ecology-distribution page
+        """
+        # Extract content from the "Distribution :" section
+        distribution_text_parts = response.xpath(
+            '//span[@class="titchap" and contains(text(), "Distribution")]/following-sibling::p//text()'
+        ).getall()
+        distribution_text = " ".join([t.strip() for t in distribution_text_parts if t.strip()])
+
+        # Extract HTML - get the parent li element
+        distribution_html = response.xpath(
+            '//span[@class="titchap" and contains(text(), "Distribution")]/parent::li'
+        ).get()
+
+        # Extract images (if any in this section)
+        images = []
+
+        return {
+            "text": distribution_text if distribution_text else None,
+            "text_html": distribution_html,
+            "images": images,
+        }
 
     def extract_nomenclature(self, response):
         """
