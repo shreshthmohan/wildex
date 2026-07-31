@@ -27,6 +27,8 @@ spider/species-batch-of-*.json
 spider/species-*.json
 spider/species_links.json
 spider/species_output.json
+spider/species.json
+spider/species_list.json
 
 # Incremental spider output (individual species files)
 spider/output/species/*.json
