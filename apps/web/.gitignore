@@ -1,0 +1,74 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.react-router/
+*.tsbuildinfo
+
+# Cloudflare Wrangler
+.wrangler/
+.mf
+.dev.vars
+worker-configuration.d.ts
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Allow example files
+!.dev.vars.example
+!.env.example
+
+# Generated SQL files
+scripts/populate-all.sql
+scripts/populate-single.sql
+
+# Spider output data
+spider/output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.uv/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# AI
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Planning file (used for generating this .gitignore)
+.gitignore-plan.md
+
+# Downloaded species media (large, re-fetchable from source)
+public/species-media/
