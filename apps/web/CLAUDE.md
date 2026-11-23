@@ -69,7 +69,7 @@ export async function action({ request }) {
 
 ### Issue tracker
 
-Issues live in GitHub Issues for `shreshthmohan/foresty`, via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+Issues live in GitHub Issues for `shreshthmohan/wildex`, via the `gh` CLI. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
