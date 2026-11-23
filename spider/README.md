@@ -38,6 +38,19 @@ No other setup needed! `uv` will handle the rest when you run the spider.
 cd spider
 ```
 
+### Quick Reference
+
+```bash
+# Scrape a single specific species
+uv run scrapy crawl species -a species_id=172
+
+# Scrape multiple species (limited batch)
+uv run scrapy crawl species -a max_species=5
+
+# Get list of all available species
+uv run scrapy crawl ah-spider -O species_list.json
+```
+
 ### Output Options
 
 #### Option 1: Use default output (recommended)

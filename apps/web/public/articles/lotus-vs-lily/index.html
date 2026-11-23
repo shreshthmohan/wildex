@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Water Lily vs Lotus | Aquatic Beings</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontSize: {
+              xxs: "0.625rem",
+            },
+            colors: {
+              pond: {
+                dark: "#3D5A80",
+                mid: "#5D748C",
+                light: "#EEF1F7",
+                accent: "#98C1D9",
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      /* @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap");
+
+      * {
+        font-family: "Cormorant Garamond", serif;
+      } */
+    </style>
+  </head>
+  <body class="bg-stone-200 min-h-screen mx-auto pt-16 pb-8">
+    <header class="flex flex-col items-center mb-12">
+      <h1 class="text-4xl font-bold">Wildex</h1>
+      <p class="text-lg font-medium text-stone-900">
+        Learn about Aquatic Flora
+      </p>
+    </header>
+
+    <div class="flex justify-center px-4 mb-16">
+      <div class="max-w-5xl w-full rounded-xl overflow-hidden shadow-lg">
+        <!-- Title Section -->
+        <div class="bg-pond-dark text-pond-light p-4 text-center">
+          <h2 class="text-2xl font-bold">Keepers of the Waterways</h2>
+          <p class="text-sm italic">
+            The silent dialogue between water lily and lotus
+          </p>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="bg-white">
+          <!-- Main comparison area -->
+          <div class="grid grid-cols-1 md:grid-cols-2">
+            <!-- Water Lily Column -->
+            <div class="border-b md:border-r border-pond-accent/20">
+              <div class="h-64 overflow-hidden bg-pond-dark">
+                <img
+                  class="w-full h-full object-cover opacity-90"
+                  src="/api/placeholder/400/320"
+                  alt="Water lily with round leaves floating on water surface"
+                />
+              </div>
+              <div class="p-4 bg-pond-light text-pond-dark text-center">
+                <h3 class="text-2xl font-bold">Water Lily</h3>
+                <p class="italic text-sm">Nymphaeaceae</p>
+              </div>
+            </div>
+
+            <!-- Lotus Column -->
+            <div class="border-b border-pond-accent/20">
+              <div class="h-64 overflow-hidden bg-pond-dark">
+                <img
+                  class="w-full h-full object-cover opacity-90"
+                  src="/api/placeholder/400/320"
+                  alt="Lotus with circular leaves rising above water surface"
+                />
+              </div>
+              <div class="p-4 bg-pond-light text-pond-dark text-center">
+                <h3 class="text-2xl font-bold">Lotus</h3>
+                <p class="italic text-sm">Nelumbo</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Comparison Rows -->
+          <div class="divide-y divide-pond-accent/20">
+            <!-- Leaf Position Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Leaf Position</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect x="5" y="32" width="54" height="5" fill="#98C1D9" />
+                      <circle
+                        cx="32"
+                        cy="30"
+                        r="20"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    Leaves
+                    <span class="font-bold"
+                      >float directly on the water's surface</span
+                    >, embracing rather than transcending their aqueous medium
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Leaf Position</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect x="5" y="50" width="54" height="5" fill="#98C1D9" />
+                      <line
+                        x1="32"
+                        y1="50"
+                        x2="32"
+                        y2="15"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <circle
+                        cx="32"
+                        cy="15"
+                        r="12"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    Leaves
+                    <span class="font-bold">rise proudly above the water</span>
+                    on rigid stems, creating a bridge between aquatic depths and
+                    aerial heights
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Leaf Shape Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Leaf Shape</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <path
+                        d="M32,10 C18,10 10,25 10,32 C10,45 20,54 32,54 C44,54 54,45 54,32 C54,25 46,10 32,10 Z M32,10 L32,32"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    Round with a
+                    <span class="font-bold">distinctive notch</span> where stem
+                    attaches, creating a heart-like shape that speaks to
+                    openness
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Leaf Shape</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <circle
+                        cx="32"
+                        cy="32"
+                        r="22"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <line
+                        x1="32"
+                        y1="54"
+                        x2="32"
+                        y2="64"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    <span class="font-bold">Perfectly circular</span> with no
+                    slit or notch, forming complete circles that embody
+                    wholeness and integration
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Flowers Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Flowers</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect x="5" y="45" width="54" height="5" fill="#98C1D9" />
+                      <line
+                        x1="32"
+                        y1="45"
+                        x2="32"
+                        y2="30"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <circle
+                        cx="32"
+                        cy="25"
+                        r="15"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="1"
+                      />
+                      <circle
+                        cx="32"
+                        cy="25"
+                        r="10"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="1"
+                      />
+                      <circle cx="32" cy="25" r="5" fill="#3D5A80" />
+                    </svg>
+                  </div>
+                  <p>
+                    Emerge
+                    <span class="font-bold">just above the water surface</span>,
+                    with petals that often spread wide in a star-like pattern
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Flowers</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect x="5" y="55" width="54" height="5" fill="#98C1D9" />
+                      <line
+                        x1="32"
+                        y1="55"
+                        x2="32"
+                        y2="20"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <circle
+                        cx="32"
+                        cy="15"
+                        r="12"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="1"
+                      />
+                      <circle
+                        cx="32"
+                        cy="15"
+                        r="8"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="1"
+                      />
+                      <circle cx="32" cy="15" r="4" fill="#3D5A80" />
+                    </svg>
+                  </div>
+                  <p>
+                    Held <span class="font-bold">high above the water</span> on
+                    strong stalks, with numerous petals arranged in a graceful
+                    spiral pattern
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Seed Strategy Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Seed Strategy</h4>
+                <div class="flex items-center">
+                  <div
+                    class="w-16 h-16 mr-3 flex-shrink-0 bg-pond-light/30 rounded-md flex items-center justify-center"
+                  >
+                    <span class="text-xs text-center text-pond-dark"
+                      >Image:<br />Submerged<br />Seed Pods</span
+                    >
+                  </div>
+                  <p>
+                    Develops seed pods
+                    <span class="font-bold">below water</span> after flowering,
+                    returning offerings to their source
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Seed Strategy</h4>
+                <div class="flex items-center">
+                  <div
+                    class="w-16 h-16 mr-3 flex-shrink-0 bg-pond-light/30 rounded-md flex items-center justify-center"
+                  >
+                    <span class="text-xs text-center text-pond-dark"
+                      >Image:<br />Elevated<br />Seed Pods</span
+                    >
+                  </div>
+                  <p>
+                    Creates distinctive
+                    <span class="font-bold"
+                      >shower-head-like seed pods held high</span
+                    >
+                    above water, offering gifts to wider horizons
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Surface Character Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">
+                  Surface Character
+                </h4>
+                <div class="flex items-center">
+                  <div
+                    class="w-16 h-16 mr-3 flex-shrink-0 bg-pond-light/30 rounded-md flex items-center justify-center"
+                  >
+                    <span class="text-xs text-center text-pond-dark"
+                      >Image:<br />Waxy<br />Surface</span
+                    >
+                  </div>
+                  <p>
+                    <span class="font-bold">Waxy, smooth surface</span> where
+                    water beads up rather than wetting the leaf, demonstrating
+                    gentle boundary-making
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">
+                  Surface Character
+                </h4>
+                <div class="flex items-center">
+                  <div
+                    class="w-16 h-16 mr-3 flex-shrink-0 bg-pond-light/30 rounded-md flex items-center justify-center"
+                  >
+                    <span class="text-xs text-center text-pond-dark"
+                      >Image:<br />Repellent<br />Surface</span
+                    >
+                  </div>
+                  <p>
+                    <span class="font-bold"
+                      >Remarkable water-repellent properties</span
+                    >
+                    (the "lotus effect"), demonstrating the wisdom of
+                    non-attachment
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Root System Row -->
+            <div class="grid grid-cols-1 md:grid-cols-2">
+              <div class="p-4 md:border-r border-pond-accent/20 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Root System</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect
+                        x="0"
+                        y="15"
+                        width="64"
+                        height="20"
+                        fill="#98C1D9"
+                        opacity="0.3"
+                      />
+                      <rect
+                        x="0"
+                        y="35"
+                        width="64"
+                        height="29"
+                        fill="#5D748C"
+                        opacity="0.3"
+                      />
+                      <path
+                        d="M5,35 C10,40 20,37 25,42 C30,47 40,44 45,40 C50,36 55,39 60,35"
+                        fill="none"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    Grows from
+                    <span class="font-bold"
+                      >rhizomes that spread horizontally</span
+                    >
+                    in the mud, creating networks of interconnection and
+                    stability
+                  </p>
+                </div>
+              </div>
+              <div class="p-4 bg-white">
+                <h4 class="font-semibold text-pond-dark mb-1">Root System</h4>
+                <div class="flex items-center">
+                  <div class="w-16 h-16 mr-3 flex-shrink-0">
+                    <svg viewBox="0 0 64 64" class="w-full h-full">
+                      <rect
+                        x="0"
+                        y="15"
+                        width="64"
+                        height="20"
+                        fill="#98C1D9"
+                        opacity="0.3"
+                      />
+                      <rect
+                        x="0"
+                        y="35"
+                        width="64"
+                        height="29"
+                        fill="#5D748C"
+                        opacity="0.3"
+                      />
+                      <path
+                        d="M32,35 L32,60"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <path
+                        d="M32,45 L25,55"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <path
+                        d="M32,40 L38,50"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                      <path
+                        d="M32,50 L28,58"
+                        stroke="#3D5A80"
+                        stroke-width="2"
+                      />
+                    </svg>
+                  </div>
+                  <p>
+                    Develops from
+                    <span class="font-bold"
+                      >elongated rhizomes/tubers anchored deeply</span
+                    >
+                    in the sediment, illustrating the value of strong
+                    foundations
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Ecological Significance -->
+          <div class="p-6 bg-pond-light/30">
+            <h3 class="text-xl font-bold text-center text-pond-dark mb-4">
+              Ecological Significance
+            </h3>
+            <div class="text-pond-dark text-base space-y-3">
+              <p>
+                These aquatic beings embody distinct evolutionary dialogues with
+                their watery homes. Their divergent approaches—one embracing the
+                water's surface, the other transcending it—remind us that there
+                are multiple paths to flourishing within shared environments.
+              </p>
+              <p>
+                Both create vital refuges for countless creatures, from
+                microscopic algae to darting fish. They filter excess nutrients,
+                transforming potential pollution into life-giving growth. Their
+                presence speaks to water's capacity for renewal and adaptation.
+              </p>
+              <p class="text-sm italic text-center mt-4">
+                "In observing these quiet teachers, we glimpse the poetry of
+                adaptation—each finding its own way of being in relationship
+                with water, light, and the breathing world."
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bottom Indicators -->
+        <div
+          class="bg-pond-dark text-pond-light p-4 flex justify-between items-center"
+        >
+          <div class="flex items-center space-x-4">
+            <div>
+              <div class="text-sm mb-1">Water Adaptation</div>
+              <div
+                class="bg-white p-1 rounded-full flex items-center justify-center space-x-1"
+              >
+                <div
+                  class="w-2 h-2 rounded-full border border-pond-dark/50 bg-white"
+                ></div>
+                <div
+                  class="w-2 h-2 rounded-full border border-pond-dark/50 bg-white"
+                ></div>
+                <div
+                  class="w-2 h-2 rounded-full border border-pond-dark/50 bg-white"
+                ></div>
+                <div
+                  class="w-2 h-2 rounded-full border border-pond-dark/50 bg-white"
+                ></div>
+                <div
+                  class="w-2 h-2 rounded-full border border-pond-dark/50 bg-white"
+                ></div>
+              </div>
+            </div>
+            <div class="text-xs">
+              Both species have developed profound adaptations to aquatic
+              environments, yet maintain their individual expressions of
+              relationship with water
+            </div>
+          </div>
+          <div class="text-right">
+            <div class="text-lg font-bold">Worldwide</div>
+            <div class="text-xs text-pond-light/70">Distribution</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="py-6 px-4 border-t border-gray-400">
+      <div class="max-w-6xl mx-auto flex justify-between items-center">
+        <div>
+          <a href="#" class="text-xl font-bold tracking-normal"> Wildex </a>
+        </div>
+        <div class="flex items-center gap-4 text-xs">
+          <div class="">
+            <span class="inline-block transform rotate-180 text-lg mb-2"
+              >©</span
+            >
+            GPLv3 2025 -
+            <a href="#" class="underline">Seek. Settle. Sustain.</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

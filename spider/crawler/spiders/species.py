@@ -674,7 +674,7 @@ class SpeciesSpider(scrapy.Spider):
 
         # Parse Indian names into structured dictionary
         indian_names_raw = response.xpath(
-            '//li[contains(., "Indian names")]//p//text()'
+            '//li[contains(., "Indian names")]//text()[not(parent::span)]'
         ).getall()
 
         # Join all text parts and clean

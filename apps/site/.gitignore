@@ -1,0 +1,17 @@
+.DS_Store
+
+node_modules
+
+.astro
+
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+.env.local
+
+dist/
+
+
+

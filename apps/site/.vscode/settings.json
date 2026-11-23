@@ -3,5 +3,5 @@
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "liveServer.settings.port": 5502
+  "liveServer.settings.port": 5503
 }
