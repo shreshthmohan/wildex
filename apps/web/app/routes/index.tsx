@@ -153,6 +153,18 @@ export default function SpeciesList({ loaderData }: Route.ComponentProps) {
       <header className="mb-12">
         <h1 className="text-5xl md:text-6xl font-bold mb-6">Species Collection</h1>
 
+        <nav aria-label="Wildex sections" className="mb-6 flex flex-wrap gap-x-6 gap-y-2 text-lg">
+          <Link to="/field-guide" className="underline underline-offset-4">
+            Forest Beings
+          </Link>
+          <a href="/articles/lets-talk-about-poop/" className="underline underline-offset-4">
+            Let's Talk About Poop
+          </a>
+          <a href="/articles/lotus-vs-lily/" className="underline underline-offset-4">
+            Water Lily vs Lotus
+          </a>
+        </nav>
+
         {/* Search */}
         <Form method="get" className="max-w-2xl">
           <div className="flex gap-2">

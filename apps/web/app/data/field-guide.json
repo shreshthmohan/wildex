@@ -1,0 +1,130 @@
+[
+  {
+    "id": "drosera-burmanni",
+    "commonName": "Tropical Sundew",
+    "scientificName": "Drosera burmanni",
+    "image": "/images/tropical-sundew.webp",
+    "imageAlt": "Tropical Sundew in its natural habitat"
+  },
+  {
+    "id": "indian-eagle-owl",
+    "commonName": "Indian Eagle-Owl",
+    "scientificName": "Bubo bengalensis",
+    "image": "/images/indian-eagle-owl.webp",
+    "imageAlt": "Indian Eagle-Owl in its natural habitat",
+    "audio": "/audio/indian-eagle-owl.call.mp3"
+  },
+  {
+    "id": "indian-jackal",
+    "commonName": "Indian Jackal",
+    "scientificName": "Canis aureus indicus",
+    "image": "/images/indian-jackal.webp",
+    "imageAlt": "Indian Jackal in its natural habitat"
+  },
+  {
+    "id": "gaur",
+    "commonName": "Gaur",
+    "scientificName": "Bos gaurus",
+    "image": "/images/gaur.webp",
+    "imageAlt": "Gaur in its natural habitat"
+  },
+  {
+    "id": "small-indian-civet",
+    "commonName": "Small Indian Civet",
+    "scientificName": "Viverricula indica",
+    "image": "/images/small-indian-civet.webp",
+    "imageAlt": "Small Indian Civet in its natural habitat"
+  },
+  {
+    "id": "asian-palm-civet",
+    "commonName": "Asian Palm Civet",
+    "scientificName": "Paradoxurus hermaphroditus",
+    "image": "/images/asian-palm-civet.webp",
+    "imageAlt": "Asian Palm Civet in its natural habitat"
+  },
+  {
+    "id": "indian-boar",
+    "commonName": "Indian Boar",
+    "scientificName": "Sus scrofa cristatus",
+    "image": "/images/indian-boar.webp",
+    "imageAlt": "Indian Boar in its natural habitat"
+  },
+  {
+    "id": "indian-jujube",
+    "commonName": "Indian Jujube",
+    "scientificName": "Ziziphus mauritiana",
+    "image": "/images/indian-jujube.webp",
+    "imageAlt": "Indian Jujube"
+  },
+  {
+    "id": "indian-elephant",
+    "commonName": "Indian Elephant",
+    "scientificName": "Elephas maximus indicus",
+    "image": "/images/indian-elephant.webp",
+    "imageAlt": "Indian Elephant in its natural habitat"
+  },
+  {
+    "id": "indian-leopard",
+    "commonName": "Indian Leopard",
+    "scientificName": "Panthera pardus fusca",
+    "image": "/images/indian-leopard.webp",
+    "imageAlt": "Indian Leopard in its natural habitat"
+  },
+  {
+    "id": "indian-crested-porcupine",
+    "commonName": "Indian Crested Porcupine",
+    "scientificName": "Hystrix indica",
+    "image": "/images/indian-crested-porcupine.webp",
+    "imageAlt": "Indian Crested Porcupine with quills"
+  },
+  {
+    "id": "golden-shower-tree",
+    "commonName": "Golden Shower Tree",
+    "scientificName": "Cassia fistula",
+    "image": "/images/golden-shower-tree.webp",
+    "imageAlt": "Golden Shower Tree in full bloom with fragrant flowers"
+  },
+  {
+    "id": "sloth-bear",
+    "commonName": "Sloth Bear",
+    "scientificName": "Melursus ursinus",
+    "image": "/images/sloth-bear.webp",
+    "imageAlt": "Sloth Bear standing on a rock surrounded by forest vegetation",
+    "activity": "Active at night, dawn, dusk & on cloudy days",
+    "encounterGuidance": "If encountered: Stand still, never run",
+    "presenceSigns": "Look for dug termite mounds & claw marks on trees"
+  },
+  {
+    "id": "asiatic-black-bear",
+    "commonName": "Asiatic Black Bear",
+    "scientificName": "Ursus thibetanus",
+    "image": "/images/asiatic-black-bear.webp",
+    "imageAlt": "Asiatic Black Bear with distinctive white crescent on chest",
+    "region": "J&K, Northeast India",
+    "activity": "Primarily active during dawn and dusk",
+    "encounterGuidance": "If encountered: Don't climb trees - they are excellent climbers",
+    "presenceSigns": "Claw marks on trees and disturbed fruit-bearing plants"
+  },
+  {
+    "id": "sun-bear",
+    "commonName": "Sun Bear",
+    "scientificName": "Helarctos malayanus",
+    "image": "/images/sun-bear.webp",
+    "imageAlt": "Small Sun Bear with distinctive chest marking",
+    "region": "Northeast India",
+    "activity": "Primarily diurnal, active during day",
+    "encounterGuidance": "If encountered: Keep distance despite small size, sharp claws for climbing",
+    "presenceSigns": "Broken termite mounds and honeycomb remnants"
+  },
+  {
+    "id": "indian-hare",
+    "commonName": "Indian Hare",
+    "scientificName": "Lepus nigricollis",
+    "image": "/images/indian-hare.webp",
+    "imageAlt": "Indian Hare alert and attentive in grassland",
+    "region": "Throughout India",
+    "activity": "Most active at twilight & during moonlit nights",
+    "encounterGuidance": "Observe quietly; sudden movements trigger flight",
+    "presenceSigns": "Creates grass tunnels & pellet-like scat clusters"
+  }
+]
