@@ -8,7 +8,14 @@ build/
 *.tsbuildinfo
 
 # Cloudflare Wrangler
-.wrangler/
+.wrangler/*
+!.wrangler/state/
+.wrangler/state/*
+!.wrangler/state/v3/
+.wrangler/state/v3/*
+!.wrangler/state/v3/d1/
+.wrangler/state/v3/d1/**/*.sqlite-wal
+.wrangler/state/v3/d1/**/*.sqlite-shm
 .mf
 .dev.vars
 worker-configuration.d.ts
@@ -25,9 +32,6 @@ worker-configuration.d.ts
 # Generated SQL files
 scripts/populate-all.sql
 scripts/populate-single.sql
-
-# Spider output data
-spider/output/
 
 # Python
 __pycache__/
@@ -70,5 +74,3 @@ Thumbs.db
 # Planning file (used for generating this .gitignore)
 .gitignore-plan.md
 
-# Downloaded species media (large, re-fetchable from source)
-public/species-media/

@@ -9,4 +9,3 @@ node_modules/
 # Scraper
 spider/.venv/
 spider/**/__pycache__/
-spider/output/
