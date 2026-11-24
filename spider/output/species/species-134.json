@@ -1,0 +1,224 @@
+{
+  "species_id": 134,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=134",
+  "scraped_at": "2025-11-09T10:26:16.278943Z",
+  "basic_info": {
+    "scientific_name": "Millingtonia hortensis",
+    "authority": "L.f.",
+    "family": "Bignoniaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/millingtonia_hortensis.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Mi.ho_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "27 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99395 N",
+      "longitude": "79.82370 E",
+      "raw": "11.99395 N - 79.82370 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Millingtonia hortensis",
+    "author": "Linnaeus, Carl von (1782)",
+    "family": "Bignoniaceae",
+    "english_names": "Indian cork tree, tree jasmine",
+    "indian_names": {
+      "Hindi": [
+        "Akas-nim",
+        "chameli"
+      ],
+      "Kannada": [
+        "Biratumara"
+      ],
+      "Malayalam": [
+        "Katesam"
+      ],
+      "Marathi": [
+        "Kaval nimb"
+      ],
+      "Tamil": [
+        "Maramalligai"
+      ],
+      "Telugu": [
+        "Kavuki"
+      ]
+    },
+    "synonyms": [
+      "Bignonia azedarachta",
+      "Bignonia cicutaria",
+      "Bignonia hortensis",
+      "Bignonia suberosa",
+      "Millingtonia dubiosa",
+      "Nevrilis suberosa",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nMillingtonia\n: In honor of Sir Thomas Millington (1628-1704, London).\n-\nHortensis\n: Cultivated, of the garden (From the Latin\nhortus\n).",
+    "etymology_html": "<p>- <i>Millingtonia</i> : In honor of Sir Thomas Millington (1628-1704, London).<br>- <i>Hortensis</i> : Cultivated, of the garden (From the Latin <i>hortus</i>).</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Millingtonia hortensis is yellowish brown-coloured, thick and corky, longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Millingtonia hortensis</i> is yellowish brown-coloured, thick and corky, longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/millingtonia_hortensis_stem1.jpg",
+          "caption": "Millingtonia hortensis trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/millingtonia_hortensis_stem2.jpg",
+          "caption": "Millingtonia hortensis bark"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Millingtonia hortensis are grouped in corymbose panicles. The calyx-tube is cup-shaped with 5 recurved and short lobes. The calyx is light green and 3 mm long and wide. The corolla is composed of a long tube (6-8 cm long and 2-3 mm across) and 5 lobes. The 5 corolla-lobes are ovate-elliptic, 1.5 cm long and 6-7 mm wide. The androecium is composed of 4 stamens. The filaments are 4 or 6 mm long and connate into a 3 mm long tube with ovoid anthers borne on the free tips of the filaments. The pistil is about 8 cm long. The flowers are very fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Millingtonia hortensis</i> are grouped in corymbose panicles.<br>The <strong>calyx-tube</strong> is cup-shaped with 5 recurved and short lobes. The calyx is light green and 3 mm long and wide.<br>The <strong>corolla</strong> is composed of a long tube (6-8 cm long and 2-3 mm across) and 5 lobes. The 5 corolla-lobes are ovate-elliptic, 1.5 cm long and 6-7 mm wide.<br>The <strong>androecium</strong> is composed of 4 stamens. The filaments are 4 or 6 mm long and connate into a 3 mm long tube with ovoid anthers borne on the free tips of the filaments.<br>The <strong>pistil</strong> is about 8 cm long.<br>The flowers are very fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower1.jpg",
+          "caption": "Millingtonia hortensis inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower2.jpg",
+          "caption": "Millingtonia hortensis inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower3.jpg",
+          "caption": "Millingtonia hortensis inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower4.jpg",
+          "caption": "Millingtonia hortensis inflorescences in bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower5.jpg",
+          "caption": "Millingtonia hortensis flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower6.jpg",
+          "caption": "Millingtonia hortensis flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower7.jpg",
+          "caption": "Millingtonia hortensis flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower8.jpg",
+          "caption": "Millingtonia hortensis flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/millingtonia_hortensis_flower9.jpg",
+          "caption": "Millingtonia hortensis flower bud"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Millingtonia hortensis grow alternately on the stem (spirally arranged). The leaf is compound (bi-imparipinnate). The leaflets are bright green-coloured above and paler beneath. The leaflets are chartaceous and glabrous on both sides. The leaflets have a 2-3 mm long petiole . The leaflets of Millingtonia hortensis are 4-7 cm long and 2-3 cm wide. The shape of the blade is ovate, the apex is acuminate, the base is oblique and the margins are dentate-crenate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Millingtonia hortensis</i> grow alternately on the stem (spirally arranged).<br>The leaf is compound (bi-imparipinnate). The <strong>leaflets</strong> are bright green-coloured above and paler beneath. The leaflets are chartaceous and glabrous on both sides.<br>The leaflets have a 2-3 mm long <strong>petiole</strong>.<br>The leaflets of <i>Millingtonia hortensis</i> are 4-7 cm long and 2-3 cm wide. The shape of the <strong>blade</strong> is ovate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is oblique and the <strong>margins</strong> are dentate-crenate.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf1.jpg",
+          "caption": "Millingtonia hortensis compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf2.jpg",
+          "caption": "Millingtonia hortensis compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf3.jpg",
+          "caption": "Millingtonia hortensis leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf4.jpg",
+          "caption": "Millingtonia hortensis leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf5.jpg",
+          "caption": "Millingtonia hortensis pinna (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/millingtonia_hortensis_leaf6.jpg",
+          "caption": "Millingtonia hortensis pinna (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Millingtonia hortensis is a thornless, medium-sized and deciduous tree growing up to 12-15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Millingtonia hortensis</i> is a thornless, medium-sized and <strong>deciduous tree</strong> growing up to 12-15 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/millingtonia_hortensis_habit1.jpg",
+          "caption": "Millingtonia hortensis tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/millingtonia_hortensis_habit2.jpg",
+          "caption": "Millingtonia hortensis crown"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "In India, Millingtonia hortensis is used in roadside plantings and in parks.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p>In India, <i>Millingtonia hortensis</i> is used in roadside plantings and in parks.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Millingtonia hortensis is native to South Asia and South East Asia. The species is cultivated in most parts of India.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Millingtonia hortensis</i> is native to South Asia and South East Asia. The species is cultivated in most parts of India.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Millingtonia hortensis is bisexual (each flower of each individual has both male and female structures). Millingtonia hortensis is pollinated by a wide variety of insects and by sunbirds (in India). Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Millingtonia hortensis</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Millingtonia hortensis</i> is pollinated by a wide variety of insects and by sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/millingtonia_hortensis_reproduction1.jpg",
+          "caption": "Millingtonia hortensis flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/millingtonia_hortensis_reproduction2.jpg",
+          "caption": "Millingtonia hortensis flower reproductive structures"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Millingtonia hortensis is cultivated in gardens and avenues for its shade and beautiful and fragrant flowers.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Millingtonia hortensis</i> is cultivated in gardens and avenues for its shade and beautiful and fragrant flowers.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Millingtonia hortensis is used as timber . The bark is used as an inferior substitute for cork . The leaves are also used as a cheap substitute for tobacco in cigarettes. Source : Wikipedia (https://en.wikipedia.org/wiki/Millingtonia)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The wood of <i>Millingtonia hortensis</i> is used as <strong>timber</strong>.<br><br>The bark is used as an inferior substitute for <strong>cork</strong>.<br><br>The leaves are also used as a cheap substitute for <strong>tobacco</strong> in cigarettes.<br><br><i>Source : Wikipedia (https://en.wikipedia.org/wiki/Millingtonia)</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The crushed leaves are used on skin diseases. The root decoction is drunk to treat malaria. The bark decoction is used to cure typhoid and as antipyretic. The flowers are used to treat asthma and sinusitis. Sources : - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>crushed leaves</strong> are used on skin diseases.<br><br>The <strong>root decoction</strong> is drunk to treat malaria.<br><br>The <strong>bark decoction</strong> is used to cure typhoid and as antipyretic.<br><br>The <strong>flowers</strong> are used to treat asthma and sinusitis.<br><br><i>Sources :</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i><br> </p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Millingtonia hortensis prefers full sun but can tolerate the half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Millingtonia hortensis</i> prefers full sun but can tolerate the half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/millingtonia_hortensis_reforestation1.jpg",
+          "caption": "Millingtonia hortensis root suckers"
+        }
+      ]
+    }
+  }
+}

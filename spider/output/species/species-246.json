@@ -1,0 +1,151 @@
+{
+  "species_id": 246,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=246",
+  "scraped_at": "2025-10-03T04:47:39.628827Z",
+  "basic_info": {
+    "scientific_name": "Lagerstoemia parviflora",
+    "authority": null,
+    "family": "Lythraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63294c7763a81_63294c7763a75_La.pa_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/La.pa_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "09 Aug, 2022",
+    "collected_by": "A.A.S, R.S",
+    "gps_coordinates": {
+      "latitude": "11.5913 N",
+      "longitude": "79.4827 E",
+      "raw": "11.5913 N - 79.4827 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Lagerstoemia parviflora",
+    "author": "Roxburgh, William (1796)",
+    "family": "Lythraceae",
+    "english_names": "Small flowered crape myrtle",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nLagerstroemia\n: After Magnus von Lagerstrom (1696-1759) Swedish merchant, director of the Swedish East India Company, who supplied Carl Linnaeus with plants he collected\n-\nparviflora\n: From the Latin\nparvus\n- 'small' and\nflora\n- 'flowers'",
+    "etymology_html": "<p>- <i>Lagerstroemia</i>: After Magnus von Lagerstrom (1696-1759) Swedish merchant, director of the Swedish East India Company, who supplied Carl Linnaeus with plants he collected<br>- <i>parviflora</i>: From the Latin <i>parvus</i> - 'small' and <i>flora</i> - 'flowers'</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Lagerstroemia parviflora is brown-grey in colour. It is exfoliating in long, narrow vertical flakes pealing off, leaving a light yellow colour underneath the exposed bark. The bark becomes even more intensely flaky as it gets older.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Lagerstroemia parviflora is brown-grey in colour. <br>It is exfoliating in long, narrow vertical flakes pealing off, leaving a light yellow colour underneath the exposed bark. <br>The bark becomes even more intensely flaky as it gets older.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294dbb02244_La.pa_bk1.jpg",
+          "caption": "Lagerstroemia parviflora flaking bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294dc3b66f5_La.pa_bk2.jpg",
+          "caption": "Lagerstroemia parviflora main stem with exfoliating strips of bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294dc88f112_La.pa_bk3.jpg",
+          "caption": "Lagerstroemia parviflora stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294dcc4da62_La.pa_bk4.jpg",
+          "caption": "Lagerstroemia parviflora exfoliating bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294dd3799b9_La.pa_st1.jpg",
+          "caption": "Lagerstroemia parviflora stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294de045be8_La.pa_st2.jpg",
+          "caption": "Lagerstroemia parviflora stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294de4476e6_La.pa_st3.jpg",
+          "caption": "Lagerstroemia parviflora stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63294e0653eb9_La.pa_st4.jpg",
+          "caption": "Lagerstroemia parviflora stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Lagerstroemia parviflora are many in each capsule. The seeds have a terminal wing with a thick curved back. They are about 1.5 cm long and 0.5 cm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Lagerstroemia parviflora are many in each capsule. <br>The seeds have a terminal wing with a thick curved back. <br>They are about 1.5 cm long and 0.5 cm wide.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Lagerstroemia parviflora are leathery 3 or 4-valved capsules surrounded below by a persistent sepal-cup. The fruits are oblong, about 3 cm long and 1.5 cm wide. The capsules are yellow-green in colour and glaucous at first, then at maturity they turn dark brown. The fruit calyx is woody and 5 toothed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Lagerstroemia parviflora are leathery 3 or 4-valved capsules surrounded below by a persistent sepal-cup. <br>The fruits are oblong, about 3 cm long and 1.5 cm wide. <br>The capsules are yellow-green in colour and glaucous at first, then at maturity they turn dark brown. <br>The fruit calyx is woody and 5 toothed.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Lagerstroemia parviflora are bisexual, small and white in colour. They grow in axillary or terminal panicles of 2 to 6 flowers clusters. Each flower is less than 5 mm wide with a 1 cm long pedicel. The calyx-tube is 7 mm long with a ring inside. Each flower has 6 circular flat petals, white in colour. Many stamens inserted near the base of the calyx tube are longer than the rest. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Lagerstroemia parviflora are bisexual, small and white in colour. <br>They grow in axillary or terminal panicles of 2 to 6 flowers clusters. <br>Each flower is less than 5 mm wide with a 1 cm long pedicel. <br>The calyx-tube is 7 mm long with a ring inside. <br>Each flower has 6 circular flat petals, white in colour. <br>Many stamens inserted near the base of the calyx tube are longer than the rest. <br>The flowers are fragrant.</p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Lagerstroemia parviflora are simple, decussate with an opposite arrangement. They are broadly obovate-elliptic in shape. The leaves are 3 to 8 cm long and 2 cm wide. The leaves are thin coriaceous. The leaf base is cuneate-subacute and the leaf apex is obtuse-retuse. The leaf margin is entire. The petiole is less than 1 cm long. The leaves are glaucous in the lower side.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Lagerstroemia parviflora are simple, decussate with an opposite arrangement. <br>They are broadly obovate-elliptic in shape. <br>The leaves are 3 to 8 cm long and 2 cm wide. <br>The leaves are thin coriaceous. <br>The leaf base is cuneate-subacute and the leaf apex is obtuse-retuse. The leaf margin is entire. <br>The petiole is less than 1 cm long. <br>The leaves are glaucous in the lower side.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294cf91d3d2_La.pa_lf1.jpg",
+          "caption": "Lagerstroemia parviflora decussate leaves on opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294cfdd0db1_La.pa_lf2.jpg",
+          "caption": "Lagerstroemia parviflora decussate leaves on opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294d06c18f6_La.pa_lf3.jpg",
+          "caption": "Lagerstroemia parviflora new growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294d0966f7b_La.pa_lf4.jpg",
+          "caption": "Lagerstroemia parviflora leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294d0e84730_La.pa_lf5.jpg",
+          "caption": "Lagerstroemia parviflora leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63294d11ee4be_La.pa_lf6.jpg",
+          "caption": "Lagerstroemia parviflora leaf growing slightly asymetrical from the stem"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Lagerstroemia parviflora is a medium sized deciduous tree growing up to 10 m in height. It is a beautiful drought resistant tree.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Lagerstroemia parviflora is a medium sized deciduous tree growing up to 10 m in height. <br>It is a beautiful drought resistant tree.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63294cac6e928_La.pa_ha1.jpg",
+          "caption": "Lagerstroemia parviflora habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63294cafd6e8f_La.pa_ha2.jpg",
+          "caption": "Lagerstroemia parviflora habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63294cb3a7a11_La.pa_ha3.jpg",
+          "caption": "Lagerstroemia parviflora top of canopy"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

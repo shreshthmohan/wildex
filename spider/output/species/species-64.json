@@ -1,0 +1,235 @@
+{
+  "species_id": 64,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=64",
+  "scraped_at": "2025-11-18T05:01:23.179737Z",
+  "basic_info": {
+    "scientific_name": "Ficus religiosa",
+    "authority": "L.",
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ficus_religiosa.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.re_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "20 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99383 N",
+      "longitude": "79.82360 E",
+      "raw": "11.99383 N - 79.82360 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus religiosa",
+    "author": null,
+    "family": "Moraceae",
+    "english_names": "Bo tree, bodhi tree, holy tree, peepal tree, scared fig",
+    "indian_names": {
+      "Bengali": [
+        "Asbattha"
+      ],
+      "Hindi": [
+        "Pipal",
+        "peepli"
+      ],
+      "Kannada": [
+        "Arali"
+      ],
+      "Malayalam": [
+        "Arayal"
+      ],
+      "Marathi": [
+        "Pimpal"
+      ],
+      "Sanskrit": [
+        "Pippalah"
+      ],
+      "Tamil": [
+        "Arasamaram"
+      ],
+      "Telugu": [
+        "Ravi"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus religiosa is smooth and greyish-coloured (exfoliating in irregular rounded flakes with age). The trunk of old individuals are often fluted.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Ficus religiosa</em> is smooth and greyish-coloured (exfoliating in irregular rounded flakes with age). The trunk of old individuals are often fluted.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_religiosa_stem1.jpg",
+          "caption": "Ficus religiosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_religiosa_stem2.jpg",
+          "caption": "Ficus religiosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_religiosa_stem3.jpg",
+          "caption": "Ficus religiosa bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fig , what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes). The fruits of Ficus religiosa are globose achenes , brownish and about 1-2 mm across. The figs are sessile, in pairs at the axil of the leaves. They are about 1 cm across, globose and they are yellow-reddish when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fig</b>, what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes).<br><br>\nThe <b>fruits</b> of <em>Ficus religiosa</em> are globose <b>achenes</b>, brownish and about 1-2 mm across.<br><br>\nThe <b>figs</b> are sessile, in pairs at the axil of the leaves. They are about 1 cm across, globose and they are yellow-reddish when ripe.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit1.jpg",
+          "caption": "Ficus religiosa unripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit2.jpg",
+          "caption": "Ficus religiosa paired figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit3.jpg",
+          "caption": "Ficus religiosa syconium (lateral and upper sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit4.jpg",
+          "caption": "Ficus religiosa figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit5.jpg",
+          "caption": "Ficus religiosa figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_religiosa_fruit6.jpg",
+          "caption": "Ficus religiosa paired figs"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus religiosa are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called syconium (*). The syconium of Ficus religiosa is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators). (*) The syconium is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts. Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen. Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. ( Galil, J., Fig biology, 1977 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Ficus religiosa</em> are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called <b>syconium</b> (*).<br>\nThe syconium of <em>Ficus religiosa</em> is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators).<br><br>\n\n(*) The <b>syconium</b> is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts.<br>\nSyconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen.<br>\nOnce pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. (<em>Galil, J., Fig biology, 1977</em>)      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_religiosa_flower1.jpg",
+          "caption": "Ficus religiosa syconium section : enclosing the tiny male and female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_religiosa_flower2.jpg",
+          "caption": "Ficus religiosa syconium section : enclosing the tiny male and female flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus religiosa grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is glossy, coriaceous and glabrous on both sides. The leaves have a long petiole (up to 10 cm). The blade of the leaf of Ficus religiosa is 10-20 cm long and 7-15 cm wide. The shape of the blade is broadly ovate to cordate, the apex is acuminate with a very long cusp (up to 6-7 cm), the base is rounded or truncate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Ficus religiosa</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, bright green-coloured above and paler beneath. The leaf is glossy, coriaceous and glabrous on both sides.<br>\nThe leaves have a long <b>petiole</b> (up to 10 cm).<br>\nThe blade of the leaf of <em>Ficus religiosa</em> is 10-20 cm long and 7-15 cm wide. The shape of the <b>blade</b> is broadly ovate to cordate, the <b>apex</b> is acuminate with a very long cusp (up to 6-7 cm), the <b>base</b> is rounded or truncate and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf1.jpg",
+          "caption": "Ficus religiosa leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf2.jpg",
+          "caption": "Ficus religiosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf3.jpg",
+          "caption": "Ficus religiosa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf4.jpg",
+          "caption": "Ficus religiosa young leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf5.jpg",
+          "caption": "Ficus religiosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf6.jpg",
+          "caption": "Ficus religiosa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf7.jpg",
+          "caption": "Ficus religiosa new leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_religiosa_leaf8.jpg",
+          "caption": "Ficus religiosa foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus religiosa is a large deciduous tree growing up to 30 m high (the tallest ficus species of India). It has a fluting and straight trunk and a spreading crown. Ficus religiosa has no aerial roots. Ficus religiosa starts its life as an epiphyte (a plant that grows on another plant or object). The seeds germinate in the cracks of a host tree or buildings. The mesh of roots growing around the support tree applies considerable pressure that often kills the host tree.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Ficus religiosa</em> is a large <b>deciduous tree</b> growing up to 30 m high (the tallest ficus species of India). It has a fluting and straight trunk and a spreading crown. <em>Ficus religiosa</em> has no aerial roots.<br>\n<em>Ficus religiosa</em> starts its life as an epiphyte (a plant that grows on another plant or object). The seeds germinate in the cracks of a host tree or buildings. The mesh of roots growing around the support tree applies considerable pressure that often kills the host tree.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_religiosa_habit1.jpg",
+          "caption": "Ficus religiosa tree beside a temple"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_religiosa_habit2.jpg",
+          "caption": "Ficus religiosa tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_religiosa_habit3.jpg",
+          "caption": "Ficus religiosa young tree next to a  small temple"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_religiosa_habit4.jpg",
+          "caption": "Young Ficus religiosa growing on a building wall"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Ficus religiosa</em> is found in deciduous forests from the coastal plains up to 1500 m in the hills.<br>\n\"<em>Ficus religiosa</em> grows on a wide variety of soils but prefers deep, alluvial sandy loam with good drainage. It is also found on shallow soils including rock crevices\". (<em>Orwa C., A. Mutua, R. Kindt, R. Jamnadass, S. Anthony, 2009, Agroforestree Database : a tree reference and selection guide version 4.0</em>)<br>\n<em>Ficus religiosa</em> is often planted around temples.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          India, Sri Lanka, Pakistan, Bangladesh, Myanmar, Nepal, Bhutan, South-East Asia, South China (Caribbean and North America).        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>The syconium of <em>Ficus religiosa</em> is monoecious : each fig contains both female and male flowers.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Ficus religiosa</em> is pollinated by a symbiosis with a kind of fig wasp (family Agaonidae). The syconium supplies shelter and food for fig wasps and in turn the fig wasps pollinate the flowers of the ficus.<br><br>\n\nThe tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. (<em>Wikipedia</em>)<br>\n\nFor further information about the life cycle of the fig wasp :  see a <a href=\"http://www.britannica.com/animal/fig-wasp\" target=\"_blank\">figure of Encyclopaedia Britannica</a>.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Ficus religiosa</em> are dispersed by fruit-eating birds and bats.<br></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From August to February.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From Juanary to June.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From Juanary to June.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The leaves of Ficus religiosa are a good fodder for goats and cattle (10-14% of crude protein) and a silage prepared from the leaves is palatable and digestible. Source : (Orwa C., A. Mutua, R. Kindt, R. Jamnadass, S. Anthony, 2009, Agroforestree Database : a tree reference and selection guide version 4.0)",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>leaves</b> of <em>Ficus religiosa</em> are a good fodder for goats and cattle (10-14% of crude protein) and a silage prepared from the leaves is palatable and digestible.<br><br>\n\n<em>Source : (Orwa C., A. Mutua, R. Kindt, R. Jamnadass, S. Anthony, 2009, Agroforestree Database : a tree reference and selection guide version 4.0)</em>      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Ficus religiosa is greyish-white and moderately hard. It is moderately durable under cover and quite durable under water. It is little used but is occasionally converted into packing cases, cheap boarding, yokes, spoons and bowls. ( Orwa C., A. Mutua, R. Kindt, R. Jamnadass, S. Anthony, 2009, Agroforestree Database : a tree reference and selection guide version 4.0 ) The bark contains tannin and it is occasionally used for tanning and for dyeing. It also yields fibre made into ropes. ( Dastur, 2006, Useful Plants of India and Pakistan )",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Ficus religiosa</em> is greyish-white and moderately hard. It is moderately durable under cover and quite durable under water. It is little used but is occasionally converted into packing cases, cheap boarding, yokes, spoons and bowls. (<em>Orwa C., A. Mutua, R. Kindt, R. Jamnadass, S. Anthony, 2009, Agroforestree Database : a tree reference and selection guide version 4.0</em>)<br><br>\n\nThe <b>bark</b> contains tannin and it is occasionally used for tanning and for dyeing. It also yields fibre made into ropes. (<em>Dastur, 2006, Useful Plants of India and Pakistan</em>)  </p>\n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The bark of Ficus religiosa is astringent, antiseptic, alterative, laxative, haemostatic, vaginal disinfectant. It is used in diabetes, diarrhoea, leucorrhoea, menorrhagia, nervous disorders and in skin diseases. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The bark infusion is used to treat scabies. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The paste of the powdered bark is used to treat inflammatory swellings and burns. ( Arya Vaidya Sala, 1996, Indian Medicinal plants ) The juice of the bark is used as a mouthwash to cure toothache and to strengthen gums. ( Krishen, 2006, Trees of Delhi ) The fig is laxative and it helps digestion. The dried pulverised figs taken in water are used to treat asthma. ( Arya Vaidya Sala, 1996, Indian Medicinal plants The leaves and young shoots are purgative. ( Basu & Kirtikar, 1918, Indian Medicinal Plants )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The <b>bark</b> of <em>Ficus religiosa</em> is astringent, antiseptic, alterative, laxative, haemostatic, vaginal disinfectant. It is used in diabetes, diarrhoea, leucorrhoea, menorrhagia, nervous disorders and in skin diseases. (<em>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</em>)<br>\nThe <b>bark infusion</b> is used to treat scabies. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)<br>\nThe <b>paste of the powdered bark</b> is used to treat inflammatory swellings and burns. (<em>Arya Vaidya Sala, 1996, Indian Medicinal plants</em>)<br>\nThe <b>juice of the bark</b> is used as a mouthwash to cure toothache and to strengthen gums. (<em>Krishen, 2006, Trees of Delhi</em>)<br><br>\n\nThe <b>fig</b> is laxative and it helps digestion. The dried pulverised figs taken in water are used to treat asthma. (<em>Arya Vaidya Sala, 1996, Indian Medicinal plants</em><br><br>\n\nThe <b>leaves</b> and young <b>shoots</b> are purgative. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Ficus religiosa</em> is able to flourish in a wide range of soils (stony, sandy or rich soils) but all soils need to be free draining. The tree thrives in open areas, it prefers full sunlight.<br>\nIt can be propagated from seeds or by vegetative means.<br><br>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          No pre-treatment is required (germination can take several month).<br>\nFicus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.        </li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/ficus_religiosa_reforestation1.jpg",
+          "caption": "Ficus religiosa seedling"
+        }
+      ]
+    }
+  }
+}

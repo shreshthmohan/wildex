@@ -1,0 +1,655 @@
+{
+  "completed": {
+    "296": {
+      "timestamp": "2025-10-02T23:32:16.883444",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "136": {
+      "timestamp": "2025-10-02T22:13:02.320023",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "278": {
+      "timestamp": "2025-10-02T22:25:51.823069",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "108": {
+      "timestamp": "2025-10-02T22:26:47.956087",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "98": {
+      "timestamp": "2025-10-02T22:49:01.794356",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "228": {
+      "timestamp": "2025-10-02T22:49:56.037355",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "357": {
+      "timestamp": "2025-10-02T23:09:02.954963",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "16": {
+      "timestamp": "2025-10-02T23:18:57.034202",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "132": {
+      "timestamp": "2025-10-02T23:19:43.488838",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "313": {
+      "timestamp": "2025-10-02T23:25:02.301252",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "366": {
+      "timestamp": "2025-10-02T23:26:08.472097",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "10": {
+      "timestamp": "2025-10-02T23:26:47.166001",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "73": {
+      "timestamp": "2025-10-02T23:27:21.482002",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "164": {
+      "timestamp": "2025-10-02T23:27:40.367609",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "184": {
+      "timestamp": "2025-10-02T23:30:40.937014",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "182": {
+      "timestamp": "2025-10-02T23:31:47.567034",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "8": {
+      "timestamp": "2025-10-02T23:33:03.272242",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "167": {
+      "timestamp": "2025-10-02T23:33:17.571730",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "125": {
+      "timestamp": "2025-10-02T23:35:59.161520",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "181": {
+      "timestamp": "2025-10-02T23:36:25.359393",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "301": {
+      "timestamp": "2025-10-02T23:36:56.476196",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "38": {
+      "timestamp": "2025-10-02T23:47:32.992321",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "211": {
+      "timestamp": "2025-10-02T23:47:46.681025",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "174": {
+      "timestamp": "2025-10-02T23:57:31.412208",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "40": {
+      "timestamp": "2025-10-03T00:02:29.694331",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "142": {
+      "timestamp": "2025-10-08T11:52:13.598066",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "327": {
+      "timestamp": "2025-10-03T00:07:24.825148",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "94": {
+      "timestamp": "2025-10-03T00:08:10.936707",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "237": {
+      "timestamp": "2025-10-03T00:08:49.899423",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "26": {
+      "timestamp": "2025-10-07T14:14:03.805195",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "356": {
+      "timestamp": "2025-10-03T00:10:15.988869",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "241": {
+      "timestamp": "2025-10-03T00:15:45.770857",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "256": {
+      "timestamp": "2025-10-03T00:16:25.112923",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "75": {
+      "timestamp": "2025-10-03T00:17:05.403317",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "214": {
+      "timestamp": "2025-10-03T00:17:41.281877",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "87": {
+      "timestamp": "2025-10-03T00:18:31.234059",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "70": {
+      "timestamp": "2025-10-03T00:33:12.187489",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "319": {
+      "timestamp": "2025-10-03T00:33:51.427780",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "334": {
+      "timestamp": "2025-10-03T00:34:28.178879",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "201": {
+      "timestamp": "2025-10-03T00:35:07.399990",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "318": {
+      "timestamp": "2025-10-03T00:35:41.844001",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "81": {
+      "timestamp": "2025-11-09T15:18:29.670224",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "240": {
+      "timestamp": "2025-10-03T07:35:58.370797",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "2": {
+      "timestamp": "2025-10-03T07:57:09.105702",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "215": {
+      "timestamp": "2025-10-03T08:11:17.613628",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "151": {
+      "timestamp": "2025-10-03T08:16:37.772796",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "161": {
+      "timestamp": "2025-10-03T08:17:56.042659",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "141": {
+      "timestamp": "2025-10-07T14:05:44.609132",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "11": {
+      "timestamp": "2025-10-03T08:35:48.278557",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "52": {
+      "timestamp": "2025-10-03T08:40:56.728557",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "131": {
+      "timestamp": "2025-10-03T09:48:44.083522",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "41": {
+      "timestamp": "2025-10-03T10:01:37.696977",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "350": {
+      "timestamp": "2025-10-03T10:16:54.408704",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "123": {
+      "timestamp": "2025-10-03T10:17:36.220002",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "246": {
+      "timestamp": "2025-10-03T10:18:09.038588",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "14": {
+      "timestamp": "2025-10-03T10:19:05.200070",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "100": {
+      "timestamp": "2025-10-03T10:21:13.882177",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "341": {
+      "timestamp": "2025-10-03T10:32:02.951249",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "189": {
+      "timestamp": "2025-10-03T14:03:31.417972",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "89": {
+      "timestamp": "2025-10-03T18:33:17.242627",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "268": {
+      "timestamp": "2025-10-03T18:33:57.621679",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "339": {
+      "timestamp": "2025-10-03T18:34:31.495353",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "266": {
+      "timestamp": "2025-10-03T18:35:06.565533",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "13": {
+      "timestamp": "2025-10-03T18:36:08.277513",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "99": {
+      "timestamp": "2025-10-03T18:41:18.322969",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "27": {
+      "timestamp": "2025-10-03T19:20:44.571020",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "112": {
+      "timestamp": "2025-10-03T21:10:05.900703",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "1": {
+      "timestamp": "2025-10-07T09:16:11.783456",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "120": {
+      "timestamp": "2025-10-07T12:08:57.295919",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "180": {
+      "timestamp": "2025-10-07T12:12:39.761643",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "252": {
+      "timestamp": "2025-10-07T12:36:26.775033",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "111": {
+      "timestamp": "2025-10-07T12:41:47.353134",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "91": {
+      "timestamp": "2025-10-07T12:43:28.079326",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "9": {
+      "timestamp": "2025-10-07T12:49:50.647866",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "222": {
+      "timestamp": "2025-10-07T13:06:09.955854",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "101": {
+      "timestamp": "2025-10-07T13:18:35.386279",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "340": {
+      "timestamp": "2025-10-07T13:55:29.060136",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "204": {
+      "timestamp": "2025-10-08T11:36:54.404220",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "36": {
+      "timestamp": "2025-10-08T11:40:03.700929",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "188": {
+      "timestamp": "2025-10-08T11:43:05.905159",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "262": {
+      "timestamp": "2026-01-10T13:14:40.017408",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "208": {
+      "timestamp": "2025-10-08T11:50:43.340732",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "7": {
+      "timestamp": "2025-10-08T11:54:50.084743",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "143": {
+      "timestamp": "2025-10-08T12:04:01.515280",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "39": {
+      "timestamp": "2025-10-08T12:08:22.109884",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "84": {
+      "timestamp": "2025-10-08T12:13:08.184397",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "229": {
+      "timestamp": "2025-10-08T12:15:24.822402",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "293": {
+      "timestamp": "2025-10-08T12:20:45.759093",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "175": {
+      "timestamp": "2025-10-29T17:02:35.906294",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "76": {
+      "timestamp": "2025-10-29T17:36:04.942534",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "128": {
+      "timestamp": "2025-11-02T21:34:59.333707",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "259": {
+      "timestamp": "2025-11-02T22:54:34.067193",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "74": {
+      "timestamp": "2025-11-02T23:00:47.760034",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "18": {
+      "timestamp": "2025-11-02T23:10:29.252916",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "85": {
+      "timestamp": "2025-11-02T23:11:45.695157",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "258": {
+      "timestamp": "2025-11-02T23:12:45.757817",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "106": {
+      "timestamp": "2025-11-02T23:15:29.396582",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "134": {
+      "timestamp": "2025-11-09T15:57:00.468516",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "58": {
+      "timestamp": "2025-11-17T22:30:29.215705",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "220": {
+      "timestamp": "2025-11-17T22:36:49.903978",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "292": {
+      "timestamp": "2025-11-17T22:42:00.541916",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "219": {
+      "timestamp": "2025-11-17T23:56:19.645824",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "255": {
+      "timestamp": "2025-11-17T23:58:46.146701",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "197": {
+      "timestamp": "2025-11-18T00:01:18.838495",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "221": {
+      "timestamp": "2025-11-18T10:31:02.892093",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "64": {
+      "timestamp": "2025-11-18T10:32:10.832085",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "233": {
+      "timestamp": "2025-11-18T11:03:09.318366",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "264": {
+      "timestamp": "2026-01-10T16:48:52.454821",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "51": {
+      "timestamp": "2026-01-10T13:44:48.160846",
+      "status": "success",
+      "has_minimal_data": true
+    },
+    "263": {
+      "timestamp": "2026-01-10T13:43:24.337025",
+      "status": "success",
+      "has_minimal_data": true
+    }
+  },
+  "failed": {
+    "146": {
+      "timestamp": "2025-10-02T23:19:47.969037",
+      "error_type": "timeout_insufficient_data",
+      "error_msg": "Timeout after 90s",
+      "retryable": true,
+      "responses_received": 2,
+      "responses_expected": 12,
+      "missing_sections": [
+        "ecology.reproduction_dispersal",
+        "nomenclature._complete",
+        "description.fruit",
+        "description.seed",
+        "ecology.phenology",
+        "description.stem_bark",
+        "human_uses.veterinary",
+        "description.leaf",
+        "description.habit",
+        "description.flower"
+      ]
+    },
+    "298": {
+      "timestamp": "2025-10-02T23:37:00.442557",
+      "error_type": "timeout_insufficient_data",
+      "error_msg": "Timeout after 109s",
+      "retryable": true,
+      "responses_received": 2,
+      "responses_expected": 9,
+      "missing_sections": [
+        "description.flower",
+        "description.leaf",
+        "nomenclature._complete",
+        "description.stem_bark",
+        "description.seed",
+        "description.habit",
+        "description.fruit"
+      ]
+    },
+    "50": {
+      "timestamp": "2025-10-02T23:48:03.948563",
+      "error_type": "timeout_insufficient_data",
+      "error_msg": "Timeout after 81s",
+      "retryable": true,
+      "responses_received": 2,
+      "responses_expected": 14,
+      "missing_sections": [
+        "description.leaf",
+        "description.stem_bark",
+        "ecology.phenology",
+        "human_uses.culinary",
+        "human_uses.veterinary",
+        "human_uses.handicrafts",
+        "description.flower",
+        "nomenclature._complete",
+        "description.fruit",
+        "description.habit",
+        "description.seed",
+        "ecology.reproduction_dispersal"
+      ]
+    },
+    "307": {
+      "timestamp": "2025-10-03T00:14:03.329562",
+      "error_type": "rate_limit",
+      "error_msg": "Too many requests",
+      "retryable": true
+    },
+    "59": {
+      "timestamp": "2025-10-03T00:22:51.926399",
+      "error_type": "rate_limit",
+      "error_msg": "Too many requests",
+      "retryable": true
+    },
+    "217": {
+      "timestamp": "2025-10-03T00:38:04.855921",
+      "error_type": "timeout_insufficient_data",
+      "error_msg": "Timeout after 137s",
+      "retryable": true,
+      "responses_received": 3,
+      "responses_expected": 9,
+      "missing_sections": [
+        "description.flower",
+        "description.seed",
+        "description.fruit",
+        "nomenclature._complete",
+        "description.habit",
+        "description.leaf"
+      ]
+    },
+    "203": {
+      "timestamp": "2025-10-03T10:21:47.208810",
+      "error_type": "rate_limit",
+      "error_msg": "Too many requests",
+      "retryable": true
+    },
+    "313": {
+      "timestamp": "2025-10-03T18:41:39.975264",
+      "error_type": "rate_limit",
+      "error_msg": "Too many requests",
+      "retryable": true
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "species_id": 233,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=233",
+  "scraped_at": "2025-11-18T05:32:37.241370Z",
+  "basic_info": {
+    "scientific_name": "Ficus tinctoria subsp. gibbosa",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62a0b048ea75d_62a0b048ea752_Fi.ti_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.ti_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 May, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5914 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus tinctoria subsp. gibbosa",
+    "author": "(Blume) Corner, Edred John Henry (1960)",
+    "family": "Moraceae",
+    "english_names": "Dye fig",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nFicus\n: From the Latin designating the species\n-\ntinctoria\n: From the Latin\ntinctus\nstandard botanical term used to indicate the plant is used in dyes\n-\ngibbosa\n: From the Latin\ngibbus\nmeaning hump, referring to the asymmetrical leaf",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin designating the species<br>- <i>tinctoria</i>: From the Latin <i>tinctus </i>standard botanical term used to indicate the plant is used in dyes <br>- <i>gibbosa</i>: From the Latin <i>gibbus</i> meaning hump, referring to the asymmetrical leaf</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus tinctoria is grey in colour and coarse. The branchlets are brown. As a hemi-epiphytic species, the branches of Ficus tinctoria can embrace the trunks of host plants forming a network of branches or creeping along old walls, wells and rocks.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus tinctoria is grey in colour and coarse. <br>The branchlets are brown. <br>As a hemi-epiphytic species, the branches of Ficus tinctoria can embrace the trunks of host plants forming a network of branches or creeping along old walls, wells and rocks.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a0b0b619172_Fi.ti_bk1.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa grey bark of a young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632acfb978944_Fi.ti_st2.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa stem arrangement"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus tinctoria subsp. gibbosa are enclosed inside the fig. They are minuscule (less than 1 mm in size).",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus tinctoria subsp. gibbosa are enclosed inside the fig. <br>They are minuscule (less than 1 mm in size).</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/632acf834b17a_Fi.ti_sd1.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa fruit dissected in half showing immature seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Ficus tinctoria subsp. gibbosa are figs. The figs of Ficus tinctoria are growing in pairs or clusters, rarely solitary. They are small, less than 1 cm and globose or pyriform in shape. The base of the fruit attenuates into the stalk. The figs have sparse small tubercles which are slightly rough. The peduncle is short, less than 1 cm. The fruits are green turning to yellow and orange when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Ficus tinctoria subsp. gibbosa are figs. <br>The figs of Ficus tinctoria are growing in pairs or clusters, rarely solitary. <br>They are small, less than 1 cm and globose or pyriform in shape. <br>The base of the fruit attenuates into the stalk. <br>The figs have sparse small tubercles which are slightly rough. <br>The peduncle is short, less than 1 cm. <br>The fruits are green turning to yellow and orange when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a0ae1d95bdb_Fi.ti_fr1.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa ripe yellow fig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a0ae49c0775_Fi.ti_fr3.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa pyriform figs often by pairs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a0ae3f671a0_Fi.ti_fr4.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa ripe pyriform figs, yellow turning orange"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Fi.ti_fr5.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa fig dissected in half"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus tinctoria subsp. gibbosa are enclosed within the inflorescence structure formed by the fig, which is also known as synconia. The fig is actually a compartment carrying hundreds of flowers. The flowers of Ficus tinctoria are dioecious. The male flowers are yellow and the female become red when mature. The gale flowers are similar to the male flowers.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus tinctoria subsp. gibbosa are enclosed within the inflorescence structure formed by the fig, which is also known as synconia. <br>The fig is actually a compartment carrying hundreds of flowers. <br>The flowers of Ficus tinctoria are dioecious. <br>The male flowers are yellow and the female become red when mature.<br>The gale flowers are similar to the male flowers. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0acdbda7f4_Fi.ti_fl1.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa green unripe figs (the flowers are contained inside the fig)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Fi.ti_fl2.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa green figs (the flowers are contained inside the fig)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0acdea9e62_Fi.ti_fl3.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa unripe fig cut open showing the not yet formed flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0ace8948d8_Fi.ti_fl4.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa ripe fig cut open showing the male, female and gale flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0aceacc978_Fi.ti_fl5.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa ripe fig cut open showing the flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus tinctoria subsp. gibbosa are simple, with an alternate arrangement. The leaves are obliquely elliptic-ovate or rhomboidal shaped, often asymmetrical. The leaves are 5-15 cm long and 3-7 cm wide. They are coriaceous and rough. The upper side of the leaf is dark green in colour with white lenticels and the lower side of the leaf is pale green to white. There are 5 to 6 pairs of lateral nerves that are prominent on either side of the leaf. The base of the leaf is unequally rounded to acute and glandular on the broader side. The leaf margin is entire and the apex acute. The leaves and stems exude a white latex when broken.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus tinctoria subsp. gibbosa are simple, with an alternate arrangement. <br>The leaves are obliquely elliptic-ovate or rhomboidal shaped, often asymmetrical. <br>The leaves are 5-15 cm long and 3-7 cm wide. <br>They are coriaceous and rough. <br>The upper side of the leaf is dark green in colour with white lenticels and the lower side of the leaf is pale green to white. <br>There are 5 to 6 pairs of lateral nerves that are prominent on either side of the leaf. The base of the leaf is unequally rounded to acute and glandular on the broader side. <br>The leaf margin is entire and the apex acute. <br>The leaves and stems exude a white latex when broken.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a0ac3e58b67_Fi.ti_lf1.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa alternate leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a0ac450da08_Fi.ti_lf2.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa dark green leaves with white lenticels on upper side"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a0ac450dab3_Fi.ti_lf3.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a0ac42eb173_Fi.ti_lf4.jpg",
+          "caption": "Ficus tinctoria subsp. gibbosa leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus tinctoria subsp. gibbosa is a medium sized deciduous tree or straggler growing up to 10 m. Usually epiphyte on host trees or rocks when young, the root system of Ficus tinctoria can be self-sustaining. The mature prop-roots can grow up to 25 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus tinctoria subsp. gibbosa is a medium sized deciduous tree or straggler growing up to 10 m. <br>Usually epiphyte on host trees or rocks when young, the root system of Ficus tinctoria can be self-sustaining. <br>The mature prop-roots can grow up to 25 m in height. </p>      \n    </div>",
+      "images": []
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

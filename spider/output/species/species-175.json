@@ -1,0 +1,226 @@
+{
+  "species_id": 175,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=175",
+  "scraped_at": "2025-10-29T11:31:42.340075Z",
+  "basic_info": {
+    "scientific_name": "Neolamarckia cadamba",
+    "authority": "(Roxb.) Bosser",
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/neolamarckia_cadamba.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ne.ca_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "13 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99531 N",
+      "longitude": "79.82350 E",
+      "raw": "11.99531 N - 79.82350 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Neolamarckia cadamba",
+    "author": "Bosser, Jean M. (1984)",
+    "family": "Rubiaceae",
+    "english_names": "Burflower tree, kadam, kadamba",
+    "indian_names": {
+      "Hindi": [
+        "Kadamb"
+      ],
+      "Kannada": [
+        "Kaduavalatige"
+      ],
+      "Malayalam": [
+        "Katampu"
+      ],
+      "Sanskrit": [
+        "Kadambah"
+      ],
+      "Tamil": [
+        "Vellaikkatampu"
+      ],
+      "Telugu": [
+        "Rudrakskamba"
+      ]
+    },
+    "synonyms": [
+      "Anthocephalus cadamba",
+      "Anthocephalus indicus var. glabrescens",
+      "Anthocephalus morindifolius",
+      "Nauclea cadamba",
+      "Nauclea megaphylla",
+      "Neonauclea megaphylla",
+      "Samama cadamba",
+      "Sarcocephalus cadamba",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nCadamba\n: \"The kadamba tree lends its name to the Kadamba Dynasty that ruled from Banavasi in what is now the state of Karnataka. The kadamba tree was considered a holy tree by the Kadamba dynasty.\" (\nWikipedia, https://en.wikipedia.org/wiki/Neolamarckia_cadamba\n)",
+    "etymology_html": "<p>- <i>Cadamba</i> : \"The kadamba tree lends its name to the Kadamba Dynasty that ruled from Banavasi in what is now the state of Karnataka. The kadamba tree was considered a holy tree by the Kadamba dynasty.\" (<i>Wikipedia, https://en.wikipedia.org/wiki/Neolamarckia_cadamba</i>)</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Neolamarckia cadamba is light brown-coloured and rough. It is longitudinally fissured and flakes off in irregular scales.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Neolamarckia cadamba</i> is light brown-coloured and rough. It is longitudinally fissured and flakes off in irregular scales.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/neolamarckia_cadamba_stem1.jpg",
+          "caption": "Neolamarckia cadamba trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/neolamarckia_cadamba_stem2.jpg",
+          "caption": "Neolamarckia cadamba bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/neolamarckia_cadamba_stem3.jpg",
+          "caption": "Neolamarckia cadamba trunk"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Neolamarckia cadamba are tiny (about 0.5 mm long). There are few seeds in each capsule but they are numerous in each pseudocarp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Neolamarckia cadamba</i> are tiny (about 0.5 mm long). There are few seeds in each capsule but they are numerous in each pseudocarp.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/neolamarckia_cadamba_seed1.jpg",
+          "caption": "Neolamarckia cadamba tiny seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The pseudocarp (false-fruit) of Neolamarckia cadamba is globose, about 4 cm in diameter with a 2.5 cm long peduncle. The fruit of Neolamarckia cadamba is a small capsule . The capsules are inserted on a fleshy receptacle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>pseudocarp</strong> (false-fruit) of <i>Neolamarckia cadamba</i> is globose, about 4 cm in diameter with a 2.5 cm long peduncle.<br>The <strong>fruit</strong> of <i>Neolamarckia cadamba</i> is a small <strong>capsule</strong>. The capsules are inserted on a fleshy receptacle.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit1.jpg",
+          "caption": "Neolamarckia cadamba pseudocarp (false-fruit)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit2.jpg",
+          "caption": "Neolamarckia cadamba pseudocarp (false-fruit)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit3.jpg",
+          "caption": "Neolamarckia cadamba pseudocarp section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit4.jpg",
+          "caption": "Neolamarckia cadamba fruiting branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit5.jpg",
+          "caption": "Neolamarckia cadamba pseudocarp (false-fruit)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/neolamarckia_cadamba_fruit6.jpg",
+          "caption": "Neolamarckia cadamba pseudocarp with dried corolla"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Neolamarckia cadamba grow opposite on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 4-5 cm long petiole . The blade of the leaf of Neolamarckia cadamba is 15-25 cm long and 8-12 cm wide. The shape of the blade is ovate, the apex is acuminate, the base is rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Neolamarckia cadamba</i> grow opposite on the stem.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 4-5 cm long <strong>petiole</strong>.<br>The <strong>blade</strong> of the leaf of <i>Neolamarckia cadamba</i> is 15-25 cm long and 8-12 cm wide. The shape of the <strong>blade</strong> is ovate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf1.jpg",
+          "caption": "Neolamarckia cadamba leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf2.jpg",
+          "caption": "Neolamarckia cadamba leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf3.jpg",
+          "caption": "Neolamarckia cadamba leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf4.jpg",
+          "caption": "Neolamarckia cadamba leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf5.jpg",
+          "caption": "Neolamarckia cadamba leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf6.jpg",
+          "caption": "Neolamarckia cadamba leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/neolamarckia_cadamba_leaf7.jpg",
+          "caption": "Neolamarckia cadamba foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Neolamarckia cadamba is a thornless, large-sized and deciduous tree growing up to 30-35 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Neolamarckia cadamba</i> is a thornless, large-sized and <strong>deciduous tree</strong> growing up to 30-35 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/neolamarckia_cadamba_habit1.jpg",
+          "caption": "Neolamarckia cadamba tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/neolamarckia_cadamba_habit2.jpg",
+          "caption": "Neolamarckia cadamba young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/neolamarckia_cadamba_habit3.jpg",
+          "caption": "Neolamarckia cadamba crown"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Neolamarckia cadamba is \"an early-succession species, it grows best on deep, moist, alluvial sites, often in secondary forests along riverbanks and in the transitional zone between swampy, permanently flooded and periodically flooded areas\". ( Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide )",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Neolamarckia cadamba</i> is \"an early-succession species, it grows best on deep, moist, alluvial sites, often in secondary forests along riverbanks and in the transitional zone between swampy, permanently flooded and periodically flooded areas\". (<i>Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i>)</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesian biogeographical region and China.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesian biogeographical region and China.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Neolamarckia cadamba is bisexual (each flower of each individual has both male and female structures). Neolamarckia cadamba is pollinated by a wide variety of insects. The seeds of Neolamarckia cadamba are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Neolamarckia cadamba</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Neolamarckia cadamba</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Neolamarckia cadamba</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From February to May. From July to November. From July to November. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From July to November.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From July to November.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The tree is grown along avenues, roadsides and villages for its shade.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The tree is grown along avenues, roadsides and villages for its shade.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The fresh leaves are used as cattle fodder .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fresh leaves are used as <strong>cattle fodder</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Neolamarckia cadamba is used for plywood, light construction, pulp and paper, boxes and crates, dug-out canoes, and furniture components... The root bark yields a yellow dye . Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Neolamarckia cadamba</i> is used for plywood, light construction, pulp and paper, boxes and crates, dug-out canoes, and furniture components...<br><br>The root bark yields a yellow <strong>dye</strong>.<br><br><i>Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Neolamarckia cadamba is used in Ayurveda and Siddha medicines. Neolamarckia cadamba is hepatoprotective, nematicidal, tonic, febrifuge and astringent. The leaves extract is used as a mouth gargle. The leaves decoction is used as a gargle to treat aphthae and stomatitis. The dried bark is used to relieve fever, burning sensation and as a tonic. The bark juice is used in eyes inflammation. The stem is used as a tooth brush in gum infection and dental caries. The fresh juice of the fruit is used to kill worms in sores. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Basu & Kirtikar, 1918, Indian Medicinal Plants - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Neolamarckia cadamba</i> is used in Ayurveda and Siddha medicines.<br><br><i>Neolamarckia cadamba</i> is hepatoprotective, nematicidal, tonic, febrifuge and astringent.<br><br>The <strong>leaves extract</strong> is used as a mouth gargle.<br>The <strong>leaves decoction</strong> is used as a gargle to treat aphthae and stomatitis. The <strong>dried bark</strong> is used to relieve fever, burning sensation and as a tonic.<br>The <strong>bark juice</strong> is used in eyes inflammation.<br><br>The <strong>stem</strong> is used as a tooth brush in gum infection and dental caries.<br><br>The <strong>fresh juice of the fruit</strong> is used to kill worms in sores.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Neolamarckia cadamba is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Neolamarckia cadamba</i> is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "species_id": 264,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=264",
+  "scraped_at": "2026-01-10T11:18:18.435904Z",
+  "basic_info": {
+    "scientific_name": "Barleria prionitis",
+    "authority": null,
+    "family": "Acanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63f99b6d98e0b_63f99b6d98dfc_Ba.pr_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.pr_herb3.jpg"
+  },
+  "collection_metadata": {
+    "date": "10 Feb, 2023",
+    "collected_by": "A.A.S, M.D",
+    "gps_coordinates": {
+      "latitude": "12°00'41 N",
+      "longitude": "79°48'19 E",
+      "raw": "12°00'41 N - 79°48'19 E"
+    },
+    "locality": "Darkali, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Barleria prionitis",
+    "author": "Linnaeus, Carl (1753)",
+    "family": "Acanthaceae",
+    "english_names": "Porcupine flower",
+    "indian_names": null,
+    "synonyms": [
+      "Barleria echinata",
+      "Barleria hystrix",
+      "Barleria prionitis subsp. madagascariensis",
+      "Barleria prionitis var. pubescens",
+      "Barleria quadrispinosa",
+      "Barleria spicata",
+      "Prionitis hystrix"
+    ],
+    "etymology": "-\nBarleria\n: After Jacques Barrelier (1606-1673), french monk and botanist\n-\nprionitis\n: From the Greek\nprion\nwhich means saw, referring to the sepals shape",
+    "etymology_html": "<p>- <i>Barleria</i>: After Jacques Barrelier (1606-1673), french monk and botanist<br>- <i>prionitis</i>: From the Greek <i>prion</i> which means saw, referring to the sepals shape</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Barleria prionitis is rough with numerous light lenticels. The branches are green, terete, lenticellate and glabrous. The bark is light brown to grey in colour. The spines are present at the axils of the leaf, at the stem branching and at the nodes. They are straight, multiple from 3 to 5 on each side of the leaf axils. The spines are brown in colour, and about 1 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Barleria prionitis is rough with numerous light lenticels.<br>The branches are green, terete, lenticellate and glabrous.<br>The bark is light brown to grey in colour.<br>The spines are present at the axils of the leaf, at the stem branching and at the nodes.<br>They are straight, multiple from 3 to 5 on each side of the leaf axils.<br>The spines are brown in colour, and about 1 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.pr_st1.jpg",
+          "caption": "Barleria prionitis stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.pr_st2.jpg",
+          "caption": "Barleria prionitis grey bark with light lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.pr_st4.jpg",
+          "caption": "Barleria prionitis straight spines at the base of stem node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.pr_st5.jpg",
+          "caption": "Barleria prionitis multiple straight spines on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.pr_st6.jpg",
+          "caption": "Barleria prionitis stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Barleria prionitis are ovoid in shape, appressed-hairy and woody. They are about 2 cm long and 0.50 cm wide. They are light brown to grey in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Barleria prionitis are ovoid in shape, appressed-hairy and woody. <br>They are about 2 cm long and 0.50 cm wide. <br>They are light brown to grey in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ba.pr_sd2.jpg",
+          "caption": "Barleria prionitis ripe seed on the stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ba.pr_sd4.jpg",
+          "caption": "Barleria prionitis woody seeds, cut in half (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ba.pr_sd3.jpg",
+          "caption": "Barleria prionitis seed and spiny bracts at its base"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Barleria prionitis is an ovoid capsule which is about 2 cm long. It is green in colour and pubescent when unripe, turning to grey when mature. Each fruit contains 2 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Barleria prionitis is an ovoid capsule which is about 2 cm long. <br>It is green in colour and pubescent when unripe, turning to grey when mature. <br>Each fruit contains 2 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.pr_fr1.jpg",
+          "caption": "Barleria prionitis green fruits at the leaf axils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.pr_fr3.jpg",
+          "caption": "Barleria prionitis unripe fruits with bracts, dissected in half (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.pr_fr2.jpg",
+          "caption": "Barleria prionitis unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.pr_sd1.jpg",
+          "caption": "Barleria prionitis ripe fruits on the stem"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Barleria prionitis are golden yellow to orange in colour, with a very small stalk. They grow solitarily or in cymose clusters in the axils of the upper leaves and on bracts. The flower base has 2 lanceolate bracts about 1 cm long with spiny tips. The corolla has 5 petals, and is thinly pubescent without. It has 2 stamens about 3.5 cm long with 3 mm long anthers. The ovary has 2 ovules and is 3.50 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Barleria prionitis are golden yellow to orange in colour, with a very small stalk. <br>They grow solitarily or in cymose clusters in the axils of the upper leaves and on bracts. <br>The flower base has 2 lanceolate bracts about 1 cm long with spiny tips. <br>The corolla has 5 petals, and is thinly pubescent without. <br>It has 2 stamens about 3.5 cm long with 3 mm long anthers. <br>The ovary has 2 ovules and is 3.50 mm wide.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl1.jpg",
+          "caption": "Barleria prionitis flowers growing solitarily"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl2.jpg",
+          "caption": "Barleria prionitis flowers growing as cymose clusters in the axils of the upper leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl3.jpg",
+          "caption": "Barleria prionitis open flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl4.jpg",
+          "caption": "Barleria prionitis flowers with 5 petals, 2 stamens and semi-persistent stigma"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl5.jpg",
+          "caption": "Barleria prionitis flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl6.jpg",
+          "caption": "Barleria prionitis flowers growing at the leaf axils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl7.jpg",
+          "caption": "Barleria prionitis flower with spiny bracts"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.pr_fl8.jpg",
+          "caption": "Barleria prionitis flower cut in half to show inside the tube, stamens stigma and ovary"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Barleria prionitis are simple growing in an opposite arrangement. They are ovate-obovate in shape, with a mucronate tip. The leaf base is attenuate (slender), the margin ciliate and the apex obtuse or acute. The leaves are 5 to 12 cm long and 2 to 4 cm wide. They are coriaceous and sparsely hirsute on the lower side. The petiole is about 2 cm long. There are 2 to 4 straight spines that grow at the leaves axils. The leaf spines are green to grey in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Barleria prionitis are simple growing in an opposite arrangement.<br>They are ovate-obovate in shape, with a mucronate tip.<br>The leaf base is attenuate (slender), the margin ciliate and the apex obtuse or acute. <br>The leaves are 5 to 12 cm long and 2 to 4 cm wide. <br>They are coriaceous and sparsely hirsute on the lower side. <br>The petiole is about 2 cm long. <br>There are 2 to 4 straight spines that grow at the leaves axils.<br>The leaf spines are green to grey in colour.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf1.jpg",
+          "caption": "Barleria prionitis leaf arrangement with leaf axils spines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf3.jpg",
+          "caption": "Barleria prionitis leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf2.jpg",
+          "caption": "Barleria prionitis opposite leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf4.jpg",
+          "caption": "Barleria prionitis young leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf5.jpg",
+          "caption": "Barleria prionitis young leaf slightly pubescent, growing at the stem node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf6.jpg",
+          "caption": "Barleria prionitis opposite leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf7.jpg",
+          "caption": "Barleria prionitis leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.pr_lf8.jpg",
+          "caption": "Barleria prionitis (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Barleria prionitis is an erect, much-branched shrub that can grow up to 1.50 m in height. It is armed with spines located in the leaf axils. It is part of the under-storey of the Tropical Dry Evergreen forest.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Barleria prionitis is an erect, much-branched shrub that can grow up to 1.50 m in height.<br>It is armed with spines located in the leaf axils.<br>It is part of the under-storey of the Tropical Dry Evergreen forest.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.pr_ha1.jpg",
+          "caption": "Barleria prionitis habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.pr_ha2.jpg",
+          "caption": "Barleria prionitis blooming habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.pr_ha3.jpg",
+          "caption": "Barleria prionitis habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.pr_st3.jpg",
+          "caption": "Barleria prionitis straight spines at the leaf axils"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

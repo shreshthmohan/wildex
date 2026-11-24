@@ -1,0 +1,226 @@
+{
+  "species_id": 341,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=341",
+  "scraped_at": "2025-10-03T05:01:27.928370Z",
+  "basic_info": {
+    "scientific_name": "Aristida vestita",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/67163501dfc33_67163501dfc2b_Ar.ve_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ar.ve_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Sep, 2024",
+    "collected_by": "M.D, M.d.H",
+    "gps_coordinates": {
+      "latitude": "11°59'13 N",
+      "longitude": "79°48'17 E",
+      "raw": "11°59'13 N- 79°48'17 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Aristida vestita",
+    "author": "Thunberg, Carl Peter (1794)",
+    "family": "Poaceae",
+    "english_names": "Large woolly three-awn, Hedgehog broom grass",
+    "indian_names": {
+      "Malayalam": [
+        "Pottapullu"
+      ]
+    },
+    "synonyms": [
+      "Arthratherum vestitum",
+      "Chaetaria vestita",
+      "Aristida flocciculmis",
+      "Aristida hystrix",
+      "Aristida lanuginosa",
+      "Aristida vestita f. amplior",
+      "Arthratherum lanuginosum"
+    ],
+    "etymology": "-\nAristida\n: from the Latin\narista\n- beard, referring to the to conspicuous awns.\n-\nvestita\n: From the Latin\nvestitus\n- clad or clothed, in reference to the meany leaves down the length of the branches or to the leaves themselves being clothed in hair.",
+    "etymology_html": "<p>- <i>Aristida</i> : from the Latin <i>arista</i>- beard, referring to the to conspicuous awns.<br>- <i>vestita</i>: From the Latin <i>vestitus</i>- clad or clothed, in reference to the meany leaves down the length of the branches or to the leaves themselves being clothed in hair.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The culms of Aristida vestita are up to 60 cm high, they are rigid and geniculate. The culms can be simple or sometime branched from the base or from the nodes. They are pubescent or woolly in the lower part, often glabrous upwards. The culms have 3 to 4 glabrous nodes. The rhizome of Aristida vestita is very short, with dense tufts of barren shoots and culms.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Aristida vestita are up to 60 cm high, they are rigid and geniculate. <br>The culms can be simple or sometime branched from the base or from the nodes. <br>They are pubescent or woolly in the lower part, often glabrous upwards. <br>The culms have 3 to 4 glabrous nodes. <br>The rhizome of Aristida vestita is very short, with dense tufts of barren shoots and culms.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st1.jpg",
+          "caption": "Aristida vestita rhizome"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st2.jpg",
+          "caption": "Aristida vestita rhizome"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st3.jpg",
+          "caption": "Aristida vestita glabrous node and culm"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st4.jpg",
+          "caption": "Aristida vestita glabrous node and culm"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st5.jpg",
+          "caption": "Aristida vestita roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.ve_st6.jpg",
+          "caption": "Aristida vestita ligule"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The grains of Aristida vestita are very slender caryopsis, ending with 3 long awns.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The grains of Aristida vestita are very slender caryopsis, ending with 3 long awns.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd1.jpg",
+          "caption": "Aristida vestita mature panicle with caryopsis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd2.jpg",
+          "caption": "Aristida vestita mature panicle with caryopsis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd3.jpg",
+          "caption": "Aristida vestita caryopsis with 3 awns and arrow on the other side"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd4.jpg",
+          "caption": "Aristida vestita mature florets with caryopsis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd6.jpg",
+          "caption": "Aristida vestita caryopsis ending with arrow"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.ve_sd7.jpg",
+          "caption": "Aristida vestita caryopsis ending with arrow"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The grains of Aristida vestita are very slender caryopsis, ending with 3 long awns.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The grains of Aristida vestita are very slender caryopsis, ending with 3 long awns.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr1.jpg",
+          "caption": "Aristida vestita dry florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr2.jpg",
+          "caption": "Aristida vestita dry florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr3.jpg",
+          "caption": "Aristida vestita fresh florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr4.jpg",
+          "caption": "Aristida vestita fresh floret with its awn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr5.jpg",
+          "caption": "Aristida vestita fresh florets with awns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr8.jpg",
+          "caption": "Aristida vestita dry florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.ve_fr6.jpg",
+          "caption": "Aristida vestita dry florets"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Aristida vestita are growing in pyramidal and lax panicles. The panicles are 10 to 15 cm long and about 7 cm wide. The branches of the panicles are filiform and glabrous. The spikelets are similar. The spikelets are 7 to 8 mm long, lanceolate in shape, solitary and pedicelled. The lower glume is 4 x 0.5 mm, 1-nerved and glabrous. The upper glume is 7 x 0.5 mm, acuminate, 1-nerved and keeled. There is one floret. The lemma is 7-8 x 1 mm, lanceolate, 3-nerved and awned. The awns are 1 to 1.5 cm long. The palea is minute and hyaline. There are 3 stamens. The ovary is elliptic, with 2 free styles and a stigma plumose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Aristida vestita are growing in pyramidal and lax panicles. <br>The panicles are 10 to 15 cm long and about 7 cm wide. <br>The branches of the panicles are filiform and glabrous. <br>The spikelets are similar. The spikelets are 7 to 8 mm long, lanceolate in shape, solitary and pedicelled. <br>The lower glume is 4 x 0.5 mm, 1-nerved and glabrous. <br>The upper glume is 7 x 0.5 mm, acuminate, 1-nerved and keeled. <br>There is one floret. The lemma is 7-8 x 1 mm, lanceolate, 3-nerved and awned. <br>The awns are 1 to 1.5 cm long. The palea is minute and hyaline. <br>There are 3 stamens. <br>The ovary is elliptic, with 2 free styles and a stigma plumose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl1.jpg",
+          "caption": "Aristida vestita panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl2.jpg",
+          "caption": "Aristida vestita florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl3.jpg",
+          "caption": "Aristida vestita yellow stamens and old purple pistil"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl6.jpg",
+          "caption": "Aristida vestita fresh purple pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl7.jpg",
+          "caption": "Aristida vestita fresh purple pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.ve_fl4.jpg",
+          "caption": "Aristida vestita 3 hanging stamens"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Aristida vestita are light green to glaucous in colour. The leaf blades are 5 to 20 cm long and 1 to 4 mm wide. They are narrow and glabrous. The leaf-sheath are rounded, tight, scarcely striate and glabrous. The lower leaf-sheaths are broad and papery, straw in colour, lanate on the back and along the margins, soon becoming glabrous. The ligule has a very shortly ciliate rim. The auricles are found with a tuft of woolly hairs. The leaf base is flat, involute in the upper part, shortly pubescent or somewhat villous above, glabrous beneath.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Aristida vestita are light green to glaucous in colour. <br>The leaf blades are 5 to 20 cm long and 1 to 4 mm wide. They are narrow and glabrous. <br>The leaf-sheath are rounded, tight, scarcely striate and glabrous. <br>The lower leaf-sheaths are broad and papery, straw in colour, lanate on the back and along the margins, soon becoming glabrous. <br>The ligule has a very shortly ciliate rim. <br>The auricles are found with a tuft of woolly hairs. <br>The leaf base is flat, involute in the upper part, shortly pubescent or somewhat villous above, glabrous beneath.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.ve_lf1.jpg",
+          "caption": "Aristida vestita leaf base, node and ligule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.ve_lf2.jpg",
+          "caption": "Aristida vestita detached ligule on leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.ve_lf3.jpg",
+          "caption": "Aristida vestita leaf arrangement"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Aristida vestita is an annual or perennial herb, growing up to 85 cm tall. The species is robust, growing in dense tufts (caespitose).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Aristida vestita is an annual or perennial herb, growing up to 85 cm tall. <br>The species is robust, growing in dense tufts (caespitose).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.ve_ha1.jpg",
+          "caption": "Aristida vestita habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.ve_ha2.jpg",
+          "caption": "Aristida vestita habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.ve_ha3.jpg",
+          "caption": "Aristida vestita habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.ve_ha4.jpg",
+          "caption": "Aristida vestita habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

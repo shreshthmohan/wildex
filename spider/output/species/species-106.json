@@ -1,0 +1,209 @@
+{
+  "species_id": 106,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=106",
+  "scraped_at": "2025-11-02T17:44:47.169351Z",
+  "basic_info": {
+    "scientific_name": "Grewia hirsuta",
+    "authority": "Vahl",
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/grewia_hirsuta.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gr.hi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "27 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99538 N",
+      "longitude": "79.82188 E",
+      "raw": "11.99538 N - 79.82188 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Grewia hirsuta",
+    "author": "Vahl, Martin (Henrichsen) (1790)",
+    "family": "Malvaceae",
+    "english_names": "Not specified",
+    "indian_names": {
+      "Hindi": [
+        "Kakarundah"
+      ],
+      "Kannada": [
+        "Gandaudipe"
+      ],
+      "Marathi": [
+        "Govli"
+      ],
+      "Sanskrit": [
+        "Gudasarkara"
+      ],
+      "Tamil": [
+        "Kalunnu"
+      ],
+      "Telugu": [
+        "Chimachipuru"
+      ]
+    },
+    "synonyms": [
+      "Grewia montana",
+      "Grewia obliqua",
+      "Grewia pilosa",
+      "Grewia roxburghii",
+      "Grewia tomentosa",
+      "Grewia trichodes",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nGrewia\n: For Nehemiah Grew (1641-1712), a British physician and anatomist, a pioneer microscopist. He is the author of\nThe Anatomy of Plants\npublished in 1682.\n-\nHirsuta\n: With very short hairs.",
+    "etymology_html": "<p>-<i>Grewia</i> : For Nehemiah Grew (1641-1712), a British physician and anatomist, a pioneer microscopist. He is the author of <i>The Anatomy of Plants</i> published in 1682.<br>-<i>Hirsuta</i> : With very short hairs.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Grewia hirsuta is greyish-coloured and lenticellate. The branchlets are densely pubescent.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Grewia hirsuta</i> is greyish-coloured and lenticellate. The branchlets are densely pubescent.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_hirsuta_stem1.jpg",
+          "caption": "Grewia hirsuta stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_hirsuta_stem2.jpg",
+          "caption": "Grewia hirsuta bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Grewia hirsuta is enclosed into a stone. The stone is globose, very hard, with an irregular surface. It is about 5 mm across and there is 1 stone per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Grewia hirsuta</i> is enclosed into a stone. The stone is globose, very hard, with an irregular surface. It is about 5 mm across and there is 1 stone per fruit.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Grewia hirsuta is a drupe , brown-reddish coloured when ripe. The fruit is subglobose about 1 cm across and tomentose. The epicarp (fruit-wall) is crustaceous and the mesocarp (pulp) is fibrous. The fruit contains 1 stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Grewia hirsuta</i> is a <strong>drupe</strong>, brown-reddish coloured when ripe.<br>The fruit is subglobose about 1 cm across and tomentose.<br>The epicarp (fruit-wall) is crustaceous and the mesocarp (pulp) is fibrous.<br>The fruit contains 1 stone.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Grewia hirsuta are white-greenish-coloured, 1.5 cm across and they are grouped in axillary 3-flowered clusters (cymes). The peduncle is about 2-3 mm long covered with long hairs. The calyx is composed of 5 sepals . They are oblong, 5-6 mm long and 0.25 cm wide, white-coloured above and greenish tomentose beneath. The corolla is composed of 5 white petals , hairy only at the base. They are oblong, 2 mm long and 1 mm. The stamens are numerous with 2 mm long filiform filaments and tiny versatile anthers. The ovary is globose and 4-celled. The style is 2 mm long and pubescent. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Grewia hirsuta</i> are white-greenish-coloured, 1.5 cm across and they are grouped in axillary 3-flowered clusters (cymes).<br>The <strong>peduncle</strong> is about 2-3 mm long covered with long hairs.<br>The <strong>calyx</strong> is composed of 5 <strong>sepals</strong>. They are oblong, 5-6 mm long and 0.25 cm wide, white-coloured above and greenish tomentose beneath.<br>The <strong>corolla</strong> is composed of 5 white <strong>petals</strong>, hairy only at the base. They are oblong, 2 mm long and 1 mm.<br>The <strong>stamens</strong> are numerous with 2 mm long filiform filaments and tiny versatile anthers.<br>The <strong>ovary</strong> is globose and 4-celled. The style is 2 mm long and pubescent.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower1.jpg",
+          "caption": "Grewia hirsuta blossoming twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower2.jpg",
+          "caption": "Grewia hirsuta cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower3.jpg",
+          "caption": "Grewia hirsuta flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower4.jpg",
+          "caption": "Grewia hirsuta flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower5.jpg",
+          "caption": "Grewia hirsuta flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower6.jpg",
+          "caption": "Grewia hirsuta flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower7.jpg",
+          "caption": "Grewia hirsuta flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower8.jpg",
+          "caption": "Grewia hirsuta flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_hirsuta_flower9.jpg",
+          "caption": "Grewia hirsuta flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Grewia hirsuta grow alternately on the stem. The leaf is simple, dark green-coloured above and paler beneath. The leaf is chartaceous and densely pubescent (velvety) on both sides. The leaves have a 0.5 cm long petiole . The leaf of Grewia hirsuta is 8-10 cm long and 1.5-2 cm wide. The shape of the blade is lanceolate, the apex is acute, the base is obliquely rounded and the margins are serrate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Grewia hirsuta</i> grow alternately on the stem.<br>The leaf is simple, dark green-coloured above and paler beneath. The leaf is chartaceous and densely pubescent (velvety) on both sides.<br>The leaves have a 0.5 cm long <strong>petiole</strong>.<br>The leaf of <i>Grewia hirsuta</i> is 8-10 cm long and 1.5-2 cm wide. The shape of the <strong>blade</strong> is lanceolate, the <strong>apex</strong> is acute, the <strong>base</strong> is obliquely rounded and the <strong>margins</strong> are serrate.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf1.jpg",
+          "caption": "Grewia hirsuta branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf2.jpg",
+          "caption": "Grewia hirsuta leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf3.jpg",
+          "caption": "Grewia hirsuta leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf4.jpg",
+          "caption": "Grewia hirsuta foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf5.jpg",
+          "caption": "Grewia hirsuta branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf6.jpg",
+          "caption": "Grewia hirsuta leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_hirsuta_leaf7.jpg",
+          "caption": "Grewia hirsuta leaves (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Grewia hirsuta is a multi-stemmed, thornless and deciduous shrub growing up to 4-5 meters.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Grewia hirsuta</i> is a multi-stemmed, thornless and <strong>deciduous shrub</strong> growing up to 4-5 meters.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/grewia_hirsuta_habit1.jpg",
+          "caption": "Grewia hirsuta shrub"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Grewia hirsuta is found in open woodland, scrub jungles, thickets, on rocky hillsides from coastal plains up to 1000 meters of elevation.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Grewia hirsuta</i> is found in open woodland, scrub jungles, thickets, on rocky hillsides from coastal plains up to 1000 meters of elevation.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Grewia hirsuta is bisexual (each flower of each individual has both male and female structures). Grewia hirsuta is pollinated by a wide variety of insects. The seeds of Grewia hirsuta are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Grewia hirsuta</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Grewia hirsuta</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Grewia hirsuta</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "Thoughout the year. Thoughout the year. Thoughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Thoughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Thoughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Thoughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "Grewia hirsuta is used in Ayurveda and Siddha medicines. The fruits and the roots of Grewia hirsuta are diuretic and antidiarrhoeal. The juice of fruits is given to treat indigestion. The roots paste is used externally for cuts, boils and wounds. The roots and leaves crushed with sugar are prescribed for spermatorrhoea. The leaf paste is applied on boils. The extract of crushed twigs is given to treat stomachache. Sources : - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Grewia hirsuta</i> is used in Ayurveda and Siddha medicines.<br><br>The <strong>fruits and the roots</strong> of <i>Grewia hirsuta</i> are diuretic and antidiarrhoeal.<br><br>The <strong>juice of fruits</strong> is given to treat indigestion.<br><br>The <strong>roots paste</strong> is used externally for cuts, boils and wounds.<br><br>The <strong>roots and leaves</strong> crushed with sugar are prescribed for spermatorrhoea.<br><br>The <strong>leaf paste</strong> is applied on boils.<br><br>The <strong>extract of crushed twigs</strong> is given to treat stomachache.<br><br><i>Sources :</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Grewia hirsuta grows in a wide range of soils but all soils need to be free draining and the plant prefers open lands with full sun. Grewia hirsuta can be grown from seed but germination is unpredictable. The stones that have passed through the stomach of wild fruit-eaters germinate rapidly (stomach acids dissolve the tough stone coat). 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Grewia hirsuta</i> grows in a wide range of soils but all soils need to be free draining and the plant prefers open lands with full sun.<br><i>Grewia hirsuta</i> can be grown from seed but germination is unpredictable. The stones that have passed through the stomach of wild fruit-eaters germinate rapidly (stomach acids dissolve the tough stone coat).</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

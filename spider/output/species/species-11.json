@@ -1,0 +1,242 @@
+{
+  "species_id": 11,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=11",
+  "scraped_at": "2025-10-03T03:04:58.719934Z",
+  "basic_info": {
+    "scientific_name": "Bauhinia tomentosa",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/bauhinia_tomentosa.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.to_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Nov, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99383 N",
+      "longitude": "79.82364 E",
+      "raw": "11.99383 N - 79.82364 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Bauhinia tomentosa",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Fabaceae",
+    "english_names": "Hairy bauhinia, Pubescent bauhinia, St. Thomas tree , Yellow bauhinia , Yellow bell,  Yellow orchid tree",
+    "indian_names": {
+      "Hindi": [
+        "Kachnar"
+      ],
+      "Kannada": [
+        "Kadarti",
+        "Kallatti",
+        "Vanasampage"
+      ],
+      "Malayalam": [
+        "Canschenapou",
+        "Kanchena",
+        "KKattatti",
+        "Mandaram"
+      ],
+      "Marathi": [
+        "Apta",
+        "Pivalakanchan"
+      ],
+      "Sanskrit": [
+        "Asmantaka",
+        "Kovidarah",
+        "Phalgu"
+      ],
+      "Tamil": [
+        "Kanchani",
+        "Kaanchini"
+      ],
+      "Telugu": [
+        "Kanchani",
+        "Mandara",
+        "Palepi"
+      ]
+    },
+    "synonyms": [
+      "Alvesia bauhinioides",
+      "Alvesia tomentosa",
+      "Bauhinia pubescens",
+      "Bauhinia tomentosa var. glabrata",
+      "Bauhinia volkensii",
+      "Bauhinia wituensis",
+      "Pauletia tomentosa",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nBauhinia\n: Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.\n-\nTomentosa\n: Tomentose, meaning covered with short matted woolly hairs.",
+    "etymology_html": "<p>- <i>Bauhinia</i> : Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.<br>- <i>Tomentosa</i> : Tomentose, meaning covered with short matted woolly hairs.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Bauhinia tomentosa is smooth when young and longitudinally cracked with age. It is grey-brownish coloured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Bauhinia tomentosa</i> is smooth when young and longitudinally cracked with age. It is grey-brownish coloured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_tomentosa_stem1.jpg",
+          "caption": "trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_tomentosa_stem2.jpg",
+          "caption": "bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Bauhinia tomentosa are ovate, glabrous and there are 6 to 10 seeds in each pod. They are compressed and 7 mm long x 5 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Bauhinia tomentosa</i> are ovate, glabrous and there are 6 to 10 seeds in each pod.<br>They are compressed and 7 mm long x 5 mm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_tomentosa_seed1.jpg",
+          "caption": "dried ripe seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_tomentosa_seed2.jpg",
+          "caption": "fresh ripe seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_tomentosa_seed3.jpg",
+          "caption": "fresh ripe seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Bauhinia tomentosa is a dehiscent pod . This pod is pubescent, oblong, horned, 10-12 cm long and 1.5-2 cm wide. Unripe fruits are light green and turn brown when ripe. There are 6 to 10 seeds in a fruit.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Bauhinia tomentosa</i> is a dehiscent <strong>pod</strong>. <br>This pod is pubescent, oblong, horned, 10-12 cm long and 1.5-2 cm wide. <br>Unripe fruits are light green and turn brown when ripe. <br>There are 6 to 10 seeds in a fruit.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_tomentosa_fruit1.jpg",
+          "caption": "fruit development, from unripe (bottom) to ripe (top)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_tomentosa_fruit2.jpg",
+          "caption": "fruit forming"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_tomentosa_fruit3.jpg",
+          "caption": "unripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_tomentosa_fruit4.jpg",
+          "caption": "ripe and dry pod"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Bauhinia tomentosa are usually in axillary leaf-opposed pairs . These bright yellow flowers are large, bell-shaped and pendulous. They are about 7 cm across with a 0.8-1 cm long pedicel . The peduncle is 1-1.5 cm long. The bracts are linear and 5 mm long. The corolla is composed of 5 yellow petals , one of which has a dark maroon patch at the base. The petals are obovate, 5 cm long and 3 cm wide. The petals of wilted flowers turn veined purple. The calyx-tube is spathaceous with 5 oblong and 1-1.5 cm long lobes. The calyx is light green coloured and pubescent. There are 10 stamens . They are hairy at the base, filiform and from 1 to 2 cm long. The anthers are versatile and 2-3 mm long. The style is 2.5-3 cm long with a dilated stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Bauhinia tomentosa</i> are usually in axillary leaf-opposed <strong>pairs</strong>. These bright yellow flowers are large, bell-shaped and pendulous. They are about 7 cm across with a 0.8-1 cm long <strong>pedicel</strong>. The <strong>peduncle</strong> is 1-1.5 cm long. The <strong>bracts</strong> are linear and 5 mm long.<br>The <strong>corolla</strong> is composed of 5 yellow <strong>petals</strong>, one of which has a dark maroon patch at the base. The petals are obovate, 5 cm long and 3 cm wide. The petals of wilted flowers turn veined purple.<br>The <strong>calyx-tube</strong> is spathaceous with 5 oblong and 1-1.5 cm long lobes. The calyx is light green coloured and pubescent.<br>There are 10 <strong>stamens</strong>. They are hairy at the base, filiform and from 1 to 2 cm long. The <strong>anthers</strong> are versatile and 2-3 mm long. The <strong>style</strong> is 2.5-3 cm long with a dilated <strong>stigma</strong>.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower1.jpg",
+          "caption": "leaf-opposed pair of flowers (one of which is still a bud)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower2.jpg",
+          "caption": "flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower3.jpg",
+          "caption": "reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower4.jpg",
+          "caption": "buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower5.jpg",
+          "caption": "flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower6.jpg",
+          "caption": "flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower7.jpg",
+          "caption": "buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_tomentosa_flower8.jpg",
+          "caption": "blooming flower"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaf of Bauhinia tomentosa is wider than long (the blade is about 4.5-7 cm long and 5-8 cm wide). The leaves are alternate. The leaf is formed of twin leaflets connate about two thirds of their length. So, the leaf is deeply divided into two lobes. The leaves are chartaceous and pale green with a 2-2.5 cm long petiole . The upper side of the leaf is glabrous whereas the lower side is densely pubescent. The venation of this leaf is digitate and 7-nerved. The base is truncate, the apex is obtuse and the margins are entire. There is a 7-9 mm long linear stipule at the axil of the leaf.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaf</strong> of <i>Bauhinia tomentosa</i> is wider than long (the blade is about 4.5-7 cm long and 5-8 cm wide). The leaves are alternate. The leaf is formed of <strong>twin leaflets</strong> connate about two thirds of their length. So, the leaf is deeply divided into two lobes.<br>The leaves are chartaceous and pale green with a 2-2.5 cm long <strong>petiole</strong>.<br>The upper side of the leaf is glabrous whereas the lower side is densely pubescent.<br>The <strong>venation</strong> of this leaf is digitate and 7-nerved.<br>The <strong>base</strong> is truncate, the <strong>apex</strong> is obtuse and the <strong>margins</strong> are entire.<br>There is a 7-9 mm long linear <strong>stipule</strong> at the axil of the leaf.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_tomentosa_leaf1.jpg",
+          "caption": "young branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_tomentosa_leaf2.jpg",
+          "caption": "leaf (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_tomentosa_leaf3.jpg",
+          "caption": "young branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_tomentosa_leaf4.jpg",
+          "caption": "leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_tomentosa_leaf5.jpg",
+          "caption": "leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Bauhinia tomentosa is a large and deciduous shrub or a small tree reaching 4-5 meters. This unarmed tree is many-stemmed (with a lot of slender branchlets).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Bauhinia tomentosa</i> is a large and<strong> deciduous shrub</strong> or a small tree reaching 4-5 meters. <br>This unarmed tree is many-stemmed (with a lot of slender branchlets).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_tomentosa_habit1.jpg",
+          "caption": "in a clearing"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Bauhinia purpurea is pollinated by a wide variety of insects and by sunbirds (in India). Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Bauhinia purpurea</i> is pollinated by a wide variety of insects and by sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. The leaves fall briefly during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall briefly during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Bauhinia tomentosa is cultivated in gardens and parks as an ornamental tree .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Bauhinia tomentosa</i> is cultivated in gardens and parks as an <strong>ornamental tree</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "Bauhinia tomentosa is not an important browsing tree for cattle as it contains prussic acid in the pods and the flowers. The goats tend to nibble the leaves but do not consume much. ( Agroforestree Database 4.0,Orwa et al.2009 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Bauhinia tomentosa</i> is not an important browsing tree for cattle as it contains prussic acid in the pods and the flowers. The goats tend to nibble the leaves but do not consume much. (<i>Agroforestree Database 4.0,Orwa et al.2009</i>)</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The branches of Bauhinia tomentosa are used by basket makers. The wood is used for the construction of huts (as rafters). The leaves yield a yellow dye.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>branches</strong> of <i>Bauhinia tomentosa</i> are used by basket makers.<br><br>The <strong>wood</strong> is used for the construction of huts (as rafters).<br><br>The <strong>leaves</strong> yield a yellow dye.<br> </p>  \n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Bauhinia tomentosa is a fast growing species. This species is able to flourish in a wide range of soils (rocky, sandy, or rich soils) but all soils need to be free draining. The tree thrives in open areas. It can be propagated from seeds. Generally no pretreatment is necessary for the seeds germination but 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Bauhinia tomentosa</i> is a fast growing species. This species is able to flourish in a wide range of soils (rocky, sandy, or rich soils) but all soils need to be free draining. The tree thrives in open areas.<br>It can be propagated from seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>Generally no pretreatment is necessary for the seeds germination but 12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "species_id": 222,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=222",
+  "scraped_at": "2025-10-07T07:35:36.842157Z",
+  "basic_info": {
+    "scientific_name": "Adina cordifolia",
+    "authority": null,
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62ac481a714da_62ac481a714d0_Ha.co_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ha.co_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "30 Mar, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5914 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Adina cordifolia",
+    "author": "(Roxb.) Hook.f. & Benth. (1874)",
+    "family": "Rubiaceae",
+    "english_names": "Yellow teak",
+    "indian_names": {
+      "Tamil": [
+        "Manja kadambu"
+      ],
+      "Hindi": [
+        "Karam"
+      ]
+    },
+    "synonyms": [],
+    "etymology": "- Adina\n: From Greek\nadinos\nmeaning \"clustered\" or \"crowded,\" referring to its compact flower heads\n-\ncordifolia\n: From Latin\ncor\n\"heart\" and\nfolium\n\"leaf\"",
+    "etymology_html": "<p><i>- Adina</i>: From Greek <i>adinos</i> meaning \"clustered\" or \"crowded,\" referring to its compact flower heads<br>- <i>cordifolia</i>: From Latin <i>cor</i> \"heart\" and <i>folium</i> \"leaf\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Adina cordifolia is grey to pale brown in colour. The bark is horizontally  wrinkled  and cracked. On mature old trees, the trunk is often open fluted at the base and buttressed. The stem is unbranched for several metres from the ground.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Adina cordifolia is grey to pale brown in colour. <br>The bark is horizontally  wrinkled  and cracked. <br>On mature old trees, the trunk is often open fluted at the base and buttressed. <br>The stem is unbranched for several metres from the ground. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2d7b7bc5_Ha.co_bk1.jpg",
+          "caption": "Adina cordifolia horizontally wrinkled bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2dc9e6cd_Ha.co_bk2.jpg",
+          "caption": "Adina cordifolia trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2e17a041_Ha.co_bk3.jpg",
+          "caption": "Adina cordifolia grey wrinkled bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2e6c3caa_Ha.co_st1.jpg",
+          "caption": "Adina cordifolia main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2ee6b91f_Ha.co_st2.jpg",
+          "caption": "Adina cordifolia twig with apparent internodes and leaf scars"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2f388046_Ha.co_st3.jpg",
+          "caption": "Adina cordifolia twig with apparent internodes and leaf scars"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6267c2f8b5ddf_Ha.co_st4.jpg",
+          "caption": "Adina cordifolia twig and peduncle arrangement"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Adina cordifolia are elongated and brown in colour. The seeds are very small and light, with numerous minute longitudinal wrinkles. One end of the seed is tapering to a tail, and the other end terminating with a pair of wings.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Adina cordifolia are elongated and brown in colour. <br>The seeds are very small and light, with numerous minute longitudinal wrinkles. <br>One end of the seed is tapering to a tail, and the other end terminating with a pair of wings. </p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ha.co_sd1.jpg",
+          "caption": "Adina cordifolia fruit head cut in half showing the seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ha.co_sd2.jpg",
+          "caption": "Adina cordifolia seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Adina cordifolia is a capsule of less than 5 mm in size, found on fruiting round heads of 1 to 2 cm across. Each capsule protects 2 dehiscent cocci. Each coccus contains one seed and separates from the whole fruit at maturity. The colour of the fruit changes from light green to light brown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Adina cordifolia is a capsule of less than 5 mm in size, found on fruiting round heads of 1 to 2 cm across.<br>Each capsule protects 2 dehiscent cocci. <br>Each coccus contains one seed and separates from the whole fruit at maturity. <br>The colour of the fruit changes from light green to light brown. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6267c28791931_Ha.co_fr1.jpg",
+          "caption": "Adina cordifolia fruits on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6267c298079ed_Ha.co_fr2.jpg",
+          "caption": "Adina cordifolia dry fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6267c28f617ae_Ha.co_fr3.jpg",
+          "caption": "Adina cordifolia brown dry fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ha.co_fr4.jpg",
+          "caption": "Adina cordifolia fruiting round head"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Adina cordifolia are bisexual. They are found in globose axillary flower heads, balls of 2 to 3 cm across, on 5 cm long peduncle each subtended by two small bracts. The flowers are small, less than 1 cm, yellow-cream in colour, with a shade of pink. Each flower has 5 petals, a funnel-shaped hairy corolla and a 5-lobed calyx. The stigma is ovoid and exserted, the filiform style is green in colour. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Adina cordifolia are bisexual. <br>They are found in globose axillary flower heads, balls of 2 to 3 cm across, on 5 cm long peduncle each subtended by two small bracts. <br>The flowers are small, less than 1 cm, yellow-cream in colour, with a shade of pink. <br>Each flower has 5 petals, a funnel-shaped hairy corolla and a 5-lobed calyx. <br>The stigma is ovoid and exserted, the filiform style is green in colour. <br>The flowers are fragrant.  </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0aa0f68068_Ha.co_fl1.jpg",
+          "caption": "Adina cordifolia flower heads not yet open"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a0aa11a6f44_Ha.co_fl2.jpg",
+          "caption": "Adina cordifolia flowerbuds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62ab0747024f7_Ha.co_fl2.jpg",
+          "caption": "Adina cordifolia flower heads in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62ab074a9747c_Ha.co_fl1.jpg",
+          "caption": "Adina cordifolia flower heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62ab0752aa7cc_Ha.co_fl3.jpg",
+          "caption": "Adina cordifolia flower heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ha.co_fl6.jpg",
+          "caption": "Adina cordifolia flower head"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ha.co_fl7.jpg",
+          "caption": "Adina cordifolia separate singular flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ha.co_fl8.jpg",
+          "caption": "Adina cordifolia withered flower head"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Adina cordifolia are simple, with an opposite arrangement. They are broadly oval in shape, heart-shaped at the base and pointed at the tip. They are thick chartaceous and have 8 to 10 pairs of lateral nerves. The upper side of the leaf is dark green and pubescent along the nerves while the lower side of the leaf is entirely pubescent and lighter green. The long petiole can measure up to 8 cm. The leaves are more than 5 cm in size. The inter-petiolar stipules are foliaceous and caducous (they are dropping off).",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Adina cordifolia are simple, with an opposite arrangement. <br>They are broadly oval in shape, heart-shaped at the base and pointed at the tip. <br>They are thick chartaceous and have 8 to 10 pairs of lateral nerves. <br>The upper side of the leaf is dark green and pubescent along the nerves while the lower side of the leaf is entirely pubescent and lighter green. <br>The long petiole can measure up to 8 cm. <br>The leaves are more than 5 cm in size. <br>The inter-petiolar stipules are foliaceous and caducous (they are dropping off).</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c205a435f_Ha.co_lf1.jpg",
+          "caption": "Adina cordifolia foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c20a73141_Ha.co_lf2.jpg",
+          "caption": "Adina cordifolia cordate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c20ecf8f0_Ha.co_lf3.jpg",
+          "caption": "Adina cordifolia terminal leaves and inter-petiolar stipule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c2128a00a_Ha.co_lf4.jpg",
+          "caption": "Adina cordifolia inter-petiolar stipule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ha.co_lf10.jpg",
+          "caption": "Adina cordifolia leaves on stem (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c2182ee8b_Ha.co_lf5.jpg",
+          "caption": "Adina cordifolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c21c42c1e_Ha.co_lf6.jpg",
+          "caption": "Adina cordifolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c22210408_Ha.co_lf7.jpg",
+          "caption": "Adina cordifolia young growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6267c225ebce5_Ha.co_lf8.jpg",
+          "caption": "Adina cordifolia inter-petiolar stipule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62ab07cf91530_Ha.co_lf10.jpg",
+          "caption": "Adina cordifolia long pubescent leaf petiole"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Adina cordifolia is a large deciduous tree growing up to 15 m in height. It is densely foliaceous with a crown that can spread up to 20 m in diameter. It grows straight up and is mostly unbranched for several metres from the ground. In specific condition, its long, straight, clean bole can be up to 1.50 m in diameter and be buttressed and fluted at the base.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Adina cordifolia is a large deciduous tree growing up to 15 m in height. <br>It is densely foliaceous with a crown that can spread up to 20 m in diameter. <br>It grows straight up and is mostly unbranched for several metres from the ground. <br>In specific condition, its long, straight, clean bole can be up to 1.50 m in diameter and be buttressed and fluted at the base.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6267c1c62520e_Ha.co_ha1.jpg",
+          "caption": "Adina cordifolia habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6267c1c9cc271_Ha.co_ha2.jpg",
+          "caption": "Adina cordifolia main stem"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

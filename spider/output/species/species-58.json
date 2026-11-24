@@ -1,0 +1,196 @@
+{
+  "species_id": 58,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=58",
+  "scraped_at": "2025-11-17T16:59:50.244939Z",
+  "basic_info": {
+    "scientific_name": "Ficus mollis",
+    "authority": "Vahl",
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ficus_mollis.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "22 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99488 N",
+      "longitude": "79.82373 E",
+      "raw": "11.99488 N - 79.82373 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus mollis",
+    "author": "Vahl, Martin (Henrichsen) (1790)",
+    "family": "Moraceae",
+    "english_names": "Donkey's Banyan, soft fig",
+    "indian_names": {
+      "Hindi": [
+        "Son pakhad"
+      ],
+      "Kannada": [
+        "Kaadu atthi"
+      ],
+      "Malayalam": [
+        "Itchi"
+      ],
+      "Tamil": [
+        "Kaattarasu",
+        "kaattu aal"
+      ],
+      "Telugu": [
+        "Kallatthi"
+      ]
+    },
+    "synonyms": [
+      "Ficus asinina",
+      "Ficus tomentosa",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nFicus\n: From the ancient Latin name\nficus, fici\n, for the fig.\n-\nMollis\n: Softly hairy, soft.",
+    "etymology_html": "<p>-<i>Ficus</i> : From the ancient Latin name <i>ficus, fici</i>, for the fig.<br>-<i>Mollis</i> : Softly hairy, soft.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus mollis is rough, warty and greyish-coloured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Ficus mollis</i> is rough, warty and greyish-coloured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_mollis_stem1.jpg",
+          "caption": "Ficus mollis trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_mollis_stem2.jpg",
+          "caption": "Ficus mollis bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fig , what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes). The fruits of Ficus mollis are tiny and globose achenes . The figs are sessile, in pairs at the axil of the leaves. They are 5-6 mm across, depressed-globose, downy and they are densely tomentose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fig</strong>, what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes).<br><br>The <strong>fruits</strong> of <i>Ficus mollis</i> are tiny and globose <strong>achenes</strong>.<br><br>The <strong>figs</strong> are sessile, in pairs at the axil of the leaves.<br>They are 5-6 mm across, depressed-globose, downy and they are densely tomentose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_mollis_fruit1.jpg",
+          "caption": "Ficus mollis infrutescences (the figs) enclosing the fruits (tiny achenes)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_mollis_fruit2.jpg",
+          "caption": "Ficus mollis infrutescences (the figs) enclosing the fruits (tiny achenes)"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus mollis are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called syconium (*). The syconium of Ficus mollis is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators). (*) The syconium is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts. Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen. Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. ( Galil, J., Fig biology, 1977 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Ficus mollis</i> are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called <strong>syconium</strong> (*).<br>The syconium of <i>Ficus mollis</i> is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators).<br><br>(*) The <strong>syconium</strong> is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts.<br>Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen.<br>Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. (<i>Galil, J., Fig biology, 1977</i>)</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_mollis_flower1.jpg",
+          "caption": "Ficus mollis syconium section : enclosing the tiny male and female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_mollis_flower2.jpg",
+          "caption": "Ficus mollis syconium section : enclosing the tiny male and female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_mollis_flower3.jpg",
+          "caption": "Ficus mollis syconium section : the fig wasp (pollinator) is in the fig"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus mollis grow alternately on the stem (spirally arranged). The leaf is simple, pale green-coloured above and white yellowish beneath. The leaf is coriaceous and densely tomentose on the lower side (the upper side of the old leaves becoming glabrous). The leaves have a 3-4 cm long petiole . The leaf of Ficus mollis is 10-15 cm long and 6-8 cm wide. The shape of the blade is obovate, the apex is acute, the base is cordate and the margins are entire. The venation of the leaf is pinnate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Ficus mollis</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, pale green-coloured above and white yellowish beneath. The leaf is coriaceous and densely tomentose on the lower side (the upper side of the old leaves becoming glabrous).<br>The leaves have a 3-4 cm long <strong>petiole</strong>.<br>The leaf of <i>Ficus mollis</i> is 10-15 cm long and 6-8 cm wide. The shape of the <strong>blade</strong> is obovate, the <strong>apex</strong> is acute, the <strong>base</strong> is cordate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is pinnate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf1.jpg",
+          "caption": "Ficus mollis twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf2.jpg",
+          "caption": "Ficus mollis leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf3.jpg",
+          "caption": "Ficus mollis leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf4.jpg",
+          "caption": "Ficus mollis leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf5.jpg",
+          "caption": "Ficus mollis leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_mollis_leaf6.jpg",
+          "caption": "Ficus mollis foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus mollis is a medium-sized and deciduous tree . The tree grows up to 12-15 m tall.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Ficus mollis</i> is a medium-sized and <strong>deciduous tree</strong>. The tree grows up to 12-15 m tall.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_mollis_habit1.jpg",
+          "caption": "Ficus mollis growing amongst the rocks (Gingee hillocks, Tamil Nadu)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_mollis_habit2.jpg",
+          "caption": "Ficus mollis young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_mollis_habit3.jpg",
+          "caption": "Ficus mollis young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Fi.mo.jpg",
+          "caption": "Ficus mollis growing amongst the rocks (Western ghats, Tamil Nadu)"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    },
+    "ecology": {
+      "text": "Ficus mollis is often found on hillocks, in dry Evergreen to dry deciduous forests, amongst the rocks.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Ficus mollis</i> is often found on hillocks, in dry Evergreen to dry deciduous forests, amongst the rocks.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Peninsular India and Sri Lanka.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Peninsular India and Sri Lanka.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "The syconium of Ficus mollis is monoecious : each fig contains both female and male flowers. The tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. ( Wikipedia ) For further information about the life cycle of the fig wasp : see a figure of Encyclopaedia Britannica . The seeds of Ficus mollis are dispersed by fruit-eating birds and bats.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>The syconium of <i>Ficus mollis</i> is monoecious : each fig contains both female and male flowers.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p>The tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. (<i>Wikipedia</i>)<br>For further information about the life cycle of the fig wasp : see a <a href=\"http://www.britannica.com/animal/fig-wasp\">figure of Encyclopaedia Britannica</a>.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Ficus mollis</i> are dispersed by fruit-eating birds and bats.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/ficus_mollis_reproduction1.jpg",
+          "caption": "Female fig wasp inside the syconium (ficus pollinator)"
+        }
+      ]
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "The crushed leaves of Ficus mollis are applied as a poultice to treat boils. A paste made from the bark is applied as an ointment in the treatment of cuts and wounds. ( Kottaimuthu, Ethnobotany of the Valaiyans of Karandamalai, Dindigul District, Tamil Nadu, India )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>crushed leaves</strong> of <i>Ficus mollis</i> are applied as a poultice to treat boils.<br><br>A <strong>paste made from the bark</strong> is applied as an ointment in the treatment of cuts and wounds. (<i>Kottaimuthu, Ethnobotany of the Valaiyans of Karandamalai, Dindigul District, Tamil Nadu, India</i>)</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Ficus mollis is a light demander and drought resistant. It will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. No pre-treatment is required (germination can take several month). Ficus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Ficus mollis</i> is a light demander and drought resistant. It will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>No pre-treatment is required (germination can take several month).<br>Ficus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

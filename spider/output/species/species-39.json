@@ -1,0 +1,263 @@
+{
+  "species_id": 39,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=39",
+  "scraped_at": "2025-10-08T06:37:36.758119Z",
+  "basic_info": {
+    "scientific_name": "Buchanania axillaris",
+    "authority": "(Desr.) Ramamoorthy",
+    "family": "Anacardiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/buchanania_axillaris.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Bu.ax_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 May, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99641 N",
+      "longitude": "79.82159 E",
+      "raw": "11.99641 N - 79.82159 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Buchanania axillaris",
+    "author": "Ramamoorthy, Thennilapuram Parasuraman (1976)",
+    "family": "Anacardiaceae",
+    "english_names": "Buchanan's mango, Cuddapah almond",
+    "indian_names": {
+      "Hindi": [
+        "Piyala"
+      ],
+      "Malayalam": [
+        "Malamavu"
+      ],
+      "Marathi": [
+        "Martharia"
+      ],
+      "Tamil": [
+        "Kolamaavu",
+        "mudamaa",
+        "saarapparuppu"
+      ],
+      "Telugu": [
+        "Sapappu-kernel"
+      ]
+    },
+    "synonyms": [
+      "Buchanania angustifolia",
+      "Cambessedea axillaris",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nBuchanania\n: After Francis Buchanan-Hamilton (1762-1829), surgeon in the East India Company (Bengal Medical Service), naturalist and fellow of the Royal Society and of the Linnean Society.\n-\nAxillaris\n: Arising from the leaf axils, axillary.",
+    "etymology_html": "<p>-<i>Buchanania</i> : After Francis Buchanan-Hamilton (1762-1829), surgeon in the East India Company (Bengal Medical Service), naturalist and fellow of the Royal Society and of the Linnean Society.<br>-<i>Axillaris</i> : Arising from the leaf axils, axillary.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Buchanania axillaris is brown-greyish coloured, rough, longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Buchanania axillaris</i> is brown-greyish coloured, rough, longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/buchanania_axillaris_stem1.jpg",
+          "caption": "Buchanania axillaris trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/buchanania_axillaris_stem2.jpg",
+          "caption": "Buchanania axillaris bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Bu.ax_st1.jpg",
+          "caption": "Buchanania axillaris stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Bu.ax_st2.jpg",
+          "caption": "Buchanania axillaris branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Bu.ax_st3.jpg",
+          "caption": "Buchanania axillaris branchlets"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Buchanania axillaris is ovoid and compressed. It is 1 cm long and 0.8 cm wide. There is only one seed per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Buchanania axillaris</i> is ovoid and compressed. It is 1 cm long and 0.8 cm wide. There is only one seed per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/buchanania_axillaris_seed1.jpg",
+          "caption": "Buchanania axillaris seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/buchanania_axillaris_seed2.jpg",
+          "caption": "Buchanania axillaris seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Buchanania axillaris is a 1-seeded drupe . The fruit is globose, green-brownish and about 1.5 cm in diameter.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Buchanania axillaris</i> is a 1-seeded <strong>drupe</strong>. The fruit is globose, green-brownish and about 1.5 cm in diameter.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit1.jpg",
+          "caption": "Buchanania axillaris fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit2.jpg",
+          "caption": "Buchanania axillaris fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit3.jpg",
+          "caption": "Buchanania axillaris fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit4.jpg",
+          "caption": "Buchanania axillaris fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit5.jpg",
+          "caption": "Buchanania axillaris fruiting twigs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/buchanania_axillaris_fruit6.jpg",
+          "caption": "Buchanania axillaris fruit pulp"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Buchanania axillaris are grouped in axillary panicles (at the upper axils of the new branchlets). The peduncle is 1.5-2 cm long. The calyx is composed of 5 small and semicircular sepals (1 mm long). The calyx is light green-coloured. The corolla is composed of 5 white-greenish and glabrous petals. The petals are obovate and recurved, 2.5-3 mm long and 1.5 mm wide. The pedicels are very short (about 0.5 mm long). The androecium is composed of 10 stamens. The buds are glabrous, light green, globular and 1.5-2 mm across. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Buchanania axillaris</i> are grouped in axillary panicles (at the upper axils of the new branchlets). The <strong>peduncle</strong> is 1.5-2 cm long.<br>The <strong>calyx</strong> is composed of 5 small and semicircular sepals (1 mm long). The calyx is light green-coloured.<br>The <strong>corolla</strong> is composed of 5 white-greenish and glabrous petals. The petals are obovate and recurved, 2.5-3 mm long and 1.5 mm wide.<br>The <strong>pedicels</strong> are very short (about 0.5 mm long).<br>The <strong>androecium</strong> is composed of 10 stamens.<br>The <strong>buds</strong> are glabrous, light green, globular and 1.5-2 mm across.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower1.jpg",
+          "caption": "Buchanania axillaris twig with inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower2.jpg",
+          "caption": "Buchanania axillaris panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower3.jpg",
+          "caption": "Buchanania axillaris inflorescence subdivision"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower4.jpg",
+          "caption": "Buchanania axillaris flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower5.jpg",
+          "caption": "Buchanania axillaris flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower6.jpg",
+          "caption": "Buchanania axillaris inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower7.jpg",
+          "caption": "Buchanania axillaris flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower8.jpg",
+          "caption": "Buchanania axillaris flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/buchanania_axillaris_flower9.jpg",
+          "caption": "Buchanania axillaris flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Buchanania axillaris grow alternately on the stem (spirally arranged). The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 3-4 cm long petiole . The leaf of Buchanania axillaris is 13-18 cm long and 3-4 cm wide. The shape is oblong-elliptic, the apex is obtuse-emarginate, the base is cuneate-attenuate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Buchanania axillaris</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 3-4 cm long <strong>petiole</strong>.<br>The leaf of <i>Buchanania axillaris</i> is 13-18 cm long and 3-4 cm wide. The shape is oblong-elliptic, the <strong>apex</strong> is obtuse-emarginate, the <strong>base</strong> is cuneate-attenuate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf1.jpg",
+          "caption": "Buchanania axillaris branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf2.jpg",
+          "caption": "Buchanania axillaris leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf3.jpg",
+          "caption": "Buchanania axillaris leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf4.jpg",
+          "caption": "Buchanania axillaris shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf5.jpg",
+          "caption": "Buchanania axillaris leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/buchanania_axillaris_leaf6.jpg",
+          "caption": "Buchanania axillaris leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Buchanania axillaris is a medium-sized and evergreen tree up to 10-12 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Buchanania axillaris</i> is a medium-sized and <strong>evergreen tree</strong> up to 10-12 m.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/buchanania_axillaris_habit1.jpg",
+          "caption": "Buchanania axillaris tree at Auroville botanical gardens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/buchanania_axillaris_habit2.jpg",
+          "caption": "Buchanania axillaris tree at Auroville botanical gardens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/buchanania_axillaris_habit3.jpg",
+          "caption": "Buchanania axillaris tree at Auroville botanical gardens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/buchanania_axillaris_habit4.jpg",
+          "caption": "Buchanania axillaris tree at Pitchandikulam Forest"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Buchanania axillaris is found in deciduous forests from the coastal plains up to 800-1000 m in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Buchanania axillaris</i> is found in deciduous forests from the coastal plains up to 800-1000 m in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "India and Sri Lanka",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>India and Sri Lanka</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Buchanania axillaris is bisexual (each flower of each individual has both male and female structures). Buchanania axillaris is pollinated by a wide variety of insects. The seeds of Buchanania axillaris are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Buchanania axillaris</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Buchanania axillaris</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Buchanania axillaris</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From April to July. From June to December. From June to December. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From April to July.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From June to December.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From June to December.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "culinary": {
+      "text": "The kernel of the seeds of Buchanania axillaris is edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>kernel</strong> of the seeds of <i>Buchanania axillaris</i> is edible.</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The leaves of Buchanania axillaris are laxative, depurative, cooling, aphrodisiac, cardiotonic, astringent and wound healing. The leaf juice is digestive, expectorant, aphrodisiac and purgative. The seeds are tonic to the body and the brain. The kernel is laxative and febrifuge. ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants ) The gum is antidiarrheal and it is used internally in rheumatism. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The kernels of Buchanania axillaris made into a powder and mixed with milk are used as an aphrodisiac. ( http://www.flowersofindia.net )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>leaves</strong> of <i>Buchanania axillaris</i> are laxative, depurative, cooling, aphrodisiac, cardiotonic, astringent and wound healing.<br><br>The <strong>leaf juice</strong> is digestive, expectorant, aphrodisiac and purgative.<br><br>The <strong>seeds</strong> are tonic to the body and the brain. The <strong>kernel</strong> is laxative and febrifuge. (<i>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i>)<br><br>The <strong>gum</strong> is antidiarrheal and it is used internally in rheumatism. (<i>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i>)<br><br>The kernels of <i>Buchanania axillaris</i> made into a powder and mixed with milk are used as an aphrodisiac. (<i>http://www.flowersofindia.net</i>)</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Buchanania axillaris is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun. Buchanania axillaris is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Buchanania axillaris</i> is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun.<br><i>Buchanania axillaris</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

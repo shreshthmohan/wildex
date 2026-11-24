@@ -1,0 +1,247 @@
+{
+  "species_id": 123,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=123",
+  "scraped_at": "2025-10-03T04:46:57.113650Z",
+  "basic_info": {
+    "scientific_name": "Cassia roxburghii",
+    "authority": "DC.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cassia_roxburghii.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.ro_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "27 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99430 N",
+      "longitude": "79.82407 E",
+      "raw": "11.99430 N - 79.82407 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cassia roxburghii",
+    "author": "Candolle, Augustin Pyramus de (1825)",
+    "family": "Fabaceae",
+    "english_names": "Ceylon senna, red cassia , Roxburgh's cassia",
+    "indian_names": {
+      "Tamil": [
+        "Sengondrai"
+      ]
+    },
+    "synonyms": [
+      "Cassia javanica",
+      "Cassia marginata",
+      "Cathartocarpus marginatus",
+      "Cathartocarpus roxburghii",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nCassia\n: From the ancient Greek name\nkasia\n(Herodotus, Theophrastus), or\nkassia\nof Semitic origin, used by Dioscorides from a Hebrew plant name,\nquetsi'oth\n.\n-\nRoxburghii\n: For Dr William Roxburgh (1751-1815), Director of Calcutta Botanic Garden.",
+    "etymology_html": "<p>- <i>Cassia</i> : From the ancient Greek name <i>kasia</i> (Herodotus, Theophrastus), or <i>kassia</i> of Semitic origin, used by Dioscorides from a Hebrew plant name, <i>quetsi'oth</i>.<br>- <i>Roxburghii</i> : For Dr William Roxburgh (1751-1815), Director of Calcutta Botanic Garden.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Cassia roxburghii is greyish-coloured. With age, the bark becomes longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Cassia roxburghii</i> is greyish-coloured. With age, the bark becomes longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_roxburghii_stem1.jpg",
+          "caption": "Cassia roxburghii trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_roxburghii_stem2.jpg",
+          "caption": "Cassia roxburghii old bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_roxburghii_stem3.jpg",
+          "caption": "Cassia roxburghii young bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Cassia roxburghii are light brown-coloured, compressed, ovate, 8-9 mm long and 6-7 mm wide. The seeds are enclosed into separated and papery compartments.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Cassia roxburghii</i> are light brown-coloured, compressed, ovate, 8-9 mm long and 6-7 mm wide.<br>The seeds are enclosed into separated and papery compartments.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cassia_roxburghii_seed1.jpg",
+          "caption": "Cassia roxburghii seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cassia_roxburghii_seed2.jpg",
+          "caption": "Cassia roxburghii seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Cassia roxburghii is a long and cylindrical pod. It is smooth, mucronate, up to 30 cm long and about 2 cm across. The glossy, pendulous and indehiscent pods turn from green-reddish to black at maturity. The inner fruit is divided in papery sections, each compartment containing one seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Cassia roxburghii</i> is a long and cylindrical pod.<br>It is smooth, mucronate, up to 30 cm long and about 2 cm across.<br>The glossy, pendulous and indehiscent pods turn from green-reddish to black at maturity.<br>The inner fruit is divided in papery sections, each compartment containing one seed.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_roxburghii_fruit1.jpg",
+          "caption": "Cassia roxburghii ripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_roxburghii_fruit2.jpg",
+          "caption": "Cassia roxburghii unripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_roxburghii_fruit3.jpg",
+          "caption": "Cassia roxburghii pod inner papery sections enclosing the seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_roxburghii_fruit4.jpg",
+          "caption": "Cassia roxburghii unripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_roxburghii_fruit5.jpg",
+          "caption": "Cassia roxburghii hanging pods"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Cassia roxburghii are grouped in axillary racemes (at the upper axils of the leaves). The calyx is composed of 5 ovate sepals. They are 6 mm long and 3 mm wide. The calyx is light green yellowish-coloured and finely pubescent. The corolla is composed of 5 pink-coloured and glabrous petals. The petals are elliptic or ovate with irregular size. The larger are 1-1.2 cm long and 0.7 mm wide. They are shortly clawed. The androecium is composed of 10 stamens. 3 are curved and very long, 3 are curved and tiny and 4 are straight and medium-sized. The style is 5 mm long, stout and curved with a simple stigma . The ovary is stipitate, curved, pubescent and about 1.2-1.5 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Cassia roxburghii</i> are grouped in axillary racemes (at the upper axils of the leaves).<br>The <strong>calyx</strong> is composed of 5 ovate sepals. They are 6 mm long and 3 mm wide. The calyx is light green yellowish-coloured and finely pubescent.<br>The <strong>corolla</strong> is composed of 5 pink-coloured and glabrous petals. The petals are elliptic or ovate with irregular size. The larger are 1-1.2 cm long and 0.7 mm wide. They are shortly clawed.<br>The <strong>androecium</strong> is composed of 10 stamens. 3 are curved and very long, 3 are curved and tiny and 4 are straight and medium-sized.<br>The <strong>style</strong> is 5 mm long, stout and curved with a simple <strong>stigma</strong>.<br>The <strong>ovary</strong> is stipitate, curved, pubescent and about 1.2-1.5 cm long.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower1.jpg",
+          "caption": "Cassia roxburghii inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower2.jpg",
+          "caption": "Cassia roxburghii flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower3.jpg",
+          "caption": "Cassia roxburghii flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower4.jpg",
+          "caption": "Cassia roxburghii inflorescence (buds)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower5.jpg",
+          "caption": "Cassia roxburghii inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower6.jpg",
+          "caption": "Cassia roxburghii flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower7.jpg",
+          "caption": "Cassia roxburghii flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower8.jpg",
+          "caption": "Cassia roxburghii flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower9.jpg",
+          "caption": "Cassia roxburghii in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_roxburghii_flower10.jpg",
+          "caption": "Cassia roxburghii in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cassia roxburghii grow alternately on the stem (spirally arranged). The leaf is compound, paripinnate with 10-15 of pairs of leaflets. The leaf is 15-25 cm long with a 2 cm long petiole . The leaflet are bright green-coloured above and paler beneath. The leaflets are chartaceous and pubescent on both sides (rusty and short hairs). The leaflet have a 3 mm long petiolule . The leaflet of Cassia roxburghii is 2.5-3 cm long and 1-1.5 cm wide. The shape of the blade is oblong, the apex is retuse and mucronate, the base is oblique and attenuate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Cassia roxburghii</i> grow alternately on the stem (spirally arranged).<br>The leaf is compound, paripinnate with 10-15 of pairs of leaflets. The leaf is 15-25 cm long with a 2 cm long <strong>petiole</strong>.<br>The <strong>leaflet</strong> are bright green-coloured above and paler beneath. The leaflets are chartaceous and pubescent on both sides (rusty and short hairs).<br>The leaflet have a 3 mm long <strong>petiolule</strong>.<br>The leaflet of <i>Cassia roxburghii</i> is 2.5-3 cm long and 1-1.5 cm wide. The shape of the <strong>blade</strong> is oblong, the <strong>apex</strong> is retuse and mucronate, the <strong>base</strong> is oblique and attenuate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf1.jpg",
+          "caption": "Cassia roxburghii compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf2.jpg",
+          "caption": "Cassia roxburghii compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf3.jpg",
+          "caption": "Cassia roxburghii leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf4.jpg",
+          "caption": "Cassia roxburghii leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf5.jpg",
+          "caption": "Cassia roxburghii leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf6.jpg",
+          "caption": "Cassia roxburghii leaflets (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf7.jpg",
+          "caption": "Cassia roxburghii leaflets (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_roxburghii_leaf8.jpg",
+          "caption": "Cassia roxburghii foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cassia roxburghii is a thornless, small-sized and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Cassia roxburghii</i> is a thornless, small-sized and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_roxburghii_habit1.jpg",
+          "caption": "Cassia roxburghii tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_roxburghii_habit2.jpg",
+          "caption": "Cassia roxburghii young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_roxburghii_habit3.jpg",
+          "caption": "Cassia roxburghii in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Cassia roxburghii grows under a wide variety of climatic conditions but is particularly suited to lowland tropics with a monsoon climate. Its light requirements are high and it prefers well-drained soils.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Cassia roxburghii</i> grows under a wide variety of climatic conditions but is particularly suited to lowland tropics with a monsoon climate. Its light requirements are high and it prefers well-drained soils.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Cassia roxburghii is native to Sri Lanka and southern India. ( floridata.com )",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Cassia roxburghii</i> is native to Sri Lanka and southern India. (<i>floridata.com</i>)</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Cassia roxburghii is bisexual (each flower of each individual has both male and female structures). Cassia roxburghii is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Cassia roxburghii</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Cassia roxburghii</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cassia_roxburghii_reproduction1.jpg",
+          "caption": "Cassia roxburghii flower reproductive structures"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Througout the year. Througout the year. Througout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Througout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Througout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Througout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Cassia roxburghii is used as an ornamental tree (in roadside plantings and parks) for its dense foliage and clusters of showy pinkish-coloured flowers.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Cassia roxburghii</i> is used as an ornamental tree (in roadside plantings and parks) for its dense foliage and clusters of showy pinkish-coloured flowers.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Cassia roxburghii is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Cassia roxburghii</i> is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

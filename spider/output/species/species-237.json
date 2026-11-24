@@ -1,0 +1,211 @@
+{
+  "species_id": 237,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=237",
+  "scraped_at": "2025-10-02T18:38:14.990290Z",
+  "basic_info": {
+    "scientific_name": "Schleichera oleosa",
+    "authority": null,
+    "family": "Sapindaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62a190dd943eb_62a190dd943e0_Sc.ol_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Sc.ol_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "25 May, 2022",
+    "collected_by": "A.A.S, M.D, R.S., S.S.",
+    "gps_coordinates": {
+      "raw": "11.5914 N  - 79.4818 E\n11.4558 N - 78.5022 E"
+    },
+    "locality": "Auroville and Kalvarayan Hill, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Schleichera oleosa",
+    "author": "Merrill, Elmer Drew (1917)",
+    "family": "Sapindaceae",
+    "english_names": "Ceylon oak",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nSchleichera\n: after Johann Christoph Schleicher (1768-1834), Swiss botanist famous for his herbarium\n-\noleosa\n: From Latin meaning \"rich in oil\"",
+    "etymology_html": "<p>- <i>Schleichera</i>: after Johann Christoph Schleicher (1768-1834), Swiss botanist famous for his herbarium<br>- <i>oleosa</i>: From Latin meaning \"rich in oil\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Schleichera oleosa is pale grey, darkening with age. The bark is flaking off in irregular scales. The bark is thick, smooth and brittle. The tree is thornless.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Schleichera oleosa is pale grey, darkening with age. <br>The bark is flaking off in irregular scales. <br>The bark is thick, smooth and brittle. <br>The tree is thornless.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a19354dcfda_Sc.ol_bk1.jpg",
+          "caption": "Schleichera oleosa bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a99d54ee5d3_Sc.ol_st5.jpg",
+          "caption": "Schleichera oleosa stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a1935e95162_Sc.ol_bk3.jpg",
+          "caption": "Schleichera oleosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a19362c590a_Sc.ol_bk4.jpg",
+          "caption": "Schleichera oleosa bark flaking off in irregular scales"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a1937a446c3_Sc.ol_st1.jpg",
+          "caption": "Schleichera oleosa stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a1937e15db2_Sc.ol_st2.jpg",
+          "caption": "Schleichera oleosa stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a193842703d_Sc.ol_st3.jpg",
+          "caption": "Schleichera oleosa branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a1938851ded_Sc.ol_st4.jpg",
+          "caption": "Schleichera oleosa leaf petiole with swollen base"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Schleichera oleosa are enclosed in an edible acid pulp. They are usually 1 or 2 per fruit. The seed coat is smooth and brown in colour. An oil is extracted from the seed, which is called kusum oil.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Schleichera oleosa are enclosed in an edible acid pulp. <br>They are usually 1 or 2 per fruit. <br>The seed coat is smooth and brown in colour. <br>An oil is extracted from the seed, which is called kusum oil.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Schleichera oleosa is a drupe, about 1.5 cm across. The fruit shows a small pointy beak. It is ruddy brown when ripe with a hard, smooth skin sometimes spiny. It has 1 or 2 seeds inside, enclosed in a pulpy aril which has a pleasant acid taste.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Schleichera oleosa is a drupe, about 1.5 cm across. <br>The fruit shows a small pointy beak. <br>It is ruddy brown when ripe with a hard, smooth skin sometimes spiny. <br>It has 1 or 2 seeds inside, enclosed in a pulpy aril which has a pleasant acid taste.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6331467d6699b_Sc.ol_fr1.jpg",
+          "caption": "Schleichera oleosa ripe drupes"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Schleichera oleosa are male and bisexual. The inflorescences are born in dense drooping clusters. The flowers are small, less than 1 cm in size, and green-yellow in colour. The male flowers have a 5 lobbed calyx, no petals and 8 stamens inserted within the disc. The bisexual flowers have a short style and a cleft stigma.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Schleichera oleosa are male and bisexual. <br>The inflorescences are born in dense drooping clusters. <br>The flowers are small, less than 1 cm in size, and green-yellow in colour. <br>The male flowers have a 5 lobbed calyx, no petals and 8 stamens inserted within the disc. <br>The bisexual flowers have a short style and a cleft stigma. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192a4bdc59_Sc.ol_fl1.jpg",
+          "caption": "Schleichera oleosa bisexual flowers on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192a88e4ac_Sc.ol_fl2.jpg",
+          "caption": "Schleichera oleosa male flowers not yet open"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192af47771_Sc.ol_fl3.jpg",
+          "caption": "Schleichera oleosa male flowers with 5-6 stamens inserted within the disc and no petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192b546de1_Sc.ol_fl4.jpg",
+          "caption": "Schleichera oleosa male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192bb30f4c_Sc.ol_fl5.jpg",
+          "caption": "Schleichera oleosa inflorescence on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192bf1342b_Sc.ol_fl6.jpg",
+          "caption": "Schleichera oleosa male flowers in different stages"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a192c66b0ed_Sc.ol_fl7.jpg",
+          "caption": "Schleichera oleosa bisexual flower with developed ovary"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6347eb4011457_Sc.ol_fl8.jpg",
+          "caption": "Schleichera oleosa flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6347eb439cfce_Sc.ol_fl9.jpg",
+          "caption": "Schleichera oleosa flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Schleichera oleosa are compound, pinnate, with an alternate arrangement. The rachis is 5 to 12 cm long, glabrous and swollen at its base. The leaflets are 4 to 6 in number. The leaflets are opposite with small petioles. Each leaflet is about 5 to 15 cm long and 2 to 5 cm wide. The leaflets are elliptic-oblong, ovate or obovate, with the base oblique, the apex acute or obtuse and the margin entire. The leaves are leathery and glabrous. The young leaves are bright red to bronze, a mostly noticed feature.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Schleichera oleosa are compound, pinnate, with an alternate arrangement. <br>The rachis is 5 to 12 cm long, glabrous and swollen at its base. <br>The leaflets are 4 to 6 in number.  <br>The leaflets are opposite with small petioles. <br>Each leaflet is about 5 to 15 cm long and 2 to 5 cm wide. <br>The leaflets are elliptic-oblong, ovate or obovate, with the base oblique, the apex acute or obtuse and the margin entire. <br>The leaves are leathery and glabrous. <br>The young leaves are bright red to bronze, a mostly noticed feature.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a191047b713_Sc.ol_lf1.jpg",
+          "caption": "Schleichera oleosa pinnate alternate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a19107c920b_Sc.ol_lf2.jpg",
+          "caption": "Schleichera oleosa leaves red when young turning green after 1 or 2 weeks"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a1910da5127_Sc.ol_lf3.jpg",
+          "caption": "Schleichera oleosa spectacular red and bronze new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a19111a9241_Sc.ol_lf4.jpg",
+          "caption": "Schleichera oleosa ribbed lower side of leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a19118bcae1_Sc.ol_lf5.jpg",
+          "caption": "Schleichera oleosa new red leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a1911d7acd1_Sc.ol_lf6.jpg",
+          "caption": "Schleichera oleosa pinnate leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a191223ac64_Sc.ol_lf7.jpg",
+          "caption": "Schleichera oleosa pinnate leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a19126e90a0_Sc.ol_lf8.jpg",
+          "caption": "Schleichera oleosa leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a1912c711cd_Sc.ol_lf9.jpg",
+          "caption": "Schleichera oleosa leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sc.ol_lf110.jpg",
+          "caption": "Schleichera oleosa young red leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Schleichera oleosa is a medium size brevi-deciduous tree growing up to 10 m. The bole is usually crooked, can be fluted and slightly buttressed on the old specimen. The species is dioecious and it is slow-growing. Schleichera oleosa is mostly noticed because of its bright red leaves when they are new.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Schleichera oleosa is a medium size brevi-deciduous tree growing up to 10 m. <br>The bole is usually crooked, can be fluted and slightly buttressed on the old specimen. <br>The species is dioecious and it is slow-growing. <br>Schleichera oleosa is mostly noticed because of its bright red leaves when they are new.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62a1909b1b2de_Sc.ol_ha1.jpg",
+          "caption": "Schleichera oleosa habit when the new leaves are bright red and bronze"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62a9770a02120_Sc.ol_ha6.jpg",
+          "caption": "Schleichera oleosa habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62a190a2df7f4_Sc.ol_ha3.jpg",
+          "caption": "Schleichera oleosa canopy"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62a190a7d0cd7_Sc.ol_ha4.jpg",
+          "caption": "Schleichera oleosa habit of a young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

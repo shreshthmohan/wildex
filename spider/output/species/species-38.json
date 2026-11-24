@@ -1,0 +1,274 @@
+{
+  "species_id": 38,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=38",
+  "scraped_at": "2025-10-02T18:15:47.513449Z",
+  "basic_info": {
+    "scientific_name": "Bauhinia racemosa",
+    "authority": "Lam.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/bauhinia_racemosa.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.ra_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 May, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99409 N",
+      "longitude": "79.82362 E",
+      "raw": "11.99409 N - 79.82362 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Bauhinia racemosa",
+    "author": "Lamarck, Jean Baptiste Antoine Pierre de Monnet de (1785)",
+    "family": "Fabaceae",
+    "english_names": "Bidi leaf tree , Burmese silk orchid",
+    "indian_names": {
+      "Bengali": [
+        "Banraji"
+      ],
+      "Hindi": [
+        "Jhinjheri",
+        "katmauli"
+      ],
+      "Kannada": [
+        "Aapta",
+        "achalu"
+      ],
+      "Malayalam": [
+        "Arampaali",
+        "malayaththi"
+      ],
+      "Marathi": [
+        "Apta"
+      ],
+      "Sanskrit": [
+        "Yamalapatrakah"
+      ],
+      "Tamil": [
+        "Aatthi"
+      ],
+      "Telugu": [
+        "Tella arecettu"
+      ]
+    },
+    "synonyms": [
+      "Bauhinia parviflora",
+      "Piliostigma racemosa",
+      "Piliostigma racemosum",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nBauhinia\n: Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.\n-\nRacemosa\n: Having racemose inflorescences.",
+    "etymology_html": "<p>- <i>Bauhinia</i> : Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.<br>- <i>Racemosa</i> : Having racemose inflorescences.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Bauhinia racemosa is grey-brownish, thick , rough and deeply fissured on old trees.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Bauhinia racemosa</i> is grey-brownish, thick , rough and deeply fissured on old trees.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_racemosa_stem1.jpg",
+          "caption": "Bauhinia racemosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_racemosa_stem2.jpg",
+          "caption": "Bauhinia racemosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_racemosa_stem3.jpg",
+          "caption": "Bauhinia racemosa bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Bauhinia racemosa are ovoid and compressed. They are 8 mm long and 6 mm wide, shiny and reddish-brown coloured. There are between 10 and 15 seeds in a pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Bauhinia racemosa</i> are ovoid and compressed. They are 8 mm long and 6 mm wide, shiny and reddish-brown coloured. There are between 10 and 15 seeds in a pod.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_racemosa_seed1.jpg",
+          "caption": "Bauhinia racemosa seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_racemosa_seed2.jpg",
+          "caption": "Bauhinia racemosa seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Bauhinia racemosa is a compressed pod . It is slightly curved and about 8-15 cm and 2 cm wide. The pod of Bauhinia racemosa is indehiscent and remain on the tree for several months. Each pod contains 10-15 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Bauhinia racemosa</i> is a compressed <strong>pod</strong>. It is slightly curved and about 8-15 cm and 2 cm wide. The pod of <i>Bauhinia racemosa</i> is indehiscent and remain on the tree for several months. Each pod contains 10-15 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_racemosa_fruit1.jpg",
+          "caption": "Bauhinia racemosa dry pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_racemosa_fruit2.jpg",
+          "caption": "Bauhinia racemosa pod longitudinal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_racemosa_fruit3.jpg",
+          "caption": "Bauhinia racemosa pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_racemosa_fruit4.jpg",
+          "caption": "Bauhinia racemosa persistent fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Bauhinia racemosa are grouped in axillary or terminal racemes. The inflorescence is 8-12 cm long, pubescent and the peduncle is about 1 cm long. When the bud opens, the calyx split on one side and curved backwards. The calyx is light green and pubescent outside and glabrous inside. The corolla is composed of 5 white-coloured and narrow petals. The petals are oblong and recurved, 1 cm long and 1.5 mm wide. They are pubescent outside. The pedicel of the flowers is pubescent and 2-3 mm long. The androecium is composed of 10 pilose stamens. The filaments are 5 mm long and pilose at the base. The anthers are 1.5 mm long and pilose. The pistil is composed of a compressed and 8-9 mm long ovary and a sessile stigma . The style is reduced. The ovary contains numerous ovules. The buds are falcate, covered with white hairs and about 1-1.2 cm long. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Bauhinia racemosa</i> are grouped in axillary or terminal racemes. The <strong>inflorescence</strong> is 8-12 cm long, pubescent and the <strong>peduncle</strong> is about 1 cm long.<br>When the bud opens, the calyx split on one side and curved backwards.<br>The <strong>calyx</strong> is light green and pubescent outside and glabrous inside.<br>The <strong>corolla</strong> is composed of 5 white-coloured and narrow petals. The petals are oblong and recurved, 1 cm long and 1.5 mm wide. They are pubescent outside.<br>The <strong>pedicel</strong> of the flowers is pubescent and 2-3 mm long.<br>The <strong>androecium</strong> is composed of 10 pilose stamens. The filaments are 5 mm long and pilose at the base. The anthers are 1.5 mm long and pilose.<br>The <strong>pistil</strong> is composed of a compressed and 8-9 mm long ovary and a sessile <strong>stigma</strong>. The <strong>style</strong> is reduced. The <strong>ovary</strong> contains numerous ovules.<br>The <strong>buds</strong> are falcate, covered with white hairs and about 1-1.2 cm long.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower1.jpg",
+          "caption": "Bauhinia racemosa  branchlet with inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower2.jpg",
+          "caption": "Bauhinia racemosa inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower3.jpg",
+          "caption": "Bauhinia racemosa flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower4.jpg",
+          "caption": "Bauhinia racemosa flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower5.jpg",
+          "caption": "Bauhinia racemosa branchlet with flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower6.jpg",
+          "caption": "Bauhinia racemosa flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower7.jpg",
+          "caption": "Bauhinia racemosa flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower8.jpg",
+          "caption": "Bauhinia racemosa inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower9.jpg",
+          "caption": "Bauhinia racemosa flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_racemosa_flower10.jpg",
+          "caption": "Bauhinia racemosa in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Bauhinia racemosa grow alternately on the stem (spirally arranged). The leaf is simple, light green coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (minute hairs on the the main veins of the lower side). The leaves have a 2.5-3 cm long petiole . The leaf of Bauhinia racemosa is 6-8 cm long and 7-9 cm wide. The leaf is formed of twin leaflets connate about half way. So, the leaf is deeply divided into two lobes sometimes overlapping and making the characteristic \"camel foot\" shape. The apex is obtuse, the base is cordate and the margins are entire. The venation of the leaf is reticulate with 9 prominent veins.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Bauhinia racemosa</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, light green coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (minute hairs on the the main veins of the lower side).<br>The leaves have a 2.5-3 cm long <strong>petiole</strong>.<br>The leaf of <i>Bauhinia racemosa</i> is 6-8 cm long and 7-9 cm wide.<br>The leaf is formed of <strong>twin leaflets</strong> connate about half way. So, the leaf is deeply divided into two lobes sometimes overlapping and making the characteristic \"camel foot\" shape.<br>The <strong>apex</strong> is obtuse, the <strong>base</strong> is cordate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with 9 prominent veins.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf1.jpg",
+          "caption": "Bauhinia racemosa branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf2.jpg",
+          "caption": "Bauhinia racemosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf3.jpg",
+          "caption": "Bauhinia racemosa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf4.jpg",
+          "caption": "Bauhinia racemosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf5.jpg",
+          "caption": "Bauhinia racemosa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf6.jpg",
+          "caption": "Bauhinia racemosa branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_racemosa_leaf7.jpg",
+          "caption": "Bauhinia racemosa foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Bauhinia racemosa is a small crooked and deciduous tree with drooping branches growing up to 10 m. It has a short bole and a spreading and compact crown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Bauhinia racemosa</i> is a small crooked and <strong>deciduous tree</strong> with drooping branches growing up to 10 m. It has a short bole and a spreading and compact crown.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_racemosa_habit1.jpg",
+          "caption": "Bauhinia racemosa tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_racemosa_habit2.jpg",
+          "caption": "Bauhinia racemosa tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_racemosa_habit3.jpg",
+          "caption": "Bauhinia racemosa young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_racemosa_habit4.jpg",
+          "caption": "Bauhinia racemosa crown"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bauhinia racemosa is bisexual (each flower of each individual has both male and female structures). Bauhinia racemosa is pollinated by a wide variety of insects. Mechanical dispersal (barochory) : dispersal of seeds by gravity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Bauhinia racemosa</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Bauhinia racemosa</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal (barochory) : dispersal of seeds by gravity.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/bauhinia_racemosa_reproduction1.jpg",
+          "caption": "Bauhinia racemosa stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/bauhinia_racemosa_reproduction2.jpg",
+          "caption": "Bauhinia racemosa stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/bauhinia_racemosa_reproduction3.jpg",
+          "caption": "Bauhinia racemosa stamens and pistil"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From March to June. From December to June. From December to June. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From March to June.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From December to June.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From December to June.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "In veterinary medicine the leaf juice of Bauhinia racemosa is given to lamb for diarrhea. ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>In veterinary medicine the <strong>leaf juice</strong> of <i>Bauhinia racemosa</i> is given to lamb for diarrhea. (<i>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i>)</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The leaves of Bauhinia racemosa are used in the production of beedis (the thin Indian cigarette). The bark of Bauhinia racemosa yields a strong fibre used for cordage. ( Krishen, 2006, Trees of Delhi )",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>leaves</strong> of <i>Bauhinia racemosa</i> are used in the production of beedis (the thin Indian cigarette).<br><br>The <strong>bark</strong> of <i>Bauhinia racemosa</i> yields a strong fibre used for cordage. (<i>Krishen, 2006, Trees of Delhi</i>)</p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The seeds of Bauhinia racemosa can be roasted and eaten. ( Krishen, 2006, Trees of Delhi ). The young fruits of Bauhinia racemosa can be eaten as a vegetable. ( Sumy, Ved & Krishnan, FRLHT, 2000, Tropical Indian Medicinal Plants, propagation methods )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>seeds</strong> of <i>Bauhinia racemosa</i> can be roasted and eaten. (<i>Krishen, 2006, Trees of Delhi</i>).<br><br>The <strong>young fruits</strong> of <i>Bauhinia racemosa</i> can be eaten as a vegetable. (<i>Sumy, Ved &amp; Krishnan, FRLHT, 2000, Tropical Indian Medicinal Plants, propagation methods</i>)</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Bauhinia racemosa is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun. Bauhinia racemosa is propagated by seeds. 12 hours of soaking in water accelerates the germination process. The germination starts in 4 to 10 days and continues up to 30 days.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Bauhinia racemosa</i> is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun.<br><i>Bauhinia racemosa</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.<br>The germination starts in 4 to 10 days and continues up to 30 days.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

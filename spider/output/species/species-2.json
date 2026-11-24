@@ -1,0 +1,277 @@
+{
+  "species_id": 2,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=2",
+  "scraped_at": "2025-10-03T02:26:26.557370Z",
+  "basic_info": {
+    "scientific_name": "Abrus precatorius",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/abrus_precatorius.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ab.pe_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "24 Aug, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99405 N",
+      "longitude": "79.82349 E",
+      "raw": "11.99405 N - 79.82349 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Abrus precatorius",
+    "author": "Linnaeus, Carl von (1767)",
+    "family": "Fabaceae",
+    "english_names": "Bead vine, Coral bead vine , Crab's eye, Indian licorice, Jequirity bean , Precatory pea, Rosary pea",
+    "indian_names": {
+      "Bengali": [
+        "Gunch"
+      ],
+      "Hindi": [
+        "Gunci",
+        "Guncaci",
+        "Ratti"
+      ],
+      "Kannada": [
+        "Gurugunji"
+      ],
+      "Malayalam": [
+        "Kunni"
+      ],
+      "Marathi": [
+        "chanoti",
+        "gunchi",
+        "Gunja"
+      ],
+      "Sanskrit": [
+        "Gunjaa"
+      ],
+      "Tamil": [
+        "kudri mani",
+        "kundumani",
+        "Kuntumani"
+      ],
+      "Telugu": [
+        "Gurija",
+        "Guruginja"
+      ]
+    },
+    "synonyms": [
+      "Abrus abrus",
+      "Abrus cyaneus",
+      "Abrus maculatus",
+      "Abrus minor",
+      "Abrus pauciflorus",
+      "Abrus precatorius var. novo-guineensis",
+      "Abrus precatorius subsp. precatorius",
+      "Abrus squamulosus",
+      "Abrus tunguensis",
+      "Abrus tunguensis",
+      "Glycine abrus",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nAbrus\n: New Latin, from Ancient Greek\nhabros\n(\"graceful, delicate, soft\").\n- Precatorius\n: Relating to prayer (\nAbrus precatorius\nseeds are used as rosary beads).",
+    "etymology_html": "<p>- <i>Abrus</i> : New Latin, from Ancient Greek <i>habros</i> (\"graceful, delicate, soft\").<br><i>- Precatorius</i> : Relating to prayer (<i>Abrus precatorius</i> seeds are used as rosary beads).</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stems are numerous, scarcely woody, slender, glabrous and with long internodes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>stems</strong> are numerous, scarcely woody, slender, glabrous and with long internodes.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/abrus_precatorius_stem1.jpg",
+          "caption": "Abrus precatorius twining stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/abrus_precatorius_stem2.jpg",
+          "caption": "Abrus precatorius stem and bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "There are 3-8 polished and hard seeds in a pod. The seeds are nearly globose, 6-7 mm long, scarlet coloured with black lateral spot at the base (around the hilum). Sometimes the seeds are black with a white eye and more rarely pure white.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>There are 3-8 polished and hard seeds in a pod.<br>The <strong>seeds</strong> are nearly globose, 6-7 mm long, scarlet coloured with black lateral spot at the base (around the hilum).<br>Sometimes the seeds are black with a white eye and more rarely pure white.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed1.jpg",
+          "caption": "Abrus precatorius seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed2.jpg",
+          "caption": "Abrus precatorius seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed3.jpg",
+          "caption": "Abrus precatorius seeds attached to open and dried pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed4.jpg",
+          "caption": "Abrus precatorius seeds attached to open and dried pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed5.jpg",
+          "caption": "Abrus precatorius seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/abrus_precatorius_seed6.jpg",
+          "caption": "Abrus precatorius showy seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit is a short, oblong, pilose (finely silky), winkled and thick pod , 3-4 cm long and 1-1.5 cm wide. It is turgid with a sharp deflexed beak. This pod splits before falling to reveal the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> is a short, oblong, pilose (finely silky), winkled and thick <strong>pod</strong>, 3-4 cm long and 1-1.5 cm wide. It is turgid with a sharp deflexed beak.<br>This pod splits before falling to reveal the seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit1.jpg",
+          "caption": "Abrus precatorius ripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit2.jpg",
+          "caption": "Abrus precatorius unripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit3.jpg",
+          "caption": "Abrus precatorius unripe fruits and flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit4.jpg",
+          "caption": "Abrus precatorius unripe fruits and flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit5.jpg",
+          "caption": "Abrus precatorius fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/abrus_precatorius_fruit6.jpg",
+          "caption": "Abrus precatorius mature pod revealing the seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers are crowded in dense clusters, terminal or axillary. They are clustered at the swollen nodes of the rachis. This pseudo-raceme is 10 cm long (shorter than leaves) and has a 3 cm long peduncle . The flowers are 1 cm across, shortly stalked (2 mm long pedicel ). The bracts are deciduous and bracteols are appressed to the calyx. The calyx tube is narrowly campanulate, pubescent (likely silky), 2-3 mm long with a truncate apex and very short and obscure lobes. The corolla is composed of clawed, white to pink or pale violet petals . The standard (banner) is broadly ovate, auricled, 1.5 cm long and 0.8-1 cm wide. The standard base is adherent to the staminal sheath. The wings are narrow, oblong and falcate, 0.8 cm long and 0.3-0.4 cm wide. The keels are curved, 1 cm long and 0.2-0.3 cm wide. The stamina sheath is 8 mm long. Androecium is composed of 9 monodelphuous stamens with nearly equal filaments (2-3 mm long) and uniform anthers. The pistil is composed of a 8 mm sub-sessile and pubescent ovary, a very short (0.5 mm) and incurved style with a capitate stigma.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> are crowded in dense clusters, terminal or axillary. They are clustered at the swollen nodes of the rachis. This pseudo-raceme is 10 cm long (shorter than leaves) and has a 3 cm long <strong>peduncle</strong>. The flowers are 1 cm across, shortly stalked (2 mm long <strong>pedicel</strong>).<br>The <strong>bracts</strong> are deciduous and <strong>bracteols</strong> are appressed to the calyx. <br>The <strong>calyx</strong> tube is narrowly campanulate, pubescent (likely silky), 2-3 mm long with a truncate apex and very short and obscure lobes. <br>The <strong>corolla</strong> is composed of clawed, white to pink or pale violet <strong>petals</strong>. The standard (banner) is broadly ovate, auricled, 1.5 cm long and 0.8-1 cm wide. The standard base is adherent to the staminal sheath. The wings are narrow, oblong and falcate, 0.8 cm long and 0.3-0.4 cm wide. The keels are curved, 1 cm long and 0.2-0.3 cm wide. <br>The <strong>stamina sheath</strong> is 8 mm long. <strong>Androecium</strong> is composed of 9 monodelphuous <strong>stamens</strong> with nearly equal filaments (2-3 mm long) and uniform anthers. <br>The <strong>pistil</strong> is composed of a 8 mm sub-sessile and pubescent ovary, a very short (0.5 mm) and incurved style with a capitate stigma. <br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower1.jpg",
+          "caption": "Abrus precatorius terminal flowers and leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower2.jpg",
+          "caption": "Abrus precatorius flowered clusters (pseudo-raceme)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower3.jpg",
+          "caption": "Abrus precatorius buds cluster and swollen node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower4.jpg",
+          "caption": "Abrus precatorius flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower5.jpg",
+          "caption": "Abrus precatorius flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower6.jpg",
+          "caption": "Abrus precatorius pseudo-raceme (open flowers and buds)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower7.jpg",
+          "caption": "Abrus precatorius flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower8.jpg",
+          "caption": "Abrus precatorius flowers and buds clusters"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/abrus_precatorius_flower9.jpg",
+          "caption": "Abrus precatorius flowers (with visible stamens inside)"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves are alternate, petioled (1 cm long petiole), 10-15 cm long, even-pinnately compound with 10-15 pairs of leaflets. The leaflets are opposite, oblong, thinly membranous, slightly hairy, 1.5-2.5 long and 0.6-0.8 cm wide, with margins entire, base and apex obtuse, apex apiculate. They terminate in a bristle and they have a 1-1.5 mm long petiolule . The rachis is thickened at the base, very slender, channeled and glabrous and ending in a spine. At the base of a leaf, there are small, setaceous and 2.5 mm long stipules .",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> are alternate, petioled (1 cm long petiole), 10-15 cm long, even-pinnately compound with 10-15 pairs of leaflets.<br>The <strong>leaflets</strong> are opposite, oblong, thinly membranous, slightly hairy, 1.5-2.5 long and 0.6-0.8 cm wide, with <strong>margins</strong> entire, <strong>base</strong> and <strong>apex</strong> obtuse, apex apiculate. They terminate in a bristle and they have a 1-1.5 mm long <strong>petiolule</strong>.<br>The <strong>rachis</strong> is thickened at the base, very slender, channeled and glabrous and ending in a spine. <br>At the base of a leaf, there are small, setaceous and 2.5 mm long <strong>stipules</strong>.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/abrus_precatorius_leaf2.jpg",
+          "caption": "Abrus precatorius leaf : lower and upper sides"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/abrus_precatorius_leaf3.jpg",
+          "caption": "Abrus precatorius leaflet upper and lower sides"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/abrus_precatorius_leaf1.jpg",
+          "caption": "Abrus precatorius foliated stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/abrus_precatorius_leaf4.jpg",
+          "caption": "Abrus precatorius leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/abrus_precatorius_leaf5.jpg",
+          "caption": "Abrus precatorius leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Abrus precatorius is a deciduous, perennial and thornless climber . It is a high-climbing, twining, or trailing woody vine with slender herbaceous branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Abrus precatorius</i> is a deciduous, perennial and thornless <strong>climber</strong>.<br>It is a high-climbing, twining, or trailing woody vine with slender herbaceous branches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/abrus_precatorius_habit1.jpg",
+          "caption": "Abrus precatorius with dried pods and seeds"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). The flowers are nectariferous. Pollination is through the agents of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds are also spread by birds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p>The flowers are nectariferous. Pollination is through the agents of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds are also spread by birds.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/abrus_precatorius_reproduction1.jpg",
+          "caption": "Abrus precatorius flowers pollinated by bees and ants"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/abrus_precatorius_reproduction2.jpg",
+          "caption": "Abrus precatorius flowers pollinated by ants"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/abrus_precatorius_reproduction3.jpg",
+          "caption": "Abrus precatorius flowers pollinated by red ants"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. The leaves fall during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The oil made from Abrus precatorius seeds is sometimes used as an ingredient in Indian hair products.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>oil</strong> made from <i>Abrus precatorius</i> seeds is sometimes used as an ingredient in Indian hair products.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The seeds were used by jewellers as a unit of weight. The unit is known as ratti (the weight of one seed = 1 ratti and 8 ratti = 1 Gram). Formerly, Indians used this measure to weigh gold. The finely powdered seeds are used by jewellers to increase adhesion when soldering delicate ornaments. The seeds are used for making bracelets, necklaces, rosaries, etc. The fibre extracted from the stem is woven into baskets.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>seeds</strong> were used by jewellers as a unit of weight. The unit is known as ratti (the weight of one seed = 1 ratti and 8 ratti = 1 Gram). Formerly, Indians used this measure to weigh gold.<br><br>The finely <strong>powdered seeds</strong> are used by jewellers to increase adhesion when soldering delicate ornaments. <br><br>The <strong>seeds</strong> are used for making bracelets, necklaces, rosaries, etc. <br><br>The <strong>fibre</strong> extracted from the stem is woven into baskets.</p>  \n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Abrus precatorius can be planted in the sun or half shade and it will grow in a wide variety of situations and soils. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Abrus precatorius</i> can be planted in the sun or half shade and it will grow in a wide variety of situations and soils.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

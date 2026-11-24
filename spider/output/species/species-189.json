@@ -1,0 +1,187 @@
+{
+  "species_id": 189,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=189",
+  "scraped_at": "2025-10-03T08:33:05.310126Z",
+  "basic_info": {
+    "scientific_name": "Bombax ceiba",
+    "authority": null,
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63465ddcd3509_63465ddcd34f9_Bo.ce_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Bo.ce_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "10 May, 2021",
+    "collected_by": "A.A.S, R.S",
+    "gps_coordinates": {
+      "latitude": "12.0137N",
+      "longitude": "79.8024 E",
+      "raw": "12.0137N- 79.8024 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Bombax ceiba",
+    "author": "Linnaeus, Carl von (1767)",
+    "family": "Malvaceae",
+    "english_names": "Red silk cotton",
+    "indian_names": {
+      "Tamil": [
+        "Ilavam"
+      ],
+      "Hindi": [
+        "Semra"
+      ]
+    },
+    "synonyms": [
+      "Bombacopsis quinata",
+      "Bombax aculeatum",
+      "Bombax ceiba",
+      "Bombax heptaphyllum",
+      "Bombax malabaricum",
+      "Bombax thorelii",
+      "Bombax tussacii",
+      "Gossampinus malabarica",
+      "Gossampinus rubra",
+      "Gossampinus thorelii",
+      "Pachira quinata",
+      "Pochota quinata",
+      "Salmalia malabarica"
+    ],
+    "etymology": "-\nBombax\n: From the Latin\nbombyx\n, referring to the silkworm cocoon\n-\nceiba\n: From the Spanish designating the silk cotton tree",
+    "etymology_html": "<p>- <i>Bombax</i>: From the Latin <i>bombyx</i>, referring to the silkworm cocoon<br>- <i>ceiba</i>: From the Spanish designating the silk cotton tree</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Bombax ceiba is grey in colour. Rough and conical thorns are found on young growth but they get eroded when the tree gets older. The stem of Bombax ceiba has branches radiating horizontally from the trunk. The branchlets are prickly, warty and glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Bombax ceiba is grey in colour. <br>Rough and conical thorns are found on young growth but they get eroded when the tree gets older.<br>The stem of Bombax ceiba has branches radiating horizontally from the trunk. <br>The branchlets are prickly, warty and glabrous.</p><p> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df4ad666ab_Bo.ce_bk1.jpg",
+          "caption": "Bombax ceiba trunk of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df4c346b2c_Bo.ce_bk2.jpg",
+          "caption": "Bombax ceiba rough bark of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df86a0baa7_Bo.ce_bk3.jpg",
+          "caption": "Bombax ceiba trunk of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df80680444_Bo.ce_st1.jpg",
+          "caption": "Bombax ceiba stem with thorns branching out in a young plant"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df80e9970a_Bo.ce_st2.jpg",
+          "caption": "Bombax ceiba stem with long petiole and leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621df8127409d_Bo.ce_st3.jpg",
+          "caption": "Bombax ceiba straight and conical thorns found in a young plant"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Bombax ceiba are cup-shaped, with 5 petals. The flowers are solitary or clustered, at the end of the branches, and appear when the tree is bare of leaves. The size of the flowers is between 10 to 15 cm wide,  with petals up to 12 cm in length. The size of the calyx is 3-5 cm in diameter. The petals are bright red, the stigma is light red, up to 10 cm in length, and the ovary is pink. The flower buds and the calyx of not fully opened flowers are edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Bombax ceiba are cup-shaped, with 5 petals. <br>The flowers are solitary or clustered, at the end of the branches, and appear when the tree is bare of leaves. <br>The size of the flowers is between 10 to 15 cm wide,  with petals up to 12 cm in length. <br>The size of the calyx is 3-5 cm in diameter. <br>The petals are bright red, the stigma is light red, up to 10 cm in length, and the ovary is pink. <br>The flower buds and the calyx of not fully opened flowers are edible.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/621df79d5de57_Bo.ce_fl1.jpg",
+          "caption": "Bombax ceiba withered flower found on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl3.jpg",
+          "caption": "Bombax ceiba flower and flower bud on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl1.jpg",
+          "caption": "Bombax ceiba blooming leafless habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl2.jpg",
+          "caption": "Bombax ceiba flowers on stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl4.jpg",
+          "caption": "Bombax ceiba flower bud found on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl5.jpg",
+          "caption": "Bombax ceiba withered flower found on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.ce_fl6.jpg",
+          "caption": "Bombax ceiba withered flower in profile showing large calyx, red stigma and multiple stamens"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Bombax ceiba grow alternately on the stem. The leaves are compound and 5-7 foliate. The leaves are palmate with about 5 leaflets radiating from a central point (tip of petiole), an average of 7 to 10 cm wide, 13 to 15 cm in length. The leaf's long flexible petiole is up to 20 cm long. The leaflets are elliptic lanceolate/oblong, the terminal one larger, base ones smaller. The leaves are dark green in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Bombax ceiba grow alternately on the stem. <br>The leaves are compound and 5-7 foliate. <br>The leaves are palmate with about 5 leaflets radiating from a central point (tip of petiole), an average of 7 to 10 cm wide, 13 to 15 cm in length. <br>The leaf's long flexible petiole is up to 20 cm long. <br>The leaflets are elliptic lanceolate/oblong, the terminal one larger, base ones smaller.<br>The leaves are dark green in colour. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df71e06727_Bo.ce_lf1.jpg",
+          "caption": "Bombax ceiba leaves attached to the stem (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df724d28da_Bo.ce_lf2.jpg",
+          "caption": "Bombax ceiba young leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df72d38d91_Bo.ce_lf3.jpg",
+          "caption": "Bombax ceiba full compound leaf (upper side), palmate with 5 leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df73198349_Bo.ce_lf4.jpg",
+          "caption": "Bombax ceiba central point connecting the leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df73e0a8af_Bo.ce_lf5.jpg",
+          "caption": "Bombax ceiba leaf (lower side) with curved and swollen petiole at central point"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df767204f7_Bo.ce_lf6.jpg",
+          "caption": "Bombax ceiba leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621df76a7f6dc_Bo.ce_lf7.jpg",
+          "caption": "Bombax ceiba leaflet (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Bombax ceiba is a large deciduous tree which grows to an average of 30 m with horizontal, whorled or sharply prickled branches. The tree develops buttress roots at its maturity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Bombax ceiba is a large deciduous tree which grows to an average of 30 m with horizontal, whorled or sharply prickled branches. <br>The tree develops buttress roots at its maturity.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/621df6f4a0956_Bo.ce_ha1.jpg",
+          "caption": "Bombax ceiba mature top branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/621df6fa4e4e4_Bo.ce_ha2.jpg",
+          "caption": "Bombax ceiba mature canopy"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63299838eb084_Bo.ce_ha22.jpg",
+          "caption": "Bombax ceiba buttress roots"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

@@ -1,0 +1,118 @@
+{
+  "species_id": 293,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=293",
+  "scraped_at": "2025-10-08T06:50:11.209370Z",
+  "basic_info": {
+    "scientific_name": "Boucerosia indica",
+    "authority": null,
+    "family": "Apocynaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/650ab4603d105_Bo.in_cat.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Bo.in_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Jan, 2017",
+    "collected_by": "S.S",
+    "gps_coordinates": {
+      "latitude": "11°57'09 N",
+      "longitude": "79°45'57 E",
+      "raw": "11°57'09 N - 79°45'57 E"
+    },
+    "locality": "Merveille, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Boucerosia indica",
+    "author": "(Wight & Arn.) Plowes, Darrel Charles Herbert (1995)",
+    "family": "Apocynaceae",
+    "english_names": "Indian Caralluma",
+    "indian_names": null,
+    "synonyms": [
+      "Boucerosia hutchinia",
+      "Caralluma indica",
+      "Ceropegia indica",
+      "Desmidorchis indica",
+      "Hutchinia indica"
+    ],
+    "etymology": "-\nBoucerosia\n: From the Greek word\nboukeros\nmeaning \"like the horns of an ox\" referring to the shape of the sections of the corona.\n-\nindica\n: From its first identification in India.",
+    "etymology_html": "<p>- <i>Boucerosia</i>: From the Greek word <i>boukeros</i> meaning \"like the horns of an ox\" referring to the shape of the sections of the corona.<br>- <i>indica</i>: From its first identification in India.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Boucerosia indica is quadrangular, tapering towards the base. The internodes are small, less than 0.5 cm in size. The stem is fleshy and glabrous with a watery latex.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Boucerosia indica is quadrangular, tapering towards the base. <br>The internodes are small, less than 0.5 cm in size. <br>The stem is fleshy and glabrous with a watery latex.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Bo.in_st1.jpg",
+          "caption": "Boucerosia indica stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Boucerosia indica are ovoid in shape and brown in colour. The seed is less than 1 cm with hairy white coma which is 2 to 3 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Boucerosia indica are ovoid in shape and brown in colour. <br>The seed is less than 1 cm with hairy white coma which is 2 to 3 cm long.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Boucerosia indica are follicles found single or paired. The follicles are 5 to 11 cm long. They are cylindrical in shape, attenuate toward the apex.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Boucerosia indica are follicles found single or paired. <br>The follicles are 5 to 11 cm long. <br>They are cylindrical in shape, attenuate toward the apex.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Boucerosia indica grow in few-flowered (3 to 5) umbellate cymes at the end of the stems. The flowers are 2 cm to 3 cm across. The pedicels are terete, glabrous and less than 0.5 cm long. The flowers are star-shaped with 5 petals. The petals have a slightly pointed tip, they are glabrous without and hairy-fringed within. The central corolla is red in colour with a purple tip and a minute yellow tooth present in the deep cleft between the adjacent lobes. Hairs are present except on the tips of the petals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Boucerosia indica grow in few-flowered (3 to 5) umbellate cymes at the end of the stems. <br>The flowers are 2 cm to 3 cm across. <br>The pedicels are terete, glabrous and less than 0.5 cm long. <br>The flowers are star-shaped with 5 petals. <br>The petals have a slightly pointed tip, they are glabrous without and hairy-fringed within. <br>The central corolla is red in colour with a purple tip and a minute yellow tooth present in the deep cleft between the adjacent lobes. <br>Hairs are present except on the tips of the petals.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.in_fl1.jpg",
+          "caption": "Boucerosia indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.in_fl2.jpg",
+          "caption": "Boucerosia indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.in_fl3.jpg",
+          "caption": "Boucerosia indica central corolla with minute yellow teeth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.in_fl4.jpg",
+          "caption": "Boucerosia indica cyme at the end of the stem"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Boucerosia indica are simple, growing in an opposite arrangement. The leaves are reduced to fleshy scales. They are very small, about 1.5 mm long and 1 mm wide. They are triangular shaped, acute with a glabrous apex.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Boucerosia indica are simple, growing in an opposite arrangement. <br>The leaves are reduced to fleshy scales. <br>They are very small, about 1.5 mm long and 1 mm wide. <br>They are triangular shaped, acute with a glabrous apex. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Bo.in_lf1.jpg",
+          "caption": "Boucerosia indica minute leaves on stem"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Boucerosia indica is a small succulent with green, erect, branched stems and small leaves reduced to scales. It grows up to 20 cm in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Boucerosia indica is a small succulent with green, erect, branched stems and small leaves reduced to scales. <br>It grows up to 20 cm in height.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Bo.in_ha1.jpg",
+          "caption": "Boucerosia indica habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

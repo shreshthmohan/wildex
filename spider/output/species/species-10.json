@@ -1,0 +1,249 @@
+{
+  "species_id": 10,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=10",
+  "scraped_at": "2025-10-02T17:54:26.572247Z",
+  "basic_info": {
+    "scientific_name": "Caesalpinia pulcherrima",
+    "authority": "(L.) Sw.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/caesalpinia_pulcherrima.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.pu_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "19 Jan, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99491 N",
+      "longitude": "79.82290 E",
+      "raw": "11.99491 N - 79.82290 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Caesalpinia pulcherrima",
+    "author": "Swartz, Olof Peter (1791)",
+    "family": "Fabaceae",
+    "english_names": "Dwarf poinciana, Flower-fence, Paradise flower, Peacock flower , Pride of Barbados , Red bird of paradise",
+    "indian_names": {
+      "Bengali": [
+        "Krishnachura",
+        "Radhachura"
+      ],
+      "Hindi": [
+        "Guletura",
+        "Kunish churin",
+        "Torai"
+      ],
+      "Kannada": [
+        "Kanjage",
+        "Ratuagandi"
+      ],
+      "Malayalam": [
+        "Settimandaram",
+        "Techimandaram"
+      ],
+      "Marathi": [
+        "Sankasur"
+      ],
+      "Sanskrit": [
+        "Krishnachura",
+        "Ratanagandhi",
+        "siddhakhya"
+      ],
+      "Tamil": [
+        "Mayil konnay",
+        "Mayurkonrai"
+      ],
+      "Telugu": [
+        "Chinaturayi",
+        "Rathnagandhi",
+        "Thuraayi"
+      ]
+    },
+    "synonyms": [
+      "Caesalpinia pulcherrima var. flava",
+      "Poinciana bijuga",
+      "Poinciana bijuga",
+      "Poinciana elata",
+      "Poinciana pulcherrima",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nCaesalpinia\n: For Andrea Caesalpini (1519-1603), Tuscan botanist and physician to Pope Clement VIII.\n-\nPulcherrima\n: Most beautiful, most handsome; superlative of the Latin word \"\npulcher\n\" meaning handsome, beautiful, fine.",
+    "etymology_html": "<p>- <i>Caesalpinia</i> : For Andrea Caesalpini (1519-1603), Tuscan botanist and physician to Pope Clement VIII.<br>- <i>Pulcherrima</i> : Most beautiful, most handsome; superlative of the Latin word \"<i>pulcher</i>\" meaning handsome, beautiful, fine.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The branches of Caesalpinia pulcherrima are smooth, green or glaucous, glabrous, shiny, with few scattered prickles. The bark is pale and smooth, often marked with blackish lenticels and armed with stout prickles rising from rounded protuberances. The wood of Caesalpinia pulcherrima is hard, the sapwood is white and the heartwood orange-yellow.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>branches</strong> of <i>Caesalpinia pulcherrima</i> are smooth, green or glaucous, glabrous, shiny, with few scattered prickles.<br>The <strong>bark</strong> is pale and smooth, often marked with blackish lenticels and armed with stout prickles rising from rounded protuberances.<br>The <strong>wood</strong> of <i>Caesalpinia pulcherrima</i> is hard, the sapwood is white and the heartwood orange-yellow.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/caesalpinia_pulcherrima_stem1.jpg",
+          "caption": "Caesalpinia pulcherrima trunk with prickles"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/caesalpinia_pulcherrima_stem2.jpg",
+          "caption": "Caesalpinia pulcherrima branch with prickles"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/caesalpinia_pulcherrima_stem3.jpg",
+          "caption": "Caesalpinia pulcherrima prickle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/caesalpinia_pulcherrima_stem4.jpg",
+          "caption": "Caesalpinia pulcherrima young branchlet"
+        }
+      ]
+    },
+    "seed": {
+      "text": "There are 8 to 10 seeds in a pod. The seeds of Caesalpinia pulcherrima are dark brown, obovoid, smooth, 0.8 cm long and 0.6 cm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>There are 8 to 10 seeds in a pod. The <strong>seeds</strong> of <i>Caesalpinia pulcherrima</i> are dark brown, obovoid, smooth, 0.8 cm long and 0.6 cm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/caesalpinia_pulcherrima_seed1.jpg",
+          "caption": "Caesalpinia pulcherrima seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/caesalpinia_pulcherrima_seed3.jpg",
+          "caption": "Caesalpinia pulcherrima seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/caesalpinia_pulcherrima_seed2.jpg",
+          "caption": "Caesalpinia pulcherrima unripe seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Caesalpinia pulcherrima is a pod . This pod is nearly straight, oblong, flat and thin, 8-10 cm long and 1.8 cm wide. The apex is horned and the base is narrow. The ripe fruit is dark brown (sometimes reddish). Each pod contains 8-10 seeds. At maturity, the pod splits and ejects the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Caesalpinia pulcherrima</i> is a <strong>pod</strong>. <br>This pod is nearly straight, oblong, flat and thin, 8-10 cm long and 1.8 cm wide. The apex is horned and the base is narrow. <br>The ripe fruit is dark brown (sometimes reddish).<br>Each pod contains 8-10 seeds.<br>At maturity, the pod splits and ejects the seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/caesalpinia_pulcherrima_fruit1.jpg",
+          "caption": "Caesalpinia pulcherrima unripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/caesalpinia_pulcherrima_fruit2.jpg",
+          "caption": "Caesalpinia pulcherrima ripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/caesalpinia_pulcherrima_fruit3.jpg",
+          "caption": "Caesalpinia pulcherrima open pod with immature seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Caesalpinia pulcherrima are large, erect and terminal racemes about 15 cm long and 15 cm across. The flowers are borne on long pedicels (fully opened flowers are 5 cm long). They are lanceolate, acuminate, deciduous and short bracts at the base of the pedicels. The flowers are 4 cm across, showy, orange, yellow, pink or red. The calyx is tubular at the base and composed of 5 sepals with one larger than the others. The sepals are glabrous, hooded are coloured. The calyx-tube is about 0.5 cm long, the short sepals are 1 cm long and 0.6 cm wide and the largest is 1.8 cm x 0.8 cm. The corolla is composed of 5 colourful petals, 4 are equal and 1 is smaller than the others. The largest are 2.2 cm long and 1.9-2 cm wide and the small one is 2 cm long and 0.7 cm wide. The petals have an orbicular limb and a distinct claw. The petals are crumpled, the margins are irregularly crenate and crinkly, the apex is rounded and the base narrow (a claw). The androecium is composed of 10 free stamens attached at the top of the calyx-tube. The filament are filiform, 3-4 times the length of the petals (6.5-7 cm long) and coloured (according to the colour of the corolla). The base of the filaments is covered with white hairs. The anthers are small (1.5 mm long) and versatile. The ovary is borne on a small gynophore above the calyx-tube. The ovary is 8 mm long, compressed, glabrous. The style is 5 cm long, coloured (according to the colour of the corolla) and the stigma is small and simple.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>inflorescences</strong> of <i>Caesalpinia pulcherrima</i> are large, erect and terminal <strong>racemes</strong> about 15 cm long and 15 cm across.<br>The <strong>flowers</strong> are borne on long pedicels (fully opened flowers are 5 cm long). They are lanceolate, acuminate, deciduous and short bracts at the base of the pedicels. The flowers are 4 cm across, showy, orange, yellow, pink or red.<br>The <strong>calyx</strong> is tubular at the base and composed of 5 <strong>sepals</strong> with one larger than the others. The sepals are glabrous, hooded are coloured. The <strong>calyx-tube</strong> is about 0.5 cm long, the short sepals are 1 cm long and 0.6 cm wide and the largest is 1.8 cm x 0.8 cm.<br>The <strong>corolla</strong> is composed of 5 colourful petals, 4 are equal and 1 is smaller than the others. The largest are 2.2 cm long and 1.9-2 cm wide and the small one is 2 cm long and 0.7 cm wide. The <strong>petals</strong> have an orbicular limb and a distinct claw. The petals are crumpled, the margins are irregularly crenate and crinkly, the apex is rounded and the base narrow (a claw).<br>The <strong>androecium</strong> is composed of 10 free <strong>stamens</strong> attached at the top of the calyx-tube. The <strong>filament</strong> are filiform, 3-4 times the length of the petals (6.5-7 cm long) and coloured (according to the colour of the corolla). The base of the filaments is covered with white hairs. The <strong>anthers</strong> are small (1.5 mm long) and versatile.<br>The <strong>ovary</strong> is borne on a small gynophore above the calyx-tube. The ovary is 8 mm long, compressed, glabrous. The <strong>style</strong> is 5 cm long, coloured (according to the colour of the corolla) and the <strong>stigma</strong> is small and simple.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower1.jpg",
+          "caption": "Caesalpinia pulcherrima inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower2.jpg",
+          "caption": "Caesalpinia pulcherrima flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower3.jpg",
+          "caption": "Caesalpinia pulcherrima flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower4.jpg",
+          "caption": "Caesalpinia pulcherrima flower parts : petals (top), sepals (bottom), reproductive structures (middle)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower5.jpg",
+          "caption": "Caesalpinia pulcherrima reproductive structures : pistil (top) and stamens (bottom)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower6.jpg",
+          "caption": "Caesalpinia pulcherrima bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower7.jpg",
+          "caption": "Caesalpinia pulcherrima inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower8.jpg",
+          "caption": "Caesalpinia pulcherrima flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/caesalpinia_pulcherrima_flower9.jpg",
+          "caption": "Caesalpinia pulcherrima flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Caesalpinia pulcherrima are bipinnate with 6 to 12 pairs of opposite pinnae . This compound leaf is about 25-30 cm long and 15-20 cm wide with a 5 cm long petiole . A pinna is 6 to 10 cm long and composed of 6-12 opposite pairs of leaflets . The stalk of a pinna is about 0.5-0.7 cm long. A leaflet is 1.8-2.5 cm long and 1 cm wide. The leaflets are oblong with entire margins , rounded and slightly oblique base and emarginate apex with a tiny mucro. The petiolule is very short (less than 1 mm long). The venation is reticulate. The leaves are glabrous, dark green above and light green beneath.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Caesalpinia pulcherrima</i> are bipinnate with 6 to 12 pairs of opposite <strong>pinnae</strong>. This compound leaf is about 25-30 cm long and 15-20 cm wide with a 5 cm long <strong>petiole</strong>. A <strong>pinna</strong> is 6 to 10 cm long and composed of 6-12 opposite pairs of <strong>leaflets</strong>. The stalk of a pinna is about 0.5-0.7 cm long. A <strong>leaflet</strong> is 1.8-2.5 cm long and 1 cm wide. The leaflets are oblong with entire <strong>margins</strong>, rounded and slightly oblique <strong>base</strong> and emarginate <strong>apex</strong> with a tiny mucro. The <strong>petiolule</strong> is very short (less than 1 mm long). The <strong>venation</strong> is reticulate. The leaves are glabrous, dark green above and light green beneath.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf1.jpg",
+          "caption": "Caesalpinia pulcherrima compound leaf and underside of a pinna"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf2.jpg",
+          "caption": "Caesalpinia pulcherrima bipinnate leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf3.jpg",
+          "caption": "Caesalpinia pulcherrima bipinnate leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf4.jpg",
+          "caption": "Caesalpinia pulcherrima pinna (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf5.jpg",
+          "caption": "Caesalpinia pulcherrima leaflet (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/caesalpinia_pulcherrima_leaf6.jpg",
+          "caption": "Caesalpinia pulcherrima shoot (young leaf)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Caesalpinia pulcherrima is a fast-growing and deciduous shrub or small tree growing to 4 meters tall. This treelet is armed with scattered prickles (occasionally unarmed) and it has low and spreading branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Caesalpinia pulcherrima</i> is a fast-growing and <strong>deciduous shrub</strong> or small tree growing to 4 meters tall.<br>This treelet is armed with scattered prickles (occasionally unarmed) and it has low and spreading branches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/caesalpinia_pulcherrima_habit1.jpg",
+          "caption": "Caesalpinia pulcherrima in a small clearing"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Caesalpinia pulcherrima is pollinated by a wide variety of insects and by sunbirds (in India). - Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on site with favourable conditions : the ripened dry fruits burst and scatter the seeds. - The seeds of Caesalpinia pulcherrima are also eaten and dispersed by birds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Caesalpinia pulcherrima</i> is pollinated by a wide variety of insects and by sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>- Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on site with favourable conditions : the ripened dry fruits burst and scatter the seeds.<br>- The seeds of <i>Caesalpinia pulcherrima</i> are also eaten and dispersed by birds.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "Caesalpinia pulcherrima blossoms almost throughout the year. Throughout the year. Throughout the year. The leaves fall briefly during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p><i>Caesalpinia pulcherrima</i> blossoms almost throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall briefly during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Feathery foliage, showy flowers and quick growth rate make Caesalpinia pulcherrima a very popular ornamental plant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Feathery foliage, showy flowers and quick growth rate make <i>Caesalpinia pulcherrima</i> a very popular ornamental plant.</p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The seeds of Caesalpinia pulcherrima are edible before reaching maturity. In some places, green pods are cooked and eaten.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>seeds</strong> of <i>Caesalpinia pulcherrima</i> are edible before reaching maturity.<br><br>In some places, <strong>green pods</strong> are cooked and eaten.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Caesalpinia pulcherrima prefers full sun for best flowering, but some shade is tolerated. The shrub is suitable for drier areas and will thrive well in a sandy loam. ( Flowering shrubs in India, S. L. Jindal ) Any soil is suitable as long as it is well drained. The species is easily propagated from seeds and from cuttings. Under good growing conditions, Caesalpinia pulcherrima will self sow and may even become weedy. Generally no pretreatment is necessary for the seeds germination but 12 hours of soaking in water accelerates the process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Caesalpinia pulcherrima</i> prefers full sun for best flowering, but some shade is tolerated. The shrub is suitable for drier areas and will thrive well in a sandy loam. (<i>Flowering shrubs in India, S. L. Jindal</i>)<br>Any soil is suitable as long as it is well drained.<br>The species is easily propagated from seeds and from cuttings.<br>Under good growing conditions, <i>Caesalpinia pulcherrima</i> will self sow and may even become weedy.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>Generally no pretreatment is necessary for the seeds germination but 12 hours of soaking in water accelerates the process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

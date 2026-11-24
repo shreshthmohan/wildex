@@ -1,0 +1,190 @@
+{
+  "species_id": 197,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=197",
+  "scraped_at": "2025-11-17T18:30:46.442744Z",
+  "basic_info": {
+    "scientific_name": "Ficus microcarpa",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/6228281d12960_6228281ce9ec7_Fi.mi_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.mi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "04 Jun, 2021",
+    "collected_by": "A.A.S., M.N.",
+    "gps_coordinates": {
+      "latitude": "11.5910 N",
+      "longitude": "79.4825 E",
+      "raw": "11.5910 N - 79.4825 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus microcarpa",
+    "author": "Wangerin, Walther (Leonhard) (1910)",
+    "family": "Moraceae",
+    "english_names": "Chinese banyan",
+    "indian_names": {
+      "Tamil": [
+        "Kalichchi"
+      ]
+    },
+    "synonyms": [],
+    "etymology": "-\nFicus\n: From the Latin designating the fig tree\n-\nmicrocarpa\n: From the Greek\nmicro\n\"small\" -\ncarpa\n\"fruit\"",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin designating the fig tree<br>- <i>microcarpa</i>: From the Greek <i>micro</i> \"small\" - <i>carpa</i> \"fruit\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus microcarpa is smooth and light grey in colour with white lenticels. Ficus microcarpa produces aerial roots which descend from the crown along the trunk.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus microcarpa is smooth and light grey in colour with white lenticels. <br>Ficus microcarpa produces aerial roots which descend from the crown along the trunk.  </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a01941eb_Fi.mi_bk1.jpg",
+          "caption": "Ficus microcarpa smooth and light grey bark with white lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a0323000_Fi.mi_bk2.jpg",
+          "caption": "Ficus microcarpa smooth and light grey bark with white lenticels and aerial roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a06a215e_Fi.mi_bk3.jpg",
+          "caption": "Ficus microcarpa smooth and light grey bark with white lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a07e4098_Fi.mi_bk4.jpg",
+          "caption": "Ficus microcarpa aerial roots system of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a0d035b6_Fi.mi_bk5.jpg",
+          "caption": "Ficus microcarpa aerial roots grounding on the floor"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a1105c46_Fi.mi_st1.jpg",
+          "caption": "Ficus microcarpa branches and aerial roots of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a1839bf1_Fi.mi_st2.jpg",
+          "caption": "Ficus microcarpa leaf arrangement on a stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62284a1b62441_Fi.mi_st3.jpg",
+          "caption": "Ficus microcarpa branches with young aerial roots"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus microcarpa are minuscule. There are approximatively 150 seeds found in one single fig.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus microcarpa are minuscule. There are approximatively 150 seeds found in one single fig.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62282961ebad8_Fi.mi_sd1.jpg",
+          "caption": "Ficus microcarpa figs and seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Fi.mi_sd2.jpg",
+          "caption": "Ficus microcarpa fig cut in half with minuscule seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Fi.mi_sd3.jpg",
+          "caption": "Ficus microcarpa seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622829702cae7_Fi.mi_sd4.jpg",
+          "caption": "Ficus microcarpa seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Ficus microcarpa is a fig. The fruits start out green and ripen to a yellow shade.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Ficus microcarpa is a fig. <br>The fruits start out green and ripen to a yellow shade.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62282903b13a0_Fi.mi_fr1.JPG",
+          "caption": "Ficus microcarpa young fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622829054b077_Fi.mi_fr2.jpg",
+          "caption": "Ficus microcarpa unripe fruits in cluster"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6228294a1b3b7_Fi.mi_fr3.jpg",
+          "caption": "Ficus microcarpa ripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus microcarpa can be of 3 types: a male flower, a long-styled female flower and a short-styled female flower, often called the gall flower. All 3 types of the flowers are contained within the structure we usually think of as the fruit.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus microcarpa can be of 3 types: a male flower, a long-styled female flower and a short-styled female flower, often called the gall flower. <br>All 3 types of the flowers are contained within the structure we usually think of as the fruit.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Fi.mi_fl2.jpg",
+          "caption": "Ficus microcarpa fig cut in half showing the flowers inside"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus microcarpa are thick and smooth. They are elliptic-ovate to obovate in shape. The colour of the leaf is green, glossy on the upper side and mat on the lower side. The young leaves are purple. The leaf margin is entire. The base of the leaf is acute to cuneate. The stem of Ficus microcarpa ends with a terminal leaf bud (a cap-shaped stipule which protects the shoot tip) The white latex found at the base of the leaf is used for medicine and construction.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus microcarpa are thick and smooth. <br>They are elliptic-ovate to obovate in shape. <br>The colour of the leaf is green, glossy on the upper side and mat on the lower side. The young leaves are purple.<br>The leaf margin is entire. The base of the leaf is acute to cuneate. <br>The stem of Ficus microcarpa ends with a terminal leaf bud (a cap-shaped stipule which protects the shoot tip)<br>The white latex found at the base of the leaf is used for medicine and construction.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828b183001_Fi.mi_lf1.jpg",
+          "caption": "Ficus microcarpa leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828b31322f_Fi.mi_lf2.jpg",
+          "caption": "Ficus microcarpa new growth of purple glossy leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828bcbd6a3_Fi.mi_lf3.jpg",
+          "caption": "Ficus microcarpa new growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828c082adf_Fi.mi_lf4.jpg",
+          "caption": "Ficus microcarpa tip of the stem with terminal leaf bud (cap-shaped stipule)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828cf10e8a_Fi.mi_lf5.jpg",
+          "caption": "Ficus microcarpa leaf arrangement on stem with terminal leaf bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828ce47957_Fi.mi_lf6.jpg",
+          "caption": "Ficus microcarpa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622828d77af9a_Fi.mi_lf7.jpg",
+          "caption": "Ficus microcarpa leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus microcarpa is a brevideciduous medium size tree. It can grow up to a height of 10 m with a dense, spreading crown. It is developing numerous aerial roots from the branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus microcarpa is a brevideciduous medium size tree. <br>It can grow up to a height of 10 m with a dense, spreading crown. <br>It is developing numerous aerial roots from the branches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6228287e44e28_Fi.mi_ha1.jpg",
+          "caption": "Ficus microcarpa young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6228287f97885_Fi.mi_ha2.jpg",
+          "caption": "Ficus microcarpa mature tree with a developed aerial root system"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

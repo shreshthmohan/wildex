@@ -1,0 +1,284 @@
+{
+  "species_id": 120,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=120",
+  "scraped_at": "2025-10-07T06:38:06.225983Z",
+  "basic_info": {
+    "scientific_name": "Ziziphus oenopolia",
+    "authority": "(L.) Mill.",
+    "family": "Rhamnaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ziziphus_oenopolia.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Zi.oe_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Nov, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99385 N",
+      "longitude": "79.82368 E",
+      "raw": "11.99385 N - 79.82368 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ziziphus oenopolia",
+    "author": "Miller, Philip (1768)",
+    "family": "Rhamnaceae",
+    "english_names": "Jackal jujube, wild jujube",
+    "indian_names": {
+      "Hindi": [
+        "Makai"
+      ],
+      "Kannada": [
+        "Barige",
+        "pargi"
+      ],
+      "Malayalam": [
+        "Churimullu",
+        "mulli"
+      ],
+      "Marathi": [
+        "Burgi"
+      ],
+      "Sanskrit": [
+        "Karkandhauh"
+      ],
+      "Tamil": [
+        "Surai mullu"
+      ],
+      "Telugu": [
+        "Paragi",
+        "paringi"
+      ]
+    },
+    "synonyms": [
+      "Girtanneria oenopolia",
+      "Rhamnus oenopolia",
+      "Ziziphus albens",
+      "Ziziphus celtidifolia",
+      "Ziziphus latifolia",
+      "Ziziphus lotus",
+      "Ziziphus napeca",
+      "Ziziphus pallens",
+      "Ziziphus pedicellala",
+      "Ziziphus rufula",
+      "Ziziphus scandens",
+      "Catalogue of Life: 28th September 2015, http://www.catalogueoflife.org/"
+    ],
+    "etymology": "-\nZiziphus\n: From the ancient Greek name\nzizufon\nfor\nZizyphus jujuba\n, from the Arabic\nzizouf\nor\nzizafun\n.",
+    "etymology_html": "<p>- <i>Ziziphus</i> : From the ancient Greek name <i>zizufon</i> for <i>Zizyphus jujuba</i>, from the Arabic <i>zizouf</i> or <i>zizafun</i>.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ziziphus oenopolia is greyish-coloured and densely lenticellate. Ziziphus oenopolia is very thorny, it is armed with numerous and sharp prickles.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Ziziphus oenopolia</i> is greyish-coloured and densely lenticellate.<br><i>Ziziphus oenopolia</i> is very thorny, it is armed with numerous and sharp prickles.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_oenopolia_stem1.jpg",
+          "caption": "Ziziphus oenopolia thorny stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_oenopolia_stem2.jpg",
+          "caption": "Ziziphus oenopolia bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_oenopolia_stem3.jpg",
+          "caption": "Ziziphus oenopolia prickle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_oenopolia_stem4.jpg",
+          "caption": "Ziziphus oenopolia prickle"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Ziziphus oenopolia is enclosed into a globose and very hard stone . The stone is wrinkled, brownish-coloured and about 5 mm across. It contains one seed.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Ziziphus oenopolia</i> is enclosed into a globose and very hard <strong>stone</strong>. The stone is wrinkled, brownish-coloured and about 5 mm across. It contains one seed.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/ziziphus_oenopolia_seed1.jpg",
+          "caption": "Ziziphus oenopolia stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/ziziphus_oenopolia_seed2.jpg",
+          "caption": "Ziziphus oenopolia stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Ziziphus oenopolia is a globose drupe. The fruit is about 8 mm across with a 1.5 mm long peduncle. It is shiny and black-coloured when ripe and it contains 1 stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Ziziphus oenopolia</i> is a globose drupe. The fruit is about 8 mm across with a 1.5 mm long peduncle. It is shiny and black-coloured when ripe and it contains 1 stone.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit1.jpg",
+          "caption": "Ziziphus oenopolia fruiting branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit2.jpg",
+          "caption": "Ziziphus oenopolia ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit3.jpg",
+          "caption": "Ziziphus oenopolia unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit4.jpg",
+          "caption": "Ziziphus oenopolia unripe fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit5.jpg",
+          "caption": "Ziziphus oenopolia in fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_oenopolia_fruit6.jpg",
+          "caption": "Ziziphus oenopolia ripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ziziphus oenopolia are grouped in short axillary cymes (at the upper axils of the leaves). The flowers are 5-merous. The calyx-tube is cup-shaped, 5-lobed. The sepals are ovate with an acute apex, they are 1.5 mm long and 1 mm wide. The calyx is light green and pubescent. The corolla is composed of 5 light green-coloured and glabrous petals. The petals are orbicular and clawed, about 1 mm long and 0.5 mm wide. The androecium is composed of 5 stamens. The filaments are 0.6-0.7 mm long with globose anthers at the tip. They are inserted at the base of a nectariferous disc . There are 2 connate, short and stout styles with simple stigmas at the end. The ovary is globose and 2-celled. The buds are covered with rusty hairs. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Ziziphus oenopolia</i> are grouped in short axillary cymes (at the upper axils of the leaves).<br>The flowers are 5-merous.<br>The <strong>calyx-tube</strong> is cup-shaped, 5-lobed. The sepals are ovate with an acute apex, they are 1.5 mm long and 1 mm wide. The calyx is light green and pubescent.<br>The <strong>corolla</strong> is composed of 5 light green-coloured and glabrous petals. The petals are orbicular and clawed, about 1 mm long and 0.5 mm wide.<br>The <strong>androecium</strong> is composed of 5 stamens. The <strong>filaments</strong> are 0.6-0.7 mm long with globose <strong>anthers</strong> at the tip. They are inserted at the base of a <strong>nectariferous disc</strong>.<br>There are 2 connate, short and stout <strong>styles</strong> with simple <strong>stigmas</strong> at the end.<br>The <strong>ovary</strong> is globose and 2-celled.<br>The <strong>buds</strong> are covered with rusty hairs.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower1.jpg",
+          "caption": "Ziziphus oenopolia inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower2.jpg",
+          "caption": "Ziziphus oenopolia blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower3.jpg",
+          "caption": "Ziziphus oenopolia cymes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower4.jpg",
+          "caption": "Ziziphus oenopolia flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower5.jpg",
+          "caption": "Ziziphus oenopolia flower (lower and upper sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower6.jpg",
+          "caption": "Ziziphus oenopolia blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower7.jpg",
+          "caption": "Ziziphus oenopolia inflorescence (cyme)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower8.jpg",
+          "caption": "Ziziphus oenopolia flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ziziphus_oenopolia_flower9.jpg",
+          "caption": "Ziziphus oenopolia flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ziziphus oenopolia grow alternately on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and pubescent (rusty hairs). The leaves have a 5-6 mm long petiole . The leaf of Ziziphus oenopolia is 3-4 cm long and 2-3 cm wide. The shape of the blade is obliquely-ovate, the apex is acute-acuminate, the base is oblique and rounded and the margins are slightly serrate and hairy. The venation of the leaf is reticulate with 3 prominent veins.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Ziziphus oenopolia</i> grow alternately on the stem.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and pubescent (rusty hairs).<br>The leaves have a 5-6 mm long <strong>petiole</strong>.<br>The leaf of <i>Ziziphus oenopolia</i> is 3-4 cm long and 2-3 cm wide. The shape of the <strong>blade</strong> is obliquely-ovate, the <strong>apex</strong> is acute-acuminate, the <strong>base</strong> is oblique and rounded and the <strong>margins</strong> are slightly serrate and hairy.<br>The <strong>venation</strong> of the leaf is reticulate with 3 prominent veins.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf1.jpg",
+          "caption": "Ziziphus oenopolia branchlets (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf2.jpg",
+          "caption": "Ziziphus oenopolia branchlets (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf3.jpg",
+          "caption": "Ziziphus oenopolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf4.jpg",
+          "caption": "Ziziphus oenopolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf5.jpg",
+          "caption": "Ziziphus oenopolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf6.jpg",
+          "caption": "Ziziphus oenopolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf7.jpg",
+          "caption": "Ziziphus oenopolia new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_oenopolia_leaf8.jpg",
+          "caption": "Ziziphus oenopolia foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ziziphus oenopolia is a very thorny, large-sized, deciduous and climbing shrub .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Ziziphus oenopolia</i> is a very thorny, large-sized, <strong>deciduous and climbing shrub</strong>.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ziziphus_oenopolia_habit1.jpg",
+          "caption": "Ziziphus oenopolia climbing shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ziziphus_oenopolia_habit2.jpg",
+          "caption": "Ziziphus oenopolia shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ziziphus_oenopolia_habit3.jpg",
+          "caption": "Ziziphus oenopolia in fruit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Ziziphus oenopolia is found in thickets, scrub jungles, forest edges and deciduous slopes from the coastal plains up to 1200 m high in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Ziziphus oenopolia</i> is found in thickets, scrub jungles, forest edges and deciduous slopes from the coastal plains up to 1200 m high in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region, China and Australia.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region, China and Australia.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Ziziphus oenopolia is bisexual (each flower of each individual has both male and female structures). Ziziphus oenopolia is pollinated by a wide variety of insects. The seeds of Ziziphus oenopolia are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Ziziphus oenopolia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Ziziphus oenopolia</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Ziziphus oenopolia</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From September to December. From December to March. From December to March. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From September to December.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Ziziphus oenopolia is useful as a living fence .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Ziziphus oenopolia</i> is useful as a <strong>living fence</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The ripe and raw fruits are edible (very tasty).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The ripe and raw <strong>fruits</strong> are edible (very tasty).</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Ziziphus oenopolia is used in Ayurveda and Siddha medicines. The fruits are digestive and stomachic. The bark is antiplasmodial, antimycobacterial, febrifuge, digestive and tonic. It is used for healing wounds and stomachache. The root bark decoction is used to treat fresh wounds. The root paste mixed with water is given for abdominal pain. The root is also a remedy against hyperacidity and ascaris infection. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Basu & Kirtikar, 1918, Indian Medicinal Plants - Chopra, 1956, Glossary of Indian medicinal plants - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Ziziphus oenopolia</i> is used in Ayurveda and Siddha medicines.<br><br>The <strong>fruits</strong> are digestive and stomachic.<br><br>The <strong>bark</strong> is antiplasmodial, antimycobacterial, febrifuge, digestive and tonic.<br>It is used for healing wounds and stomachache.<br>The <strong>root bark decoction</strong> is used to treat fresh wounds.<br>The <strong>root paste</strong> mixed with water is given for abdominal pain.<br>The <strong>root</strong> is also a remedy against hyperacidity and ascaris infection.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Chopra, 1956, Glossary of Indian medicinal plants</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Ziziphus oenopolia is a fast growing species and it is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas. The species is propagated by seeds. Acid treatment and 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Ziziphus oenopolia</i> is a fast growing species and it is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>Acid treatment and 24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "species_id": 85,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=85",
+  "scraped_at": "2025-11-02T17:41:00.836872Z",
+  "basic_info": {
+    "scientific_name": "Ficus amplissima",
+    "authority": "Sm.",
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ficus_amplissima.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.am_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "15 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99471 N",
+      "longitude": "79.82410 E",
+      "raw": "11.99471 N - 79.82410 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus amplissima",
+    "author": null,
+    "family": "Moraceae",
+    "english_names": "Bat tree",
+    "indian_names": {
+      "Hindi": [
+        "Jadi"
+      ],
+      "Kannada": [
+        "Basuri",
+        "bili basarai",
+        "juvvi"
+      ],
+      "Malayalam": [
+        "Tseja"
+      ],
+      "Marathi": [
+        "Kaela",
+        "pimpari"
+      ],
+      "Sanskrit": [
+        "Candrata"
+      ],
+      "Tamil": [
+        "Kal ichi",
+        "ichi"
+      ],
+      "Telugu": [
+        "Jatini",
+        "peddajuvvi"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus amplissima is dark grey or brown with a smooth surface and with numerous transversal lenticels.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Ficus amplissima</em> is dark grey or brown with a smooth surface and with numerous transversal lenticels.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_amplissima_stem1.jpg",
+          "caption": "Ficus amplissima trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_amplissima_stem2.jpg",
+          "caption": "Ficus amplissima bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fig , what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes). The fruits of Ficus amplissima are globose and smooth achenes , brownish and about 1 mm across. The figs are sessile, in pairs at the axil of the leaves. They are 1.3-1.5 cm across, depressed-globose, downy and they are dark purple when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fig</b>, what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes).<br><br>\nThe <b>fruits</b> of <em>Ficus amplissima</em> are globose and smooth <b>achenes</b>, brownish and about 1 mm across.<br>\nThe <b>figs</b> are sessile, in pairs at the axil of the leaves.<br> They are 1.3-1.5 cm across, depressed-globose, downy and they are dark purple when ripe.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit1.jpg",
+          "caption": "Ficus amplissima infructescences : the figs (unripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit2.jpg",
+          "caption": "Ficus amplissima unripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit3.jpg",
+          "caption": "Ficus amplissima ripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit4.jpg",
+          "caption": "Ficus amplissima unripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit5.jpg",
+          "caption": "Ficus amplissima ripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_amplissima_fruit6.jpg",
+          "caption": "Ficus amplissima unripe figs"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus amplissima are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called syconium (*). The syconium of Ficus amplissima is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators). (*) The syconium is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts. Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen. Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. ( Galil, J., Fig biology, 1977 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Ficus amplissima</em> are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called <b>syconium</b> (*).<br>\nThe syconium of <em>Ficus amplissima</em> is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators).<br><br>\n\n(*) The <b>syconium</b> is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts.<br>\nSyconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen.<br>\nOnce pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. (<em>Galil, J., Fig biology, 1977</em>)      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_amplissima_flower1.jpg",
+          "caption": "Ficus amplissima inflorescence : longitudinal section of the syconium enclosing the flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_amplissima_flower2.jpg",
+          "caption": "Ficus amplissima flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_amplissima_flower3.jpg",
+          "caption": "Ficus amplissima inflorescence (longitudinal section of the syconium enclosing the flowers)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_amplissima_flower4.jpg",
+          "caption": "Ficus amplissima inflorescence (longitudinal section of the syconium enclosing the flowers)"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus amplissima grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 4-5 cm long and pubescent petiole . The leaf blade is 8-12 cm long and 5-8 cm wide. The shape of the blade is ovate, the apex is acuminate, the base is rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Ficus amplissima</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>\nThe leaves have a 4-5 cm long and pubescent <b>petiole</b>.<br>\nThe leaf blade is 8-12 cm long and 5-8 cm wide. The shape of the <b>blade</b> is ovate, the <b>apex</b> is acuminate, the <b>base</b> is rounded and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf1.jpg",
+          "caption": "Ficus amplissima twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf2.jpg",
+          "caption": "Ficus amplissima leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf3.jpg",
+          "caption": "Ficus amplissima leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf4.jpg",
+          "caption": "Ficus amplissima leaf and figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf5.jpg",
+          "caption": "Ficus amplissima leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_amplissima_leaf6.jpg",
+          "caption": "Ficus amplissima leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus amplissima is a thornless and large deciduous tree growing up to 20 m. It has a spreading crown and few aerial roots.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Ficus amplissima</em> is a thornless and large <b>deciduous tree</b> growing up to 20 m. It has a spreading crown and few aerial roots.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_amplissima_habit2.jpg",
+          "caption": "Ficus amplissima tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_amplissima_habit1.jpg",
+          "caption": "Ficus amplissima young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Ficus amplissima</em> grows in deciduous and semi-evergreen forests, from coastal plains up to 1200 m.<br>\nThe species tolerates poor soils but it thrives in well-drained, rich soils and sunny places.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          Peninsular India, Sri Lanka and Maldives        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>The syconium of <em>Ficus amplissima</em> is monoecious : each fig contains both female and male flowers.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Ficus amplissima</em> is pollinated by a symbiosis with a kind of fig wasp (family Agaonidae). The syconium supplies shelter and food for fig wasps and in turn the fig wasps pollinate the flowers of the ficus.<br><br>\n\nThe tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. (<em>Wikipedia</em>)<br>\n\nFor further information about the life cycle of the fig wasp :  see a <a href=\"http://www.britannica.com/animal/fig-wasp\" target=\"_blank\">figure of Encyclopaedia Britannica</a>.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Ficus amplissima</em> are dispersed by fruit-eating birds and bats.<br></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Seeding season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The wood of Ficus amplissima has a hard, straight grain with a smooth surface. It is an attractive wood for good quality decorative woodwork. Source : Howard, 1948, A Manual of the Timbers of the World: Their Characteristics and Uses",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Ficus amplissima</em> has a hard, straight grain with a smooth surface. It is an attractive wood for good quality decorative woodwork.<br><br>\n<em>Source : Howard, 1948, A Manual of the Timbers of the World: Their Characteristics and Uses</em>  </p>\n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The pounded bark of Ficus amplissima is used in stomachache\nand gastric disorders. The latex is used to increase lactation in women. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The pounded <b>bark</b> of <em>Ficus amplissima</em> is used in stomachache\nand gastric disorders.<br><br>\n\nThe <b>latex</b> is used to increase lactation in women.<br><br>\n\n<em>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</em>      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Ficus amplissima</em> is a light demander and drought resistant. It will grow in a wide variety of situations and soils but all soils need to be free draining.<br>\nThe species is propagated by seeds or by cuttings.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          No pre-treatment is required (germination can take several month).<br>\nFicus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

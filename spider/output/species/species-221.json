@@ -1,0 +1,199 @@
+{
+  "species_id": 221,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=221",
+  "scraped_at": "2025-11-18T05:00:29.412365Z",
+  "basic_info": {
+    "scientific_name": "Ficus racemosa",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62667ad530e4d_62667ad530e43_Fi.ra_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.ra_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Mar, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5914 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus racemosa",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Moraceae",
+    "english_names": "Cluster fig tree",
+    "indian_names": {
+      "Tamil": [
+        "Vellai Athi"
+      ],
+      "Hindi": [
+        "Gular"
+      ]
+    },
+    "synonyms": [],
+    "etymology": "-\nFicus\n: From the Latin designating the species\n-\nracemosa\n: racemosa: from the Latin\nracemus\n\"bunch of grapes\" designating the fruits",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin designating the species<br>- <i>racemosa</i>: racemosa: from the Latin <i>racemus</i> \"bunch of grapes\" designating the fruits</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus racemosa is white-brown in colour. It is smooth, coarsely flaky and fibrous. The twigs and stems exude a milky latex when broken. The young shoots and twigs have fine white hairs and show numerous growth scars.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus racemosa is white-brown in colour. It is smooth, coarsely flaky and fibrous. <br>The twigs and stems exude a milky latex when broken.<br>The young shoots and twigs have fine white hairs and show numerous growth scars.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667d1bf2dda_Fi.ra_bk1.jpg",
+          "caption": "Ficus racemosa white flaky bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667d1f1e777_Fi.ra_bk2.jpg",
+          "caption": "Ficus racemosa main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667d241f096_Fi.ra_bk3.jpg",
+          "caption": "Ficus racemosa bark texture"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667d2903631_Fi.ra_st1.jpg",
+          "caption": "Ficus racemosa young stem with multiple leaf buds and leaf scars"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667d2e5266d_Fi.ra_st2.jpg",
+          "caption": "Ficus racemosa young stem with pronounced growth scars"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus racemosa are enclosed inside the fig. They are lenticular, less than 1 mm in size.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus racemosa are enclosed inside the fig. <br>They are lenticular, less than 1 mm in size.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62667ccf28f9b_Fi.ra_sd1.jpg",
+          "caption": "Ficus racemosa seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62667cd308863_Fi.ra_sd2.jpg",
+          "caption": "Ficus racemosa seeds washed and dry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62667cd824b04_Fi.ra_sd3.jpg",
+          "caption": "Ficus racemosa seeds attached to the fig"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Ficus racemosa are the figs also known as synconium (or synconia in plural). The shape of each fig is depressed sub-globose or pyriform (shape of a pear). The fruits grow in clusters, directly out of the trunk of the tree, referred as the botanical term cauliflory. The size of each fig is between 1 to 3 cm, green in colour turning red when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Ficus racemosa are the figs also known as synconium (or synconia in plural). <br>The shape of each fig is depressed sub-globose or pyriform (shape of a pear). <br>The fruits grow in clusters, directly out of the trunk of the tree, referred as the botanical term cauliflory. <br>The size of each fig is between 1 to 3 cm, green in colour turning red when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667c8d4c778_Fi.ra_fr1.jpg",
+          "caption": "Ficus racemosa fruits in clusters growing out of the trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667c90b79c0_Fi.ra_fr2.jpg",
+          "caption": "Ficus racemosa cluster of fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667c95a8f17_Fi.ra_fr3.jpg",
+          "caption": "Ficus racemosa figs in different stages of ripening"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667c9985dc8_Fi.ra_fr4.jpg",
+          "caption": "Ficus racemosa ripe fig cut open in length"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus racemosa are enclosed within the inflorescence structure formed by the fig, which is also known as synconia. The fig is actually a compartment carrying hundreds of flowers. The figs, sub-globose to pyriform, are borne in clusters on the trunk and branchlets, attached by a peduncle less than 1 cm long. The flowers are unisexual, of 3 kinds: male, female and gale flower. The flowers are pollinated by very small wasps that crawl through the opening in search of a suitable place to lay eggs.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus racemosa are enclosed within the inflorescence structure formed by the fig, which is also known as synconia. <br>The fig is actually a compartment carrying hundreds of flowers. <br>The figs, sub-globose to pyriform, are borne in clusters on the trunk and branchlets, attached by a peduncle less than 1 cm long. <br>The flowers are unisexual, of 3 kinds: male, female and gale flower. <br>The flowers are pollinated by very small wasps that crawl through the opening in search of a suitable place to lay eggs. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62667bfa1f6a6_Fi.ra_fl1.jpg",
+          "caption": "Ficus racemosa fig cut open showing the male, female and gale flowers hosting the pollinator wasps"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62667bfe011b5_Fi.ra_fl2.jpg",
+          "caption": "Ficus racemosa flowers inside the fig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62667c05721d0_Fi.ra_fl3.jpg",
+          "caption": "Ficus racemosa pollinator wasps"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus racemosa are simple, with an alternate arrangement on twigs. The size of the leaf is large, more than 5 cm. The leaves are very rough. The leaves are lanceolate, and pubescent. The leaves and stems exude a white latex when broken.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus racemosa are simple, with an alternate arrangement on twigs. <br>The size of the leaf is large, more than 5 cm. <br>The leaves are very rough. <br>The leaves are lanceolate, and pubescent. <br>The leaves and stems exude a white latex when broken.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b37cef7d_Fi.ra_lf%201.jpg",
+          "caption": "Ficus racemosa alternate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b47c5bea_Fi.ra_lf2.jpg",
+          "caption": "Ficus racemosa young leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b421c9b4_Fi.ra_lf3.jpg",
+          "caption": "Ficus racemosa young leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b46cfb45_Fi.ra_lf4.jpg",
+          "caption": "Ficus racemosa alternate young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b4d97a3c_Fi.ra_lf5.jpg",
+          "caption": "Ficus racemosa leaf bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b51f001e_Fi.ra_lf6.jpg",
+          "caption": "Ficus racemosa bunch of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Fi.ra_lf7.jpg",
+          "caption": "Ficus racemosa central leaf bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b5c2ad86_Fi.ra_lf8.jpg",
+          "caption": "Ficus racemosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62667b619d198_Fi.ra_lf9.jpg",
+          "caption": "Ficus racemosa leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus racemosa is a fast-growing deciduous tree, medium size up to 10 m in height. It has a crooked trunk and a spreading crown. Opposite to other species of its family, Ficus racemosa does not grow aerial roots.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus racemosa is a fast-growing deciduous tree, medium size up to 10 m in height. <br>It has a crooked trunk and a spreading crown. <br>Opposite to other species of its family, Ficus racemosa does not grow aerial roots.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62667af9bbd6c_Fi.ra_ha1.jpg",
+          "caption": "Ficus racemosa habit of a young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62667afe87274_Fi.ra_ha2.jpg",
+          "caption": "Ficus racemosa habit of a young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6270eec493a7c_Fi.ra_ha3.jpg",
+          "caption": "Ficus racemosa habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

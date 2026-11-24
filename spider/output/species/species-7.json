@@ -1,0 +1,277 @@
+{
+  "species_id": 7,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=7",
+  "scraped_at": "2025-10-08T06:23:53.186571Z",
+  "basic_info": {
+    "scientific_name": "Bauhinia purpurea",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/bauhinia_purpurea.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.pu_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "08 Dec, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99158 N",
+      "longitude": "79.82122 E",
+      "raw": "11.99158 N - 79.82122 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Bauhinia purpurea",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Fabaceae",
+    "english_names": "Butterfly tree, Camel's foot tree , Geranium tree, Hawaiian orchid tree, Hong Kong orchid tree, Orchid tree, Pink butterfly tree, Purple bauhinia , Purple butterfly tree, Purple orchid",
+    "indian_names": {
+      "Bengali": [
+        "Koiral"
+      ],
+      "Hindi": [
+        "Gairal",
+        "Kaliar",
+        "Kandan",
+        "Kaniar",
+        "Koilari",
+        "Sona"
+      ],
+      "Kannada": [
+        "Arelu",
+        "Devakanchan",
+        "Kanchivala",
+        "Sarul",
+        "Ulipe"
+      ],
+      "Malayalam": [
+        "Mandaram",
+        "Suvanamandaram"
+      ],
+      "Marathi": [
+        "Atmatti",
+        "Deva",
+        "Devan kanchana",
+        "Rakta chandran"
+      ],
+      "Sanskrit": [
+        "Kanchan",
+        "Kovidara",
+        "Raktakovidara",
+        "Vanaraja"
+      ],
+      "Tamil": [
+        "Mandare",
+        "Mandarai",
+        "Nilattiruvatti",
+        "Periyavatti"
+      ],
+      "Telugu": [
+        "Bodanta",
+        "Devkanjanamu",
+        "Kaanchanamu",
+        "Kanchanam",
+        "Peddare"
+      ]
+    },
+    "synonyms": [
+      "Bauhinia castrata",
+      "Bauhinia coromandeliana",
+      "Bauhinia platyphylla",
+      "Bauhinia platyphylla",
+      "Bauhinia purpurea",
+      "Bauhinia purpurea var. violacea",
+      "Bauhinia rosea",
+      "Bauhinia triandra",
+      "Bauhinia violacea",
+      "Caspareopsis purpurea",
+      "Phanera purpurea",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nBauhinia\n: Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.\n-\nPurpurea\n: Refers to the purple colour of the flowers.",
+    "etymology_html": "<p>- <i>Bauhinia</i> : Commemorates the Swiss botanists Gaspard Bauhin (1560-1624) and his brother Jean (1541-1613), the twin leaflets of the leaf exemplify the two brothers.<br>- <i>Purpurea</i> : Refers to the purple colour of the flowers.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Bauhinia purpurea is smooth or slightly fissured and scaly. The bark is ash-grey or brown coloured with longitudinal short dark marks. The heart-wood is brown, hard and durable.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Bauhinia purpurea</i> is smooth or slightly fissured and scaly. The bark is ash-grey or brown coloured with longitudinal short dark marks.<br>The <strong>heart-wood</strong> is brown, hard and durable.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_purpurea_stem1.jpg",
+          "caption": "Bauhinia purpurea trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/bauhinia_purpurea_stem2.jpg",
+          "caption": "Bauhinia purpurea bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Bauhinia purpurea are oblong or ovoid and flat, about 12-20 mm in diameter and 1-2 mm thick. Each pod contains 10 to 15 seeds. The seeds develop rapidly and trees in flower may already show numerous green pods.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Bauhinia purpurea</i> are oblong or ovoid and flat, about 12-20 mm in diameter and 1-2 mm thick.<br>Each pod contains 10 to 15 seeds.<br>The seeds develop rapidly and trees in flower may already show numerous green pods.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_purpurea_seed1.jpg",
+          "caption": "Bauhinia purpurea seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/bauhinia_purpurea_seed2.jpg",
+          "caption": "Bauhinia purpurea seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Bauhinia purpruea is a pod . This compressed and oblong pod is 15 to 35 cm long and 1 to 2.5 cm wide. The apex is horned and it is narrow at base. This pod is brownish with a tomentose stalk. The ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Bauhinia purpruea</i> is a <strong>pod</strong>.<br>This compressed and oblong pod is 15 to 35 cm long and 1 to 2.5 cm wide.<br>The apex is horned and it is narrow at base. <br>This pod is brownish with a tomentose stalk.<br>The ripe dry fruits burst and scatter the seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_purpurea_fruit1.jpg",
+          "caption": "Bauhinia purpurea unripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_purpurea_fruit2.jpg",
+          "caption": "Bauhinia purpurea ripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/bauhinia_purpurea_fruit3.jpg",
+          "caption": "Bauhinia purpurea twisted dry pods after bursting"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Bauhinia purpurea are terminal or axillary short and few-flowered racemes . The flowers are 6 to 10 cm across. The calyx is tubular and this tube is turbinate and coriaceous. It is erupted by the corolla along one side when the flower fully expanding. The calyx split into 2 valves, showing a division into 5 teeth (5-7 mm long). The lower tubular portion of the calyx is about 1.5 cm long and on the upper portion (or limb) is 3-3.5 cm long. The corolla is rose to pink and composed of 5 petals. The petals are entire, oblanceolate with a long claw (narrow at the base and apex obtuse). The petals are 4 to 7 cm long and 1 to 1.7 cm wide with a distinct central vein (midrib) and fine straight lateral veins. The fertile stamens are free, usually 3 (occasionally 4), slightly shorter than the petals. The rose-coloured and glabrous filaments are 3.5 to 4.5 cm long and the anthers are oblong and about 7 mm long and 2 mm wide. There are some filiform staminodes about 1 cm long. The ovary is about 1.5 cm, compressed and grooved. The pistil is long (5-6 cm long) and oblique. The pedicel is about 2 cm long. The flowers are fragrant. The buds are oblong or obovoid, with an apex obtuse, 3-4 cm long and 0.5-0.8 cm wide. These buds are strongly 5-ribbed, green coulored with white or light green longitudinal stripes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>inflorescences</strong> of <i>Bauhinia purpurea</i> are terminal or axillary short and few-flowered <strong>racemes</strong>.<br>The flowers are 6 to 10 cm across.<br>The <strong>calyx</strong> is tubular and this tube is turbinate and coriaceous. It is erupted by the corolla along one side when the flower fully expanding. The calyx split into 2 valves, showing a division into 5 teeth (5-7 mm long).<br>The lower tubular portion of the calyx is about 1.5 cm long and on the upper portion (or limb) is 3-3.5 cm long.<br>The <strong>corolla</strong> is rose to pink and composed of 5 petals. The <strong>petals</strong> are entire, oblanceolate with a long claw (narrow at the base and apex obtuse). The petals are 4 to 7 cm long and 1 to 1.7 cm wide with a distinct central vein (midrib) and fine straight lateral veins. The fertile <strong>stamens</strong> are free, usually 3 (occasionally 4), slightly shorter than the petals. The rose-coloured and glabrous filaments are 3.5 to 4.5 cm long and the anthers are oblong and about 7 mm long and 2 mm wide. There are some filiform staminodes about 1 cm long.<br>The <strong>ovary</strong> is about 1.5 cm, compressed and grooved. The <strong>pistil</strong> is long (5-6 cm long) and oblique.<br>The <strong>pedicel</strong> is about 2 cm long.<br>The flowers are fragrant.<br>The <strong>buds</strong> are oblong or obovoid, with an apex obtuse, 3-4 cm long and 0.5-0.8 cm wide. These buds are strongly 5-ribbed, green coulored with white or light green longitudinal stripes.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower1.jpg",
+          "caption": "Bauhinia purpurea flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower2.jpg",
+          "caption": "Bauhinia purpurea flower structure"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower3.jpg",
+          "caption": "Bauhinia purpurea flower and young fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower4.jpg",
+          "caption": "Bauhinia purpurea buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower5.jpg",
+          "caption": "Bauhinia purpurea flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower6.jpg",
+          "caption": "Bauhinia purpurea flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/bauhinia_purpurea_flower7.jpg",
+          "caption": "Bauhinia purpurea buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaf of Bauhinia purpurea is wider than long (the blade is about 5-12 cm long and 6-14 cm wide). The leaf is formed of twin leaflets connate about half way.The leaf is deeply divided into two lobes sometimes overlapping and making the characteristic \"camel foot\" shape. The leaf is 11-13-nerved, thin and coriaceous with obtuse or slightly tapering apex and cordate base . The margin is entire. The upper side of the leaf is dark green coloured and the bottom is light-green. The petiole is 3 to 4 cm long with a triangular, hairy and 2-3 mm long stipule .",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaf</strong> of <i>Bauhinia purpurea</i> is wider than long (the blade is about 5-12 cm long and 6-14 cm wide). The leaf is formed of <strong>twin leaflets</strong> connate about half way.The leaf is deeply divided into two lobes sometimes overlapping and making the characteristic \"camel foot\" shape.<br>The leaf is 11-13-nerved, thin and coriaceous with obtuse or slightly tapering <strong>apex</strong> and cordate <strong>base</strong>. The <strong>margin</strong> is entire. The upper side of the leaf is dark green coloured and the bottom is light-green.<br>The <strong>petiole</strong> is 3 to 4 cm long with a triangular, hairy and 2-3 mm long <strong>stipule</strong>.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf1.jpg",
+          "caption": "Bauhinia purpurea branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf2.jpg",
+          "caption": "Bauhinia purpurea leaf : lower and upper sides"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf3.jpg",
+          "caption": "Bauhinia purpurea leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf4.jpg",
+          "caption": "Bauhinia purpurea leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf5.jpg",
+          "caption": "Bauhinia purpurea leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/bauhinia_purpurea_leaf6.jpg",
+          "caption": "Bauhinia purpurea young leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Bauhinia purpurea is a middle-sized slender deciduous tree . It is a densely branched and foliaceous tree with a rounded crown attaining a height of 10 meters.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Bauhinia purpurea</i> is a middle-sized slender <strong>deciduous tree</strong>. It is a densely branched and foliaceous tree with a rounded crown attaining a height of 10 meters.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_purpurea_habit1.jpg",
+          "caption": "Bauhinia purpurea tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/bauhinia_purpurea_habit2.jpg",
+          "caption": "Bauhinia purpurea tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Bauhinia purpurea grows wild sporadically throughout India, particularly in the hill tracts. The tree is frequently cultivated for its showy flowers. It is a very popular garden tree and it is also planted on the roadsides. Bauhinia purpurea is a fast growing tree which grows in tropical and subtropical climates. It grows on various soils (relatively good soil conditions required) and it is found in different types of vegetation (from evergreen lowland rainforest to mountain forest, savannah or scrub and dry deciduous forest).",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Bauhinia purpurea</i> grows wild sporadically throughout India, particularly in the hill tracts. The tree is frequently cultivated for its showy flowers. It is a very popular garden tree and it is also planted on the roadsides.<br><i>Bauhinia purpurea</i> is a fast growing tree which grows in tropical and subtropical climates. It grows on various soils (relatively good soil conditions required) and it is found in different types of vegetation (from evergreen lowland rainforest to mountain forest, savannah or scrub and dry deciduous forest).</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Bauhinia purpurea is native to south China (which includes Hong Kong) and south Asian countries (Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan, Philippines, Malaysia...) The tree has been introduced to north and central America, Africa and Australia.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Bauhinia purpurea</i> is native to south China (which includes Hong Kong) and south Asian countries (Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan, Philippines, Malaysia...)<br>The tree has been introduced to north and central America, Africa and Australia.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Bauhinia purpurea is pollinated by a wide variety of insects and sunbirds (in India). Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Bauhinia purpurea</i> is pollinated by a wide variety of insects and sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From September to Februry. Throughout the year. While most pods will open in dry weather some may persist through to the next flowering season. Throughout the year. The leaves fall briefly during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From September to Februry.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year. While most pods will open in dry weather some may persist through to the next flowering season.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall briefly during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The beautiful flowers of Bauhinia purpurea are used for decorative purposes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The beautiful <strong>flowers</strong> of <i>Bauhinia purpurea</i> are used for decorative purposes.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The leaves of Bauhinia purpurea are given as fodder to cattle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>leaves</strong> of <i>Bauhinia purpurea</i> are given as fodder to cattle.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The hardwood of Bauhinia purpurea is used for agriculture implements and for buildings. The bark is used for dyeing and tanning and it also yields fibres.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>hardwood</strong> of <i>Bauhinia purpurea</i> is used for agriculture implements and for buildings.<br><br>The <strong>bark</strong> is used for dyeing and tanning and it also yields fibres.</p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The flower buds of Bauhinia purpurea are made into curries and pickles. The flower buds and young pods are tasty when they are cooked as vegetables. The tender leaves are eaten as vegetables and the seeds are eaten raw and roasted. Source : Edible Forest Foods of Tribals in South India, P. Rajyalakshmi",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flower buds </strong>of <i>Bauhinia purpurea</i> are made into curries and pickles.<br><br>The <strong>flower buds and young pods </strong>are tasty when they are cooked as vegetables.<br><br>The <strong>tender leaves </strong>are eaten as vegetables and the <strong>seeds </strong>are eaten raw and roasted.<br><br><i>Source : Edible Forest Foods of Tribals in South India, P. Rajyalakshmi</i></p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The flowers of Bauhinia purpurea are laxative. A paste of the bark mixed with flowers and rice water is used to treat boils and abscesses. (T.N. Mukerji) The flower buds and flowers , fried in purified butter, are given to patients suffering from dysentery and an extract of stems is used internally and externally for fractured bones. (C.P. Khare) The bark of the stem is said to be a remedy for diarrhea (acts as an astringent). A decocoction of this astringent bark is also recommended to wash ulcers. (U.C. Dutt) The bark of the underground root is poisonous even in a small quantity. (Blatter & Millard) - Rasa (taste) : Kashaaya (astringent) - Guna (quality) : Ruksha (dry), Laghu (light) - Veerya (potency) : Sheeta (cooling) - Vipaaka (post-digestive taste) : Katu (pungent) - Karma (action) : By Ruksha (dry), Laghu (light) and Kashaaya (astringent) it is Kaphaghna (reduces Kapha). With Sheeta Veerya (cooling potency) it is Pittashaamaka (pacifies Pitta). Prabhaa (specificity) : Gandamaalaanaashana (reduces lymph node swelling) It is Vranashodhana (clean wounds) and Vranaropana (cure wounds). It is Kushthaghna (useful in skin diseases) and Shothahara (reduce inflammations and swellings). A decoction of the bark or leaves is used for Prakshaalana (cleansing) of Vrana (wounds) and Charmaroga (cutaneous diseases). A paste of the bark or leaves is applied on Gandamaalaa (lymph node swelling in the neck area). - Digestive system : Being Kashaaya (astringent), it is Stambhana (property to stop or block) and Krimighna (vermifugal). It is used in case of Atisaara (diarrhea), Pravaahikaa (dysentery - amoebic dysentery), Gudabhramsha (ano-rectal prolapse), Arsha (piles). Pushpa Gulakanda (flower jam) is given in Vibandha (constipation). - Circulatory system : Being Kashaaya (astringent) and Sheeta (cold), it is Raktastambhana (stops bleeding). It is used in Gandamaalaa (lymph node swelling), Lasikaagranthivriddhi (lymph node enlargement) and Shota (inflammatory swelling), Raktapitta (haemorrhage-bleeding). - Respiratory system : It is Kaasahara (heals cold and cough). - Urinary system : It is Mootrasangrahana (anuretic). It is used in Prameha (diabetes). - Reproductive system : Kashaaya (astringent) property helps in Aartavasraava (miscarriage). Used in Raktapradara (heavy menstrual bleeding). - Skin : It is Kushthaghna (reduces skin diseases). Bark, leaves and flowers - Bark powder : 3-6 gr - Decoction : 40-80 ml - Flower juice : 10-20 ml - On Dosha : Kaphapittaghna (alleviates Kapha and Pitta) - On Dhatu : Rakta, Meda (lymphadenitis), menorrhagia, haemorrhagic disorders - On Mala : Purisha (stool : stops diarrhea and prolapse)",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>flowers</strong> of <i>Bauhinia purpurea</i> are laxative.<br><br>A paste of the <strong>bark mixed with flowers</strong> and rice water is used to treat boils and abscesses. (T.N. Mukerji)<br><br>The <strong>flower buds and flowers</strong>, fried in purified butter, are given to patients suffering from dysentery and an <strong>extract of stems</strong> is used internally and externally for fractured bones. (C.P. Khare)<br><br>The <strong>bark</strong> of the stem is said to be a remedy for diarrhea (acts as an astringent). A decocoction of this astringent bark is also recommended to wash ulcers. (U.C. Dutt)<br><br>The <strong>bark of the underground root is poisonous</strong> even in a small quantity. (Blatter &amp; Millard)</p>      \n    \n\n    \n    \n    <div id=\"ayurveda\"><div id=\"ayurveda_tit\">Dravya Guna - Ayurvedic Pharmacology</div>  \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Pancharasa | <span class=\"ayurveda_tit3_small\">Essence of the plant</span></div><div class=\"cleaner\"></div></div>\n          <p></p><p>- <strong>Rasa</strong> (taste) : Kashaaya (astringent)<br>- <strong>Guna</strong> (quality) : Ruksha (dry), Laghu (light)<br>- <strong>Veerya</strong> (potency) : Sheeta (cooling)<br>- <strong>Vipaaka</strong> (post-digestive taste) : Katu (pungent)<br>- <strong>Karma</strong> (action) : By Ruksha (dry), Laghu (light) and Kashaaya (astringent) it is Kaphaghna (reduces Kapha). With Sheeta Veerya (cooling potency) it is Pittashaamaka (pacifies Pitta). Prabhaa (specificity) : Gandamaalaanaashana (reduces lymph node swelling)</p> \n       \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">External uses</div><div class=\"cleaner\"></div></div>\n          <p></p><p>It is Vranashodhana (clean wounds) and Vranaropana (cure wounds).<br>It is Kushthaghna (useful in skin diseases) and Shothahara (reduce inflammations and swellings).<br>A <strong>decoction</strong> of the bark or leaves is used for Prakshaalana (cleansing) of Vrana (wounds) and Charmaroga (cutaneous diseases).<br>A <strong>paste</strong> of the bark or leaves is applied on Gandamaalaa (lymph node swelling in the neck area).</p> \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Internal uses</div><div class=\"cleaner\"></div></div>\n          <p></p><p>- <strong>Digestive system</strong> : Being Kashaaya (astringent), it is Stambhana (property to stop or block) and Krimighna (vermifugal). It is used in case of Atisaara (diarrhea), Pravaahikaa (dysentery - amoebic dysentery), Gudabhramsha (ano-rectal prolapse), Arsha (piles). Pushpa Gulakanda (flower jam) is given in Vibandha (constipation).<br>- <strong>Circulatory system</strong> : Being Kashaaya (astringent) and Sheeta (cold), it is Raktastambhana (stops bleeding). It is used in Gandamaalaa (lymph node swelling), Lasikaagranthivriddhi (lymph node enlargement) and Shota (inflammatory swelling), Raktapitta (haemorrhage-bleeding).<br>- <strong>Respiratory system</strong> : It is Kaasahara (heals cold and cough).<br>- <strong>Urinary system</strong> : It is Mootrasangrahana (anuretic). It is used in Prameha (diabetes).<br>- <strong>Reproductive system</strong> : Kashaaya (astringent) property helps in Aartavasraava (miscarriage). Used in Raktapradara (heavy menstrual bleeding).<br>- <strong>Skin</strong> : It is Kushthaghna (reduces skin diseases).</p>  \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Useful parts</div><div class=\"cleaner\"></div></div>\n          <p></p><p>Bark, leaves and flowers</p>    \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Dosage</div><div class=\"cleaner\"></div></div>\n          <p></p><p>- Bark powder : 3-6 gr<br>- Decoction : 40-80 ml<br>- Flower juice : 10-20 ml</p>\n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Toxicity</div><div class=\"cleaner\"></div></div>\n          <p></p><p>- On <strong>Dosha</strong> : Kaphapittaghna (alleviates Kapha and Pitta)<br>- On <strong>Dhatu</strong> : Rakta, Meda (lymphadenitis), menorrhagia, haemorrhagic disorders<br>- On <strong>Mala</strong> : Purisha (stool : stops diarrhea and prolapse)</p>  \n      \n            \n      <div id=\"ay_sources_tit\">Sources</div><div id=\"ay_sources\">- Sharma, P. V., 2001, Dravyaguna-Vijana. Chaukhambha Bharati Academy, Varanasi<br>\n- Vaidya V.M. Gogte, 2000, Ayurvedic Pharmacology and Therapeutic Uses of Medicinal Plants (Dravyagunavignyan). Bharatiya Vidya Bhavan</div>    \n\n    </div>\n\n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "This tree demands plenty of light; it should, therefore, be planted in open places away from buildings or from large shady trees. It is best to plant the seeds in good soil, about 20-25 cm apart. When the time for transplanting the seedlings comes, great care must be taken to see that the delicate rootlets are not damaged; the seedlings are rather sensitive to transplanting. ( R.S. Troup, Silviculture of Indian Trees ) Bauhinia purpurea can be sown without seed pretreatment but 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p>This tree demands plenty of light; it should, therefore, be planted in open places away from buildings or from large shady trees. It is best to plant the seeds in good soil, about 20-25 cm apart. When the time for transplanting the seedlings comes, great care must be taken to see that the delicate rootlets are not damaged; the seedlings are rather sensitive to transplanting. <br>(<i>R.S. Troup, Silviculture of Indian Trees</i>)</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p><i>Bauhinia purpurea</i> can be sown without seed pretreatment but 12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

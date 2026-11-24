@@ -1,0 +1,174 @@
+{
+  "species_id": 350,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=350",
+  "scraped_at": "2025-10-03T04:46:22.209836Z",
+  "basic_info": {
+    "scientific_name": "Imperata cylindrica",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/67970bf4484cb_Im.cy_cat.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Im.cy_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "10 Jul, 2024",
+    "collected_by": "M.D, Sk.S",
+    "gps_coordinates": {
+      "latitude": "11°36'39 N",
+      "longitude": "79°44'43 E",
+      "raw": "11°36'39 N- 79°44'43 E"
+    },
+    "locality": "Thiruchopuram and Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Imperata cylindrica",
+    "author": "(L.) Raeuschel, Ernst Adolf (1797)",
+    "family": "Poaceae",
+    "english_names": "Cotton wool grass, Blady grass",
+    "indian_names": {
+      "Tamil": [
+        "Dharbai pullu",
+        "Viswamithram -"
+      ],
+      "Hindi": [
+        "Uloo -"
+      ],
+      "Bengali": [
+        "Ooloo -"
+      ],
+      "Kannada": [
+        "Sannadabbai hullu -"
+      ],
+      "Telugu": [
+        "Balbajamu"
+      ]
+    },
+    "synonyms": [
+      "Calamagrostis lagurus",
+      "Lagurus cylindricus",
+      "Saccharum cylindricum",
+      "Saccharum europaeum",
+      "Arundo epigeios",
+      "Imperata allang",
+      "Imperata angolensis",
+      "Imperata arundinacea",
+      "Imperata cylindrica var. africana",
+      "Imperata cylindrica var. europaea",
+      "Imperata cylindrica subvar. koenigii",
+      "Imperata cylindrica var. koenigii",
+      "Imperata cylindrica subsp. koenigii",
+      "Imperata cylindrica var. latifolia",
+      "Imperata cylindrica var. major",
+      "Imperata cylindrica f. pallida",
+      "Saccharum thunbergii",
+      "Saccharum spicatum",
+      "Saccharum indum"
+    ],
+    "etymology": "-\nImperata\n: After Ferrante Imperato (1550–1625), Italian botanist of Naples, author of Del l’historia naturale.\n-\ncylindrica\n: From the Latin describing the cylindrical shape of the inflorescence.",
+    "etymology_html": "<p>- <i>Imperata</i>: After Ferrante Imperato (1550–1625), Italian botanist of Naples, author of Del l’historia naturale.<br>- <i>cylindrica</i>: From the Latin describing the cylindrical shape of the inflorescence.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The culms of Imperata cylindrica are erect, up to 50 cm long and 1 mm wide. The internodes are glabrous but the nodes are usually pilose and bearded. The culms bases and rhizomes are deeply buried.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Imperata cylindrica are erect, up to 50 cm long and 1 mm wide. <br>The internodes are glabrous but the nodes are usually pilose and bearded. <br>The culms bases and rhizomes are deeply buried.</p>      \n    </div>",
+      "images": []
+    },
+    "seed": {
+      "text": "The fruit of Imperata cylindrica is a subbasal caryopsis. The hilum is elliptic.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruit of Imperata cylindrica is a subbasal caryopsis. <br>The hilum is elliptic.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Im.cy_fr1.jpg",
+          "caption": "Imperata cylindrica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Im.cy_fr2.jpg",
+          "caption": "Imperata cylindrica seeding raceme"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Imperata cylindrica is a subbasal caryopsis. The hilum is elliptic.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Imperata cylindrica is a subbasal caryopsis. <br>The hilum is elliptic.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Im.cy_fr3.jpg",
+          "caption": "Imperata cylindrica seeding racemes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Im.cy_fr4.jpg",
+          "caption": "Imperata cylindrica seeding raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Im.cy_fr5.jpg",
+          "caption": "Imperata cylindrica seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescence of Imperata cylindrica are growing in panicle which are 3 to 24 cm long. The flowers are silver-white in colour. The peduncles are glabrous. The rhachis is glabrous downwards and pilose upwards. The inflorescence branches are pilose. The spikelets are oblong-lanceolate in shape. They are surrounded and covered by long silky white hairs which are up to 1.5 cm long. The glumes are similar, membranous, and silky pubescent. The stigma is purple in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescence of Imperata cylindrica are growing in panicle which are 3 to 24 cm long. <br>The flowers are silver-white in colour. <br>The peduncles are glabrous. <br>The rhachis is glabrous downwards and pilose upwards. <br>The inflorescence branches are pilose. <br>The spikelets are oblong-lanceolate in shape. <br>They are surrounded and covered by long silky white hairs which are up to 1.5 cm long. <br>The glumes are similar, membranous, and silky pubescent. <br>The stigma is purple in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Im.cy_fl1.jpg",
+          "caption": "Imperata cylindrica inflorescence in panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Im.cy_fl2.jpg",
+          "caption": "Imperata cylindrica florets with yellow hanging anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Im.cy_fl3.jpg",
+          "caption": "Imperata cylindrica florets with yellow hanging anthers and pink pistils"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Imperata cylindrica are 6 to 70 cm long and up to 2.5 mm wide. The upper blades are reduced, usually flat, sometimes incurved and often strongly narrowed at the base. They are glabrous to pubescent, especially upwards, becoming fibrous in age. The leaf margins are glabrous to densely ciliate upwards. The ligule is up to 2.2 mm long, glabrous or minutely ciliate with hairs.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Imperata cylindrica are 6 to 70 cm long and up to 2.5 mm wide. <br>The upper blades are reduced, usually flat, sometimes incurved and often strongly narrowed at the base. <br>They are glabrous to pubescent, especially upwards, becoming fibrous in age. <br>The leaf margins are glabrous to densely ciliate upwards. <br>The ligule is up to 2.2 mm long, glabrous or minutely ciliate with hairs. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Im.cy_sd1.jpg",
+          "caption": "Imperata cylindrica leaves and inflorescence"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Imperata cylindrica is a tall perennial grass, growing up to 1.20 m tall. Its flowers grow in long hairy white panicles. It is a coastal species, found in sandy beaches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Imperata cylindrica is a tall perennial grass, growing up to 1.20 m tall. <br>Its flowers grow in long hairy white panicles.<br>It is a coastal species, found in sandy beaches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Im.cy_ha1.jpg",
+          "caption": "Imperata cylindrica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Im.cy_ha2.jpg",
+          "caption": "Imperata cylindrica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Im.cy_ha3.jpg",
+          "caption": "Imperata cylindrica"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Im.cy_ha4.jpg",
+          "caption": "Imperata cylindrica"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

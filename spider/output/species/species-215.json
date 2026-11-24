@@ -1,0 +1,199 @@
+{
+  "species_id": 215,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=215",
+  "scraped_at": "2025-10-03T02:40:48.160385Z",
+  "basic_info": {
+    "scientific_name": "Vachellia nilotica",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/622b24dc8f45f_622b24dc8f44f_Ac.ni_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Va.ni_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Mar, 2022",
+    "collected_by": "A.A.S, R.S",
+    "gps_coordinates": {
+      "raw": "12.4378 N  79.52461 E"
+    },
+    "locality": "Kaliveli Tank, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Vachellia nilotica",
+    "author": "Willdenow, Carl Ludwig von (1806)",
+    "family": "Fabaceae",
+    "english_names": "Gum arabic",
+    "indian_names": {
+      "Tamil": [
+        "Karuvel"
+      ],
+      "Hindi": [
+        "Babool"
+      ]
+    },
+    "synonyms": [
+      "Acacia nilotica",
+      "Gumifera nilotica",
+      "Mimosa nilotica"
+    ],
+    "etymology": "-\nVachellia\n: For George Harvey Vachell (1798–1839), plant collector at the British East India Company\n-\nnilotica\n: From the Latin designating the Nile valley",
+    "etymology_html": "<p>- <i>Vachellia</i>: For George Harvey Vachell (1798–1839), plant collector at the British East India Company<br>- <i>nilotica</i>: From the Latin designating the Nile valley</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Vachellia nilotica is grey-black or dark brown in mature trees. The bark is deeply grooved, with longitudinal fissures. The young branches are smooth, grey to brown in colour. The young branchlets are covered with short hairs. The thorns of Vachellia nilotica are stipular and straight. They are white in colour and around 2 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Vachellia nilotica is grey-black or dark brown in mature trees. <br>The bark is deeply grooved, with longitudinal fissures. <br>The young branches are smooth, grey to brown in colour. <br>The young branchlets are covered with short hairs.<br>The thorns of Vachellia nilotica are stipular and straight. <br>They are white in colour and around 2 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622adc166ba47_Ac.ni_bk1.jpg",
+          "caption": "Vachellia nilotica bark deeply grooved with longitudinal fissures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622adc1abf7c1_Ac.ni_st1.jpg",
+          "caption": "Vachellia nilotica branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622adc24e9420_Ac.ni_st2.jpg",
+          "caption": "Vachellia nilotica stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622adc4a14231_Ac.ni_th1.jpg",
+          "caption": "Vachellia nilotica stem with thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622adc4eebdc4_Ac.ni_th2.jpg",
+          "caption": "Vachellia nilotica stem with thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Vachellia nilotica are flat shaped and black in colour. They are about 12 seeds in a seedpod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Vachellia nilotica are flat shaped and black in colour. <br>They are about 12 seeds in a seedpod.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622b1e4156ee9_Ac.ni_sd1.jpg",
+          "caption": "Vachellia nilotica open seedpod with seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622b1e454b30c_Ac.ni_sd2.jpg",
+          "caption": "Vachellia nilotica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622b1e4939fb8_Ac.ni_sd3.jpg",
+          "caption": "Vachellia nilotica seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Vachellia nilotica is a seedpod attached by a peduncle. One pod is approximately 18 cm long and 1.5 cm wide. The pod is glaucous, white in colour, monoliform (resembling a string of beads) and constricted with a horned apex.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Vachellia nilotica is a seedpod attached by a peduncle. <br>One pod is approximately 18 cm long and 1.5 cm wide. <br>The pod is glaucous, white in colour, monoliform (resembling a string of beads) and constricted with a horned apex.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622adcd53809f_Ac.ni_fr1.jpg",
+          "caption": "Vachellia nilotica stipitate seedpods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622adcd9d48fe_Ac.ni_fr2.jpg",
+          "caption": "Vachellia nilotica seedpods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622adcec66470_Ac.ni_fr3.jpg",
+          "caption": "Vachellia nilotica seedpods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622adce7da1f3_Ac.ni_fr4.jpg",
+          "caption": "Vachellia nilotica stipitate pods resembling strings of beads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622adce879932_Ac.ni_fr5.jpg",
+          "caption": "Vachellia nilotica seedpod cut in half showing seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flower-heads of Vachellia nilotica are globose and about 1 cm wide. They are bright golden-yellow in colour. The flowers are solitary but sometimes grow by 2 or 3 in an axillary cluster. One flower-head comprises of around 50 tiny flowers. One single flower is about 1 mm in size. There are 60-70 stamens in one flower.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flower-heads of Vachellia nilotica are globose and about 1 cm wide. <br>They are bright golden-yellow in colour. <br>The flowers are solitary but sometimes grow by 2 or 3 in an axillary cluster. <br>One flower-head comprises of around 50 tiny flowers. <br>One single flower is about 1 mm in size. <br>There are 60-70 stamens in one flower.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/633d1d8db6041_Ac.ni_fl1.jpg",
+          "caption": "Vachellia nilotica yellow globose flower-heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/633d1d929f638_Ac.ni_fl2.jpg",
+          "caption": "Vachellia nilotica flower-heads not yet open"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/633d1d989ea40_Ac.ni_fl3.jpg",
+          "caption": "Vachellia nilotica yellow globose flower-head"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/633d1d9ba6bfe_Ac.ni_fl4.jpg",
+          "caption": "Vachellia nilotica flower buds (left) to mature flower-head (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/633d1da21e64a_Ac.ni_fl5.jpg",
+          "caption": "Vachellia nilotica flower-heads in axillary cluster"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Vachellia nilotica are compound, with alternate arrangement. The leaf size is about 5 cm long. The leaf type is pinnate with 5 to 20 pairs of leaflets that are bright green in colour. The leaves are elliptic and glabrous. The base of the leaf base is oblique and obtuse, the margin is entire and the leaf apex is rotund. The petiole is up to 1 cm long, with a gland near the pinnae.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Vachellia nilotica are compound, with alternate arrangement. <br>The leaf size is about 5 cm long.<br>The leaf type is pinnate with 5 to 20 pairs of leaflets that are bright green in colour. <br>The leaves are elliptic and glabrous. <br>The base of the leaf base is oblique and obtuse, the margin is entire and the leaf apex is rotund. The petiole is up to 1 cm long, with a gland near the pinnae. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adb3e01b72_Ac.ni_lf1.jpg",
+          "caption": "Vachellia nilotica leaves growing alternately on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adb3f42973_Ac.ni_lf2.jpg",
+          "caption": "Vachellia nilotica leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adb47efcfc_Ac.ni_lf3.jpg",
+          "caption": "Vachellia nilotica feather-like pairs of pinnae leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adb4bae34d_Ac.ni_lf4.jpg",
+          "caption": "Vachellia nilotica leaves (folding after being cut) with thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adbb56fac2_Ac.ni_lf5.jpg",
+          "caption": "Vachellia nilotica compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622adbb95b1ac_Ac.ni_lf6.jpg",
+          "caption": "Vachellia nilotica compound leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Vachellia nilotica is a deciduous armed tree with a spreading crown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Vachellia nilotica is a deciduous armed tree with a spreading crown.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/622adb2ec968f_Ac.ni_ha1.jpg",
+          "caption": "Vachellia nilotica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/622adb2ee3ec7_Ac.ni_ha2.jpg",
+          "caption": "Vachellia nilotica spreading crown"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

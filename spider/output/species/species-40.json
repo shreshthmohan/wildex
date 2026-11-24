@@ -1,0 +1,253 @@
+{
+  "species_id": 40,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=40",
+  "scraped_at": "2025-10-02T18:31:50.572474Z",
+  "basic_info": {
+    "scientific_name": "Canthium coromandelicum",
+    "authority": "(Burm.f.) Alston",
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/canthium_coromandelicum.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.cm_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "09 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99391 N",
+      "longitude": "79.82403 E",
+      "raw": "11.99391 N - 79.82403 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Canthium coromandelicum",
+    "author": "Alston, Arthur Hugh Garfit (1931)",
+    "family": "Rubiaceae",
+    "english_names": "Carray cheddie, Coromandel canthium",
+    "indian_names": {
+      "Hindi": [
+        "Kadbar",
+        "kirma"
+      ],
+      "Kannada": [
+        "Kakegida"
+      ],
+      "Malayalam": [
+        "Kantankara"
+      ],
+      "Marathi": [
+        "Kirma"
+      ],
+      "Sanskrit": [
+        "Gangeruki"
+      ],
+      "Tamil": [
+        "Karaicceti",
+        "mullukkaarai"
+      ],
+      "Telugu": [
+        "Balusu"
+      ]
+    },
+    "synonyms": [
+      "Canthium parviflorum",
+      "Gmelina coromandelina",
+      "Paederia valli-kara",
+      "Plectronia parviflora",
+      "Webera tetrandra",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nCanthium\n: From the Malayalam vernacular name used in Kerala,\nkantankara\nmeaning \"shining spiny bush\".\n-\nCoromandelicum\n: From the Coromandel Coast of southeastern India.",
+    "etymology_html": "<p>-<i>Canthium</i> : From the Malayalam vernacular name used in Kerala, <i>kantankara</i> meaning \"shining spiny bush\".<br>-<i>Coromandelicum</i> : From the Coromandel Coast of southeastern India.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Canthium coromandelicum is greyish, rough, longitudinally fissured and transversally cracked. The shrub is armed with opposite, horizontal and straight thorns at the upper axils of the leaves. The spines are stout, sharp and about 3-4 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Canthium coromandelicum</i> is greyish, rough, longitudinally fissured and transversally cracked.<br>The shrub is armed with opposite, horizontal and straight <strong>thorns</strong> at the upper axils of the leaves. The spines are stout, sharp and about 3-4 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canthium_coromandelicum_stem1.jpg",
+          "caption": "Canthium coromandelicum trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canthium_coromandelicum_stem2.jpg",
+          "caption": "Canthium coromandelicum bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canthium_coromandelicum_stem3.jpg",
+          "caption": "Canthium coromandelicum thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Canthium coromandelicum are reniform, very hard, 8 mm long and 4 mm wide. There are 2 seeds per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Canthium coromandelicum</i> are reniform, very hard, 8 mm long and 4 mm wide. There are 2 seeds per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/canthium_coromandelicum_seed1.jpg",
+          "caption": "Canthium coromandelicum seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/canthium_coromandelicum_seed2.jpg",
+          "caption": "Canthium coromandelicum seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Canthium coromandelicum is a drupe . The fruit is subglobose (slightly compressed with a median longitudinal groove), 1 cm in diameter with a 1 cm long pedicel. It is green turning yellow-brown when ripe. It usually contains 2 hard stones.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Canthium coromandelicum</i> is a <strong>drupe</strong>. The fruit is subglobose (slightly compressed with a median longitudinal groove), 1 cm in diameter with a 1 cm long pedicel. It is green turning yellow-brown when ripe. It usually contains 2 hard stones.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit1.jpg",
+          "caption": "Canthium coromandelicum fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit2.jpg",
+          "caption": "Canthium coromandelicum unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit3.jpg",
+          "caption": "Canthium coromandelicum fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit4.jpg",
+          "caption": "Canthium coromandelicum fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit5.jpg",
+          "caption": "Canthium coromandelicum fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canthium_coromandelicum_fruit6.jpg",
+          "caption": "Canthium coromandelicum unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Canthium coromandelicum are grouped in lax cymes . The pedicels of the flowers are about 1 cm long. The calyx is cup-shaped with 4 small teeth. The calyx is greenish-coloured, glabrous and 2 mm long. The corolla is composed of 4 yellow-greenish petals. The corolla-lobes are obovate, acute and recurved, 2-2.5 mm long and 1.5 mm wide. The throat of the flower is densely hairy. The androecium is composed of 4 stamens. The pistil is composed of a 2.5 mm long style and a capitate stigma . The buds are glabrous and greenish-coloured. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Canthium coromandelicum</i> are grouped in lax <strong>cymes</strong>.<br>The <strong>pedicels</strong> of the flowers are about 1 cm long. The <strong>calyx</strong> is cup-shaped with 4 small teeth. The calyx is greenish-coloured, glabrous and 2 mm long.<br>The <strong>corolla</strong> is composed of 4 yellow-greenish petals. The corolla-lobes are obovate, acute and recurved, 2-2.5 mm long and 1.5 mm wide. The throat of the flower is densely hairy.<br>The <strong>androecium</strong> is composed of 4 stamens. The <strong>pistil</strong> is composed of a 2.5 mm long style and a capitate <strong>stigma</strong>. The <strong>buds</strong> are glabrous and greenish-coloured.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower1.jpg",
+          "caption": "Canthium coromandelicum inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower2.jpg",
+          "caption": "Canthium coromandelicum cymes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower3.jpg",
+          "caption": "Canthium coromandelicum inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower4.jpg",
+          "caption": "Canthium coromandelicum flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower5.jpg",
+          "caption": "Canthium coromandelicum flower development : from bud (left) to pollinated flower (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower6.jpg",
+          "caption": "Canthium coromandelicum inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower7.jpg",
+          "caption": "Canthium coromandelicum flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower8.jpg",
+          "caption": "Canthium coromandelicum flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canthium_coromandelicum_flower9.jpg",
+          "caption": "Canthium coromandelicum flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Canthium coromandelicum grow opposite on the stem. The leaf is simple. It is smooth and glabrous on both sides. The leaves have a 3-5 mm long petiole with a pair of linear stipules at the axil. The leaf of Canthium coromandelicum is 3-5 cm long and 2-3 cm wide. The blade is ovate-elliptic, the apex is obtuse, the base is obtuse-oblique and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Canthium coromandelicum</i> grow opposite on the stem.<br>The leaf is simple. It is smooth and glabrous on both sides.<br>The leaves have a 3-5 mm long <strong>petiole</strong> with a pair of linear stipules at the axil.<br>The leaf of <i>Canthium coromandelicum</i> is 3-5 cm long and 2-3 cm wide. The blade is ovate-elliptic, the <strong>apex</strong> is obtuse, the <strong>base</strong> is obtuse-oblique and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf1.jpg",
+          "caption": "Canthium coromandelicum branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf2.jpg",
+          "caption": "Canthium coromandelicum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf3.jpg",
+          "caption": "Canthium coromandelicum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf4.jpg",
+          "caption": "Canthium coromandelicum leaves and thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf5.jpg",
+          "caption": "Canthium coromandelicum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf6.jpg",
+          "caption": "Canthium coromandelicum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf7.jpg",
+          "caption": "Canthium coromandelicum leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canthium_coromandelicum_leaf8.jpg",
+          "caption": "Canthium coromandelicum branchlet"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Canthium coromandelicum is a deciduous shrub . It is armed with opposite thorns. It has spreading branches and it can grow up to 5 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Canthium coromandelicum</i> is a <strong>deciduous shrub</strong>. It is armed with opposite thorns. It has spreading branches and it can grow up to 5 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/canthium_coromandelicum_habit3.jpg",
+          "caption": "Canthium coromandelicum shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/canthium_coromandelicum_habit1.jpg",
+          "caption": "Canthium coromandelicum shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/canthium_coromandelicum_habit2.jpg",
+          "caption": "Canthium coromandelicum branch"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "phenology": {
+      "text": "From April o August. From July to March. From July to March. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From April o August.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From July to March.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From July to March.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Canthium coromandelicum is bisexual (each flower of each individual has both male and female structures). Canthium coromandelicum is pollinated by a wide variety of insects. The seeds of Canthium coromandelicum are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Canthium coromandelicum</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Canthium coromandelicum</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Canthium coromandelicum</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "culinary": {
+      "text": "The fruits of Canthium coromandelicum are edible. The leaves are used as vegetable. Source : Rajyalakshmi, 2002, Edible Forest Foods of Tribals in South India",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruits</strong> of <i>Canthium coromandelicum</i> are edible.<br><br>The <strong>leaves</strong> are used as vegetable.<br><br><i>Source : Rajyalakshmi, 2002, Edible Forest Foods of Tribals in South India</i></p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Canthium coromandelicum is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun. Canthium coromandelicum is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Canthium coromandelicum</i> is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun.<br><i>Canthium coromandelicum</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

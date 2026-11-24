@@ -1,0 +1,315 @@
+{
+  "species_id": 101,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=101",
+  "scraped_at": "2025-10-07T07:47:45.694076Z",
+  "basic_info": {
+    "scientific_name": "Allophylus serratus",
+    "authority": "(L.) Raeusch.",
+    "family": "Sapindaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/allophylus_cobbe.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.se_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Nov, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99426 N",
+      "longitude": "79.82426 E",
+      "raw": "11.99426 N - 79.82426 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Allophylus serratus",
+    "author": "Raeuschel, Ernst Adolf (1797)",
+    "family": "Sapindaceae",
+    "english_names": null,
+    "indian_names": {
+      "Hindi": [
+        "Theepani"
+      ],
+      "Kannada": [
+        "Murele bemde"
+      ],
+      "Malayalam": [
+        "Mukkannanpezhu"
+      ],
+      "Marathi": [
+        "Tipin"
+      ],
+      "Sanskrit": [
+        "Triputa"
+      ],
+      "Tamil": [
+        "Siruvalli"
+      ],
+      "Telugu": [
+        "Salli kunkudu"
+      ]
+    },
+    "synonyms": [
+      "Allophylus cobbe f. racemosus",
+      "Allophylus serrulatus",
+      "Allophylus zimmermannianus",
+      "Aphania neoebudica",
+      "Aporetica gemella",
+      "Aporetica pinnata",
+      "Cnesmocarpus excelsus",
+      "Diplocardia excelsa",
+      "Dubanus pinnatus",
+      "Euphoria pometia",
+      "Irina tomentosa",
+      "Ornitrophe aporetica",
+      "Ornitrophe asiatica",
+      "Ornitrophe borbonica",
+      "Ornitrophe cobbe",
+      "Ornitrophe glabra",
+      "Ornitrophe malabarica",
+      "Ornitrophe mauritiana",
+      "Ornitrophe schmidelia",
+      "Ornitrophe serrata",
+      "Ornitrophe villosa",
+      "Picrodendron arboreum",
+      "Pometia pinnata",
+      "Pometia pinnata f. tomentosa",
+      "Pometia ternata",
+      "Pometia ternata",
+      "Pometia tomentosa",
+      "Rhus cobbe",
+      "Schmidelia adenophylla",
+      "Schmidelia aporetica",
+      "Schmidelia cobbe",
+      "Schmidelia cochinchinensis",
+      "Schmidelia dentata",
+      "Schmidelia distachya",
+      "Schmidelia glabra",
+      "Schmidelia grossedentata",
+      "Schmidelia integrifolia",
+      "Schmidelia kobbe",
+      "Schmidelia macrophylla",
+      "Schmidelia obovata",
+      "Schmidelia orientalis",
+      "Schmidelia ornitrophioides",
+      "Schmidelia parviflora",
+      "Schmidelia racemosa",
+      "Schmidelia rheedei",
+      "Schmidelia rhomboidalis",
+      "Schmidelia serrata",
+      "Schmidelia spicata",
+      "Schmidelia ternata",
+      "Schmidelia vestita",
+      "Schmidelia villosa",
+      "Toxicodendrum cobbe",
+      "Usubis triphylla",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAllophylus\n: From the Greek\nallos\n\"different\" and\nphyllon\n\"a leaf\", different leaves.\n-\nserratus\n: From the Latin means shaped like a saw, from serra (saw), referring to the leaf margin.",
+    "etymology_html": "<p>-<i>Allophylus</i> : From the Greek <i>allos</i> \"different\" and <i>phyllon</i> \"a leaf\", different leaves.<br>-<i>serratus</i> : From the Latin means shaped like a saw, from serra (saw), referring to the leaf margin.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Allophylus serratus is light-brown-coloured and longitudinally fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Allophylus serratus</i> is light-brown-coloured and longitudinally fissured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/allophylus_cobbe_stem1.jpg",
+          "caption": "Allophylus serratus trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/allophylus_cobbe_stem2.jpg",
+          "caption": "Allophylus serratus bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/allophylus_cobbe_stem3.jpg",
+          "caption": "Allophylus serratus young stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Allophylus serratus are inclosed into an ovoid stone. The stone is 5 mm long and 4 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Allophylus serratus</i> are inclosed into an ovoid stone. The stone is 5 mm long and 4 mm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/allophylus_cobbe_seed1.jpg",
+          "caption": "Allophylus serratus stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/allophylus_cobbe_seed2.jpg",
+          "caption": "Allophylus serratus stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Allophylus serratus is a globose drupe . The fruit is globose, 0.5-0.8 cm across, green turning yellowish and red-coloured when ripe. It contains one stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Allophylus serratus</i> is a globose <strong>drupe</strong>. The fruit is globose, 0.5-0.8 cm across, green turning yellowish and red-coloured when ripe. It contains one stone.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/allophylus_cobbe_fruit1.jpg",
+          "caption": "Allophylus serratus fruits : ripe (left side) and unripe (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/allophylus_cobbe_fruit2.jpg",
+          "caption": "Allophylus serratus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/allophylus_cobbe_fruit3.jpg",
+          "caption": "Allophylus serratus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/allophylus_cobbe_fruit4.jpg",
+          "caption": "Allophylus serratus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/allophylus_cobbe_fruit5.jpg",
+          "caption": "Allophylus serratus unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Allophylus serratus are grouped in axillary racemes (at the upper axils of the leaves). The peduncle is 1-1.5 cm long. The male and hermaphrodite flowers are separated on the same inflorescence. The calyx-lobes are 4, elliptic and imbricate, about 1 mm long and 1 mm wide. The calyx is light green and glabrous. The corolla is composed of 4 pale yellow-coloured and glabrous petals. The petals are obovate or elliptic, 1.5 mm long and 1 mm wide. The male flowers have 8 stamens . The bisexual flowers have a 2-lobed ovary and one style with a bifid stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Allophylus serratus</i> are grouped in axillary racemes (at the upper axils of the leaves). The <strong>peduncle</strong> is 1-1.5 cm long.<br>The male and hermaphrodite flowers are separated on the same inflorescence.<br>The <strong>calyx-lobes</strong> are 4, elliptic and imbricate, about 1 mm long and 1 mm wide. The calyx is light green and glabrous.<br>The <strong>corolla</strong> is composed of 4 pale yellow-coloured and glabrous petals. The petals are obovate or elliptic, 1.5 mm long and 1 mm wide.<br>The <strong>male flowers</strong> have 8 <strong>stamens</strong>.<br>The <strong>bisexual flowers</strong> have a 2-lobed <strong>ovary</strong> and one <strong>style</strong> with a bifid <strong>stigma</strong>.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower1.jpg",
+          "caption": "Allophylus serratus blooming twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower2.jpg",
+          "caption": "Allophylus serratus inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower3.jpg",
+          "caption": "Allophylus serratus raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower4.jpg",
+          "caption": "Allophylus serratus inflorescence in bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower5.jpg",
+          "caption": "Allophylus serratus in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower6.jpg",
+          "caption": "Allophylus serratus inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower7.jpg",
+          "caption": "Allophylus serratus flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower8.jpg",
+          "caption": "Allophylus serratus flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/allophylus_cobbe_flower9.jpg",
+          "caption": "Allophylus serratus flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Allophylus serratus grow alternately on the stem (spirally arranged). The leaf is compound, trifoliate with a 4-7 cm long petiole . The leaflets are dark green-coloured above and paler beneath. The leaflets are chartaceous and pubescent on both sides. The lateral leaflets have a very short petiolule and the terminal leaflet has a 1 cm long petiolule . The lateral leaflets of Allophylus serratus are 5-8 cm long and 3-4 cm wide, ovate-lanceolate with an acuminate apex and an oblique and rounded base . The terminal leaflet of Allophylus serratus are 7-12 cm long and 3.5-4.5 cm wide, elliptic with an acuminate apex and an attenuated base . The margins of the leaflets are serrate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Allophylus serratus</i> grow alternately on the stem (spirally arranged).<br>The <strong>leaf</strong> is compound, trifoliate with a 4-7 cm long <strong>petiole</strong>.<br>The <strong>leaflets</strong> are dark green-coloured above and paler beneath. The leaflets are chartaceous and pubescent on both sides.<br>The lateral leaflets have a very short <strong>petiolule</strong> and the terminal leaflet has a 1 cm long <strong>petiolule</strong>.<br>The <strong>lateral leaflets</strong> of <i>Allophylus serratus</i> are 5-8 cm long and 3-4 cm wide, ovate-lanceolate with an acuminate <strong>apex</strong> and an oblique and rounded <strong>base</strong>.<br>The <strong>terminal leaflet</strong> of <i>Allophylus serratus</i> are 7-12 cm long and 3.5-4.5 cm wide, elliptic with an acuminate <strong>apex</strong> and an attenuated <strong>base</strong>.<br>The <strong>margins</strong> of the leaflets are serrate.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf1.jpg",
+          "caption": "Allophylus serratus branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf2.jpg",
+          "caption": "Allophylus serratus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf3.jpg",
+          "caption": "Allophylus serratus leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf4.jpg",
+          "caption": "Allophylus serratus leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf5.jpg",
+          "caption": "Allophylus serratus leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf6.jpg",
+          "caption": "Allophylus serratus foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf7.jpg",
+          "caption": "Allophylus serratus leaf (upper sise)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/allophylus_cobbe_leaf8.jpg",
+          "caption": "Allophylus serratus leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Allophylus serratus is a thornless and deciduous shrub growing up to 6-8 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Allophylus serratus</i> is a thornless and <strong>deciduous shrub</strong> growing up to 6-8 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/allophylus_cobbe_habit1.jpg",
+          "caption": "Allophylus serratus shrubs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/allophylus_cobbe_habit2.jpg",
+          "caption": "Allophylus serratus shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/allophylus_cobbe_habit3.jpg",
+          "caption": "Allophylus serratus shrub"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Allophylus cobbe is found in scrub jungles from the coastal plains up to 1500 m high of elevation.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Allophylus cobbe</i> is found in scrub jungles from the coastal plains up to 1500 m high of elevation.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Throughout the tropics in South America, Africa and through Asia to Australia and the Pacific.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Throughout the tropics in South America, Africa and through Asia to Australia and the Pacific.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Allophylus cobbe is andromonoecious : it has both bisexual and male flowers on the same plant. Allophylus cobbe is pollinated by a wide variety of insects. The seeds of Allophylus cobbe are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Allophylus cobbe</i> is andromonoecious : it has both bisexual and male flowers on the same plant.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Allophylus cobbe</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Allophylus cobbe</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From September to January. From December to March. From December to March. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From September to January.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The wood of Allophylus cobbe is hard but not very durable. It used as a timber for temporary structures and indoors. Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The wood of <i>Allophylus cobbe</i> is hard but not very durable. It used as a <strong>timber</strong> for temporary structures and indoors.<br><br><i>Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The raw fruit of Allophylus cobbe is edible, its taste is sour. Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The raw <strong>fruit</strong> of <i>Allophylus cobbe</i> is edible, its taste is sour.<br><br><i>Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info</i></p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The leaf extract of Allophylus cobbe is taken against stomachache. The leaf paste is applied on scabies. The root powder mixed with honey is astringent and it is taken for diarrhea. The fruits are sweet, cooling and tonic. The whole plant is used on bone fractures, dislocations, inflammations, wounds and ulcers. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>leaf extract</strong> of <i>Allophylus cobbe</i> is taken against stomachache.<br>The <strong>leaf paste</strong> is applied on scabies.<br><br>The <strong>root powder mixed with honey</strong> is astringent and it is taken for diarrhea.<br><br>The <strong>fruits</strong> are sweet, cooling and tonic.<br><br>The <strong>whole plant</strong> is used on bone fractures, dislocations, inflammations, wounds and ulcers.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants </i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Allophylus cobbe is able to flourish in a wide range of soils but all soils need to be free draining. The species prefers full sun but can withstand moderate shade. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Allophylus cobbe</i> is able to flourish in a wide range of soils but all soils need to be free draining. <br>The species prefers full sun but can withstand moderate shade.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

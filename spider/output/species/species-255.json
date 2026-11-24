@@ -1,0 +1,112 @@
+{
+  "species_id": 255,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=255",
+  "scraped_at": "2025-11-17T18:28:11.536470Z",
+  "basic_info": {
+    "scientific_name": "Ficus albipila",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/65f966c76a694_Fi_al_cat.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.al_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Jan, 1970",
+    "collected_by": null,
+    "gps_coordinates": null,
+    "locality": null
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus albipila",
+    "author": "King, George (1888)",
+    "family": "Moraceae",
+    "english_names": "Abbey Tree",
+    "indian_names": null,
+    "synonyms": [
+      "Covellia albipila",
+      "Ficus albipila var. glabra",
+      "Ficus colossea",
+      "Ficus mallotoides",
+      "Ficus microtricherinos",
+      "Morus leucophylla"
+    ],
+    "etymology": "-\nFicus\n: From the Latin\nficus\ndesignating this species\n-\nalbipila\n: From the Latin\nalbi\n\"white\" and\npila\n\"hairs\" referring to the small white hairs that grow on the fig",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin <i>ficus</i> designating this species<br>- <i>albipila</i>: From the Latin <i>albi</i> \"white\" and <i>pila</i> \"hairs\" referring to the small white hairs that grow on the fig</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus albipila is white-grey in colour and smooth. The bark flakes are transparent, the green layer being visible through the flakes. The tree exudes a watery milky latex, highly irritant to the skin.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus albipila is white-grey in colour and smooth. <br>The bark flakes are transparent, the green layer being visible through the flakes. <br>The tree exudes a watery milky latex, highly irritant to the skin. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Fi.al_bk1.jpg",
+          "caption": "Ficus albipila grey smooth bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus albipila are enclosed inside the fig. It is an achene: a small, dry one-seeded fruit that does not open to release the seed. The seeds are tiny, about 2-3 mm in size, obovoid in shape. They are brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus albipila are enclosed inside the fig. <br>It is an achene: a small, dry one-seeded fruit that does not open to release the seed. <br>The seeds are tiny, about 2-3 mm in size, obovoid in shape. <br>They are brown in colour.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Ficus albipila are the figs also known as synconium (or synconia in plural). The figs are pubescent on the outer surface. The figs do not grow from the trunk but hang on short thick stalks in the leaf axils towards the end of the branches. The figs of Ficus albipila are pedunculate, pyriform in shape and about 1 cm across. The ostiole orifice is closed by interlocking apical and reflexed internal bracts. The fruits are green and turn yellow to bright red when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Ficus albipila are the figs also known as synconium (or synconia in plural). <br>The figs are pubescent on the outer surface.  <br>The figs do not grow from the trunk but hang on short thick stalks in the leaf axils towards the end of the branches. <br>The figs of Ficus albipila are pedunculate, pyriform in shape and about 1 cm across. <br>The ostiole orifice is closed by interlocking apical and reflexed internal bracts. <br>The fruits are green and turn yellow to bright red when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Fi.al_fr1.jpg",
+          "caption": "Ficus albipila green unripe figs"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus albipila are found in the fig itself which is a modified inflorescence with tiny flowers contained inside the fig. The species is monoecious, which means that male, gall and female flowers are found within the same fig. The male flowers are found mainly around the ostiole, but dispersed among the female flowers as well. The flowers inside the fig are interspersed with numerous conspicuous bristles. There are 2 bracts at the base of the fig.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus albipila are found in the fig itself which is a modified inflorescence with tiny flowers contained inside the fig. <br>The species is monoecious, which means that male, gall and female flowers are found within the same fig. <br>The male flowers are found mainly around the ostiole, but dispersed among the female flowers as well. <br>The flowers inside the fig are interspersed with numerous conspicuous bristles. <br>There are 2 bracts at the base of the fig. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Fi.al_fl1.jpg",
+          "caption": "Ficus albipila unripe figs at leaf base (the flowers are contained inside the fruit)"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus albipila are simple. They are growing in an alternate arrangement. The size of the leaves is about 15 cm by 10 cm. The petiole is 2 to 4 cm long. The stipules are about 1.5 cm long and densely clothed in fine white prostrate hairs. The leaves are cordate to broadly obovate. The margin is entire, the apex is acuteovate and the base truncate or cordate. The leaves show shiny or waxy surface on the upper side and dense white hairs on the lower side. The young leaves are brown-copper in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus albipila are simple. <br>They are growing in an alternate arrangement. <br>The size of the leaves is about 15 cm by 10 cm. <br>The petiole is 2 to 4 cm long. The stipules are about 1.5 cm long and densely clothed in fine white prostrate hairs. <br>The leaves are cordate to broadly obovate. <br>The margin is entire, the apex is acuteovate and the base truncate or cordate.  <br>The leaves show shiny or waxy surface on the upper side and dense white hairs on the lower side.<br>The young leaves are brown-copper in colour.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Fi.al_lf1.jpg",
+          "caption": "Ficus albipila leaf on stem (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Fi.al_lf2.jpg",
+          "caption": "Ficus albipila young leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus albipila is a medium sized deciduous tree growing up to 10 m in height. The mature trees develop tall straight white trunk and large buttresses. The tree exudes a highly irritant latex from twigs and leaves.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus albipila is a medium sized deciduous tree growing up to 10 m in height. <br>The mature trees develop tall straight white trunk and large buttresses. <br>The tree exudes a highly irritant latex from twigs and leaves.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Fi.al_ha1b.jpg",
+          "caption": "Ficus albipila habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

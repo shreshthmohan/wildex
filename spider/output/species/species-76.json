@@ -1,0 +1,224 @@
+{
+  "species_id": 76,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=76",
+  "scraped_at": "2025-10-29T12:05:16.354087Z",
+  "basic_info": {
+    "scientific_name": "Mitragyna parvifolia",
+    "authority": "(Roxb.) Korth.",
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/mitragyna_parvifolia.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Mi.pa_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99587 N",
+      "longitude": "79.82204 E",
+      "raw": "11.99587 N - 79.82204 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Mitragyna parvifolia",
+    "author": "Korthals, Pieter Willem (1839)",
+    "family": "Rubiaceae",
+    "english_names": "Forest kadamba",
+    "indian_names": {
+      "Hindi": [
+        "Kaim",
+        "kayim"
+      ],
+      "Kannada": [
+        "Kongu",
+        "kadaga"
+      ],
+      "Malayalam": [
+        "Vimpu"
+      ],
+      "Marathi": [
+        "Kalam"
+      ],
+      "Sanskrit": [
+        "Vitanah"
+      ],
+      "Tamil": [
+        "Neerkkadambai"
+      ],
+      "Telugu": [
+        "Nerkadamba"
+      ]
+    },
+    "synonyms": [
+      "Mitragyna parvifolia",
+      "Nauclea parvifolia",
+      "Nauclea parvifolia",
+      "Nauclea parvifolia var. diversifolia",
+      "Stephegyne parvifolia",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nMitragyna\n: From the Greek\nmitra\n\"a turban, bishop's head-dress\" and\ngyne\n\"a woman, female organ\", referring to the stigma and to the cap-shaped ovary.\n-\nParvifolia\n: From the Latin\nparus, parvi-\n\"small\" and\nflorus -a -um\n\"flower\", small-flowered.",
+    "etymology_html": "<p>-<i>Mitragyna</i> : From the Greek <i>mitra</i> \"a turban, bishop's head-dress\" and <i>gyne</i> \"a woman, female organ\", referring to the stigma and to the cap-shaped ovary.<br>-<i>Parvifolia</i> : From the Latin <i>parus, parvi-</i> \"small\" and <i>florus -a -um</i> \"flower\", small-flowered.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Mitragyna parvifolia is pale grey-coloured, smooth with circular and shallow pits where old bark has flaked off.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Mitragyna parvifolia</i> is pale grey-coloured, smooth with circular and shallow pits where old bark has flaked off.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/mitragyna_parvifolia_stem1.jpg",
+          "caption": "Mitragyna parvifolia trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/mitragyna_parvifolia_stem2.jpg",
+          "caption": "Mitragyna parvifolia bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Mitragyna parvifolia are flat, spherical and less than 1 mm in diameter.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Mitragyna parvifolia</i> are flat, spherical and less than 1 mm in diameter.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/mitragyna_parvifolia_seed1.jpg",
+          "caption": "Mitragyna parvifolia seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Mitragyna parvifolia is a capsule. All the capsules are aggregated into a globular and dense head/infructescence (1 cm in diameter). The capsules are 1.5-2 mm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Mitragyna parvifolia</i> is a capsule. All the capsules are aggregated into a globular and dense head/infructescence (1 cm in diameter). The capsules are 1.5-2 mm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit1.jpg",
+          "caption": "Mitragyna parvifolia infructescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit2.jpg",
+          "caption": "Mitragyna parvifolia infructescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit3.jpg",
+          "caption": "Mitragyna parvifolia infructescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit4.jpg",
+          "caption": "Mitragyna parvifolia infructescence section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit5.jpg",
+          "caption": "Mitragyna parvifolia infructescence section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/mitragyna_parvifolia_fruit6.jpg",
+          "caption": "Mitragyna parvifolia in fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Mitragyna parvifolia are grouped in dense, axillary or terminal and globose heads (0.8-1.5 cm across). The calyx is truncate. The calyx-lobes are minute and ciliate. The corolla is cream-coloured. The corolla-tube is 5 mm long. The corolla is 5-lobed. The lobes are 2.5 mm long and recurved. The androecium is composed of 5 stamens attached near the corolla throat. The filament are 3 mm long and the anthers are oblong. The style is filiform and 5 mm long. The ovary is obconic, 1.5 mm long and 2-celled. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Mitragyna parvifolia</i> are grouped in dense, axillary or terminal and globose heads (0.8-1.5 cm across).<br>The <strong>calyx</strong> is truncate. The <strong>calyx-lobes</strong> are minute and ciliate.<br>The <strong>corolla</strong> is cream-coloured. The <strong>corolla-tube</strong> is 5 mm long. The corolla is 5-lobed. The lobes are 2.5 mm long and recurved.<br>The <strong>androecium</strong> is composed of 5 stamens attached near the corolla throat. The filament are 3 mm long and the anthers are oblong.<br>The <strong>style</strong> is filiform and 5 mm long.<br>The <strong>ovary</strong> is obconic, 1.5 mm long and 2-celled.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/mitragyna_parvifolia_flower1.jpg",
+          "caption": "Mitragyna parvifolia flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Mitragyna parvifolia grow opposite on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is glabrous on both sides (some minute hairs on the midrib beneath). The leaves have a 1-1.5 cm long petiole . The leaf of Mitragyna parvifolia is 7-11 cm long and 4-6 cm wide. The shape of the blade is ovate to oblong, the apex is obtuse, the base is rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Mitragyna parvifolia</i> grow opposite on the stem.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is glabrous on both sides (some minute hairs on the midrib beneath).<br>The leaves have a 1-1.5 cm long <strong>petiole</strong>.<br>The leaf of <i>Mitragyna parvifolia</i> is 7-11 cm long and 4-6 cm wide. The shape of the <strong>blade</strong> is ovate to oblong, the <strong>apex</strong> is obtuse, the <strong>base</strong> is rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf1.jpg",
+          "caption": "Mitragyna parvifolia twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf2.jpg",
+          "caption": "Mitragyna parvifolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf3.jpg",
+          "caption": "Mitragyna parvifolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf4.jpg",
+          "caption": "Mitragyna parvifolia new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf5.jpg",
+          "caption": "Mitragyna parvifolia stipule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf6.jpg",
+          "caption": "Mitragyna parvifolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf7.jpg",
+          "caption": "Mitragyna parvifolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/mitragyna_parvifolia_leaf8.jpg",
+          "caption": "Mitragyna parvifolia foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Mitragyna parvifolia is a large deciduous tree with a short and irregular trunk and a spreading crown. Mitragyna parvifolia can grows up to 25-30 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Mitragyna parvifolia</i> is a large <strong>deciduous tree</strong> with a short and irregular trunk and a spreading crown.<br><i>Mitragyna parvifolia</i> can grows up to 25-30 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/mitragyna_parvifolia_habit1.jpg",
+          "caption": "Mitragyna parvifolia young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/mitragyna_parvifolia_habit2.jpg",
+          "caption": "Mitragyna parvifolia crown"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Mitragyna parvifolia is found in deciduous forests, ravine areas and along river banks from the coastal plains up to 900-1000 m high in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Mitragyna parvifolia</i> is found in deciduous forests, ravine areas and along river banks from the coastal plains up to 900-1000 m high in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Mitragyna parvifolia is bisexual (each flower of each individual has both male and female structures). Mitragyna parvifolia is pollinated by a wide variety of insects. The seeds of Mitragyna parvifolia are dispersed by the wind (anemochory).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Mitragyna parvifolia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Mitragyna parvifolia</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Mitragyna parvifolia</i> are dispersed by the wind (anemochory).</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From February to June. Throughout the year (the fruits are persistent). Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to June.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year (the fruits are persistent).</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The wood of Mitragyna parvifolia is hard and durable if not exposed. It takes a good polish. The wood is used in building construction (planks and rafters), for making furniture, agricultural implements, small articles and for turning. A fibre from the bark is used to make cordage. Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Mitragyna parvifolia</i> is hard and durable if not exposed. It takes a good polish. The wood is used in building construction (planks and rafters), for making furniture, agricultural implements, small articles and for turning.<br><br>A <strong>fibre</strong> from the bark is used to make cordage.<br><br><i>Source : Dastur, 2006, Useful Plants of India and Pakistan</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The roots , bark and the leaves of Mitragyna parvifolia are used in internal and external haemorrhages, skin diseases, leprosy and fever. ( Arya Vaidya Sala, 1996, Indian Medicinal plants ) The leaf paste is applied on wounds. The pounded leaves with garlic are used to treat chronic cough. The leaf juice is used as hepatic stimulant, hepatoprotective, to cure jaundice and for liver ailments. The bark paste and juice are applied for muscular pains and dog bite. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>roots</strong>, <strong>bark</strong> and <strong>the leaves</strong> of <i>Mitragyna parvifolia</i> are used in internal and external haemorrhages, skin diseases, leprosy and fever. (<i>Arya Vaidya Sala, 1996, Indian Medicinal plants</i>)<br><br>The <strong>leaf paste</strong> is applied on wounds.<br>The <strong>pounded leaves</strong> with garlic are used to treat chronic cough.<br>The <strong>leaf juice</strong> is used as hepatic stimulant, hepatoprotective, to cure jaundice and for liver ailments.<br><br>The <strong>bark paste and juice</strong> are applied for muscular pains and dog bite.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Mitragyna parvifolia is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils. The species is propagated by seeds. No pre-treatment is required. Mitragyna parvifolia seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Mitragyna parvifolia</i> is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>No pre-treatment is required.<br><i>Mitragyna parvifolia</i> seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

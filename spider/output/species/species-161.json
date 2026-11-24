@@ -1,0 +1,241 @@
+{
+  "species_id": 161,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=161",
+  "scraped_at": "2025-10-03T02:47:10.925301Z",
+  "basic_info": {
+    "scientific_name": "Annona squamosa",
+    "authority": "L.",
+    "family": "Annonaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/annona_squamosa.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/An.sq_herb1b.jpg"
+  },
+  "collection_metadata": {
+    "date": "20 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99409 N",
+      "longitude": "79.82364 E",
+      "raw": "11.99409 N - 79.82364 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Annona squamosa",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Annonaceae",
+    "english_names": "Custard apple",
+    "indian_names": {
+      "Hindi": [
+        "Sharifa"
+      ],
+      "Kannada": [
+        "Sitaphala"
+      ],
+      "Malayalam": [
+        "Sitappalam"
+      ],
+      "Sanskrit": [
+        "Sitaphalam"
+      ],
+      "Tamil": [
+        "Seetha"
+      ],
+      "Telugu": [
+        "Sitaapandu"
+      ]
+    },
+    "synonyms": [
+      "Annona asiatica",
+      "Annona asiatica",
+      "Annona cinerea",
+      "Annona distincta",
+      "Annona forskahlii",
+      "Annona forsskalii",
+      "Annona glabra",
+      "Annona squamosa",
+      "Annona squamosa f. parvifolia",
+      "Guanabanus squamosus",
+      "Xylopia glabra",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAnnona\n: From a native Brazilian or American Indian name.\n-\nSquamosa\n: covered with scales or with scale-like leaves.",
+    "etymology_html": "<p>- <i>Annona</i> : From a native Brazilian or American Indian name.<br>- <i>Squamosa</i> : covered with scales or with scale-like leaves.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Annona squamosa is light brown-coloured, rough with shallow longitudinal furrows.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Annona squamosa</i> is light brown-coloured, rough with shallow longitudinal furrows.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/annona_squamosa_stem1.jpg",
+          "caption": "Annona squamosa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/annona_squamosa_stem2.jpg",
+          "caption": "Annona squamosa bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Annona squamosa are dark brown or blackish-coloured, ovate and about 1 cm long and 0.5-0.6 cm wide. Each seed is embedded in a white pulp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Annona squamosa</i> are dark brown or blackish-coloured, ovate and about 1 cm long and 0.5-0.6 cm wide. Each seed is embedded in a white pulp.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/annona_squamosa_seed1.jpg",
+          "caption": "Annona squamosa seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/annona_squamosa_seed2.jpg",
+          "caption": "Annona squamosa seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Annona squamosa is a round or ovate syncarp . It is about 5-10 cm in diameter with many protuberances. The aggregate fruit of Annona squamosa is green-coloured with a white, sweet and edible pulp inside.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Annona squamosa</i> is a round or ovate <strong>syncarp</strong>. It is about 5-10 cm in diameter with many protuberances. The aggregate fruit of <i>Annona squamosa</i> is green-coloured with a white, sweet and edible pulp inside.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit1.jpg",
+          "caption": "Annona squamosa fruting branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit2.jpg",
+          "caption": "Annona squamosa fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit3.jpg",
+          "caption": "Annona squamosa fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit4.jpg",
+          "caption": "Annona squamosa fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit5.jpg",
+          "caption": "Annona squamosa fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/annona_squamosa_fruit6.jpg",
+          "caption": "Annona squamosa fruit pulp"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Annona squamosa are axillary and solitary. The calyx is composed of 3 triangular, 2 mm long and 3 mm wide sepals. The calyx is light green-coloured. The corolla is composed of 3 cream-coloured and light-green petals. The petals are fleshy, oblong, 2-2.5 cm long and 6-7 mm wide. The androecium is composed of numerous and short stamens. The pistils are also numerous. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Annona squamosa</i> are axillary and solitary.<br>The <strong>calyx</strong> is composed of 3 triangular, 2 mm long and 3 mm wide sepals. The calyx is light green-coloured.<br>The <strong>corolla</strong> is composed of 3 cream-coloured and light-green petals. The petals are fleshy, oblong, 2-2.5 cm long and 6-7 mm wide.<br>The <strong>androecium</strong> is composed of numerous and short stamens.<br>The <strong>pistils</strong> are also numerous.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower1.jpg",
+          "caption": "Annona squamosa flowering twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower2.jpg",
+          "caption": "Annona squamosa flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower3.jpg",
+          "caption": "Annona squamosa flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower4.jpg",
+          "caption": "Annona squamosa flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower5.jpg",
+          "caption": "Annona squamosa flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/annona_squamosa_flower6.jpg",
+          "caption": "Annona squamosa flower reproductive structures"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Annona squamosa grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 1.5 cm long petiole . The leaf of Annona squamosa is 10-20 cm long and 4-7 cm wide. The shape of the blade is elliptic or lanceolate, the apex is acute or acuminate, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Annona squamosa</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 1.5 cm long <strong>petiole</strong>.<br>The leaf of <i>Annona squamosa</i> is 10-20 cm long and 4-7 cm wide. The shape of the <strong>blade</strong> is elliptic or lanceolate, the <strong>apex</strong> is acute or acuminate, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf1.jpg",
+          "caption": "Annona squamosa branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf2.jpg",
+          "caption": "Annona squamosa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf3.jpg",
+          "caption": "Annona squamosa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf4.jpg",
+          "caption": "Annona squamosa branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf5.jpg",
+          "caption": "Annona squamosa leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/annona_squamosa_leaf6.jpg",
+          "caption": "Annona squamosa leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Annona squamosa is a small-sized and deciduous fruit tree growing up to 6-8 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Annona squamosa</i> is a small-sized and <strong>deciduous fruit tree</strong> growing up to 6-8 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/annona_squamosa_habit1.jpg",
+          "caption": "Annona squamosa fruit tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/annona_squamosa_habit2.jpg",
+          "caption": "Annona squamosa fruit tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Annona squamosa is bisexual (each flower of each individual has both male and female structures). Annona squamosa is pollinated by a wide variety of insects. The seeds of Annona squamosa are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Annona squamosa</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Annona squamosa</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Annona squamosa</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/annona_squamosa_reproduction1.jpg",
+          "caption": "Annona squamosa flower reproductive structures"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From March to September. From September ro December. From September ro December. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From March to September.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From September ro December.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From September ro December.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The unripe fruits, seeds and leaves of Annona squamosa have effective vermicidal and insecticidal properties. The oil extracted from the seeds has been employed against agricultural pests. Sources : - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide - Wikipedia, https://en.wikipedia.org/wiki/Annona_squamosa",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>unripe fruits, seeds and leaves</strong> of <i>Annona squamosa</i> have effective vermicidal and insecticidal properties.<br><br>The <strong>oil</strong> extracted from the seeds has been employed against agricultural pests.<br><br><i>Sources : </i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i><br>- Wikipedia, https://en.wikipedia.org/wiki/Annona_squamosa</p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "Annona squamosa is a popular seasonal fruit with great economic importance in a number of tropical countries.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Annona squamosa</i> is a <strong>popular seasonal fruit</strong> with great economic importance in a number of tropical countries.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/culinary/annona_squamosa_culinary.jpg",
+          "caption": "Annona squamosa fruit pulp"
+        }
+      ]
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Annona squamosa is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Annona squamosa</i> is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "species_id": 356,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=356",
+  "scraped_at": "2025-10-02T18:39:40.468007Z",
+  "basic_info": {
+    "scientific_name": "Digitaria ciliaris",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/677fb87a8399f_677fb87a83994_Di.ci_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Di.ci_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "10 Dec, 2024",
+    "collected_by": "M.d.H, U.M.P.",
+    "gps_coordinates": {
+      "latitude": "11°59'14 N",
+      "longitude": "79°48'16 E",
+      "raw": "11°59'14 N- 79°48'16 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Digitaria ciliaris",
+    "author": "(Retz.) Koeler, Georg Ludwig (1802)",
+    "family": "Poaceae",
+    "english_names": "Wild Crabgrass, Bamboo grass, Large Crabgrass, Summer grass",
+    "indian_names": null,
+    "synonyms": [
+      "Digitaria marginata var. ciliaris",
+      "Digitaria sanguinalis var. ciliaris",
+      "Digitaria sanguinalis f. ciliaris",
+      "Digitaria sanguinalis subsp. ciliaris",
+      "Milium ciliare",
+      "Milium ciliatum",
+      "Panicum ciliare",
+      "Panicum sanguinale var. ciliare",
+      "Paspalum ciliare",
+      "Paspalum sanguinale var. ciliare",
+      "Sanguinaria ciliaris",
+      "Syntherisma ciliaris",
+      "Syntherisma sanguinalis var. ciliaris",
+      "Syntherisma sanguinalis subsp. ciliaris"
+    ],
+    "etymology": "-\nDigitaria\n: From the Latin\ndigitus\n- finger, alluding to the radiating inflorescence.\n-\nciliaris\n: From the Latin\ncilium\n-eyelids, in reference to the ciliated nerves or margin of the glumes or lemmas.",
+    "etymology_html": "<p>- <i>Digitaria</i>: From the Latin <i>digitus</i>- finger, alluding to the radiating inflorescence.<br>- <i>ciliaris</i>: From the Latin <i>cilium</i>-eyelids, in reference to the ciliated nerves or margin of the glumes or lemmas.</p>"
+  },
+  "description": {
+    "seed": {
+      "text": "The fruit of Digitaria ciliaris is a caryopis. The grain is ellipsoid in shape, it is grey to light brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruit of Digitaria ciliaris is a caryopis. <br>The grain is ellipsoid in shape, it is grey to light brown in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Di.ci_sd1.jpg",
+          "caption": "Digitaria ciliaris old raceme after seeding"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Di.ci_sd2.jpg",
+          "caption": "Digitaria ciliaris dry hairy lemmas"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Digitaria ciliaris is a caryopis. The grains are ellipsoid in shape and grey to light brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Digitaria ciliaris is a caryopis. <br>The grains are ellipsoid in shape and grey to light brown in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Di.ci_fr1.jpg",
+          "caption": "Digitaria ciliaris young caryopsis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Di.ci_fr2.jpg",
+          "caption": "Digitaria ciliaris hairy lemmas"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Di.ci_fr3.jpg",
+          "caption": "Digitaria ciliaris dry and hairy lemmas"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Di.ci_fr4.jpg",
+          "caption": "Digitaria ciliaris dry and hairy lemmas"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Digitaria ciliaris are digitate or subdigitate. The axis of the inflorescence can be up to 5 cm long in robust specimens. They are composed of 2 to 12 stiff racemes. Each raceme is 6 to 22 cm long. The racemes are sometimes adorned with sparse long white hairs. There are 3 anthers.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Digitaria ciliaris are digitate or subdigitate. <br>The axis of the inflorescence can be up to 5 cm long in robust specimens. <br>They are composed of 2 to 12 stiff racemes. Each raceme is 6 to 22 cm long. <br>The racemes are sometimes adorned with sparse long white hairs. <br>There are 3 anthers.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl3.jpg",
+          "caption": "Digitaria ciliaris raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl2.jpg",
+          "caption": "Digitaria ciliaris floret with white anthers and dark pink pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl4.jpg",
+          "caption": "Digitaria ciliaris florets with withered anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl7.jpg",
+          "caption": "Digitaria ciliaris terminal florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl1.jpg",
+          "caption": "Digitaria ciliaris open raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl5.jpg",
+          "caption": "Digitaria ciliaris immature closed raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl8.jpg",
+          "caption": "Digitaria ciliaris florets with yellow x-shape anthers and dark pink pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Di.ci_fl6.jpg",
+          "caption": "Digitaria ciliaris florets mature with hairy lemmas"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Digitaria ciliaris are linear to linear-lanceolate in shape. They are 5 to 20 cm long and 0.3 to 1 cm wide. The adaxial surface of the leaves are usually pilose. The leaf margins are thickened and scabrous. The ligule is less than 2 mm long and has an eciliate membrane.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Digitaria ciliaris are linear to linear-lanceolate in shape. <br>They are 5 to 20 cm long and 0.3 to 1 cm wide. <br>The adaxial surface of the leaves are usually pilose. <br>The leaf margins are thickened and scabrous. <br>The ligule is less than 2 mm long and has an eciliate membrane.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf1.jpg",
+          "caption": "Digitaria ciliaris leaf base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf2.jpg",
+          "caption": "Digitaria ciliaris ligule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf3.jpg",
+          "caption": "Digitaria ciliaris ligule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf4.jpg",
+          "caption": "Digitaria ciliaris leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf5.jpg",
+          "caption": "Digitaria ciliaris leaf blade (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Di.ci_lf6.jpg",
+          "caption": "Digitaria ciliaris leaf blade (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Digitaria ciliaris is a annual herb with erect culms growing up to 1 m tall. The grass is sometimes decumbent, rarely creeping and rooting at the lower nodes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Digitaria ciliaris is a annual herb with erect culms growing up to 1 m tall. <br>The grass is sometimes decumbent, rarely creeping and rooting at the lower nodes.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Di.ci_ha1.jpg",
+          "caption": "Digitaria ciliaris habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Di.ci_ha2.jpg",
+          "caption": "Digitaria ciliaris habit"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The culms of Digitaria ciliaris are growing from 20 cm to 1 m tall. They are decumbent at the base and geniculately ascending.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Digitaria ciliaris are growing from 20 cm to 1 m tall.<br>They are decumbent at the base and geniculately ascending.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Di.ci_st1.jpg",
+          "caption": "Digitaria ciliaris culm base and roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Di.ci_st2.jpg",
+          "caption": "Digitaria ciliaris node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Di.ci_st3.jpg",
+          "caption": "Digitaria ciliaris rooting stolon"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Digitaria ciliaris is commonly planted for its high protein content, to provide grazing for livestock.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Digitaria ciliaris is commonly planted for its high protein content, to provide grazing for livestock.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {}
+}

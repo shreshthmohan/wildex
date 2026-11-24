@@ -1,0 +1,269 @@
+{
+  "species_id": 136,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=136",
+  "scraped_at": "2025-10-02T16:41:02.291424Z",
+  "basic_info": {
+    "scientific_name": "Monoon longifolium",
+    "authority": null,
+    "family": "Annonaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/polyalthia_longifolia.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Po.lo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "21 Apr, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99154 N",
+      "longitude": "79.82137 E",
+      "raw": "11.99154 N - 79.82137 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Monoon longifolium",
+    "author": "(Sonn.) B.Xue & R.M.K.Saunders (2012)",
+    "family": "Annonaceae",
+    "english_names": "False Ashoka, mast tree",
+    "indian_names": {
+      "Hindi": [
+        "Ashok",
+        "debdari"
+      ],
+      "Kannada": [
+        "Assoti"
+      ],
+      "Malayalam": [
+        "Aranamaram"
+      ],
+      "Marathi": [
+        "Devdar"
+      ],
+      "Sanskrit": [
+        "Kastadaruh",
+        "ulkatah"
+      ],
+      "Tamil": [
+        "Nettilingam"
+      ],
+      "Telugu": [
+        "Asokamu",
+        "devdaru"
+      ]
+    },
+    "synonyms": [
+      "Guatteria longifolia",
+      "Polyalthia longifolia",
+      "Unona altissima",
+      "Unona longifolia",
+      "Uvaria altissima",
+      "Uvaria longifolia",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nMonoon\n:\n-\nLongifolium\n: With long leaves (from the Latin\nlongus-folium\n).",
+    "etymology_html": "<p>- <i>Monoon</i>: <br>- <i>Longifolium</i>: With long leaves (from the Latin <i>longus-folium</i>).</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Monoon longifolium is pale brown greyish-coloured, longitudinally fissured and transversally cracked with age.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Monoon longifolium</i> is pale brown greyish-coloured, longitudinally fissured and transversally cracked with age.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/polyalthia_longifolia_stem1.jpg",
+          "caption": "Monoon longifolium trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/polyalthia_longifolia_stem2.jpg",
+          "caption": "Monoon longifolium bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Monoon longifolium are pale brown, ellipsoid, 1-1.2 cm long and 0.8-1 cm wide, usually with a longitudinal groove. There is only one seed per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Monoon longifolium</i> are pale brown, ellipsoid, 1-1.2 cm long and 0.8-1 cm wide, usually with a longitudinal groove. There is only one seed per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/polyalthia_longifolia_seed1.jpg",
+          "caption": "Monoon longifolium seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/polyalthia_longifolia_seed2.jpg",
+          "caption": "Monoon longifolium seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Monoon longifolium is a berry . They grow in cluster of 10-20. The berry is about 2 cm long and 1.2 cm wide with a 1.2 cm long peduncle. The fruit is dark brown-purple-coloured when ripe and it contains 1 seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Monoon longifolium</i> is a <strong>berry</strong>. They grow in cluster of 10-20. The berry is about 2 cm long and 1.2 cm wide with a 1.2 cm long peduncle. The fruit is dark brown-purple-coloured when ripe and it contains 1 seed.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit1.jpg",
+          "caption": "Monoon longifolium ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit2.jpg",
+          "caption": "Monoon longifolium unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit3.jpg",
+          "caption": "Monoon longifolium infructescence (unripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit4.jpg",
+          "caption": "Monoon longifolium unripe berry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit5.jpg",
+          "caption": "Monoon longifolium ripe berry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/polyalthia_longifolia_fruit6.jpg",
+          "caption": "Monoon longifolium unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Monoon longifolium are grouped in axillary fascicles. The calyx is composed of 3 ellipsoid, 2.5 mm long and 3 mm wide sepals. The calyx is light green and finely pubescent. The corolla is composed of 2x3 yellowish and glabrous petals. The petals are lanceolate, 1.5 cm long and 4 mm wide. The androecium is composed of numerous, 1 mm long stamens. The pistil is composed of a short and oblong style and a triangular and flat stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Monoon longifolium</i> are grouped in axillary fascicles.<br>The <strong>calyx</strong> is composed of 3 ellipsoid, 2.5 mm long and 3 mm wide sepals. The calyx is light green and finely pubescent.<br>The <strong>corolla</strong> is composed of 2x3 yellowish and glabrous petals. The petals are lanceolate, 1.5 cm long and 4 mm wide.<br>The <strong>androecium</strong> is composed of numerous, 1 mm long stamens.<br>The <strong>pistil</strong> is composed of a short and oblong style and a triangular and flat <strong>stigma</strong>. The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower1.jpg",
+          "caption": "Monoon longifolium inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower2.jpg",
+          "caption": "Monoon longifolium inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower3.jpg",
+          "caption": "Monoon longifolium flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower4.jpg",
+          "caption": "Monoon longifolium flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower5.jpg",
+          "caption": "Monoon longifolium flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower6.jpg",
+          "caption": "Monoon longifolium pollinated flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower7.jpg",
+          "caption": "Monoon longifolium inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower8.jpg",
+          "caption": "Monoon longifolium flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower9.jpg",
+          "caption": "Monoon longifolium flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/polyalthia_longifolia_flower10.jpg",
+          "caption": "Monoon longifolium pollinated flower"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Monoon longifolium grow alternately on the stem (spirally arranged). The leaf is simple, glossy, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 7-8 mm long petiole . The leaf of Monoon longifolium is 15-25 cm long and 3-4 cm wide. The shape of the blade is lanceolate with wavy edges, the apex is acute, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Monoon longifolium</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, glossy, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 7-8 mm long <strong>petiole</strong>.<br>The leaf of <i>Monoon longifolium</i> is 15-25 cm long and 3-4 cm wide. The shape of the <strong>blade</strong> is lanceolate with wavy edges, the <strong>apex</strong> is acute, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_longifolia_leaf1.jpg",
+          "caption": "Monoon longifolium leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_longifolia_leaf2.jpg",
+          "caption": "Monoon longifolium leaf (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_longifolia_leaf3.jpg",
+          "caption": "Monoon longifolium new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_longifolia_leaf4.jpg",
+          "caption": "Monoon longifolium new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/polyalthia_longifolia_leaf5.jpg",
+          "caption": "Monoon longifolium foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Monoon longifolium is a tall, evergreen tree growing up to 15-20 m high, with a pyramidal or a narrow columnar crown (cypress-like).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Monoon longifolium</i> is a tall, <strong>evergreen tree</strong> growing up to 15-20 m high, with a pyramidal or a narrow columnar crown (cypress-like).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/polyalthia_longifolia_habit1.jpg",
+          "caption": "Monoon longifolium trees alignment"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/polyalthia_longifolia_habit2.jpg",
+          "caption": "Monoon longifolium tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": "In India, Polyalthia suberosa is usually planted by the side of roads, in gardens and parks, near temples and it is very rare in the forest areas. Polyalthia longifolia is native to India and Sri Lanka. It is cultivated in gardens in many tropical countries around the world.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>In India, <i>Polyalthia suberosa</i> is usually planted by the side of roads, in gardens and parks, near temples and it is very rare in the forest areas.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Polyalthia longifolia</i> is native to India and Sri Lanka. It is cultivated in gardens in many tropical countries around the world.</p>        </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Polyalthia longifolia is bisexual (each flower of each individual has both male and female structures). Polyalthia longifolia is pollinated by a wide variety of insects. The seeds of Polyalthia longifolia are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Polyalthia longifolia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Polyalthia longifolia</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Polyalthia longifolia</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/polyalthia_longifolia_reproduction1.jpg",
+          "caption": "Polyalthia longifolia reproductive structures (stigmas surrounded by globular anthers)"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From February to May. From June to August. From June to August. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From June to August.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From June to August.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Polyalthia longifolia is planted as an avenue tree for its shade.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Polyalthia longifolia</i> is planted as an avenue tree for its shade.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Polyalthia longifolia is used to make drums in South India. ( Sahni, K.C., 1998, The Book of Indian Trees. Bombay Natural History Society )",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Polyalthia longifolia</i> is used to make drums in South India. (<i>Sahni, K.C., 1998, The Book of Indian Trees. Bombay Natural History Society</i>)</p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Polyalthia longifolia prefers full sun but can tolerate the half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Polyalthia longifolia</i> prefers full sun but can tolerate the half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+      "images": []
+    }
+  }
+}

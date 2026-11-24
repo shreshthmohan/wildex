@@ -1,0 +1,212 @@
+{
+  "species_id": 94,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=94",
+  "scraped_at": "2025-10-02T18:37:27.593274Z",
+  "basic_info": {
+    "scientific_name": "Cassia fistula",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cassia_fistula.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.fi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99618 N",
+      "longitude": "79.82367 E",
+      "raw": "11.99618 N - 79.82367 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cassia fistula",
+    "author": null,
+    "family": "Fabaceae",
+    "english_names": "Golden shower tree, Indian laburnum",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Cassia fistula is ash-grey-coloured, smooth and warty. The  bark flakes off in crusty scales on old trees.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Cassia fistula</em> is ash-grey-coloured, smooth and warty. The  bark flakes off in crusty scales on old trees.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_fistula_stem1.jpg",
+          "caption": "Cassia fistula trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_fistula_stem2.jpg",
+          "caption": "Cassia fistula trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cassia_fistula_stem3.jpg",
+          "caption": "Cassia fistula bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Cassia fistula are in separated compartments with walls about 2-3 mm apart. The seeds are brown-coloured, flattened, ovate, 8-9 mm long and 7-8 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Cassia fistula</em> are in separated compartments with walls about 2-3 mm apart.<br>\nThe seeds are brown-coloured, flattened, ovate, 8-9 mm long and 7-8 mm wide.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cassia_fistula_seed1.jpg",
+          "caption": "Cassia fistula seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cassia_fistula_seed2.jpg",
+          "caption": "Cassia fistula seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Cassia fistula is a very long and cylindrical pod . It is smooth, mucronate, up to 50 cm long and about 2 cm across. These glossy, pendulous and indehiscent pods turn from green to black at maturity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Cassia fistula</em> is a very long and cylindrical pod .<br>\nIt is smooth, mucronate, up to 50 cm long and about 2 cm across. <br>These glossy, pendulous and indehiscent pods turn from green to black at maturity.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_fistula_fruit1.jpg",
+          "caption": "Cassia fistula ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_fistula_fruit2.jpg",
+          "caption": "Cassia fistula ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cassia_fistula_fruit3.jpg",
+          "caption": "Cassia fistula unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Cassia fistula are grouped in axillary and many-flowered racemes. These inflorescences are large (up to 15-40 cm long), pendulous and bright yellow. The peduncle is 4-6 cm long. The flowers are 5-merous. The calyx is composed of a cup-shaped, green and pubescent calyx-tube and 5 yellow-greenish calyx-lobes . These calyx-lobes are obovate-orbicular, 7-8 mm long and 6-7 mm wide. The corolla is composed of 5 bright yellow, obovate, short-clawed and unequal petals . They are glabrous, veined and 2.5-3 cm long and 1.5-2 cm wide with a 3 mm long claw. The androecium is composed of 10 stamens , 3 of them are as long as the style and 7 are shorter. The stamens have erected filaments and basifixed anthers . The style is light green, slender and curved. It is 2.5-3 cm long with a simple stigma at the tip.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Cassia fistula</em> are grouped in axillary and many-flowered racemes. These inflorescences are large (up to 15-40 cm long), pendulous and bright yellow.<br> The <b>peduncle</b> is 4-6 cm long.<br>\nThe flowers are 5-merous.<br>\nThe <b>calyx</b> is composed of a cup-shaped, green and pubescent <b>calyx-tube</b> and 5 yellow-greenish <b>calyx-lobes</b>. These calyx-lobes are obovate-orbicular, 7-8 mm long and 6-7 mm wide.<br>\nThe <b>corolla</b> is composed of 5 bright yellow, obovate, short-clawed and unequal <b>petals</b>. They are glabrous, veined and 2.5-3 cm long and 1.5-2 cm wide with a 3 mm long claw.<br>\nThe <b>androecium</b> is composed of 10 <b>stamens</b>, 3 of them are as long as the style and 7 are shorter. The stamens have erected  <b>filaments</b> and basifixed <b>anthers</b>.<br>\nThe <b>style</b> is light green, slender and curved. It is 2.5-3 cm long with a simple <b>stigma</b> at the tip.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower1.jpg",
+          "caption": "Cassia fistula inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower2.jpg",
+          "caption": "Cassia fistula flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower3.jpg",
+          "caption": "Cassia fistula flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower4.jpg",
+          "caption": "Cassia fistula flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower5.jpg",
+          "caption": "Cassia fistula flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower6.jpg",
+          "caption": "Cassia fistula flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/cassia_fistula_flower7.jpg",
+          "caption": "Cassia fistula flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cassia fistula grow alternately on the stem (spirally arranged). The leaf is compound, paripinnate with a 4-6 cm long petiole and 4 to 8 pairs of large leaflets. The leaflets are bright green-coloured above and paler beneath. The leaflets are coriaceous and glabrous on both sides. The leaflets have a 5-6 mm long petiolule . The leaflet of Cassia fistula is 8-12 cm long and 4-5 cm wide. The shape of the blade is ovate, the apex is acute, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Cassia fistula</em> grow alternately on the stem (spirally arranged).<br>\nThe <b>leaf</b> is compound, paripinnate with a 4-6 cm long petiole and 4 to 8 pairs of large leaflets.<br>\nThe <b>leaflets</b> are bright green-coloured above and paler beneath. The leaflets are coriaceous and glabrous on both sides.<br>\nThe leaflets have a 5-6 mm long <b>petiolule</b>.<br>\nThe leaflet of <em>Cassia fistula</em> is 8-12 cm long and 4-5 cm wide. The shape of the <b>blade</b> is ovate, the <b>apex</b> is acute, the <b>base</b> is cuneate and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf1.jpg",
+          "caption": "Cassia fistula compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf2.jpg",
+          "caption": "Cassia fistula compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf3.jpg",
+          "caption": "Cassia fistula leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf4.jpg",
+          "caption": "Cassia fistula leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf5.jpg",
+          "caption": "Cassia fistula shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf6.jpg",
+          "caption": "Cassia fistula leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cassia_fistula_leaf7.jpg",
+          "caption": "Cassia fistula shoots"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cassia fistula is a medium-sized and deciduous tree growing up to 10-12 m high with a spreading and irregular crown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Cassia fistula</em> is a medium-sized and <b>deciduous tree</b> growing up to 10-12 m high with a spreading and irregular crown.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_fistula_habit1.jpg",
+          "caption": "Cassia fistula tree with showy flowers and fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_fistula_habit2.jpg",
+          "caption": "Cassia fistula in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cassia_fistula_habit3.jpg",
+          "caption": "Cassia fistula tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Cassia fistula</em> is bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Cassia fistula</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Zoochory : The seeds of <em>Cassia fistula</em> are extensively dispersed by monkey, jackals, pigs and others mammals which break the pods to eat the pulp and thus scatter the seeds. (<em>Sahni, 1998, The Book of Indian Trees</em>)<br><br>\n\nMechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.</li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cassia_fistula_reproduction1.jpg",
+          "caption": "Cassia fistula reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/cassia_fistula_reproduction2.jpg",
+          "caption": "Cassia fistula reproductive structures"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From May to November.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From November to March.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From November to March.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Cassia fistula is widely planted as an ornamental tree . It is an extremely showy tree in bloom.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Cassia fistula</em> is widely planted as an <b>ornamental tree</b>. It is an extremely showy tree in bloom.      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Cassia fistula is durable and takes a good and lasting polish. It is used for house and bridge posts, wheels, cart building, agricultural implements, tool handles, rice pounder, turnery and furniture. The bark is a useful tanning material, known as sumari . Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Cassia fistula</em> is durable and takes a good and lasting polish. It is used for house and bridge posts, wheels, cart building, agricultural implements, tool handles, rice pounder, turnery and furniture.<br><br>\n\nThe <b>bark</b> is a useful tanning material, known as <em>sumari</em>.<br><br>\n\n<em>Source : Dastur, 2006, Useful Plants of India and Pakistan</em>  </p>\n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Cassia fistula</em> is a fast growing species able to flourish in a wide range of soils but all soils need to be free draining. <br>\nThe species prefers full sun but can withstand moderate shade.<br>\n<em>Cassia fistula</em> is propagated by seeds.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          The seeds of <em>Cassia fistula</em> germinate readily without treatment but scarification and soaking accelerate the germination.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "species_id": 258,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=258",
+  "scraped_at": "2025-11-02T17:42:11.834918Z",
+  "basic_info": {
+    "scientific_name": "Grewia tiliifolia",
+    "authority": null,
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63638a259cbc8_Gr.ti_cat.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gr.ti_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Jan, 1970",
+    "collected_by": "S.S.",
+    "gps_coordinates": null,
+    "locality": null
+  },
+  "nomenclature": {
+    "botanical_name": "Grewia tiliifolia",
+    "author": "Dumont d'Urville, J.S.C. (1834)",
+    "family": "Malvaceae",
+    "english_names": "Common indian linden",
+    "indian_names": null,
+    "synonyms": [
+      "Grewia amicorum",
+      "Grewia richardiana"
+    ],
+    "etymology": "-\nGrewia\n: After Nehemiah Grew (1641-1712), English botanist known as the \"Father of Plant Anatomy\"\n-\ntiliifolia\n: From the Latin meaning \"having leaves like the Linden tree,\nTilia\n\"",
+    "etymology_html": "<p>- <i>Grewia</i>: After Nehemiah Grew (1641-1712), English botanist known as the \"Father of Plant Anatomy\"<br>- <i>tiliifolia</i>: From the Latin meaning \"having leaves like the Linden tree, <i>Tilia</i>\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Grewia tiliifolia is dark brown or grey brown. The bark is rough, with vertically striates. The branchlets are stellate and tomentose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Grewia tiliifolia is dark brown or grey brown. <br>The bark is rough, with vertically striates. <br>The branchlets are stellate and tomentose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gr.ti_bk1.jpg",
+          "caption": "Grewia tiliifolia bark with vertical striations"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gr.ti_bk2.jpg",
+          "caption": "Grewia tiliifolia rough bark of an old specimen"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Grewia tiliifolia are globose, less than 1 cm in size. They are found 1 or 2 by drupe. They are contained in acid fibrous pulp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Grewia tiliifolia are globose, less than 1 cm in size. <br>They are found 1 or 2 by drupe. <br>They are contained in acid fibrous pulp. </p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Grewia tiliifolia is a drupe, globose to subglobose in shape. The drupe is pale green when unripe turning to dark red or purple when ripe. The fruit is 0.5 to 1 cm across. The fruit is mostly entire or obscurely 2-lobed and it is sparsely hairy. It has 1 to 2 seeds each, contained in a fibrous mesocarp. The fruit is edible with an agreeable, acid flavour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Grewia tiliifolia is a drupe, globose to subglobose in shape. <br>The drupe is pale green when unripe turning to dark red or purple when ripe. <br>The fruit is 0.5 to 1 cm across.<br>The fruit is mostly entire or obscurely 2-lobed and it is sparsely hairy. <br>It has 1 to 2 seeds each, contained in a fibrous mesocarp. <br>The fruit is edible with an agreeable, acid flavour.  <br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gr.ti_fr1.jpg",
+          "caption": "Grewia tiliifolia unripe 2-lobed drupes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gr.ti_fr2.jpg",
+          "caption": "Grewia tiliifolia immature fruits on stem"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Grewia tiliifolia flowers are yellow in colour and between 1 to 2 cm in size. They are growing in axillary cymes, mostly 3-flowered. They are bisexual. The flower buds are obovoid oblong or subglobose and they are tomentose. The flowers have 5 pubescent sepals and 5 petals densely tomentose outside. The petals are half the length of the sepals, they are entire or notched. There are many free stamens, inserted on a glandular torus (thickened receptacle to which the floral parts are attached). The stigma is obscurely lobed and recurved.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Grewia tiliifolia flowers are yellow in colour and between 1 to 2 cm in size. <br>They are growing in axillary cymes, mostly 3-flowered. <br>They are bisexual. <br>The flower buds are obovoid oblong or subglobose and they are tomentose. <br>The flowers have 5 pubescent sepals and 5 petals densely tomentose outside. <br>The petals are half the length of the sepals, they are entire or notched. <br>There are many free stamens, inserted on a glandular torus (thickened receptacle to which the floral parts are attached). <br>The stigma is obscurely lobed and recurved.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gr.ti_fl1.jpg",
+          "caption": "Grewia tiliifolia flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gr.ti_fl2.jpg",
+          "caption": "Grewia tiliifolia open flower with pubescent petals and many free stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gr.ti_fl3.jpg",
+          "caption": "Grewia tiliifolia flowers growing in axillary cymes"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Grewia tiliifolia are simple with an alternate arrangement. They are 5 to 30 cm long by 3 to 20 cm wide. The leaves show a lot of variations. They are broadly or obliquely ovate to round in shape. The leaf base is obliquely cordate or subcordate. The apex is acute. The margin is double serrate or crenate-serrate. The lateral stipules are less than 1 cm, sickle shaped and foliaceous. The petiole is 1 to 3 cm long, stout and pubescent with a swollen tip. The leaves are glabrescent on the upper side and hairy pubescent on the lower side. They are coriaceous, with 5 to 7 prominent ribs from the base and 3 to 6 pairs of lateral nerves.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Grewia tiliifolia are simple with an alternate arrangement. <br>They are 5 to 30 cm long by 3 to 20 cm wide. The leaves show a lot of variations. <br>They are broadly or obliquely ovate to round in shape. The leaf base is obliquely cordate or subcordate. The apex is acute. <br>The margin is double serrate or crenate-serrate. <br>The lateral stipules are less than 1 cm, sickle shaped and foliaceous. <br>The petiole is 1 to 3 cm long, stout and pubescent with a swollen tip. <br>The leaves are glabrescent on the upper side and hairy pubescent on the lower side. <br>They are coriaceous, with 5 to 7 prominent ribs from the base and 3 to 6 pairs of lateral nerves.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gr.ti_lf1.jpg",
+          "caption": "Grewia tiliifolia young leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gr.ti_lf2.jpg",
+          "caption": "Grewia tiliifolia leaf with serrate margin (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gr.ti_lf3.jpg",
+          "caption": "Grewia tiliifolia leaves growing from the main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gr.ti_lf4.jpg",
+          "caption": "Grewia tiliifolia leaves (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Grewia tiliifolia is a medium sized deciduous tree growing up to 6 m in height. It is found as a large tree in different conditions. Also know as Grewia amicorum.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Grewia tiliifolia is a medium sized deciduous tree growing up to 6 m in height. <br>It is found as a large tree in different conditions.<br>Also know as <i>Grewia amicorum.</i></p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gr.ti_ha1.jpg",
+          "caption": "Grewia tiliifolia habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

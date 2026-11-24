@@ -1,0 +1,371 @@
+{
+  "species_id": 41,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=41",
+  "scraped_at": "2025-10-03T04:30:47.313807Z",
+  "basic_info": {
+    "scientific_name": "Carissa spinarum",
+    "authority": "L.",
+    "family": "Apocynaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/carissa_spinarum.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.sp_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99453 N",
+      "longitude": "79.82357 E",
+      "raw": "11.99453 N - 79.82357 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Carissa spinarum",
+    "author": "Linnaeus, Carl von (1771)",
+    "family": "Apocynaceae",
+    "english_names": "Bush plum , Christ's thorn, conkerberry, spiny carissa, wild karanda",
+    "indian_names": {
+      "Hindi": [
+        "Jangli karonda",
+        "karaunda"
+      ],
+      "Kannada": [
+        "Karikayi"
+      ],
+      "Malayalam": [
+        "Klavu",
+        "perumklavy",
+        "karanta"
+      ],
+      "Marathi": [
+        "Karvand"
+      ],
+      "Sanskrit": [
+        "Karamardah"
+      ],
+      "Tamil": [
+        "Kala",
+        "sirukilaa"
+      ],
+      "Telugu": [
+        "Peddakalavi",
+        "vaka"
+      ]
+    },
+    "synonyms": [
+      "Antura edulis",
+      "Antura hadiensis",
+      "Arduina brownii",
+      "Arduina campenonii",
+      "Arduina edulis",
+      "Arduina inermis",
+      "Arduina laxiflora",
+      "Arduina xylopicron",
+      "Azima pubescens",
+      "Cabucala brachyantha",
+      "Carandas edulis",
+      "Carissa abyssinica",
+      "Carissa axillaris",
+      "Carissa brownii",
+      "Carissa brownii var. angustifolia",
+      "Carissa campenonii",
+      "Carissa candolleana",
+      "Carissa carandas var. congesta",
+      "Carissa carandas var. paucinervia",
+      "Carissa cochinchinensis",
+      "Carissa comorensis",
+      "Carissa congesta",
+      "Carissa coriacea",
+      "Carissa coriacea",
+      "Carissa cornifolia",
+      "Carissa dalzellii",
+      "Carissa densiflora",
+      "Carissa densiflora var. microphylla",
+      "Carissa diffusa",
+      "Carissa dulcis",
+      "Carissa edulis",
+      "Carissa edulis var. ambungana",
+      "Carissa edulis var. comorensis",
+      "Carissa edulis subsp. continentalis",
+      "Carissa edulis var. densiflora",
+      "Carissa edulis var. edulis",
+      "Carissa edulis var. horrida",
+      "Carissa edulis var. lucubea",
+      "Carissa edulis subsp. madagascariensis",
+      "Carissa edulis var. major",
+      "Carissa edulis var. microphylla",
+      "Carissa edulis f. nummularis",
+      "Carissa edulis var. nummularis",
+      "Carissa edulis f. pubescens",
+      "Carissa edulis var. revoluta",
+      "Carissa edulis var. sechellensis",
+      "Carissa edulis var. septentrionalis",
+      "Carissa edulis var. subtrinervia",
+      "Carissa gangetica",
+      "Carissa hirsuta",
+      "Carissa horrida",
+      "Carissa inermis",
+      "Carissa lanceolata",
+      "Carissa lanceolata",
+      "Carissa laotica",
+      "Carissa laotica var. ferruginea",
+      "Carissa laxiflora",
+      "Carissa macrophylla",
+      "Carissa macrophylla",
+      "Carissa madagascariensis",
+      "Carissa mitis",
+      "Carissa obovata",
+      "Carissa oleoides",
+      "Carissa opaca",
+      "Carissa ovata",
+      "Carissa ovata var. pubescens",
+      "Carissa ovata var. stolonifera",
+      "Carissa papuana",
+      "Carissa paucinervia",
+      "Carissa pilosa",
+      "Carissa pubescens",
+      "Carissa revoluta",
+      "Carissa richardiana",
+      "Carissa scabra",
+      "Carissa sechellensis",
+      "Carissa septentrionalis",
+      "Carissa spinarum",
+      "Carissa suavissima",
+      "Carissa tomentosa",
+      "Carissa velutina",
+      "Carissa villosa",
+      "Carissa xylopicron",
+      "Carissa yunnanensis",
+      "Jasminonerium densiflorum",
+      "Jasminonerium dulce",
+      "Jasminonerium edule",
+      "Jasminonerium inerme",
+      "Jasminonerium laxiflorum",
+      "Jasminonerium madagascariense",
+      "Jasminonerium ovatum",
+      "Jasminonerium pubescens",
+      "Jasminonerium sechellense",
+      "Jasminonerium suavissimum",
+      "Jasminonerium tomentosum",
+      "Jasminonerium xylopicron",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nCarissa\n: In Sanskrit\nkryshina\nmeans dark blue or black, the colour of the ripe fruits of the plant.\n-\nSpinarum\n: Meaning spiny, with spines.",
+    "etymology_html": "<p>-<i>Carissa</i> : In Sanskrit <i>kryshina</i> means dark blue or black, the colour of the ripe fruits of the plant.<br>-<i>Spinarum</i> : Meaning spiny, with spines.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Carissa spinarum is brown, rough with scales. It is smooth and green on young stems. Carissa spinarum has 3-4 cm long and opposite spines. The thorns are sometimes forked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Carissa spinarum</i> is brown, rough with scales. It is smooth and green on young stems. <i>Carissa spinarum</i> has 3-4 cm long and opposite spines. The thorns are sometimes forked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/carissa_spinarum_stem1.jpg",
+          "caption": "Carissa spinarum thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/carissa_spinarum_stem2.jpg",
+          "caption": "Carissa spinarum stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/carissa_spinarum_stem3.jpg",
+          "caption": "Carissa spinarum forked thorn"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Carissa spinarum are ellipsoid and compressed. They are light brown, 6 mm long and 5 mm wide. There are usually 4 seeds in a berry.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Carissa spinarum</i> are ellipsoid and compressed. They are light brown, 6 mm long and 5 mm wide. There are usually 4 seeds in a berry.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/carissa_spinarum_seed1.jpg",
+          "caption": "Carissa spinarum seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/carissa_spinarum_seed2.jpg",
+          "caption": "Carissa spinarum seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Carissa spinarum is a berry . The fruit is ovoid-ellipsoid, 1 cm long and 8 mm wide. The berry is green, reddish and finally purplish black when ripe. It contains usually 4 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Carissa spinarum</i> is a <strong>berry</strong>. The fruit is ovoid-ellipsoid, 1 cm long and 8 mm wide. The berry is green, reddish and finally purplish black when ripe. It contains usually 4 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit1.jpg",
+          "caption": "Carissa spinarum unripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit2.jpg",
+          "caption": "Carissa spinarum unripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit3.jpg",
+          "caption": "Carissa spinarum ripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit4.jpg",
+          "caption": "Carissa spinarum unripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit5.jpg",
+          "caption": "Carissa spinarum unripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/carissa_spinarum_fruit6.jpg",
+          "caption": "Carissa spinarum ripe"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Carissa spinarum are grouped in terminal or axillary cymes. The pedicel of the flowers is short (less than 2 mm long). The calyx is composed of 5 sepals. The calyx-lobes are 2 mm long and 1.5 mm wide, they are ovate with acute-acuminate apex. The calyx is pubescent and light green coloured. The corolla is composed of 5 white coloured (sometimes pinkish at the apex) and glabrous petals. The corolla tube is 1.5 cm long and 2 mm in diameter and light green coloured. The corolla lobes are ovate with acuminate apex, 1.2 cm long and 5 mm wide, white coloured. The androecium is composed of 5 stamens. The pistil is composed of a 4 mm long style and a forked stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Carissa spinarum</i> are grouped in terminal or axillary cymes. The <strong>pedicel</strong> of the flowers is short (less than 2 mm long).<br>The <strong>calyx</strong> is composed of 5 sepals. The calyx-lobes are 2 mm long and 1.5 mm wide, they are ovate with acute-acuminate apex. The calyx is pubescent and light green coloured.<br>The <strong>corolla</strong> is composed of 5 white coloured (sometimes pinkish at the apex) and glabrous petals. The corolla tube is 1.5 cm long and 2 mm in diameter and light green coloured. The corolla lobes are ovate with acuminate apex, 1.2 cm long and 5 mm wide, white coloured.<br>The <strong>androecium</strong> is composed of 5 stamens.<br>The <strong>pistil</strong> is composed of a 4 mm long style and a forked <strong>stigma</strong>. The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower1.jpg",
+          "caption": "Carissa spinarum inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower2.jpg",
+          "caption": "Carissa spinarum cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower3.jpg",
+          "caption": "Carissa spinarum cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower4.jpg",
+          "caption": "Carissa spinarum flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower5.jpg",
+          "caption": "Carissa spinarum flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower6.jpg",
+          "caption": "Carissa spinarum flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower7.jpg",
+          "caption": "Carissa spinarum flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower8.jpg",
+          "caption": "Carissa spinarum flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower9.jpg",
+          "caption": "Carissa spinarum flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/carissa_spinarum_flower10.jpg",
+          "caption": "Carissa spinarum in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Carissa spinarum grow opposite on the stem. The leaf is simple, bright green coloured above and paler beneath. The leaf is shiny, coriaceous and glabrous on both sides. The leaves have a 2 mm long petiole . The leaf of Carissa spinarum is 3-5 cm long and 2-3 cm wide. The shape is ovoid-ovate, the apex is acuminate (sometimes with a short bristle), the base is cuneate or rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Carissa spinarum</i> grow opposite on the stem.<br>The leaf is simple, bright green coloured above and paler beneath. The leaf is shiny, coriaceous and glabrous on both sides.<br>The leaves have a 2 mm long <strong>petiole</strong>.<br>The leaf of <i>Carissa spinarum</i> is 3-5 cm long and 2-3 cm wide. The shape is ovoid-ovate, the <strong>apex</strong> is acuminate (sometimes with a short bristle), the <strong>base</strong> is cuneate or rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf1.jpg",
+          "caption": "Carissa spinarum branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf2.jpg",
+          "caption": "Carissa spinarum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf3.jpg",
+          "caption": "Carissa spinarum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf4.jpg",
+          "caption": "Carissa spinarum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf5.jpg",
+          "caption": "Carissa spinarum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf6.jpg",
+          "caption": "Carissa spinarum branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/carissa_spinarum_leaf7.jpg",
+          "caption": "Carissa spinarum foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Carissa spinarum is an evergreen shrub , up to 4 m. This shrub is thorny, erect and scrambling (for this reason it is often describe as a climber). Carissa spinarum is armed with straight woody spines often in pairs and it has a milky latex.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Carissa spinarum</i> is an <strong>evergreen shrub</strong>, up to 4 m. This shrub is thorny, erect and scrambling (for this reason it is often describe as a climber). <i>Carissa spinarum</i> is armed with straight woody spines often in pairs and it has a milky latex.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/carissa_spinarum_habit1.jpg",
+          "caption": "Carissa spinarum shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/carissa_spinarum_habit2.jpg",
+          "caption": "Carissa spinarum young shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/carissa_spinarum_habit3.jpg",
+          "caption": "Carissa spinarum branch"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "In india, Carissa spinarum is found in deciduous forests and scrub jungles from the coastal plains up to 1000 m in the hills. Carissa spinarum is most often found in semiarid coastal regions on fine-textured soils such as clays and clay-loams. In more arid regions the plant tends to be confined to areas of higher moisture such as at the base of hills or floodout areas. But it has a high ecological tolerance and can live in a wide range of habitats ( https://en.wikipedia.org/wiki/Carissa_spinarum ).",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p>In india, <i>Carissa spinarum</i> is found in deciduous forests and scrub jungles from the coastal plains up to 1000 m in the hills.<br><i>Carissa spinarum</i> is most often found in semiarid coastal regions on fine-textured soils such as clays and clay-loams. In more arid regions the plant tends to be confined to areas of higher moisture such as at the base of hills or floodout areas. But it has a high ecological tolerance and can live in a wide range of habitats (<i>https://en.wikipedia.org/wiki/Carissa_spinarum</i>).</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Carissa spinarum is widely distributed in tropical regions of Africa, Southern Asia, Australia, and various islands of the Indian Ocean.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Carissa spinarum</i> is widely distributed in tropical regions of Africa, Southern Asia, Australia, and various islands of the Indian Ocean.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Carissa spinarum is bisexual (each flower of each individual has both male and female structures). Carissa spinarum is pollinated by a wide variety of insects. The seeds of Carissa spinarum are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Carissa spinarum</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Carissa spinarum</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Carissa spinarum</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/carissa_spinarum_reproduction1.jpg",
+          "caption": "Carissa spinarum pistils"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The roots of Carissa spinarum are ground and put into the wounds of cattle to kill worms. Source : Chopra, 1956, Glossary of Indian medicinal plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>roots</strong> of <i>Carissa spinarum</i> are ground and put into the wounds of cattle to kill worms.<br><br><i>Source : Chopra, 1956, Glossary of Indian medicinal plants</i></p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruits of Carissa spinarum are edible, but only when fully ripe. The black berries have a sweet flavour but the milky sap of this plant is poisonous (as typical for the Apocynaceae).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruits</strong> of <i>Carissa spinarum</i> are edible, but only when fully ripe. The black berries have a sweet flavour but the milky sap of this plant is poisonous (as typical for the Apocynaceae).</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "In traditional medicine Carissa spinarum is used as a diuretic, purgative, antiviral, antibacterial, antiplasmodial, febrifuge, hypotensive, antioxidant and cardiotonic. The branches and leaves decoction are used for headache, chest pains, rheumatism, syphilis, dysentery and fever. The boiled root extract is drunk for chest pain, indigestion, diarrhea, typhoid fever, nose bleeding, lower abdominal pains in pregnant mothers, headache and fever in children. ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants ) The juice of the fresh plant is used for infected wounds that refuse to heal. The Ayurvedic Pharmacopoeia of India indicated the stem bark in obstinate skin diseases and the root in urinary disorders. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The roots are used to treat mouth ulcers.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>In traditional medicine <i>Carissa spinarum</i> is used as a diuretic, purgative, antiviral, antibacterial, antiplasmodial, febrifuge, hypotensive, antioxidant and cardiotonic.<br><br>The <strong>branches and leaves decoction</strong> are used for headache, chest pains, rheumatism, syphilis, dysentery and fever.<br>The <strong>boiled root extract</strong> is drunk for chest pain, indigestion, diarrhea, typhoid fever, nose bleeding, lower abdominal pains in pregnant mothers, headache and fever in children. (<i>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i>)<br><br>The <strong>juice of the fresh plant</strong> is used for infected wounds that refuse to heal. The <i>Ayurvedic Pharmacopoeia of India</i> indicated the stem bark in obstinate skin diseases and the root in urinary disorders. (<i>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i>)<br><br>The <strong>roots</strong> are used to treat mouth ulcers.</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Carissa spinarum is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun. Carissa spinarum is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Carissa spinarum</i> is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in full sun.<br><i>Carissa spinarum</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

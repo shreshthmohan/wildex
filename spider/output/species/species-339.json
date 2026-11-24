@@ -1,0 +1,162 @@
+{
+  "species_id": 339,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=339",
+  "scraped_at": "2025-10-03T13:04:02.050870Z",
+  "basic_info": {
+    "scientific_name": "Opuntia monacanthos",
+    "authority": null,
+    "family": "Cactaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/661d2acda1583_661d2acda1579_Op.mo_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Op.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Apr, 2024",
+    "collected_by": "M.D, S.S",
+    "gps_coordinates": {
+      "latitude": "12°10'38 N",
+      "longitude": "79°55'29 E",
+      "raw": "12°10'38 N - 79°55'29 E"
+    },
+    "locality": "Marakkanam RF, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Opuntia monacanthos",
+    "author": "(Willd.) Haw, Stephen G. (1819)",
+    "family": "Cactaceae",
+    "english_names": "Common prickly pear, Drooping prickly pear, Barbary Fig",
+    "indian_names": null,
+    "synonyms": [
+      "Cactus monacanthos",
+      "Cactus indicus",
+      "Cactus opuntia var. parvifolius",
+      "Cactus urumbeba",
+      "Opuntia deflexa",
+      "Opuntia gracilior",
+      "Opuntia inermis",
+      "Opuntia lemaireana",
+      "Opuntia monacanthos var. deflexa",
+      "Opuntia monacanthos var. gracilior",
+      "Opuntia monacanthos f. jejuensis",
+      "Opuntia monacanthos var. variegata",
+      "Opuntia roxburghiana",
+      "Opuntia urumbeba",
+      "Opuntia vulgaris var. lemaireana"
+    ],
+    "etymology": "-\nOpuntia\n: From the name given to a plant growing around Opus, a city in Greece.\n-\nmonacanthos\n: From the Greek\nmono\n- one and\nacanthos\n- thorn, alluding to the fact that spines generally occur singly, unlike many other species where spines appear in the groups of 2-4.",
+    "etymology_html": "<p>- <i>Opuntia</i>: From the name given to a plant growing around Opus, a city in Greece.<br>- <i>monacanthos</i>: From the Greek <i>mono</i>- one and <i>acanthos</i>- thorn, alluding to the fact that spines generally occur singly, unlike many other species where spines appear in the groups of 2-4.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The trunk of Opuntia monacanthos is much branched at the top and has drooping upper branches. The stem segments which are called cladodes or pads are thin, flat and narrowly obovate to oblong-lanceolate in shape. The margin of the cladode is undulate toward the apex and the base is somewhat cuneate. The cladodes are 10 to 35 cm long and 7.5 to 12.5 cm wide. They are bright shiny green in colour when young. The cladode bears widely spaced areoles which are grey in colour. The areoles on the cladodes are with 1 to 3 grey-yellow or red-brown spines with darker tips, while the trunk areoles have 10 or more spines. The straight thorns, usually found single, are 3 to 7 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The trunk of Opuntia monacanthos is much branched at the top and has drooping upper branches. <br>The stem segments which are called cladodes or pads are thin, flat and narrowly obovate to oblong-lanceolate in shape. <br>The margin of the cladode is undulate toward the apex and the base is somewhat cuneate. <br>The cladodes are 10 to 35 cm long and 7.5 to 12.5 cm wide. <br>They are bright shiny green in colour when young. <br>The cladode bears widely spaced areoles which are grey in colour. <br>The areoles on the cladodes are with 1 to 3 grey-yellow or red-brown spines with darker tips, while the trunk areoles have 10 or more spines. <br>The straight thorns, usually found single, are 3 to 7 cm long. <br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th1.jpg",
+          "caption": "Opuntia monacanthos flat thin cladode"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th2.jpg",
+          "caption": "Opuntia monacanthos straight thorns by 1 to 3"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th3.jpg",
+          "caption": "Opuntia monacanthos cladode base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th4.jpg",
+          "caption": "Opuntia monacanthos cladode with straight thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th5.jpg",
+          "caption": "Opuntia monacanthos base of the cladode with areoles"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Op.mo_th6.jpg",
+          "caption": "Opuntia monacanthos cladode slice open to show the base of a thorn inside"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Opuntia monacanthos is a fleshy thornless pear-like berry. It is red-purple in colour at maturity. Its shape is conical to obovoid. It is 5 to 7.5 cm long and 4 to 5 cm across. The fruits are persistent on the plant and they are edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Opuntia monacanthos is a fleshy thornless pear-like berry. <br>It is red-purple in colour at maturity. Its shape is conical to obovoid. <br>It is 5 to 7.5 cm long and 4 to 5 cm across. <br>The fruits are persistent on the plant and they are edible.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Opuntia monacanthos are yellow to dark yellow in colour. They are 7.5 to 10 cm long and 5 to 8 cm across. The outer perianth parts are yellow in colour with a reddish median stripe. The inner perianth parts are yellow to orange, with green to white staminal filaments. The style is green, about 2 cm long. The stigma lobes are cream yellow and less than 1 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Opuntia monacanthos are yellow to dark yellow in colour. <br>They are 7.5 to 10 cm long and 5 to 8 cm across. <br>The outer perianth parts are yellow in colour with a reddish median stripe. <br>The inner perianth parts are yellow to orange, with green to white staminal filaments. <br>The style is green, about 2 cm long. <br>The stigma lobes are cream yellow and less than 1 cm long.</p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Opuntia monacanthos are simple, succulent and deciduous. They are found on new growth only. The leaves are dark red or brown in colour and covered with white spots. They are lanceolate in shape. They are about 5 mm long. hey are growing at the base of the areoles and single thorns.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Opuntia monacanthos are simple, succulent and deciduous. <br>They are found on new growth only. <br>The leaves are dark red or brown in colour and covered with white spots. <br>They are lanceolate in shape. They are about 5 mm long. <br>hey are growing at the base of the areoles and single thorns.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf1.jpg",
+          "caption": "Opuntia monacanthos cladodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf2.jpg",
+          "caption": "Opuntia monacanthos new leaves on a young cladode"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf3.jpg",
+          "caption": "Opuntia monacanthos new leaves on a young cladode"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf4.jpg",
+          "caption": "Opuntia monacanthos cladode with leaves at the base of the areoles and thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf9.jpg",
+          "caption": "Opuntia monacanthos upper part of the cladode with red succulent leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf5.jpg",
+          "caption": "Opuntia monacanthos red leaf and straight white thorn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf6.jpg",
+          "caption": "Opuntia monacanthos new leaves and velvet areoles at the base of the future spikes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf7.jpg",
+          "caption": "Opuntia monacanthos cladode base with grey areoles"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Op.mo_lf8.jpg",
+          "caption": "Opuntia monacanthos cladode cut in half to show its inner texture"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Opuntia monacanthos is a succulent spiny cactus growing up to 5 m tall. It is often with a clear trunk, much branched with drooping upper branches. It spreads rapidly via seed and from broken cladodes, forming impenetrable thicket.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Opuntia monacanthos is a succulent spiny cactus growing up to 5 m tall. <br>It is often with a clear trunk, much branched with drooping upper branches. <br>It spreads rapidly via seed and from broken cladodes, forming impenetrable thicket.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Op.mo_ha1.jpg",
+          "caption": "Opuntia monacanthos habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Op.mo_ha2.jpg",
+          "caption": "Opuntia monacanthos habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

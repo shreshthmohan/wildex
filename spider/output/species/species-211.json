@@ -1,0 +1,105 @@
+{
+  "species_id": 211,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=211",
+  "scraped_at": "2025-10-02T18:15:43.057292Z",
+  "basic_info": {
+    "scientific_name": "Limonia acidissima",
+    "authority": null,
+    "family": "Rutaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/6246949c028dc_6246949c028d2_Li.ac_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Li.ac_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "29 Dec, 2021",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.9876 N 79.8055 E\n12.2241 N 79.0530 E"
+    },
+    "locality": "Auroville and Tiruvanamalai, Tamil Nadu, India"
+  },
+  "nomenclature": {},
+  "description": {
+    "stem_bark": {
+      "text": "The bark is Limonia acidissima is brown in colour, ridged with vertical fissures and rectangular flakes. Sharp and straight spines, pale in colour, are found in young growth. The spines are up to 2 cm in size.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark is Limonia acidissima is brown in colour, ridged with vertical fissures and rectangular flakes. <br>Sharp and straight spines, pale in colour, are found in young growth. <br>The spines are up to 2 cm in size.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c2773c52f_Li.ac_bk1.jpg",
+          "caption": "Limonia acidissima ridged bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c2834dd56_Li.ac_bk2.jpg",
+          "caption": "Limonia acidissima brown trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c28354c55_Li.ac_st1.jpg",
+          "caption": "Limonia acidissima main branch"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c2892bd67_Li.ac_st2.jpg",
+          "caption": "Limonia acidissima stem arrangment from the trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229c2be27495_Li.ac_th1.jpg",
+          "caption": "Limonia acidissima spines on young growth"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Limonia acidissima are numerous and less than 1 cm, embedded in the pulp contained in the woody rind. The seeds are oblong and compressed, white in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Limonia acidissima are numerous and less than 1 cm, embedded in the pulp contained in the woody rind. <br>The seeds are oblong and compressed, white in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229c25cbdb29_Li.ac_sd1.jpg",
+          "caption": "Limonia acidissima seeds extracted from the pulp and dried"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229c25f79c5a_Li.ac_sd2.jpg",
+          "caption": "Limonia acidissima oblong and compressed seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Limonia acidissima is mostly known for its hard woody ball, round to oval in shape. The fruit is a berry, 5 to 8 cm in diameter. The rind is green and brown outside and contains inside a dark brown sticky pulp. This pulp is edible, astringent, sweet or sour in taste.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Limonia acidissima is mostly known for its hard woody ball, round to oval in shape. <br>The fruit is a berry, 5 to 8 cm in diameter. <br>The rind is green and brown outside and contains inside a dark brown sticky pulp. <br>This pulp is edible, astringent, sweet or sour in taste.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229c20743d37_Li.ac_fr%201.jpg",
+          "caption": "Limonia acidissima fruits on tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229c20a3aa5f_Li.ac_fr2.jpg",
+          "caption": "Limonia acidissima hard woody fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229c242e7d03_Li.ac_fr3.jpg",
+          "caption": "Limonia acidissima open fruit showing the sticky pulp with numerous embedded seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/628f1747a48cc_li.ac_fr1.jpg",
+          "caption": "Limonia acidissima young fruit on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/628f1747915c2_li.ac_fr4.jpg",
+          "caption": "Limonia acidissima young unripe fruits"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

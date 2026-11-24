@@ -1,0 +1,233 @@
+{
+  "species_id": 334,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=334",
+  "scraped_at": "2025-10-02T19:03:54.787618Z",
+  "basic_info": {
+    "scientific_name": "Pterolobium hexapetalum",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/660e4854077f4_660e4854077eb_Pt.he_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Pt.he_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Feb, 2024",
+    "collected_by": "A.A.S, M.D, S.S",
+    "gps_coordinates": {
+      "raw": "11°59'13 N- 79°47'28 E12°10'20 N- 79°18'57 E"
+    },
+    "locality": "Edayanchavadi and Pakkamalai RF, Villupuram District, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Pterolobium hexapetalum",
+    "author": "(Roth) Santapau, Hermenegild and Wagh, Sharmila Kishor (1964)",
+    "family": "Fabaceae",
+    "english_names": "Indian Redwing",
+    "indian_names": null,
+    "synonyms": [
+      "Caesalpinia lacerans",
+      "Cantuffa hexapetala",
+      "Cantuffa indica",
+      "Cantuffa lacerans",
+      "Pterolobium indicum",
+      "Pterolobium insigne",
+      "Pterolobium lacerans",
+      "Reichardia hexapetala",
+      "Reichardia pentapetala"
+    ],
+    "etymology": "-\nPterolobium\n: From the Greek\nptero\n- wing and\nlobium\n- capsule, for the shape of the winged samara.\n-\nhexapetalum\n: From the Greek\nhexa\n- six and\npetalum\n, describing the shape of the flower.",
+    "etymology_html": "<p>- <i>Pterolobium</i>: From the Greek <i>ptero</i>- wing and <i>lobium</i>- capsule, for the shape of the winged samara.<br>- <i>hexapetalum</i>: From the Greek <i>hexa</i>- six and <i>petalum</i>, describing the shape of the flower.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stems of Pterolobium hexapetalum are strongly and profusely armed. The thorns are about 2 mm long and recurved. They are growing a protuberance at their base which can be up to 5 cm long in old specimen. The thorns are red in colour when young and become dark grey with age. The mature stems are grey in colour. The branchlets are puberulus, stellate-tomentose and light green in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stems of Pterolobium hexapetalum are strongly and profusely armed. <br>The thorns are about 2 mm long and recurved. <br>They are growing a protuberance at their base which can be up to 5 cm long in old specimen.<br>The thorns are red in colour when young and become dark grey with age.<br>The mature stems are grey in colour. <br>The branchlets are puberulus, stellate-tomentose and light green in colour. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st9.jpg",
+          "caption": "Pterolobium hexapetalum mature armed stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st1.jpg",
+          "caption": "Pterolobium hexapetalum red young stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st10.jpg",
+          "caption": "Pterolobium hexapetalum mature thorns with protuberance at its base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st11.jpg",
+          "caption": "Pterolobium hexapetalum mature thorn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st2.jpg",
+          "caption": "Pterolobium hexapetalum red thorn on pubescent leaf rachis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st3.jpg",
+          "caption": "Pterolobium hexapetalum young branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st4.jpg",
+          "caption": "Pterolobium hexapetalum pair of red recurved thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st5.jpg",
+          "caption": "Pterolobium hexapetalum 3 thorns on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st8.jpg",
+          "caption": "Pterolobium hexapetalum singular thorn on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Pt.he_st12.jpg",
+          "caption": "Pterolobium hexapetalum old thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Pterolobium hexapetalum are solitary, enclosed at the base of the pod. They are 1 cm long by 0.5 cm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Pterolobium hexapetalum are solitary, enclosed at the base of the pod. <br>They are 1 cm long by 0.5 cm wide.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Pterolobium hexapetalum are flat oblong samara. The samara are indehiscent, apically winged, about 4 cm long and 1 cm wide. The enclosed single seed is green in colour but the terminal wing is prominent red.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Pterolobium hexapetalum are flat oblong samara. <br>The samara are indehiscent, apically winged, about 4 cm long and 1 cm wide. <br>The enclosed single seed is green in colour but the terminal wing is prominent red. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Pt.he_fr1.jpg",
+          "caption": "Pterolobium hexapetalum red unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Pt.he_fr2.jpg",
+          "caption": "Pterolobium hexapetalum samara"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Pterolobium hexapetalum are yellow-white in colour and 1.5 cm across. They grow in axillary or terminal racemes which are 15 cm long and 5 cm wide. The calyx tube is short, 4 mm long and persistent. The flower is comprised of 5 unequal lobes. The lower lobe is the longest, the others lobes are obovate-oblancelate and hooded. There are 5 to 6 petals which are sub-equal, spreading and sub-erect The petals are pubescent and clawed with a callose base.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Pterolobium hexapetalum are yellow-white in colour and 1.5 cm across. <br>They grow in axillary or terminal racemes which are 15 cm long and 5 cm wide. <br>The calyx tube is short, 4 mm long and persistent. <br>The flower is comprised of 5 unequal lobes.<br>The lower lobe is the longest, the others lobes are obovate-oblancelate and hooded. <br>There are 5 to 6 petals which are sub-equal, spreading and sub-erect<br>The petals are pubescent and clawed with a callose base. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Pt.he_fl1.jpg",
+          "caption": "Pterolobium hexapetalum flowers in racemes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Pt.he_fl2.jpg",
+          "caption": "Pterolobium hexapetalum flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Pt.he_fl3.jpg",
+          "caption": "Pterolobium hexapetalum flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Pterolobium hexapetalum are double-compound, growing in an alternate arrangement. The leaves are 15 cm long and 7 cm wide. They have 4 to 7 pairs of pinnae. Each pinnae is about 5 cm long. The pinnae have 6 to 10 pairs of leaflets that are oblong-oblanceolate in shape. The leaflet apex is rounded, the base is oblique and pubescent and the margin is entire. The pinnae rachis ends in a bristle. The petiole can be up to 3 cm long. The leaves are chartaceous, caducous and glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Pterolobium hexapetalum are double-compound, growing in an alternate arrangement. <br>The leaves are 15 cm long and 7 cm wide. <br>They have 4 to 7 pairs of pinnae. Each pinnae is about 5 cm long. <br>The pinnae have 6 to 10 pairs of leaflets that are oblong-oblanceolate in shape. <br>The leaflet apex is rounded, the base is oblique and pubescent and the margin is entire. <br>The pinnae rachis ends in a bristle. The petiole can be up to 3 cm long. <br>The leaves are chartaceous, caducous and glabrous. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf1.jpg",
+          "caption": "Pterolobium hexapetalum foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf2.jpg",
+          "caption": "Pterolobium hexapetalum leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf3.jpg",
+          "caption": "Pterolobium hexapetalum young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf4.jpg",
+          "caption": "Pterolobium hexapetalum pinnae"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf5.jpg",
+          "caption": "Pterolobium hexapetalum leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf6.jpg",
+          "caption": "Pterolobium hexapetalum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf7.jpg",
+          "caption": "Pterolobium hexapetalum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf8.jpg",
+          "caption": "Pterolobium hexapetalum leaflet upper side (left) and lower side (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf9.jpg",
+          "caption": "Pterolobium hexapetalum young leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf10.jpg",
+          "caption": "Pterolobium hexapetalum leaflet petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf11.jpg",
+          "caption": "Pterolobium hexapetalum leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf12.jpg",
+          "caption": "Pterolobium hexapetalum pinnae (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf13.jpg",
+          "caption": "Pterolobium hexapetalum pinnae (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf14.jpg",
+          "caption": "Pterolobium hexapetalum armed rachis with pairs of recurved thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Pt.he_lf15.jpg",
+          "caption": "Pterolobium hexapetalum fast-closing leaflets after collection"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Pterolobium hexapetalum is a deciduous climber growing up to 10 m long. This straggler is profusely and strongly armed with recurved prickles, and has long arching branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Pterolobium hexapetalum is a deciduous climber growing up to 10 m long. <br>This straggler is profusely and strongly armed with recurved prickles, and has long arching branches. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Pt.he_ha5.jpg",
+          "caption": "Pterolobium hexapetalum old habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Pt.he_ha1.jpg",
+          "caption": "Pterolobium hexapetalum young habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Pt.he_ha2.jpg",
+          "caption": "Pterolobium hexapetalum habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Pt.he_ha3.jpg",
+          "caption": "Pterolobium hexapetalum habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Pt.he_ha4.jpg",
+          "caption": "Pterolobium hexapetalum habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

@@ -1,0 +1,177 @@
+{
+  "species_id": 240,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=240",
+  "scraped_at": "2025-10-03T02:05:18.052033Z",
+  "basic_info": {
+    "scientific_name": "Albizia lathamii",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/632455d670880_632455d670870_Al.la_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.la_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "09 Aug, 2022",
+    "collected_by": "A.A.S, M.D, R.S, S.P",
+    "gps_coordinates": {
+      "latitude": "11.5915 N",
+      "longitude": "79.4819 E",
+      "raw": "11.5915 N - 79.4819 E"
+    },
+    "locality": "Pandalkudi and Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Albizia lathamii",
+    "author": "Hole, Robert Selby (1913)",
+    "family": "Fabaceae",
+    "english_names": "Stipulate siris",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nAlbizia\n: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe\n-\nlathamii\n: after John Latham (1740-1837), English ornithologist and naturalist",
+    "etymology_html": "<p>- <i>Albizia</i>: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe<br>- <i>lathamii</i> : after John Latham (1740-1837), English ornithologist and naturalist</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Albizia lathamii is grey-brown in colour, rough and lenticellate. The branchlets are virgate (long, straight and thin). When young, the stems are brown and puberulous, at maturity they become glabrous with prominent white lenticels.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Albizia lathamii is grey-brown in colour, rough and lenticellate. <br>The branchlets are virgate (long, straight and thin). <br>When young, the stems are brown and puberulous, at maturity they become glabrous with prominent white lenticels.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632458a41e7a4_Al.la_bk1.jpg",
+          "caption": "Albizia lathamii stem with brown bark of a young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632458a6ad7d3_Al.la_bk2.jpg",
+          "caption": "Albizia lathamii brown bark with white lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632458eb72fe6_Al.la_st1.jpg",
+          "caption": "Albizia lathamii large branches of an old tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632458b434f3d_Al.la_st2.jpg",
+          "caption": "Albizia lathamii stem arrangement on a young tree"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Albizia lathamii are contained in the dry seedpods. The seeds are ellipsoid in shape, and less than 1 cm in size. They are about 2 to 6 in number inside each pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Albizia lathamii are contained in the dry seedpods. <br>The seeds are ellipsoid in shape, and less than 1 cm in size. <br>They are about 2 to 6 in number inside each pod.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Albizia lathamii are brown strap-shaped seedpods. They are flat, compressed, straight or slightly curved. The size of the pods is around 12 cm long and 2.5 cm wide, with a mucronate apex. When mature and dry, the seedpods turn black-brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Albizia lathamii are brown strap-shaped seedpods. <br>They are flat, compressed, straight or slightly curved. <br>The size of the pods is around 12 cm long and 2.5 cm wide, with a mucronate apex. <br>When mature and dry, the seedpods turn black-brown in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6324584a1bb60_Al.la_fr1.jpg",
+          "caption": "Albizia lathamii brown strap-shaped seedpod on the tree"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flower-heads of Albizia lathamii are bisexual and are arranged in globose axillary corymbs. The flower-heads are solitary or found in pairs of 2 or 3. They grow on stunted branches just below the leaf with a pubescent peduncle. There are about 5 to 20 white flowers per head. The corolla is funnel-shaped and densely pubescent without. There are around 50 exserted stamens per flower.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flower-heads of Albizia lathamii are bisexual and are arranged in globose axillary corymbs. <br>The flower-heads are solitary or found in pairs of 2 or 3. <br>They grow on stunted branches just below the leaf with a pubescent peduncle. <br>There are about 5 to 20 white flowers per head. <br>The corolla is funnel-shaped and densely pubescent without. <br>There are around 50 exserted stamens per flower.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/632457e662377_Al.la_fl1.jpg",
+          "caption": "Albizia lathamii flower-heads in globose corymb showing a numerous exserted stamens per flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/632457e946ace_Al.la_fl2.jpg",
+          "caption": "Albizia lathamii branches with flowers and fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/632457f06ba4e_Al.la_fl3.jpg",
+          "caption": "Albizia lathamii flower-heads on stem with open flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.la_fl4.jpg",
+          "caption": "Albizia lathamii buds and blooming flower-head with 12 white flowers on funnel-shaped corolla"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Albizia lathamii are compound, bipinnate with an alternate arrangement. The leaves are around 10 cm long and 4 cm wide, with a gland near the base. They are 2 to 4 pairs of pinnae, 1.5 cm to 5 cm long. Each pinnae is then divided into 10 to 20 opposite leaflets. The leaflets are oblong-obovate in shape with an unequal base. The leaflet apex is round or retuse, the margin is entire. The base is truncate and oblique. The upper side of the leaflet is glabrous when mature and sparsely tomentose on the lower side. The petiole is about 3 cm long and pubescent with a gland between the 2 terminal pinnae.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Albizia lathamii are compound, bipinnate with an alternate arrangement. <br>The leaves are around 10 cm long and 4 cm wide, with a gland near the base. <br>They are 2 to 4 pairs of pinnae, 1.5 cm to 5 cm long. <br>Each pinnae is then divided into 10 to 20 opposite leaflets. <br>The leaflets are oblong-obovate in shape with an unequal base.<br>The leaflet apex is round or retuse, the margin is entire. The base is truncate and oblique. <br>The upper side of the leaflet is glabrous when mature and sparsely tomentose on the lower side. <br>The petiole is about 3 cm long and pubescent with a gland between the 2 terminal pinnae.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245685a122e_Al.la_lf1.jpg",
+          "caption": "Albizia lathamii leaves on stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6324568731192_Al.la_lf2.jpg",
+          "caption": "Albizia lathamii compound and bipinnate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6324569031cd9_Al.la_lf3.jpg",
+          "caption": "Albizia lathamii leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245691adf56_Al.la_lf4.jpg",
+          "caption": "Albizia lathamii leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632456988cf57_Al.la_lf5.jpg",
+          "caption": "Albizia lathamii compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6324569b5c8b2_Al.la_lf6.jpg",
+          "caption": "Albizia lathamii compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.la_lf7.jpg",
+          "caption": "Albizia lathamii pinnae upper side (right) and lower side (left) with an unequal base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632456a53d4c0_Al.la_lf8.jpg",
+          "caption": "Albizia lathamii young leaf growth showing the gland at the leaf base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632456aca701b_Al.la_lf9.jpg",
+          "caption": "Albizia lathamii pubescent petiole with soft pair of brown stipule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.la_lf11.jpg",
+          "caption": "Albizia lathamii leaf stalk with a pair of stipule at the base and a brown small gland"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Albizia lathamii is a medium sized deciduous tree growing up to 10 m in height. This rare tree has a many-branched habit and it is thornless.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Albizia lathamii is a medium sized deciduous tree growing up to 10 m in height. <br>This rare tree has a many-branched habit and it is thornless.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/632455fbb6015_Al.la_ha1.jpg",
+          "caption": "Albizia lathamii large old specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/632455fd108c0_Al.la_ha2.jpg",
+          "caption": "Albizia lathamii large old tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63245602e8d8e_Al.la_ha3.jpg",
+          "caption": "Albizia lathamii large old specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/632456080b9aa_Al.la_ha4.jpg",
+          "caption": "Albizia lathamii young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

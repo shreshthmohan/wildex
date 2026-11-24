@@ -1,0 +1,261 @@
+{
+  "species_id": 73,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=73",
+  "scraped_at": "2025-10-02T17:54:22.338402Z",
+  "basic_info": {
+    "scientific_name": "Flueggea leucopyrus",
+    "authority": "Willd.",
+    "family": "Phyllanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/flueggea_leucopyrus.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fl.le_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "29 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99405 N",
+      "longitude": "79.82376 E",
+      "raw": "11.99405 N - 79.82376 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Flueggea leucopyrus",
+    "author": "Willdenow, Carl Ludwig von (1805)",
+    "family": "Phyllanthaceae",
+    "english_names": "Bushweed, Indian snow berry , white honey shrub",
+    "indian_names": {
+      "Hindi": [
+        "Ainta",
+        "Shinar"
+      ],
+      "Kannada": [
+        "Bilculi",
+        "gudahale"
+      ],
+      "Malayalam": [
+        "Mulpulanni"
+      ],
+      "Marathi": [
+        "Pandharphali"
+      ],
+      "Sanskrit": [
+        "Buriphali",
+        "panduphali"
+      ],
+      "Tamil": [
+        "Vellaippoola"
+      ],
+      "Telugu": [
+        "Pulugudu"
+      ]
+    },
+    "synonyms": [
+      "Acidoton leucopyrus",
+      "Cicca leucopyrus",
+      "Flueggea wallichiana",
+      "Flueggea xerocarpa",
+      "Phyllanthus albicans",
+      "Phyllanthus leucopyrus",
+      "Phyllanthus lucena",
+      "Securinega leucopyrus",
+      "Xylophylla lucena",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nFlueggea\n: In memory of the German physician and botanist Johann Flugge (1775-1816).\n-\nLeucopyrus\n: From the Greek\nleuco\n\"white\" and\npyrus\n\"pear\", in reference of the white-coloured fruit of the plant.",
+    "etymology_html": "<p>-<i>Flueggea</i> : In memory of the German physician and botanist Johann Flugge (1775-1816).<br>-<i>Leucopyrus</i> : From the Greek <i>leuco</i> \"white\" and <i>pyrus</i> \"pear\", in reference of the white-coloured fruit of the plant.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Flueggea leucopyrus is greyish-coloured, rough and longitudinally fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Flueggea leucopyrus</i> is greyish-coloured, rough and longitudinally fissured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/flueggea_leucopyrus_stem1.jpg",
+          "caption": "Multi-stemmed Flueggea leucopyrus"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/flueggea_leucopyrus_stem2.jpg",
+          "caption": "Flueggea leucopyrus stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/flueggea_leucopyrus_stem3.jpg",
+          "caption": "Flueggea leucopyrus stem and thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Flueggea leucopyrus are crescent-shaped, 2.5 mm long and 1.5 mm wide. The seed is light brown-coloured and there are 3-4 seeds per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Flueggea leucopyrus</i> are crescent-shaped, 2.5 mm long and 1.5 mm wide. The seed is light brown-coloured and there are 3-4 seeds per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/flueggea_leucopyrus_seed1.jpg",
+          "caption": "Flueggea leucopyrus seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/flueggea_leucopyrus_seed2.jpg",
+          "caption": "Flueggea leucopyrus seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Flueggea leucopyrus is a subglobose berry. The fruit is 5 mm across, green turning white when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Flueggea leucopyrus</i> is a subglobose berry. The fruit is 5 mm across, green turning white when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit1.jpg",
+          "caption": "Flueggea leucopyrus fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit2.jpg",
+          "caption": "Flueggea leucopyrus fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit3.jpg",
+          "caption": "Flueggea leucopyrus fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit4.jpg",
+          "caption": "Flueggea leucopyrus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit5.jpg",
+          "caption": "Flueggea leucopyrus fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/flueggea_leucopyrus_fruit6.jpg",
+          "caption": "Flueggea leucopyrus fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Flueggea leucopyrus are grouped in axillary clusters (few-flowered cymes). The flowers of Flueggea leucopyrus are unisexual (male and female flowers separated on the same individual). The male flowers have a 3-4 mm pedicel and 5 tepals . The tepals are ovate, 1 cm long and 0.7 cm wide and yellowish-coloured. The androecium is composed of 5 stamens. The filaments are 1.5 cm with small and globose anthers. The female flowers have 5 ovate and 0.8 mm long tepals . The styles are 0.7 mm long, connate at the base and with bifid stigmas. The ovary is ovoid, 0.5 cm across and 2-3-celled. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Flueggea leucopyrus</i> are grouped in axillary clusters (few-flowered cymes).<br>The <strong>flowers</strong> of <i>Flueggea leucopyrus</i> are unisexual (male and female flowers separated on the same individual).<br>The <strong>male flowers</strong> have a 3-4 mm pedicel and 5 <strong>tepals</strong>. The tepals are ovate, 1 cm long and 0.7 cm wide and yellowish-coloured.<br>The <strong>androecium</strong> is composed of 5 stamens. The filaments are 1.5 cm with small and globose anthers.<br>The <strong>female flowers</strong> have 5 ovate and 0.8 mm long <strong>tepals</strong>.<br>The <strong>styles</strong> are 0.7 mm long, connate at the base and with bifid stigmas. The <strong>ovary</strong> is ovoid, 0.5 cm across and 2-3-celled.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower1.jpg",
+          "caption": "Flueggea leucopyrus flowering branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower2.jpg",
+          "caption": "Flueggea leucopyrus inflorescences (male)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower3.jpg",
+          "caption": "Flueggea leucopyrus inflorescences (male)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower4.jpg",
+          "caption": "Flueggea leucopyrus male flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower5.jpg",
+          "caption": "Flueggea leucopyrus male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower6.jpg",
+          "caption": "Flueggea leucopyrus male inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower7.jpg",
+          "caption": "Flueggea leucopyrus male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/flueggea_leucopyrus_flower8.jpg",
+          "caption": "Flueggea leucopyrus in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Flueggea leucopyrus grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 5 mm long petiole . The leaf of Flueggea leucopyrus is 2-4 cm long and 1.5-3 cm wide. The shape of the blade is obovate, the apex is rounded, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Flueggea leucopyrus</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 5 mm long <strong>petiole</strong>.<br>The leaf of <i>Flueggea leucopyrus</i> is 2-4 cm long and 1.5-3 cm wide. The shape of the <strong>blade</strong> is obovate, the <strong>apex</strong> is rounded, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf1.jpg",
+          "caption": "Flueggea leucopyrus twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf2.jpg",
+          "caption": "Flueggea leucopyrus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf3.jpg",
+          "caption": "Flueggea leucopyrus leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf4.jpg",
+          "caption": "Flueggea leucopyrus leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf5.jpg",
+          "caption": "Flueggea leucopyrus leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf6.jpg",
+          "caption": "Flueggea leucopyrus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/flueggea_leucopyrus_leaf7.jpg",
+          "caption": "Flueggea leucopyrus leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Flueggea leucopyrus is a thorny and deciduous shrub growing up to 4-5 m high. It is profusely branched and it has arrested (thorn-like) and stiff branchlets.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Flueggea leucopyrus</i> is a thorny and <strong>deciduous shrub</strong> growing up to 4-5 m high. It is profusely branched and it has arrested (thorn-like) and stiff branchlets.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/flueggea_leucopyrus_habit1.jpg",
+          "caption": "Flueggea leucopyrus shrubs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/flueggea_leucopyrus_habit2.jpg",
+          "caption": "Flueggea leucopyrus in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Flueggea leucopyrus is monoecious with unisexual (male or female) flowers on the same individual. Flueggea leucopyrus is pollinated by a wide variety of insects (mainly by honey bees). The seeds of Flueggea leucopyrus are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Flueggea leucopyrus</i> is monoecious with unisexual (male or female) flowers on the same individual.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Flueggea leucopyrus</i> is pollinated by a wide variety of insects (mainly by honey bees).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Flueggea leucopyrus</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/flueggea_leucopyrus_reproduction1.jpg",
+          "caption": "Flueggea leucopyrus flowers pollinated by a common Indian crow butterfly (Euploea core)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/flueggea_leucopyrus_reproduction2.jpg",
+          "caption": "Flueggea leucopyrus flowers pollinated by a common Indian crow butterfly (Euploea core)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/flueggea_leucopyrus_reproduction3.jpg",
+          "caption": "Flueggea leucopyrus flowers pollinated by a honey bee (Apis cerana)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/flueggea_leucopyrus_reproduction4.jpg",
+          "caption": "Flueggea leucopyrus flowers pollinated by a syrphus fly"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/flueggea_leucopyrus_reproduction5.jpg",
+          "caption": "Flueggea leucopyrus flowers pollinated by a coleopterous insect"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From June to October. From August to December. From August to December. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From June to October.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From August to December.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From August to December.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "Flueggea leucopyrus is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight). The species is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Flueggea leucopyrus</i> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight).<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

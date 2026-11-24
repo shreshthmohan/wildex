@@ -1,0 +1,161 @@
+{
+  "species_id": 313,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=313",
+  "scraped_at": "2025-10-02T17:54:16.143903Z",
+  "basic_info": {
+    "scientific_name": "Phyllanthus pinnatus",
+    "authority": null,
+    "family": "Phyllanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/654e434a085c1_654e434a085b4_Ph.pi_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ph.pi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Oct, 2023",
+    "collected_by": "A.A.S, M.D, S.S",
+    "gps_coordinates": {
+      "latitude": "11°59'15",
+      "longitude": "79°48'18 E",
+      "raw": "11°59'15- 79°48'18 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Phyllanthus pinnatus",
+    "author": "(Wight) Webster, Grady Linder (1957)",
+    "family": "Phyllanthaceae",
+    "english_names": "Sand Potato Bush, Mopane Potato Bush",
+    "indian_names": null,
+    "synonyms": [
+      "Chorisandra pinnata",
+      "Chorizonema pinnata",
+      "Cluytiandra schinzii",
+      "Diasperus kirkianus",
+      "Diasperus pinnatus",
+      "Diasperus senensis",
+      "Phyllanthus kirkianus",
+      "Phyllanthus senensis"
+    ],
+    "etymology": "-\nPhyllanthus\n: From the Greek\nphyllo\n- leaf and\nanthus\n- flower, referring to the flowers growing in between the leaflets.\n-\npinnatus\n: From the Latin word meaning shaped like a feather, referring to the resemblance of the branchlets to pinnate leaves.",
+    "etymology_html": "<p>- <i>Phyllanthus</i>: From the Greek <i>phyllo</i>- leaf and <i>anthus</i>- flower, referring to the flowers growing in between the leaflets.<br>- <i>pinnatus</i>: From the Latin word meaning shaped like a feather, referring to the resemblance of the branchlets to pinnate leaves.</p>"
+  },
+  "description": {
+    "leaf": {
+      "text": "The leaves of Phyllanthus pinnatus are simple, growing in an alternate arrangement along lateral branchlets, giving the impression of compound leaves. The leaves are elliptic, ovate-elliptic, curved oblong-elliptic to round or obovate. The leaves are 0.50 to 2.30 cm long and 0.40 to 1.70 cm wide. They are obliquely wedge-shaped, pointed, with a blunt to rounded base and apiculate tip. They are membranous, hairless, pale glaucous on the lower side. The leaf stalks are less than 3 mm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Phyllanthus pinnatus are simple, growing in an alternate arrangement along lateral branchlets, giving the impression of compound leaves. <br>The leaves are elliptic, ovate-elliptic, curved oblong-elliptic to round or obovate. <br>The leaves are 0.50 to 2.30 cm long and 0.40 to 1.70 cm wide. <br>They are obliquely wedge-shaped, pointed, with a blunt to rounded base and apiculate tip. <br>They are membranous, hairless, pale glaucous on the lower side. <br>The leaf stalks are less than 3 mm long. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf1.jpg",
+          "caption": "Phyllanthus pinnatus lateral branchlets with simple leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf2.jpg",
+          "caption": "Phyllanthus pinnatus alternate leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf4.jpg",
+          "caption": "Phyllanthus pinnatus stem with nodule at the base of branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf7.jpg",
+          "caption": "Phyllanthus pinnatus foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf8.jpg",
+          "caption": "Phyllanthus pinnatus stem with lateral branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf9.jpg",
+          "caption": "Phyllanthus pinnatus leaves (upper side) on branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.pi_lf11.jpg",
+          "caption": "Phyllanthus pinnatus leaf upper side (left) and lower side (right)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Phyllanthus pinnatus is a deciduous bushy shrub or a small tree growing up to 4 m in height. It is often found unbranched.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Phyllanthus pinnatus is a deciduous bushy shrub or a small tree growing up to 4 m in height. <br>It is often found unbranched.</p>      \n    </div>",
+      "images": []
+    },
+    "stem_bark": {
+      "text": "The main branches of Phyllanthus pinnatus are rough with stipule-scars and reduced scaly leaves. The leaf-bearing branchlets are fascicled and 4 to 7 cm long. The bark is smooth, mottled and sometimes flaking. The stems are light grey in colour and the twigs are green when young.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The main branches of Phyllanthus pinnatus are rough with stipule-scars and reduced scaly leaves. <br>The leaf-bearing branchlets are fascicled and 4 to 7 cm long. <br>The bark is smooth, mottled and sometimes flaking. <br>The stems are light grey in colour and the twigs are green when young.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.pi_st1.jpg",
+          "caption": "Phyllanthus pinnatus rough bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.pi_st4.jpg",
+          "caption": "Phyllanthus pinnatus bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.pi_st3.jpg",
+          "caption": "Phyllanthus pinnatus stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.pi_st5.jpg",
+          "caption": "Phyllanthus pinnatus branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.pi_st6.jpg",
+          "caption": "Phyllanthus pinnatus nodule at the base of lateral branchlets"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Phyllanthus pinnatus are small, about 2.50 mm across. They are ovoid in shape, faintly lineate. They are pale brown in colour, with a deep dark hilar excavation (scar where the funicle was attached).",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Phyllanthus pinnatus are small, about 2.50 mm across. <br>They are ovoid in shape, faintly lineate. <br>They are pale brown in colour, with a deep dark hilar excavation (scar where the funicle was attached).</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Phyllanthus pinnatus are 3-lobed capsules. They are nearly spherical, 0.50 cm by 1 cm in size. The fruits are pendent and shallowly reticulate-venose. The fruits are crustaceous, wrinkled, with longitudinal nervation. They are pale green in colour turning yellow at maturity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Phyllanthus pinnatus are 3-lobed capsules. <br>They are nearly spherical, 0.50 cm by 1 cm in size. <br>The fruits are pendent and shallowly reticulate-venose. <br>The fruits are crustaceous, wrinkled, with longitudinal nervation. <br>They are pale green in colour turning yellow at maturity. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.pi_fr1.jpg",
+          "caption": "Phyllanthus pinnatus 3-lobed capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.pi_fr2.jpg",
+          "caption": "Phyllanthus pinnatus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.pi_fl1.jpg",
+          "caption": "Phyllanthus pinnatus immature fruit on long stalk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.pi_fl2.jpg",
+          "caption": "Phyllanthus pinnatus immature fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Phyllanthus pinnatus are green to yellow in colour. They are borne directly on older branches in many-flowered glomerules, often stalked. The plant is dioecious. The male flowers grow in clusters at proximal axils, the flower stalks are less than 1 cm long and thread-like, and the 6 stamens are protruding. The female flowers grow solitary at distal axils, the flower stalks are up to 3.7 cm long. The flower disc is subentire to 6-lobed and flat. The clusters of male flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Phyllanthus pinnatus are green to yellow in colour. <br>They are borne directly on older branches in many-flowered glomerules, often stalked. <br>The plant is dioecious. <br>The male flowers grow in clusters at proximal axils, the flower stalks are less than 1 cm long and thread-like, and the 6 stamens are protruding. <br>The female flowers grow solitary at distal axils, the flower stalks are up to 3.7 cm long. <br>The flower disc is subentire to 6-lobed and flat.<br>The clusters of male flowers are fragrant. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.pi_fl3.jpg",
+          "caption": "Phyllanthus pinnatus flower"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

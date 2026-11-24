@@ -1,0 +1,270 @@
+{
+  "species_id": 81,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=81",
+  "scraped_at": "2025-11-09T09:47:32.557622Z",
+  "basic_info": {
+    "scientific_name": "Albizia lebbeck",
+    "authority": "(L.) Benth.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/albizia_lebbeck.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.le_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Mar, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99552 N",
+      "longitude": "79.82363 E",
+      "raw": "11.99552 N - 79.82363 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Albizia lebbeck",
+    "author": null,
+    "family": "Fabaceae",
+    "english_names": "Lebbeck tree, siris tree, woman's tongues tree",
+    "indian_names": {
+      "Hindi": [
+        "Siris"
+      ],
+      "Kannada": [
+        "Begemara"
+      ],
+      "Malayalam": [
+        "Vaka"
+      ],
+      "Sanskrit": [
+        "Bhandi",
+        "sirisah"
+      ],
+      "Tamil": [
+        "Vaagai",
+        "vakai",
+        "siridam"
+      ],
+      "Telugu": [
+        "Dirisana"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Albizia lebbeck is rough, brown-coloured with dark and irregular flakes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Albizia lebbeck</em> is rough, brown-coloured with dark and irregular flakes.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/albizia_lebbeck_stem1.jpg",
+          "caption": "Albizia lebbeck trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/albizia_lebbeck_stem2.jpg",
+          "caption": "Albizia lebbeck bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Albizia lebbeck are flat and elliptic. They are 7-9 mm long and 7 mm wide, compressed in the middle. The seeds are light brown-coloured.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Albizia lebbeck</em> are flat and elliptic. They are 7-9 mm long and 7 mm wide, compressed in the middle. The seeds are light brown-coloured.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/albizia_lebbeck_seed1.jpg",
+          "caption": "Albizia lebbeck seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/albizia_lebbeck_seed2.jpg",
+          "caption": "Albizia lebbeck seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Albizia lebbeck is a flat pod up to 30 cm long (3-4 cm wide). The fruit is light straw-coloured when ripe, the apex and the base are usually rounded. Each pod contains up to 10-12 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Albizia lebbeck</em> is a flat <b>pod</b> up to 30 cm long (3-4 cm wide).<br>\nThe fruit is light straw-coloured when ripe, the apex and the base are usually rounded.<br>\nEach pod contains up to 10-12 seeds.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/albizia_lebbeck_fruit1.jpg",
+          "caption": "Albizia lebbeck ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/albizia_lebbeck_fruit2.jpg",
+          "caption": "Albizia lebbeck ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/albizia_lebbeck_fruit3.jpg",
+          "caption": "Albizia lebbeck unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/albizia_lebbeck_fruit4.jpg",
+          "caption": "Albizia lebbeck fruiting branches (ripe fruits)"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Albizia lebbeck are grouped in globose heads (at the upper axils of the new branchlets). The peduncle is 7 cm. The calyx-tube is urn-shaped, 6.5 mm long and 2.5-3 mm across. The calyx is 5-toothed, light green to yellowish-coloured and  finely pubescent. The corolla-tube is 8-9 mm long and 2-3 mm across. There are 5 corolla lobes. The lobes are triangular, 2 mm long and wide. The corolla is cream-greenish-coloured and glabrous or finely pubescent at the margins. The androecium is composed of numerous and filiform stamens. The filaments are 4 cm long with tiny and globose anthers. The androecium is green and whitish-coloured. The style is filiform and 4-4.5 cm long style with a minute and simple stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Albizia lebbeck</em> are grouped in globose heads (at the upper axils of the new branchlets). The <b>peduncle</b> is 7 cm.<br>\nThe <b>calyx-tube</b> is urn-shaped, 6.5 mm long and 2.5-3 mm across. The calyx is 5-toothed, light green to yellowish-coloured and  finely pubescent.<br>\nThe <b>corolla-tube</b> is 8-9 mm long and 2-3 mm across. There are 5 corolla lobes. The lobes are triangular, 2 mm long and wide. The corolla is cream-greenish-coloured and glabrous or finely pubescent at the margins.<br>\nThe <b>androecium</b> is composed of numerous and filiform stamens. The filaments are 4 cm long with tiny and globose anthers. The androecium is green and whitish-coloured.<br>\nThe <b>style</b> is filiform and 4-4.5 cm long style with a minute and simple <b>stigma</b>.<br>\nThe flowers are fragrant.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower1.jpg",
+          "caption": "Albizia lebbeck inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower2.jpg",
+          "caption": "Albizia lebbeck inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower3.jpg",
+          "caption": "Albizia lebbeck inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower4.jpg",
+          "caption": "Albizia lebbeck flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower5.jpg",
+          "caption": "Albizia lebbeck inflorescences in bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower6.jpg",
+          "caption": "Albizia lebbeck inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower7.jpg",
+          "caption": "Albizia lebbeck inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower8.jpg",
+          "caption": "Albizia lebbeck inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower9.jpg",
+          "caption": "Albizia lebbeck flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/albizia_lebbeck_flower10.jpg",
+          "caption": "Albizia lebbeck flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Albizia lebbeck grow alternately on the stem (spirally arranged). The leaf is compound, bi-paripinnate. The leaflets are bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (some minute hairs on the midrib beneath). The leaflets have a 2 mm long petiolule . The leaflets of Albizia lebbeck are 4-5 cm long and 2-2.5 cm wide. The shape of the blade is oblong, the apex is obtuse, the base is oblique and the margins are entire. The venation of the leaflets is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Albizia lebbeck</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is compound, bi-paripinnate.<br>\nThe leaflets are bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (some minute hairs on the midrib beneath).<br>\nThe leaflets have a 2 mm long <b>petiolule</b>.<br>\nThe leaflets of <em>Albizia lebbeck</em> are 4-5 cm long and 2-2.5 cm wide. The shape of the <b>blade</b> is oblong, the <b>apex</b> is obtuse, the <b>base</b> is oblique and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaflets is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf1.jpg",
+          "caption": "Albizia lebbeck leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf2.jpg",
+          "caption": "Albizia lebbeck leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf3.jpg",
+          "caption": "Albizia lebbeck leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf4.jpg",
+          "caption": "Albizia lebbeck leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf5.jpg",
+          "caption": "Albizia lebbeck compound leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/albizia_lebbeck_leaf6.jpg",
+          "caption": "Albizia lebbeck compound leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Albizia lebbeck is a medium to large-sized, unarmed and deciduous tree . It has usually a short and straight bole and a spreading crown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Albizia lebbeck</em> is a medium to large-sized, unarmed and <b>deciduous tree</b>. It has usually a short and straight bole and a spreading crown.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/albizia_lebbeck_habit1.jpg",
+          "caption": "Albizia lebbeck tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/albizia_lebbeck_habit2.jpg",
+          "caption": "Albizia lebbeck tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/albizia_lebbeck_habit3.jpg",
+          "caption": "Albizia lebbeck tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/albizia_lebbeck_habit4.jpg",
+          "caption": "Albizia lebbeck in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Albizia lebbeck</em> is found in dry deciduous forest and scrub jungles from the coastal plains up to 1200-1500 m in the hills.<br><br>\n<em>Albizia lebbeck</em> establishes well on fertile, well-drained loamy soils but poorly on heavy clays. The species tolerates acidity, alkalinity, heavy and eroded soils and waterlogged soils. (<em>Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide</em>)<br><br>\nThe tree is often planted (roadsides, tank bunds, agricultural boundaries...).        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          Indo-Malesia biogeographical region, South China.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Albizia lebbeck</em> is bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Albizia lebbeck</em>  is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>\nThe seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits of <em>Albizia lebbeck</em> burst and scatter the seeds.<br></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/albizia_lebbeck_reproduction1.jpg",
+          "caption": "Albizia lebbeck flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/albizia_lebbeck_reproduction2.jpg",
+          "caption": "Albizia lebbeck central flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/albizia_lebbeck_reproduction3.jpg",
+          "caption": "Albizia lebbeck filaments and anthers"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From February to June.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From April onwards (the pods are persistent).</li>\n      <li><span class=\"titchap\">Seeding season :</span> From April onwards.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Albizia lebbeck is useful for the control of erosion. It is used as a nitrogen fixing  tree and as soil improver (green manure).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Albizia lebbeck</em> is useful for the control of erosion. It is used as a nitrogen fixing  tree and as soil improver (green manure).      </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The leaves of Albizia lebbeck are a very good fodder (17-26% crude protein, 100 kg of leaves yield 11-12 kg of digestible protein, and 37 kg of digestible carbohydrates). The tree is grown in some areas primarily as fodder for camels, water buffalo and cattle. Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The leaves of <em>Albizia lebbeck</em> are a very good <b>fodder</b> (17-26% crude protein, 100 kg of leaves yield 11-12 kg of digestible protein, and 37 kg of digestible carbohydrates).<br>\nThe tree is grown in some areas primarily as fodder for camels, water buffalo and cattle.<br><br>\n\n<em>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide</em>      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Albizia lebbeck is durable and strong. It is used for high class furniture, panelling, parquet and stip flooring. It is used for house building, agricultural implements, boat buildings, toys, carving and turnery. The bark is used for tanning and dyeing. The dried and pounded bark is used in soap making. The trunk yields a reddish gum that is used as an adulterant of gum arabic. Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide ; Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Albizia lebbeck</em> is durable and strong. It is used for high class furniture, panelling, parquet and stip flooring. It is used for house building, agricultural implements, boat buildings, toys, carving and turnery.<br><br>\n\nThe <b>bark</b> is used for tanning and dyeing.<br>\nThe dried and pounded <b>bark</b> is used in soap making.<br><br>\n\nThe trunk yields a reddish <b>gum</b> that is used as an adulterant of gum arabic.<br><br>\n\n<em>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide ; Dastur, 2006, Useful Plants of India and Pakistan</em>  </p>\n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Albizia lebbeck is used in Ayurveda, Unani and Siddha medicines. The seeds of Albizia lebbeck are used for ophthalmic diseases. The oil extracted from the seeds was used in the treatment of leprosy. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The flowers are externally applied in boils, eruptions and swellings. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The flowers of Albizia lebbeck are also used in cough, bronchitis, tropical pulmonary\neosinophilia, and asthma. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The bark is used in bronchitis, piles and hemicrania. The Ayurvedic Pharmacopoeia of India indicates the use of the stem bark in rhinitis, sinusitis and migraine. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The bark extract is used against conception in women (spermicide). ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants ) The fruits are poisonous . ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      <em>Albizia lebbeck</em> is used in Ayurveda, Unani and Siddha medicines.<br><br>\n\nThe <b>seeds</b> of <em>Albizia lebbeck</em> are used for ophthalmic diseases.<br>\nThe <b>oil extracted from the seeds</b> was used in the treatment of leprosy. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)<br><br>\n\nThe <b>flowers</b> are externally applied in boils, eruptions and swellings. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)<br>\nThe flowers of <em>Albizia lebbeck</em> are also used in cough, bronchitis, tropical pulmonary\neosinophilia, and asthma. (<em>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</em>)<br><br>\n\nThe <b>bark</b> is used in bronchitis, piles and hemicrania.<br>\nThe <em>Ayurvedic Pharmacopoeia of India</em> indicates the use of the stem bark in rhinitis, sinusitis and migraine. (<em>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</em>)<br>\nThe <b>bark extract</b> is used against conception in women (spermicide). (<em>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</em>)<br><br>\n\n<b>The fruits are poisonous</b>. (<em>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</em>)      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Albizia lebbeck</em> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight).<br>\nThe species is propagated by seeds.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          24 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

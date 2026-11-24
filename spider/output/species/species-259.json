@@ -1,0 +1,219 @@
+{
+  "species_id": 259,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=259",
+  "scraped_at": "2025-11-02T17:24:01.442618Z",
+  "basic_info": {
+    "scientific_name": "Phyllanthus racemosus",
+    "authority": null,
+    "family": "Phyllanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/636e12210ecfc_636e12210ecf1_Ph.po_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ph.po_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "30 Jul, 2022",
+    "collected_by": "A.A.S., M.D., S.S.",
+    "gps_coordinates": {
+      "latitude": "12°09’06 N",
+      "longitude": "79°47’11 E",
+      "raw": "12°09’06 N - 79°47’11 E"
+    },
+    "locality": "Shakti Forest, Auroville and Kumalampattu RF, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Phyllanthus racemosus",
+    "author": "Willdenow, Carl Ludwig (1805)",
+    "family": "Phyllanthaceae",
+    "english_names": "Shrub amla",
+    "indian_names": null,
+    "synonyms": [
+      "Diasperus lawii",
+      "Diasperus nemorum",
+      "Phyllanthus juniperinoides",
+      "Phyllanthus nemorum",
+      "Phyllanthus polyphyllus",
+      ".",
+      "Phyllanthus spinulosu",
+      "Phyllanthus lawii"
+    ],
+    "etymology": "-\nPhyllanthus\n: From the Greek\nphylla\n\"leaf\" and\nanthos\n\"flower\" referring to the flowers growing on leaf-like branch, for some species\n-\nracemosus\n:",
+    "etymology_html": "<p>- <i>Phyllanthus</i>: From the Greek <i>phylla</i> \"leaf\" and <i>anthos</i> \"flower\" referring to the flowers growing on leaf-like branch, for some species<br>- <i>racemosus</i>: </p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Phyllanthus racemosus is brown-grey and smooth. When mature the bark has papery scales. The branches are woody and round, the young branchlets are angular to subterete. The branchlets at the base are sometimes puberulous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Phyllanthus racemosus is brown-grey and smooth. <br>When mature the bark has papery scales. <br>The branches are woody and round, the young branchlets are angular to subterete. <br>The branchlets at the base are sometimes puberulous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.po_bk1.jpg",
+          "caption": "Phyllanthus racemosus papery bark of a mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.po_bk3.jpg",
+          "caption": "Phyllanthus racemosus bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.po_bk2.jpg",
+          "caption": "Phyllanthus racemosus multi-trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.po_st1.jpg",
+          "caption": "Phyllanthus racemosus stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ph.po_st2.jpg",
+          "caption": "Phyllanthus racemosus dangling branch"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Phyllanthus racemosus are trigonous. They have 3 salient edges and their size is less than 0.5 cm. The seeds are minutely tuberculated.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Phyllanthus racemosus are trigonous. <br>They have 3 salient edges and their size is less than 0.5 cm. <br>The seeds are minutely tuberculated.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ph.po_sd1.jpg",
+          "caption": "Phyllanthus racemosus 3-valved mature capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ph.po_sd2.jpg",
+          "caption": "Phyllanthus racemosus seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ph.po_sd3.jpg",
+          "caption": "Phyllanthus racemosus seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Phyllanthus racemosus is a 3-valved capsule, resembling to a small gooseberry. The fruits are less than 0.5 cm in size. The capsules are green. At maturity, the capsule dehisces through fruit locules (small compartments of an ovary).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Phyllanthus racemosus is a 3-valved capsule, resembling to a small gooseberry. <br>The fruits are less than 0.5 cm in size. <br>The capsules are green. <br>At maturity, the capsule dehisces through fruit locules (small compartments of an ovary).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr1.jpg",
+          "caption": "Phyllanthus racemosus unripe capsule, resembling a small gooseberry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr2.jpg",
+          "caption": "Phyllanthus racemosus green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr3.jpg",
+          "caption": "Phyllanthus racemosus unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr4.jpg",
+          "caption": "Phyllanthus racemosus fruits and flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr5.jpg",
+          "caption": "Phyllanthus racemosus green unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr6.jpg",
+          "caption": "Phyllanthus racemosus unripe 3-valved fruit dissected in half"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ph.po_fr7.jpg",
+          "caption": "Phyllanthus racemosus at several states of maturity: from unripe (left side) to ripe and dry (right side)"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Phyllanthus racemosus are found in inflorescences, either male or female. The plant is monoecious, which means the same plant bears both male and female flowers. The flowers are small in size, less than 1 cm. They are growing in axillary clusters or solitary. They are green-white in colour. They have a 6-lobed calyx and 6-glandular central disk. The glands are globose and the margin is crenulate. The male flowers are found at the proximal axils, growing in glomerulate. The stamens are united in a column. The female flowers are found solitary at distal axils.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Phyllanthus racemosus are found in inflorescences, either male or female. <br>The plant is monoecious, which means the same plant bears both male and female flowers. <br>The flowers are small in size, less than 1 cm. <br>They are growing in axillary clusters or solitary. <br>They are green-white in colour. <br>They have a 6-lobed calyx and 6-glandular central disk. <br>The glands are globose and the margin is crenulate. <br>The male flowers are found at the proximal axils, growing in glomerulate. The stamens are united in a column. <br>The female flowers are found solitary at distal axils. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl1.jpg",
+          "caption": "Phyllanthus racemosus inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl2.jpg",
+          "caption": "Phyllanthus racemosus flowers blooming under the leaflet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl3.jpg",
+          "caption": "Phyllanthus racemosus stem with leaves and flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl4.jpg",
+          "caption": "Phyllanthus racemosus open flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl5.jpg",
+          "caption": "Phyllanthus racemosus flowers distribution"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ph.po_fl6.jpg",
+          "caption": "Phyllanthus racemosus small flower with the stamens are united in one column"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Phyllanthus racemosus are pinnate, with an alternate arrangement. They are linear-oblong in shape, less than 1 cm in size. The leaf base is obtuse as well as its apex. The leaf margin is entire. They are nearly stalkless. There is 6 to 8 pairs of lateral faint nerves. There are minute lanceolate stipules.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Phyllanthus racemosus are pinnate, with an alternate arrangement. <br>They are linear-oblong in shape, less than 1 cm in size. <br>The leaf base is obtuse as well as its apex. The leaf margin is entire. They are nearly stalkless. <br>There is 6 to 8 pairs of lateral faint nerves. <br>There are minute lanceolate stipules.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf1.jpg",
+          "caption": "Phyllanthus racemosus pinnate leaves growing alternatively on the stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf2.jpg",
+          "caption": "Phyllanthus racemosus leaves and flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf3.jpg",
+          "caption": "Phyllanthus racemosus leaves and stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf4.jpg",
+          "caption": "Phyllanthus racemosus pinnate leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf5.jpg",
+          "caption": "Phyllanthus racemosus pinnate leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf6.jpg",
+          "caption": "Phyllanthus racemosus leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ph.po_lf7.jpg",
+          "caption": "Phyllanthus racemosus leaflet (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Phyllanthus racemosus is a small deciduous shrub or tree growing up to 3 or 6 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Phyllanthus racemosus is a small deciduous shrub or tree growing up to 3 or 6 m in height. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ph.po_ha1.jpg",
+          "caption": "Phyllanthus racemosus habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ph.po_ha3.jpg",
+          "caption": "Phyllanthus racemosus habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ph.po_ha2.jpg",
+          "caption": "Phyllanthus racemosus habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

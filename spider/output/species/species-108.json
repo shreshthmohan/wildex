@@ -1,0 +1,212 @@
+{
+  "species_id": 108,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=108",
+  "scraped_at": "2025-10-02T16:53:55.692574Z",
+  "basic_info": {
+    "scientific_name": "Lannea coromandelica",
+    "authority": "(Houtt.) Merr.",
+    "family": "Anacardiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/lannea_coromandelica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/La.co_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99540 N",
+      "longitude": "79.82435 E",
+      "raw": "11.99540 N - 79.82435 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Lannea coromandelica",
+    "author": "Merrill, Elmer Drew (1938)",
+    "family": "Anacardiaceae",
+    "english_names": "Indian ash tree",
+    "indian_names": {
+      "Hindi": [
+        "Jhingan",
+        "mohin"
+      ],
+      "Kannada": [
+        "Manjistha"
+      ],
+      "Malayalam": [
+        "Karasu",
+        "otiyamaram"
+      ],
+      "Marathi": [
+        "Shimati"
+      ],
+      "Sanskrit": [
+        "Jhingini"
+      ],
+      "Tamil": [
+        "Odiyan",
+        "uthiyan"
+      ],
+      "Telugu": [
+        "Appriyada",
+        "oddimanu"
+      ]
+    },
+    "synonyms": [
+      "Calesium grande",
+      "Dialium coromandelicum",
+      "Lannea grandis",
+      "Lannea wodier",
+      "Lannea wodier",
+      "Odina pinnata",
+      "Odina wodier",
+      "Rhus odina",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nLannea\n: From the Latin\nlana\n\"wool\", referring to the woolly hair on young parts or on the roots of some species.\n-\nCoromandelica\n: From the Coromandel coas of south-eastern India.",
+    "etymology_html": "<p>-<i>Lannea</i> : From the Latin <i>lana</i> \"wool\", referring to the woolly hair on young parts or on the roots of some species.<br>-<i>Coromandelica</i> : From the Coromandel coas of south-eastern India.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Lannea coromandelica is greyish-coloured, thick and it flakes off in irregular plates on old trees.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Lannea coromandelica</i> is greyish-coloured, thick and it flakes off in irregular plates on old trees.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/lannea_coromandelica_stem1.jpg",
+          "caption": "Lannea coromandelica trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/lannea_coromandelica_stem2.jpg",
+          "caption": "Lannea coromandelica trunk (old tree)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/lannea_coromandelica_stem3.jpg",
+          "caption": "Lannea coromandelica bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n          \n    </p>\n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Lannea coromandelica is an ellipsoid (olive-shaped) drupe . It is about 1 cm long and reddish-coloured when ripe. The fruit contains one stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Lannea coromandelica</i> is an ellipsoid (olive-shaped) <strong>drupe</strong>. It is about 1 cm long and reddish-coloured when ripe. The fruit contains one stone.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Lannea coromandelica are unisexual. The male flowers are yellowish-green-coloured and grouped in compound racemes. The calyx is composed of 4 ovates and imbricate lobes. The corolla is composed of 4 lanceolate and reflexed petals. The petals are obovate and recurved, 7-8 mm long and 3-4 mm wide. The androecium is composed of 8 stamens inserted below the disc. The filaments are unequal. The male flower have an abortive ovary. The female flowers have very short and sterile stamens. The pistil is composed of 4 styles and a superior ovary . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Lannea coromandelica</i> are unisexual.<br>The <strong>male flowers</strong> are yellowish-green-coloured and grouped in compound racemes. The <strong>calyx</strong> is composed of 4 ovates and imbricate lobes.<br>The <strong>corolla</strong> is composed of 4 lanceolate and reflexed petals. The petals are obovate and recurved, 7-8 mm long and 3-4 mm wide.<br>The <strong>androecium</strong> is composed of 8 stamens inserted below the disc. The filaments are unequal.<br>The male flower have an abortive ovary.<br>The <strong>female flowers</strong> have very short and sterile stamens.<br>The <strong>pistil</strong> is composed of 4 styles and a superior <strong>ovary</strong>.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Lannea coromandelica grow alternately on the stem. The leaf is compound, imparipinnate with a 8-10 cm long petiole. The leaflets are bright green-coloured above and paler beneath. The leaflets are coriaceous and glabrous on both sides. The leaflets have a very short petiolule (except the terminal one). The leaflet of Lannea coromandelica is 9-10 cm long and 3 cm wide. The shape of the blade is ovate-lanceolate, the apex is acuminate, the base is obliquely rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Lannea coromandelica</i> grow alternately on the stem.<br>The <strong>leaf</strong> is compound, imparipinnate with a 8-10 cm long petiole.<br>The <strong>leaflets</strong> are bright green-coloured above and paler beneath. The leaflets are coriaceous and glabrous on both sides.<br>The leaflets have a very short petiolule (except the terminal one).<br>The leaflet of <i>Lannea coromandelica</i> is 9-10 cm long and 3 cm wide. The shape of the <strong>blade</strong> is ovate-lanceolate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is obliquely rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf1.jpg",
+          "caption": "Lannea coromandelica leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf2.jpg",
+          "caption": "Lannea coromandelica leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf3.jpg",
+          "caption": "Lannea coromandelica leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf4.jpg",
+          "caption": "Lannea coromandelica leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf5.jpg",
+          "caption": "Lannea coromandelica shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf6.jpg",
+          "caption": "Lannea coromandelica leaflets (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf7.jpg",
+          "caption": "Lannea coromandelica leaflets (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/lannea_coromandelica_leaf8.jpg",
+          "caption": "Lannea coromandelica foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Lannea coromandelica is a thornless, medium-sized and deciduous tree growing up to 15-20 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Lannea coromandelica</i> is a thornless, medium-sized and <strong>deciduous</strong> tree growing up to 15-20 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/lannea_coromandelica_habit1.jpg",
+          "caption": "Lannea coromandelica trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/lannea_coromandelica_habit2.jpg",
+          "caption": "Lannea coromandelica tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/lannea_coromandelica_habit3.jpg",
+          "caption": "Lannea coromandelica tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": "Lannea coromandelica is found in deciduous forests from the coastal plains up to 1800 m on the hill slopes. Indo-Malesia biogeographical region and China",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Lannea coromandelica</i> is found in deciduous forests from the coastal plains up to 1800 m on the hill slopes.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region and China</p>        </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Lannea coromandelica is monoecious, with unisexual (male or female) flowers on the same individual. Lannea coromandelica is pollinated by a wide variety of insects. The seeds of Lannea coromandelica are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Lannea coromandelica</i> is monoecious, with unisexual (male or female) flowers on the same individual.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Lannea coromandelica</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Lannea coromandelica</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From March to May From May to October. From May to October. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From March to May</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May to October.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From May to October.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The crushed bark is used as a bandage on wounds and cuts. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>crushed bark</strong> is used as a bandage on wounds and cuts.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Lannea coromandelica is resistent to termites and it is used for house building, furniture, rice pounders, for carving and turnery... A resin called jhingam gum is obtained from the stems and it is used for calico printing, as a size for paper. It is also used as a flocculating agent for the clarification of sugar-cane juice. The bark contains tannins so it is used for tanning, as a dye and to preserve fishing nets. Sources : - Dastur, 2006, Useful Plants of India and Pakistan - Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Lannea coromandelica</i> is resistent to termites and it is used for house building, furniture, rice pounders, for carving and turnery...<br><br>A <strong>resin</strong> called <i>jhingam gum</i> is obtained from the stems and it is used for calico printing, as a size for paper. It is also used as a flocculating agent for the clarification of sugar-cane juice.<br><br>The <strong>bark</strong> contains tannins so it is used for tanning, as a dye and to preserve fishing nets.<br><br><i>Sources :</i><br><i>- Dastur, 2006, Useful Plants of India and Pakistan</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The young leaves and sprouts of Lannea coromandelica are eaten as a vegetable. Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>young leaves and sprouts</strong> of <i>Lannea coromandelica</i> are eaten as a vegetable.<br><br><i>Source : Useful Tropical Plants Database, Ken Fern, 2014, http://tropical.theferns.info</i></p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Lannea coromandelica is a fast growing species and it is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas. Lannea coromandelica requires a sunny position in a well-drained soil. The species is propagated by seeds and cuttings. 24 hours of soaking in water accelerates the germination process. The seeds viability is short so they have to be sown as soon as possible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Lannea coromandelica</i> is a fast growing species and it is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas.<br><i>Lannea coromandelica</i> requires a sunny position in a well-drained soil.<br>The species is propagated by seeds and cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.<br>The seeds viability is short so they have to be sown as soon as possible.</p>        </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)</p>  \n</div>",
+      "images": []
+    }
+  }
+}

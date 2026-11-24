@@ -1,0 +1,233 @@
+{
+  "species_id": 228,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=228",
+  "scraped_at": "2025-10-02T17:17:02.948777Z",
+  "basic_info": {
+    "scientific_name": "Albizia amara",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/629f226dd6a6e_629f226dd6a64_Al.am_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.am_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "31 Mar, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5914 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Albizia amara",
+    "author": "Boivin, Louis Hyacinthe (1837)",
+    "family": "Fabaceae",
+    "english_names": "Oil cake tree",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nalbizia\n: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe\n-\namara\n: From the Latin\namara\nwhich means \"bitter\"",
+    "etymology_html": "<p>- <i>albizia</i>: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe<br>- <i>amara</i>: From the Latin <i>amara</i> which means \"bitter\"<br> </p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Albizia amara is thin, grey in colour. It is rough and scaly, with vertical fissures. The stem is brown, pubescent with white lenticels.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Albizia amara is thin, grey in colour. <br>It is rough and scaly, with vertical fissures. <br>The stem is brown, pubescent with white lenticels. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f24818397b_Al.am_bk%201.jpg",
+          "caption": "Albizia amara bark with vertical fissures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f24850a7e6_Al.am_bk2.jpg",
+          "caption": "Albizia amara bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f2489a1efc_Al.am_bk3.jpg",
+          "caption": "Albizia amara trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f2490c3aa2_Al.am_st%201.jpg",
+          "caption": "Albizia amara stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f2495b9b75_Al.am_st2.jpg",
+          "caption": "Albizia amara branchlet with white lenticels"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Albizia amara are compressed, ovate-orbicular in shape. They are about 3 to 13 in number inside each pod. The seeds are about 1 cm in size. The seeds are hard-coated and brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Albizia amara are compressed, ovate-orbicular in shape. <br>They are about 3 to 13 in number inside each pod. <br>The seeds are about 1 cm in size. <br>The seeds are hard-coated and brown in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/629f244ba5c3b_Al.am_sd1.jpg",
+          "caption": "Albizia amara compressed ovate seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/629f245c43eeb_Al.am_sd2.jpg",
+          "caption": "Albizia amara compressed ovate seeds from one seedpod"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Albizia amara are oblong seedpods. The pods are 10 to 20 cm long and less than 5 cm wide. They are flat, compressed, straight or wavy along the margin and strongly nerved. They are grey-brown at maturity. The pods are indehiscent and contain about 10 seeds per pod.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Albizia amara are oblong seedpods. <br>The pods are 10 to 20 cm long and less than 5 cm wide. <br>They are flat, compressed, straight or wavy along the margin and strongly nerved. <br>They are grey-brown at maturity. <br>The pods are indehiscent and contain about 10 seeds per pod.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23dcd68a7_Al.am_fr1.jpg",
+          "caption": "Albizia amara brown mature seedpods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23e1e5699_Al.am_fr2.jpg",
+          "caption": "Albizia amara seedpod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23e785953_Al.am_fr3.jpg",
+          "caption": "Albizia amara seedpods in the tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23eb14102_Al.am_fr4.jpg",
+          "caption": "Albizia amara oblong seedpod with pointy tip"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23f0be360_Al.am_fr5.jpg",
+          "caption": "Albizia amara oblong seedpods containing 3, 4 and 7 seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23f5366e5_Al.am_fr6.jpg",
+          "caption": "Albizia amara oblong seedpod with wavy margin"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/629f23fb28192_Al.am_fr7.jpg",
+          "caption": "Albizia amara oblong seedpods"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Albizia amara are found in spherical white-cream flower heads, about 2.5 cm across. The flower heads are solitary or 2-3 in axillary racemes. The flowers are bisexual and about 25 to 30 flowers per head. The flowers are powder puffs with no petals, long stamens (about 1 cm) and golden pollen. They appear as tufts along with new leaves. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Albizia amara are found in spherical white-cream flower heads, about 2.5 cm across. <br>The flower heads are solitary or 2-3 in axillary racemes. <br>The flowers are bisexual and about 25 to 30 flowers per head. <br>The flowers are powder puffs with no petals, long stamens (about 1 cm) and golden pollen. <br>They appear as tufts along with new leaves.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f23772b9ba_Al.am_fl1.jpg",
+          "caption": "Albizia amara spherical white-cream flower heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f237a60dba_Al.am_fl2.jpg",
+          "caption": "Albizia amara spherical flower heads and flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f237e7e9b5_Al.am_fl3.jpg",
+          "caption": "Albizia amara flower heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f2382da1cc_Al.am_fl4.jpg",
+          "caption": "Albizia amara spherical white-cream flower heads"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f2387dfe9f_Al.am_fl5.jpg",
+          "caption": "Albizia amara spherical white-cream flower head with long stamens and golden pollen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f238b5b459_Al.am_fl6.jpg",
+          "caption": "Albizia amara flower head on the left and individual flowers on the right"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Albizia amara are compound, bipinnate, with an alternate arrangement. The leaves are 10 to 12 cm long, with a gland near the base on the upper side of the leaf. They are double compound with 15 pairs of side stalks, then 20 to 30 pairs of leaflets. Each leaflet is oblong and tiny, less than 1 cm in size. The leaflets have the base oblique, the apex subacute or obtuse and the margin entire. They are hairy with minute stipules.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Albizia amara are compound, bipinnate, with an alternate arrangement. <br>The leaves are 10 to 12 cm long, with a gland near the base on the upper side of the leaf. <br>They are double compound with 15 pairs of side stalks, then 20 to 30 pairs of leaflets. Each leaflet is oblong and tiny, less than 1 cm in size. <br>The leaflets have the base oblique, the apex subacute or obtuse and the margin entire. <br>They are hairy with minute stipules.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2304dda83_Al.am_lf1.jpg",
+          "caption": "Albizia amara foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f23095ac46_Al.am_lf2.jpg",
+          "caption": "Albizia amara new growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f23104756b_Al.am_lf3.jpg",
+          "caption": "Albizia amara compound leaf (upper side) with 5 pairs of bipinnate leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2314df0d1_Al.am_lf4.jpg",
+          "caption": "Albizia amara compound leaf (lower side) with 5 pairs of bipinnate leaflets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f231aa817b_Al.am_lf5.jpg",
+          "caption": "Albizia amara tip of the leaf showing hairy bipinnate leaflets"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Albizia amara is a medium sized deciduous tree growing up to 10 m. It is a many-branched tree which forms a wide, dense and rounded crown. It is thornless.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Albizia amara is a medium sized deciduous tree growing up to 10 m. <br>It is a many-branched tree which forms a wide, dense and rounded crown. <br>It is thornless.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f229534c3d_Al.am_ha1.jpg",
+          "caption": "Albizia amara habit with new foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f229ce8a52_Al.am_ha3.jpg",
+          "caption": "Albizia amara habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f22a387185_Al.am_ha2.jpg",
+          "caption": "Albizia amara top of canopy"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    }
+  }
+}

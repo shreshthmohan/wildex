@@ -1,0 +1,203 @@
+{
+  "species_id": 296,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=296",
+  "scraped_at": "2025-10-02T18:00:04.486597Z",
+  "basic_info": {
+    "scientific_name": "Cucumis maderaspatanus",
+    "authority": null,
+    "family": "Cucurbitaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/650d622155bdd_650d622155bce_Cu.ma_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Cu.ma_herb4.jpg"
+  },
+  "collection_metadata": {
+    "date": "05 Sep, 2023",
+    "collected_by": "A.S, M.D",
+    "gps_coordinates": {
+      "latitude": "11°59'18 N",
+      "longitude": "79°48'18 E",
+      "raw": "11°59'18 N - 79°48'18 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cucumis maderaspatanus",
+    "author": "Linnaeus, Carl (1846)",
+    "family": "Cucurbitaceae",
+    "english_names": "Madras Pea Pumpkin, Bristly Bryony",
+    "indian_names": null,
+    "synonyms": [
+      "Bryonia maderaspatana",
+      "Melothria maderaspatana",
+      "Mukia maderaspatana",
+      "Bryonia cordifolia",
+      "Bryonia gracilis",
+      "Bryonia hispida",
+      "Bryonia micrantha",
+      "Bryonia micropoda",
+      "Bryonia obtusa",
+      "Bryonia rottler",
+      "Bryonia scabra",
+      "Bryonia scabrella",
+      "Coccinia cordifolia",
+      "Melothria celebica",
+      "Mukia celebica",
+      "Mukia rottleri",
+      "Mukia scabrella"
+    ],
+    "etymology": "-\nCucumis\n: From the Greek word\nkykyon\ndesignating cucumber.\n-\nmaderaspatanus\n: related to the city of Madras (old name of Chennai in South India)",
+    "etymology_html": "<p>- <i>Cucumis</i>: From the Greek word <i>kykyon</i> designating cucumber.<br>- <i>maderaspatanus</i>: related to the city of Madras (old name of Chennai in South India)</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stems of Cucumis maderaspatanus can grow up to 3 m long, scrambling into other plants where it supports itself by means of tendrils. The tendrils are simple, opposite with the leaf and thread-like. The stems are succulent and green in colour. They are bristly and covered with thin, white hairs making the plant look prickly and rough.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stems of Cucumis maderaspatanus can grow up to 3 m long, scrambling into other plants where it supports itself by means of tendrils. <br>The tendrils are simple, opposite with the leaf and thread-like. <br>The stems are succulent and green in colour. <br>They are bristly and covered with thin, white hairs making the plant look prickly and rough.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cu.ma_st1.jpg",
+          "caption": "Cucumis maderaspatanus leaf, stem and tendril"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cu.ma_st2.jpg",
+          "caption": "Cucumis maderaspatanus tendril hooked on grass"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Cu.ma_st3.jpg",
+          "caption": "Cucumis maderaspatanus tendril"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Cucumis maderaspatanus are small and ovate in shape. They are less than 5 mm across, about twice as long as broad. They are bordered and scrobiculate, which means they have numerous shallow grooves.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Cucumis maderaspatanus are small and ovate in shape.<br>They are less than 5 mm across, about twice as long as broad. <br>They are bordered and scrobiculate, which means they have numerous shallow grooves.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Cucumis maderaspatanus are subglobose berries, with very short stalks. They are growing in leaf axils, placed right above the leaves, in small clusters of 1 to 5. They are green with pale longitudinal markings, when young, turning red in colour at maturity. They are bristly with white minute hairs. The berry is about 1 cm across. The fruit is poisonous to humans and cattle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Cucumis maderaspatanus are subglobose berries, with very short stalks. <br>They are growing in leaf axils, placed right above the leaves, in small clusters of 1 to 5. <br>They are green with pale longitudinal markings, when young, turning red in colour at maturity. <br>They are bristly with white minute hairs.<br>The berry is about 1 cm across. <br>The fruit is poisonous to humans and cattle.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cu.ma_fr4.jpg",
+          "caption": "Cucumis maderaspatanus unripe hairy fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cu.ma_fr5.jpg",
+          "caption": "Cucumis maderaspatanus pair of green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cu.ma_fr2.jpg",
+          "caption": "Cucumis maderaspatanus ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cu.ma_fr1.jpg",
+          "caption": "Cucumis maderaspatanus fruits in small cluster"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Cu.ma_fr3.jpg",
+          "caption": "Cucumis maderaspatanus ripe hairy fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Cucumis maderaspatanus are minute, yellow-green in colour. The flowers grow from the leaf axils placed right above the leaf, on stalks which are less than 0.5 cm long. There are male and female flowers. The male flowers have minute pedicels, dark-hairy receptacle-tube, 5 yellow petals less than 2 mm in size. The female flowers are found by 5 to 10 in separate clusters on minute pedicels. The ovary is green, globose, shortly beaked, bristly with dark forward-pointing hairs.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Cucumis maderaspatanus are minute, yellow-green in colour.<br>The flowers grow from the leaf axils placed right above the leaf, on stalks which are less than 0.5 cm long. <br>There are male and female flowers. <br>The male flowers have minute pedicels, dark-hairy receptacle-tube, 5 yellow petals less than 2 mm in size. <br>The female flowers are found by 5 to 10 in separate clusters on minute pedicels. <br>The ovary is green, globose, shortly beaked, bristly with dark forward-pointing hairs.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cu.ma_fl1.jpg",
+          "caption": "Cucumis maderaspatanus minute yellow female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cu.ma_fl2.jpg",
+          "caption": "Cucumis maderaspatanus male flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cu.ma_fl3.jpg",
+          "caption": "Cucumis maderaspatanus 5-petals female flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cu.ma_fl4.jpg",
+          "caption": "Cucumis maderaspatanus female flower profile with hairs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Cu.ma_fl5.jpg",
+          "caption": "Cucumis maderaspatanus female flower dissected in half"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cucumis maderaspatanus are simple, growing in an opposite arrangement. They are various in shape, from sagittate to hastate, triangular or ovate. The leaves can be almost unlobed or 3 to 5-lobed, the central lobe being the largest, with 2 or 4 smaller lateral lobes. The leaves are 2 to 11 cm long and 1 to 9 cm wide. The leaf base is deeply or shallowly heart-shaped. The leaf margin is wavy-toothed or irregularly lobulate-toothed. The leaves are rough and succulent, covered with thin hairs. The leaf stalk varies from 0.5 to 8 cm in length and is hairy.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Cucumis maderaspatanus are simple, growing in an opposite arrangement. <br>They are various in shape, from sagittate to hastate, triangular or ovate. <br>The leaves can be almost unlobed or 3 to 5-lobed, the central lobe being the largest, with 2 or 4 smaller lateral lobes. <br>The leaves are 2 to 11 cm long and 1 to 9 cm wide. <br>The leaf base is deeply or shallowly heart-shaped. <br>The leaf margin is wavy-toothed or irregularly lobulate-toothed. <br>The leaves are rough and succulent, covered with thin hairs. <br>The leaf stalk varies from 0.5 to 8 cm in length and is hairy.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf1.jpg",
+          "caption": "Cucumis maderaspatanus leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf2.jpg",
+          "caption": "Cucumis maderaspatanus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf3.jpg",
+          "caption": "Cucumis maderaspatanus leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf4.jpg",
+          "caption": "Cucumis maderaspatanus leaf and opposite tendril"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf5.jpg",
+          "caption": "Cucumis maderaspatanus young leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf10.jpg",
+          "caption": "Cucumis maderaspatanus young hairy leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf7.jpg",
+          "caption": "Cucumis maderaspatanus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf8.jpg",
+          "caption": "Cucumis maderaspatanus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Cu.ma_lf9.jpg",
+          "caption": "Cucumis maderaspatanus leaf with minute white hairs"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cucumis maderaspatanus is an annual climbing herb, growing up to 3 m long. It can been seen trailing along the ground or scrambling into other plants where it supports itself by means of tendrils.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Cucumis maderaspatanus is an annual climbing herb, growing up to 3 m long. <br>It can been seen trailing along the ground or scrambling into other plants where it supports itself by means of tendrils.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cu.ma_ha1.jpg",
+          "caption": "Cucumis maderaspatanus scrambling habit on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cu.ma_ha2.jpg",
+          "caption": "Cucumis maderaspatanus habit showing the lower side of the leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Cu.ma_ha3.jpg",
+          "caption": "Cucumis maderaspatanus climbing habit with leaves and tendrils"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

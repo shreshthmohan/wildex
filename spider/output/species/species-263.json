@@ -1,0 +1,196 @@
+{
+  "species_id": 263,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=263",
+  "scraped_at": "2026-01-10T08:12:49.271594Z",
+  "basic_info": {
+    "scientific_name": "Barleria longiflora",
+    "authority": null,
+    "family": "Acanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63f8936362c23_63f8936362c13_Ba.lo_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.lo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "25 Jan, 2023",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "latitude": "11°59'14 N",
+      "longitude": "79°48'18 E",
+      "raw": "11°59'14 N - 79°48'18 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Barleria longiflora",
+    "author": "Linnaeus filius, Carl (1782)",
+    "family": "Acanthaceae",
+    "english_names": "Long Flowered Barleria",
+    "indian_names": null,
+    "synonyms": [
+      "Barleria sericea",
+      "Barleriosiphon longiflora"
+    ],
+    "etymology": "-\nBarleria\n: After Jacques Barrelier (1606-1673), french monk and botanist\n-\nlongiflora\n: From the Latin\nlongi\n- long and\nflora\n- flower",
+    "etymology_html": "<p>- <i>Barleria</i>: After Jacques Barrelier (1606-1673), french monk and botanist<br>- <i>longiflora</i>: From the Latin <i>longi</i> - long and <i>flora</i> - flower</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Barleria longiflora is green and densely hairy when young. It becomes grey to brown in colour and striated with numerous nodes. The bark shows light irregular lenticels.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Barleria longiflora is green and densely hairy when young.<br>It becomes grey to brown in colour and striated with numerous nodes.<br>The bark shows light irregular lenticels.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.lo_st2.jpg",
+          "caption": "Barleria longiflora stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.lo_st3.jpg",
+          "caption": "Barleria longiflora main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.lo_st4.jpg",
+          "caption": "Barleria longiflora grey and striated old stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ba.lo_st5.jpg",
+          "caption": "Barleria longiflora green and pubescent young stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Barleria longiflora are appressed-hairy. There are about 4 seeds in one fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Barleria longiflora are appressed-hairy. <br>There are about 4 seeds in one fruit.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Barleria longiflora is an elliptic-oblong capsule. It is hidden in between the 2 leafy bracts at the base of the flower. The bracts are green turning brown when the fruit is ripe. The capsule is about 1.50 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Barleria longiflora is an elliptic-oblong capsule.<br>It is hidden in between the 2 leafy bracts at the base of the flower.<br>The bracts are green turning brown when the fruit is ripe.<br>The capsule is about 1.50 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.lo_fr1.jpg",
+          "caption": "Barleria longiflora fruits hidden inside the bracts"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.lo_fr4.jpg",
+          "caption": "Barleria longiflora unripe oblong capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.lo_fr2.jpg",
+          "caption": "Barleria longiflora fruit inside the bracts with reminiscence of dry flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ba.lo_fr3.jpg",
+          "caption": "Barleria longiflora green fruit and bracts (upper and lower side)"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Barleria longiflora grow in racemes of 1 to 3 flowers. The flowers have 5 petals white in colour. The flower tube is long and narrow, 5 to 8 cm in length, emerging from a pair of bracts. The flower bracts are leafy and linear-lanceolate with long stiff hairs. The bracts become brown and scarious (dry and membranous) with age. There are 2 stamens with 3 mm long anthers, light purple in colour. The ovary is obovoid and contains 4 ovules.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Barleria longiflora grow in racemes of 1 to 3 flowers. <br>The flowers have 5 petals white in colour. <br>The flower tube is long and narrow, 5 to 8 cm in length, emerging from a pair of bracts.<br>The flower bracts are leafy and linear-lanceolate with long stiff hairs.<br>The bracts become brown and scarious (dry and membranous) with age. <br>There are 2 stamens with 3 mm long anthers, light purple in colour. <br>The ovary is obovoid and contains 4 ovules.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl1.jpg",
+          "caption": "Barleria longiflora flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl3.jpg",
+          "caption": "Barleria longiflora long and narrow flower tube"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl4.jpg",
+          "caption": "Barleria longiflora pubescent flower bud emerging from the leafy bracts"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl2.jpg",
+          "caption": "Barleria longiflora flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl5.jpg",
+          "caption": "Barleria longiflora open flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl6.jpg",
+          "caption": "Barleria longiflora flower with 5 petals and 2 purple stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl7.jpg",
+          "caption": "Barleria longiflora flower bracts and bud emerging from it"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl8.jpg",
+          "caption": "Barleria longiflora flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ba.lo_fl10b.jpg",
+          "caption": "Barleria longiflora flowers with 5 petals and 2 stamens"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Barleria longiflora are simple growing in opposite arrangement. They are elliptic ovate in shape, with a long-pointed tip. They are 3 to 5 cm long and 1 to 4 cm wide. The upper and the lower sides of the leaf are densely pubescent. The base of the leaf is truncate to rounded, the margin is ciliate and the apex acute. One leaf has about 6 lateral nerves, and the petiole is about 1 cm long. The leaves are light green in colour with a silver tinge to them.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Barleria longiflora are simple growing in opposite arrangement.<br>They are elliptic ovate in shape, with a long-pointed tip. <br>They are 3 to 5 cm long and 1 to 4 cm wide. <br>The upper and the lower sides of the leaf are densely pubescent. <br>The base of the leaf is truncate to rounded, the margin is ciliate and the apex acute. <br>One leaf has about 6 lateral nerves, and the petiole is about 1 cm long.<br>The leaves are light green in colour with a silver tinge to them.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf1.jpg",
+          "caption": "Barleria longiflora leaf opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf2.jpg",
+          "caption": "Barleria longiflora young growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf3.jpg",
+          "caption": "Barleria longiflora leaves with silver tinge"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf4.jpg",
+          "caption": "Barleria longiflora pubescent base of the leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf7.jpg",
+          "caption": "Barleria longiflora leaf opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf5b.jpg",
+          "caption": "Barleria longiflora leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.lo_lf6b.jpg",
+          "caption": "Barleria longiflora leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Barleria longiflora is a small pubescent unarmed shrub that can grow up to 1.50 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Barleria longiflora is a small pubescent unarmed shrub that can grow up to 1.50 m in height.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.lo_ha1.jpg",
+          "caption": "Barleria longiflora habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.lo_st3.jpg",
+          "caption": "Barleria longiflora main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ba.lo_ha2.jpg",
+          "caption": "Barleria longiflora leaves on stem"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

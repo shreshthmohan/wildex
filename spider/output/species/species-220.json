@@ -1,0 +1,211 @@
+{
+  "species_id": 220,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=220",
+  "scraped_at": "2025-11-17T17:06:19.742927Z",
+  "basic_info": {
+    "scientific_name": "Ficus hispida",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/6267b2251193d_6267b2251192b_Fi.hi_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.hi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Mar, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5910 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus hispida",
+    "author": "Linnaeus, filius Carl (1782)",
+    "family": "Moraceae",
+    "english_names": "Hairy fig",
+    "indian_names": {
+      "Tamil": [
+        "Peyathi"
+      ],
+      "Hindi": [
+        "Gobla"
+      ]
+    },
+    "synonyms": [],
+    "etymology": "-\nFicus\n: From the Latin designating the species\n-\nhispida\n: From the Latin meaning \"covered with stiff hair or bristles\"",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin designating the species<br>- <i>hispida</i>: From the Latin meaning \"covered with stiff hair or bristles\" </p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus hispida is grey and smooth, with light brown lenticels. The branches are lax. The twigs and stems exude an abundant milky latex when broken. The branchlets are terete, with hollow internodes, densely hispid with brown or grey hairs and with lenticels.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus hispida is grey and smooth, with light brown lenticels. <br>The branches are lax. <br>The twigs and stems exude an abundant milky latex when broken. <br>The branchlets are terete, with hollow internodes, densely hispid with brown or grey hairs and with lenticels.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667976c7385_Fi.hi_bk1.jpg",
+          "caption": "Ficus hispida grey smooth bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6266797cca7a1_Fi.hi_bk2.jpg",
+          "caption": "Ficus hispida light grey bark, smooth with brown lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6266798244270_Fi.hi_bk3.jpg",
+          "caption": "Ficus hispida main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667989a191f_Fi.hi_st1.jpg",
+          "caption": "Ficus hispida hairy brown petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667990d2349_Fi.hi_st2.jpg",
+          "caption": "Ficus hispida hairy brown branchlet with prominent internodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62667997f0840_Fi.hi_st3.jpg",
+          "caption": "Ficus hispida hairy brown leaf attaches on branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6266799e35e18_Fi.hi_st4.jpg",
+          "caption": "Ficus hispida hollow hairy brown internode"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus hispida are enclosed inside the fig. It is an achene: a small, dry one-seeded fruit that does not open to release the seed. The seeds are tiny, about 1 mm in size. They are grey to light brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus hispida are enclosed inside the fig. <br>It is an achene: a small, dry one-seeded fruit that does not open to release the seed. <br>The seeds are tiny, about 1 mm in size. <br>They are grey to light brown in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6266792f12c76_Fi.hi_sd1.jpg",
+          "caption": "Ficus hispida hairy figs containing the seeds, lower side (left) and upper side (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62667933d1968_Fi.hi_sd2.jpg",
+          "caption": "Ficus hispida fig cut in half, with immature seeds inside"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6266793901379_Fi.hi_sd3.jpg",
+          "caption": "Ficus hispida seeds washed and dried"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Ficus hispida are the figs also known as synconium (or synconia in plural). The figs appear fascicled on the trunk or on elongated pendulous or trailing leafless branches, often produced in clusters found down to the ground. An unusual feature is that the figs hang on long stems. They are disk-like or top-shaped. The figs are covered in rough and sticky hairs. They are yellow when ripe, 1 to 3 cm in diameter.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Ficus hispida are the figs also known as synconium (or synconia in plural). <br>The figs appear fascicled on the trunk or on elongated pendulous or trailing leafless branches, often produced in clusters found down to the ground. <br>An unusual feature is that the figs hang on long stems. <br>They are disk-like or top-shaped. <br>The figs are covered in rough and sticky hairs. <br>They are yellow when ripe, 1 to 3 cm in diameter. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667854c421d_Fi.hi_fr1.jpg",
+          "caption": "Ficus hispida clusters of figs on the trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/626678575e6e7_Fi.hi_fr2.jpg",
+          "caption": "Ficus hispida clusters of hairy figs found on the trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6266786321133_Fi.hi_fr3.jpg",
+          "caption": "Ficus hispida clusters of figs showing the ostioles for the fig wasp to enter and pollinate them"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62667868945a8_Fi.hi_fr4.jpg",
+          "caption": "Ficus hispida clusters of figs on the ostiole side"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6266787336b64_Fi.hi_fr5.jpg",
+          "caption": "Ficus hispida fig cut in half showing the inside of the synconium"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus hispida are found in the fig itself which is a modified inflorescence with tiny flowers contained inside the fig. The male flowers are numerous in 1 or 2 whorls. They have only 1 stamen and short filaments. The female flowers are sessile or stalked. The ovary is depressed-globose shaped. The gall flowers are similar but larger and distinctly stalked. The figs appear fascicled on the trunk or on elongated pendulous or trailing leafless branches. The figs are hairy.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus hispida are found in the fig itself which is a modified inflorescence with tiny flowers contained inside the fig. <br>The male flowers are numerous in 1 or 2 whorls. <br>They have only 1 stamen and short filaments. <br>The female flowers are sessile or stalked. <br>The ovary is depressed-globose shaped. <br>The gall flowers are similar but larger and distinctly stalked. <br>The figs appear fascicled on the trunk or on elongated pendulous or trailing leafless branches. <br>The figs are hairy.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6266776a9b211_Fi.hi_fl1.jpg",
+          "caption": "Ficus hispida clusters of hairy figs (the flowers are contained inside the fig)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6266776e38c88_Fi.hi_fl2.jpg",
+          "caption": "Ficus hispida hairy fig dissected in half to show the flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626677739d9b5_Fi.hi_fl3.jpg",
+          "caption": "Ficus hispida fig dissected in half to show the flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626677771060d_Fi.hi_fl4.jpg",
+          "caption": "Ficus hispida flowers inside the fig"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus hispida are simple and grow in a decussate arrangement, often in unequal pairs. The leaves are oblong to elliptic-lanceolate, they are approximately 10 to 20 cm long and 6 to 10 cm wide. Like a number of Ficus, both sides of the leaves are coriaceous, sandpapery to touch. The base of the leaf is rounded, often unequal, and 3-nerved. The lower side of the leaf has a prominent midrib. The leaf margin is entire and sometimes minutely toothed. The petiole is 4 cm long and has a sub-nodal gland.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus hispida are simple and grow in a decussate arrangement, often in unequal pairs.<br>The leaves are oblong to elliptic-lanceolate, they are approximately 10 to 20 cm long and 6 to 10 cm wide. <br>Like a number of Ficus, both sides of the leaves are coriaceous, sandpapery to touch. <br>The base of the leaf is rounded, often unequal, and 3-nerved. <br>The lower side of the leaf has a prominent midrib.<br>The leaf margin is entire and sometimes minutely toothed. <br>The petiole is 4 cm long and has a sub-nodal gland.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676a3609af_Fi.hi_lf1.jpg",
+          "caption": "Ficus hispida leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676a690e4f_Fi.hi_lf2.jpg",
+          "caption": "Ficus hispida decussate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676ac7eed7_Fi.hi_lf3.jpg",
+          "caption": "Ficus hispida young growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676b08a733_Fi.hi_lf4.jpg",
+          "caption": "Ficus hispida leaf attachement on the stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676b96161a_Fi.hi_lf5.jpg",
+          "caption": "Ficus hispida leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676bd6343c_Fi.hi_lf6.jpg",
+          "caption": "Ficus hispida leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626676c4346cb_Fi.hi_lf7.jpg",
+          "caption": "Ficus hispida leaf (lower side) with prominent midrib and nerves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus hispida is a medium sized deciduous tree that grows up to 10 m in height. It is covered with stiff hair or bristles, from which its name \"hispid\" derives.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus hispida is a medium sized deciduous tree that grows up to 10 m in height. <br>It is covered with stiff hair or bristles, from which its name \"hispid\" derives.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6266765e50ced_Fi.hi_ha1.jpg",
+          "caption": "Ficus hispida habit with clusters of figs on the main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62667661b5c2d_Fi.hi_ha2.jpg",
+          "caption": "Ficus hispida habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6266766736ade_Fi.hi_ha3.jpg",
+          "caption": "Ficus hispida habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6266766c0d39a_Fi.hi_ha4.jpg",
+          "caption": "Ficus hispida main stem with clusters of figs on the main stem"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

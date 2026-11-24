@@ -1,0 +1,213 @@
+{
+  "species_id": 208,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=208",
+  "scraped_at": "2025-10-08T06:20:10.370277Z",
+  "basic_info": {
+    "scientific_name": "Balanites roxburghii",
+    "authority": null,
+    "family": "Zygophyllaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/624568575c88e_624568575c883_Ba.ro_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.ro_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 Nov, 2021",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.9869°N 79.8080°E\n9.3823°N 78.0985°E"
+    },
+    "locality": "Auroville and Pandalgudi, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Balanites roxburghii",
+    "author": "Planchon, Jules Emile (1848)",
+    "family": "Zygophyllaceae",
+    "english_names": "Desert date",
+    "indian_names": {
+      "Tamil": [
+        "Nanchundan"
+      ],
+      "Hindi": [
+        "Hingot"
+      ]
+    },
+    "synonyms": [
+      "Coccocypselum herbaceum",
+      "Agialid roxburghii",
+      "Balanites indica",
+      "Balanites jacquemontii",
+      "Balanites rigida"
+    ],
+    "etymology": "-\nBalanites\n: From the Greek meaning \"acorn\" referring to the fruit\n-\nroxburghii\n: For William Roxburgh (1751-1815), Scottish botanist known as founding father of Indian botany",
+    "etymology_html": "<p>- <i>Balanites</i>: From the Greek meaning \"acorn\" referring to the fruit<br>- <i>roxburghii</i>: For William Roxburgh (1751-1815), Scottish botanist known as founding father of Indian botany</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Balanites roxburghii is rough. The branches have stout axillary spines. The fluted trunk is yellow-grey, uneven bark with yellow-green patches where it is shed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Balanites roxburghii is rough. <br>The branches have stout axillary spines. <br>The fluted trunk is yellow-grey, uneven bark with yellow-green patches where it is shed.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299aec8145f_Ba.ro_bk1.jpg",
+          "caption": "Balanites roxburghii bark with thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299aee82696_Ba.ro_bk2.jpg",
+          "caption": "Balanites roxburghii rough bark of a young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299af682b0b_Ba.ro_bk3.jpg",
+          "caption": "Balanites roxburghii stem of a young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299b14971ba_Ba.ro_st1.jpg",
+          "caption": "Balanites roxburghii  green stem with undeveloped green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299b18bd6bc_Ba.ro_st2.jpg",
+          "caption": "Balanites roxburghii long spiny branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299b2513934_Ba.ro_st3.jpg",
+          "caption": "Balanites roxburghii green stem of a young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299b2d80502_Ba.ro_st4.jpg",
+          "caption": "Balanites roxburghii green stem of a young tree"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Balanites roxburghii is single per fruit, consisting of a hard stone. The seed contains oil used for cosmetics.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seed of Balanites roxburghii is single per fruit, consisting of a hard stone. <br>The seed contains oil used for cosmetics.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62299ad43a9ab_Ba.ro_sd1.jpg",
+          "caption": "Balanites roxburghii decaying seeds on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62299ad601ea4_Ba.ro_sd2.jpg",
+          "caption": "Balanites roxburghii seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a97652be80b_Ba.ro_sd3.jpg",
+          "caption": "Balanites roxburghii woody stone cut in half to show the almond type seed"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a97656ce399_Ba.ro_sd4.jpg",
+          "caption": "Balanites roxburghii woody stone cut in half"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Balanites roxburghii is a single-seed drupe, with ovoid-oblong shape. The size of the fruit is between 3 to 5 cm. The colour of the fruit is green when unripe, turning brown at its maturity. The pulp of the ripe fruit has a strong smell. It ripens to a brown fruit with a crispy skin enclosing a sticky brown pulp around a hard stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Balanites roxburghii is a single-seed drupe, with ovoid-oblong shape. <br>The size of the fruit is between 3 to 5 cm. <br>The colour of the fruit is green when unripe, turning brown at its maturity. <br>The pulp of the ripe fruit has a strong smell. <br>It ripens to a brown fruit with a crispy skin enclosing a sticky brown pulp around a hard stone.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62299a91e75b9_Ba.ro_fr1.jpg",
+          "caption": "Balanites roxburghii green single-seed fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62299a94669b4_Ba.ro_fr2.jpg",
+          "caption": "Balanites roxburghii ripening fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62299a992fb7d_Ba.ro_fr3.jpg",
+          "caption": "Balanites roxburghii ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62299aa0f4107_Ba.ro_fr4.jpg",
+          "caption": "Balanites roxburghii green fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/624fcb5e80632_Ba.ro_fr5.jpg",
+          "caption": "Balanites roxburghii ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/624fcb637e336_Ba.ro_fr6.jpg",
+          "caption": "Balanites roxburghii ripe fruit cracked open showing its fleshy pulp"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Balanites roxburghii appear in cyme of 3 to 6 flowers. They are yellow-green in colour. The size of the flowers is less than 1 cm. The flower buds are ovoid and covered in a short tomentose pubescence. The flowers of Balanites roxburghii are hermaphroditic or bisexual, meaning the male and female reproductive organs are found within the same flower. They have five petals in radial symmetry. The pedicel of the inflorescence is grey in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Balanites roxburghii appear in cyme of 3 to 6 flowers. <br>They are yellow-green in colour. <br>The size of the flowers is less than 1 cm. <br>The flower buds are ovoid and covered in a short tomentose pubescence. <br>The flowers of Balanites roxburghii are hermaphroditic or bisexual, meaning the male and female reproductive organs are found within the same flower. <br>They have five petals in radial symmetry. <br>The pedicel of the inflorescence is grey in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/63299ad4083ea_Ba.ro_fl1%20copy.jpg",
+          "caption": "Balanites roxburghii tree in full bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62299a5326a3a_Ba.ro_fl2.jpg",
+          "caption": "Balanites roxburghii green flowers in cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62299a5947006_Ba.ro_fl3.jpg",
+          "caption": "Balanites roxburghii green flowers and pubescent buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Balanites roxburghii are bi-foliolate, with alternate arrangement. The two leaflets are elliptic-lanceolate and are variable in size. The size of the leaf is between 0.5 to 1.5 cm. The mature leaves are ashy grey in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Balanites roxburghii are bi-foliolate, with alternate arrangement. <br>The two leaflets are elliptic-lanceolate and are variable in size. <br>The size of the leaf is between 0.5 to 1.5 cm. <br>The mature leaves are ashy grey in colour.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622999e99de34_Ba.ro_lf1.jpg",
+          "caption": "Balanites roxburghii bi-foliolate leaves on green stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622999ec61a65_Ba.ro_lf2.jpg",
+          "caption": "Balanites roxburghii bi-foliolate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.ro_lf3.jpg",
+          "caption": "Balanites roxburghii bi-foliolate leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ba.ro_lf4.jpg",
+          "caption": "Balanites roxburghii bi-foliolate leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/622999fab17b1_Ba.ro_lf5.jpg",
+          "caption": "Balanites roxburghii leaves and thorns on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62299a00292b8_Ba.ro_lf6.jpg",
+          "caption": "Balanites roxburghii leaves with terminal thorn"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Balanites roxburghii is a small deciduous tree growing up to 6 m in height. The branches have long, straight green spines arranged in spirals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Balanites roxburghii is a small deciduous tree growing up to 6 m in height. <br>The branches have long, straight green spines arranged in spirals.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/622999ac6be1d_Ba.ro_ha1.jpg",
+          "caption": "Balanites roxburghii with long spiny branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/622999b4c7969_Ba.ro_ha2.jpg",
+          "caption": "Balanites roxburghii as a small deciduous tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/622999b64e36b_Ba.ro_ha3.jpg",
+          "caption": "Balanites roxburghii as a small deciduous tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

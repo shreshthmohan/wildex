@@ -1,0 +1,136 @@
+{
+  "species_id": 181,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=181",
+  "scraped_at": "2025-10-02T18:04:16.416328Z",
+  "basic_info": {
+    "scientific_name": "Colubrina asiatica",
+    "authority": "(L.) Brongn.",
+    "family": "Rhamnaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/colubrina_asiatica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Co.as_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "02 Jan, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99533 N",
+      "longitude": "79.82179 E",
+      "raw": "11.99533 N - 79.82179 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Colubrina asiatica",
+    "author": "Brongniart, Adolphe Theodore (de) (1826)",
+    "family": "Rhamnaceae",
+    "english_names": "Lather leaf",
+    "indian_names": null,
+    "synonyms": [
+      "Ceanothus asiaticus",
+      "Ceanothus capsularis",
+      "Colubrina capsularis",
+      "Pomaderris capsularis",
+      "Rhamnus acuminata",
+      "Rhamnus asiatica",
+      "Rhamnus splendens",
+      "Sageretia splendens",
+      "Trymalium capsulare",
+      "Tubanthera katapa",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nColubrina\n: Snake-like, from the Latin\ncolubrinus\n-\nAsiatica\n: From Asia.",
+    "etymology_html": "<p>- <i>Colubrina</i> : Snake-like, from the Latin <i>colubrinus</i><br>- <i>Asiatica</i> : From Asia.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Colubrina asiatica is greyish-coloured, longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Colubrina asiatica</i> is greyish-coloured, longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/colubrina_asiatica_stem1.jpg",
+          "caption": "Colubrina asiatica trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/colubrina_asiatica_stem2.jpg",
+          "caption": "Colubrina asiatica young stems"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Colubrina asiatica grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides. The leaves have a curved and 2-2.5 cm long petiole . The leaf of Colubrina asiatica is 7-15 cm long and 3-5 cm wide. The shape of the blade is ovate, the apex is acuminate, the base is rounded and the margins are crenate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Colubrina asiatica</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides.<br>The leaves have a curved and 2-2.5 cm long <strong>petiole</strong>.<br>The leaf of <i>Colubrina asiatica</i> is 7-15 cm long and 3-5 cm wide. The shape of the <strong>blade</strong> is ovate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is rounded and the <strong>margins</strong> are crenate.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf1.jpg",
+          "caption": "Colubrina asiatica branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf2.jpg",
+          "caption": "Colubrina asiatica leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf3.jpg",
+          "caption": "Colubrina asiatica leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf4.jpg",
+          "caption": "Colubrina asiatica leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf5.jpg",
+          "caption": "Colubrina asiatica leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf6.jpg",
+          "caption": "Colubrina asiatica leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/colubrina_asiatica_leaf7.jpg",
+          "caption": "Colubrina asiatica branchlet"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Colubrina asiatica is a thornless, climbing and evergreen shrub growing up to 4-5 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Colubrina asiatica</i> is a thornless, climbing and <strong>evergreen shrub</strong> growing up to 4-5 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/colubrina_asiatica_habit1.jpg",
+          "caption": "Colubrina asiatica shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/colubrina_asiatica_habit2.jpg",
+          "caption": "Colubrina asiatica climbing branches"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Colubrina asiatica is bisexual (each flower of each individual has both male and female structures). Colubrina asiatica is pollinated by a wide variety of insects. The seeds of Colubrina asiatica are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Colubrina asiatica</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Colubrina asiatica</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Colubrina asiatica</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "As its common name (lather leaf) implies, the leaves of Colubrina asiatica , when crushed, possess lathering properties and are used as a detergent and shampoo.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>As its common name (lather leaf) implies, the <strong>leaves</strong> of <i>Colubrina asiatica</i>, when crushed, possess lathering properties and are used as a detergent and shampoo.</p>  \n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Colubrina asiatica can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Colubrina asiatica</i> can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

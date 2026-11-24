@@ -1,0 +1,223 @@
+{
+  "species_id": 266,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=266",
+  "scraped_at": "2025-10-03T13:04:34.317462Z",
+  "basic_info": {
+    "scientific_name": "Dracaena roxburghiana",
+    "authority": null,
+    "family": "Asparagaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/64f5b32e0f4ea_64f5b32e0f4d4_Dr.ro_mp3.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Dr.co_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Feb, 2023",
+    "collected_by": "A.A.S, M.D",
+    "gps_coordinates": {
+      "latitude": "11°59'14 N",
+      "longitude": "79°48'18 E",
+      "raw": "11°59'14 N - 79°48'18 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Dracaena roxburghiana",
+    "author": "Schultes, Julius Hermann (1962)",
+    "family": "Asparagaceae",
+    "english_names": "Indian Bowstring Hemp",
+    "indian_names": null,
+    "synonyms": [
+      "Acyntha roxburghiana",
+      "Cordyline roxburghian",
+      "Sansevieria roxburghiana",
+      "Sansevieria zeylanica"
+    ],
+    "etymology": "-\nDracaena\n: From the Greek\ndrakaina\nmeaning \"dragon\", referring to the well-known species of this genus:\nDracaena draco\n, the Dragon tree\n-\nroxburghiana\n: After Dr William Roxburgh (1751-1815), director of Calcutta Botanic Garden",
+    "etymology_html": "<p>- <i>Dracaena</i>: From the Greek <i>drakaina</i> meaning \"dragon\", referring to the well-known species of this genus: <i>Dracaena draco</i>, the Dragon tree<br>- <i>roxburghiana</i>: After Dr William Roxburgh (1751-1815), director of Calcutta Botanic Garden</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The roots of Dracaena roxburghiana are vibrant orange in colour. The rhizom is superficial, visible on the surface of the ground. The primary root is persistent. The stem is inexistent or very short.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The roots of Dracaena roxburghiana are vibrant orange in colour. <br>The rhizom is superficial, visible on the surface of the ground. <br>The primary root is persistent. <br>The stem is inexistent or very short.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Dr.ro_st1.jpg",
+          "caption": "Dracaena roxburghiana rhizom and rootstock"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Dr.ro_st3.jpg",
+          "caption": "Dracaena roxburghiana stoloniferous branching rootstock"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Dr.ro_st2.jpg",
+          "caption": "Dracaena roxburghiana plant with its vibrant orange roots"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Dracaena roxburghiana are irregular globose solid spheres. They is 1 seed per fruit or none. The seeds are less than 0.5 cm across. The seeds are white, with a wavy irregular albumen.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Dracaena roxburghiana are irregular globose solid spheres.<br>They is 1 seed per fruit or none. <br>The seeds are less than 0.5 cm across.<br>The seeds are white, with a wavy irregular albumen.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Dr.ro_sd1.jpg",
+          "caption": "Dracaena roxburghiana seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Dr.ro_sd2.jpg",
+          "caption": "Dracaena roxburghiana seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Dracaena roxburghiana is a globose fleshy berry. It is about 8 mm across and has often protuberances. It usually grows single from the stem but sometimes in pairs. It is green in colour turning orange at maturity. The berry is indehiscent. The fruit is sparingly produced.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Dracaena roxburghiana is a globose fleshy berry. <br>It is about 8 mm across and has often protuberances. <br>It usually grows single from the stem but sometimes in pairs.<br>It is green in colour turning orange at maturity.<br>The berry is indehiscent. <br>The fruit is sparingly produced.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr1.jpg",
+          "caption": "Dracaena roxburghiana fruiting stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr2.jpg",
+          "caption": "Dracaena roxburghiana fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr5.jpg",
+          "caption": "Dracaena roxburghiana unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr6.jpg",
+          "caption": "Dracaena roxburghiana irregular globose berry at maturity"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr3b.jpg",
+          "caption": "Dracaena roxburghiana berries on the stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Dr.ro_fr4b.jpg",
+          "caption": "Dracaena roxburghiana ripe (orange) and unripe (green) fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Dracaena roxburghiana are bisexual. They appear numerous in a spike-like raceme about 30 to 45 cm long. The flowers are borne in fascicles of 3, sometimes up to 6. The flower-stalks are 6 to 9 cm long, and they are jointed. The flowers are pale white in colour and sweet-scented. They are 2.50 to 3 cm long, with the perianth segments nearly twice as long as the tube.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Dracaena roxburghiana are bisexual. <br>They appear numerous in a spike-like raceme about 30 to 45 cm long. <br>The flowers are borne in fascicles of 3, sometimes up to 6. <br>The flower-stalks are 6 to 9 cm long, and they are jointed. <br>The flowers are pale white in colour and sweet-scented. <br>They are 2.50 to 3 cm long, with the perianth segments nearly twice as long as the tube.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl1.jpg",
+          "caption": "Dracaena roxburghiana blooming habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl6.jpg",
+          "caption": "Dracaena roxburghiana in full bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl5.jpg",
+          "caption": "Dracaena roxburghiana open flowers in fascicles of 3"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl2.jpg",
+          "caption": "Dracaena roxburghiana inflorescence of flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl3.jpg",
+          "caption": "Dracaena roxburghiana flower buds in fascicles of 3"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl4.jpg",
+          "caption": "Dracaena roxburghiana flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl9.jpg",
+          "caption": "Dracaena roxburghiana flowers in a long spike-like raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl7.jpg",
+          "caption": "Dracaena roxburghiana flowers attached to its raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Dr.ro_fl8.jpg",
+          "caption": "Dracaena roxburghiana 3 flowers in fascicle"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Dracaena roxburghiana are simple and radially arranged. They are fleshy, erect and rigid. The leaves are 45 to 75 cm long and 2 to 5 cm broad. The leaves are concave above, rounded dorsally, linear-lanceolate and channelled. The colour of the leaves are green transversely marked with a number of darker lines. The leaf apex is acute and the margin entire. The leaves are fibrous.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Dracaena roxburghiana are simple and radially arranged. <br>They are fleshy, erect and rigid. <br>The leaves are 45 to 75 cm long and 2 to 5 cm broad. <br>The leaves are concave above, rounded dorsally, linear-lanceolate and channelled. <br>The colour of the leaves are green transversely marked with a number of darker lines. <br>The leaf apex is acute and the margin entire. <br>The leaves are fibrous.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf1.jpg",
+          "caption": "Dracaena roxburghiana leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf2.jpg",
+          "caption": "Dracaena roxburghiana green leaf with transversal darker lines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf4.jpg",
+          "caption": "Dracaena roxburghiana tip of the leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf5.jpg",
+          "caption": "Dracaena roxburghiana young leaf growth at the base of the plant"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf6.jpg",
+          "caption": "Dracaena roxburghiana leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf7.jpg",
+          "caption": "Dracaena roxburghiana leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf10.jpg",
+          "caption": "Dracaena roxburghiana transversely cut leaf to show its concaved profile"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf8.jpg",
+          "caption": "Dracaena roxburghiana leaf base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Dr.ro_lf9.jpg",
+          "caption": "Dracaena roxburghiana acute leaf apex"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Dracaena roxburghiana is a short evergreen succulent perennial plant. The plant is stemless, or sometimes with a very short stem. It produces leaves from a rhizomatous rootstock which is stout, branching and stoliniferous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Dracaena roxburghiana is a short evergreen succulent perennial plant. <br>The plant is stemless, or sometimes with a very short stem. <br>It produces leaves from a rhizomatous rootstock which is stout, branching and stoliniferous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Dr.ro_ha1.jpg",
+          "caption": "Dracaena roxburghiana habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Dr.ro_ha2.jpg",
+          "caption": "Dracaena roxburghiana habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Dr.ro_ha4.jpg",
+          "caption": "Dracaena roxburghiana habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Dr.ro_ha3.jpg",
+          "caption": "Dracaena roxburghiana forest under-storey habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

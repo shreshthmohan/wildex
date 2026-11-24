@@ -1,0 +1,196 @@
+{
+  "species_id": 204,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=204",
+  "scraped_at": "2025-10-08T06:06:22.130573Z",
+  "basic_info": {
+    "scientific_name": "Antidesma ghaesembilla",
+    "authority": null,
+    "family": "Phyllanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/6229972f1a6c9_6229972f1a6bc_An.gh_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/An.gh_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Oct, 2021",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.9876 N 79.8055 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Antidesma ghaesembilla",
+    "author": "Gaertner, Joseph (1789)",
+    "family": "Phyllanthaceae",
+    "english_names": "Black currant tree",
+    "indian_names": {
+      "Tamil": [
+        "Pulicha maram"
+      ]
+    },
+    "synonyms": [
+      "Cansjera grossularioides",
+      "Cansjera rheedei",
+      "Tsjeru-caniram grossularioides",
+      "Antidesma frutescens",
+      "Antidesma ghaesembilla var. genuinum",
+      "Antidesma paniculatum",
+      "Antidesma pubescens",
+      "Antidesma rhamnoides",
+      "Antidesma schultzii",
+      "Antidesma spicatum",
+      "Antidesma vestitum"
+    ],
+    "etymology": "-\nAntidesma\n: From the Greek\nanti\n\"against\" -\ndesma\n\"poison\" referring to the use of this genus against snakebite\n-\nghaesembilla\n: From the Singalese designating this plant",
+    "etymology_html": "<p>- <i>Antidesma</i>: From the Greek <i>anti</i> \"against\" - <i>desma</i> \"poison\" referring to the use of this genus against snakebite<br>- <i>ghaesembilla</i>: From the Singalese designating this plant</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Antidesma ghaesembilla is fairly smooth with vertical fissures. The tender parts are pubescent. The bark is grey in colour, the branchlets are brown and warty. They become hairless with age.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Antidesma ghaesembilla is fairly smooth with vertical fissures. <br>The tender parts are pubescent. <br>The bark is grey in colour, the branchlets are brown and warty. <br>They become hairless with age.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622999360b706_An.gh_bk1.jpg",
+          "caption": "Antidesma ghaesembilla smooth bark with vertical fissures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62299937e71e7_An.gh_bk2.jpg",
+          "caption": "Antidesma ghaesembilla bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229994192de1_An.gh_st1.jpg",
+          "caption": "Antidesma ghaesembilla branching out mature tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/622999424465e_An.gh_st2.jpg",
+          "caption": "Antidesma ghaesembilla stem of mature tree"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Antidesma ghaesembilla are small and unevenly crinkled. They are green to brown in colour. Their size is about 5 mm.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Antidesma ghaesembilla are small and unevenly crinkled. <br>They are green to brown in colour. <br>Their size is about 5 mm.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622998fed38ab_An.gh_sd1.jpg",
+          "caption": "Antidesma ghaesembilla seeds ovate and unevenly crinkled"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/622999020499b_An.gh_sd2.jpg",
+          "caption": "Antidesma ghaesembilla seeds green to brown in colour"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62299906a083a_An.gh_sd3.jpg",
+          "caption": "Antidesma ghaesembilla seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Antidesma ghaesembilla is a glabrous drupe with a persistent calyx. The epicarp is crinkled. The colour of the fruit turns from red to blue-purple when fully ripe. The fruit size is less than 1 cm.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Antidesma ghaesembilla is a glabrous drupe with a persistent calyx. <br>The epicarp is crinkled. <br>The colour of the fruit turns from red to blue-purple when fully ripe.<br>The fruit size is less than 1 cm.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/622998504ea7a_An.gh_fr1.jpg",
+          "caption": "Antidesma ghaesembilla cluster of  green fruits (unripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62299853b4c32_An.gh_fr2.jpg",
+          "caption": "Antidesma ghaesembilla fruits maturing at different stages, the darkest ones being ripe"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229985652483_An.gh_fr3.jpg",
+          "caption": "Antidesma ghaesembilla fruits maturing at different stages"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229985a4e1de_An.gh_fr4.jpg",
+          "caption": "Antidesma ghaesembilla fruits in clusters"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229989a5a018_An.gh_fr5.jpg",
+          "caption": null
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Antidesma ghaesembilla are unisexual (the species is dioecious). The male flowers are yellow in colour and more pubescent than the female flowers. They are appearing in terminal and axillary much branched spikes. The peduncle is densely brown. The female flowers are white-green in colour, they are also appearing in terminal and axillary branched or simple racemes.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Antidesma ghaesembilla are unisexual (the species is dioecious). <br>The male flowers are yellow in colour and more pubescent than the female flowers. <br>They are appearing in terminal and axillary much branched spikes. <br>The peduncle is densely brown. <br>The female flowers are white-green in colour, they are also appearing in terminal and axillary branched or simple racemes.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62970aa03ce6e_An.gh_fl2.jpg",
+          "caption": "Antidesma ghaesembilla inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc3235aad_An.gh_fl1.jpg",
+          "caption": "Antidesma ghaesembilla male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc351e5b2_An.gh_fl2.jpg",
+          "caption": "Antidesma ghaesembilla flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc3a0ad39_An.gh_fl3.jpg",
+          "caption": "Antidesma ghaesembilla flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc3e2520f_An.gh_fl4.jpg",
+          "caption": "Antidesma ghaesembilla blooming tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc825a92d_An.gh_fl5.jpg",
+          "caption": "Antidesma ghaesembilla blooming tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62fdcc8460163_An.gh_fl6.jpg",
+          "caption": "Antidesma ghaesembilla male flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Antidesma ghaesembilla are simple, with alternate arrangement. The leaves are laterally stipulated. The leaves are 3 to 8 cm long and 2 to 5 cm wide. They are linear or lanceolate. The petiole is slender and tomentose, the leaf margin is entire.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Antidesma ghaesembilla are simple, with alternate arrangement. <br>The leaves are laterally stipulated. <br>The leaves are 3 to 8 cm long and 2 to 5 cm wide. <br>They are linear or lanceolate. <br>The petiole is slender and tomentose, the leaf margin is entire.   </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6200ea2e5d405_An.gh_lf1.jpg",
+          "caption": "Antidesma ghaesembilla leaves and new leaves growth (pink in colour)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6200eb67e5dd8_An.gh_lf2.jpg",
+          "caption": "Antidesma ghaesembilla leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6200ea3a9f647_An.gh_lf3.jpg",
+          "caption": "Antidesma ghaesembilla leaf upper side (left) and lower side (right)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Antidesma ghaesembilla is deciduous small tree growing up to 6 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Antidesma ghaesembilla is deciduous small tree growing up to 6 m in height.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62299758c6caf_An.gh_ha1.jpg",
+          "caption": "Antidesma ghaesembilla habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63465c48e3542_An.gh_ha2.jpg",
+          "caption": "Antidesma ghaesembilla habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

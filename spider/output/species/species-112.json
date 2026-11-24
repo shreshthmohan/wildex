@@ -1,0 +1,265 @@
+{
+  "species_id": 112,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=112",
+  "scraped_at": "2025-10-03T15:39:18.116890Z",
+  "basic_info": {
+    "scientific_name": "Asparagus racemosus",
+    "authority": "Willd.",
+    "family": "Asparagaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/asparagus_racemosus.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/As.ra_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "20 Jan, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99572 N",
+      "longitude": "79.82238 E",
+      "raw": "11.99572 N - 79.82238 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Asparagus racemosus",
+    "author": "Willdenow, Carl Ludwig von (1799)",
+    "family": "Asparagaceae",
+    "english_names": "Wild asparagus",
+    "indian_names": {
+      "Hindi": [
+        "Satamuli",
+        "satavar",
+        "satawari"
+      ],
+      "Kannada": [
+        "Ashadhi",
+        "callagadda"
+      ],
+      "Malayalam": [
+        "Chatavali",
+        "satavari"
+      ],
+      "Marathi": [
+        "Satavari mul"
+      ],
+      "Sanskrit": [
+        "Abhiru",
+        "satavari"
+      ],
+      "Tamil": [
+        "Thanneer vittan kizhangu"
+      ],
+      "Telugu": [
+        "Challagadda"
+      ]
+    },
+    "synonyms": [
+      "Asparagopsis abyssinica",
+      "Asparagopsis acerosa",
+      "Asparagopsis brownei",
+      "Asparagopsis decaisnei",
+      "Asparagopsis floribunda",
+      "Asparagopsis hohenackeri",
+      "Asparagopsis javanica",
+      "Asparagopsis retrofracta",
+      "Asparagopsis sarmentosa",
+      "Asparagopsis subquadrangularis",
+      "Asparagus acerosus",
+      "Asparagus dubius",
+      "Asparagus fasciculatus",
+      "Asparagus jacquemontii",
+      "Asparagus penduliflorus",
+      "Asparagus petitianus",
+      "Asparagus racemosus var. javanicus",
+      "Asparagus racemosus var. longicladodius",
+      "Asparagus racemosus var. subacerosus",
+      "Asparagus racemosus var. tetragonus",
+      "Asparagus racemosus var. zeylanicus",
+      "Asparagus stachyoides",
+      "Asparagus tetragonus",
+      "Asparagus zeylanicus",
+      "Protasparagus acerosus",
+      "Protasparagus jacquemontii",
+      "Protasparagus racemosus",
+      "Protasparagus racemosus var. subacerosus",
+      "Protasparagus zeylanicus",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAsparagus\n: From the Greek name\nasparagos, aspharagos\n, for plants sprouting edible turions from the rootstock.\n-\nRacemosus\n: Having racemose inflorescences.",
+    "etymology_html": "<p>-<i>Asparagus</i> : From the Greek name <i>asparagos, aspharagos</i>, for plants sprouting edible turions from the rootstock.<br>-<i>Racemosus</i> : Having racemose inflorescences.</p>"
+  },
+  "description": {
+    "leaf": {
+      "text": "The leaf of Asparagus racemosus is actually a cladode : a leaf-like flattened branch that resembles and functions as a leaf. The cladodes of Asparagus racemosus grow in clusters (4-6 cladodes per cluster). The clusters grow alternately on the stem (spirally arranged). The cladodes are bright green-coloured and glabrous. The cladode of Asparagus racemosus is 0.5-1.5 cm long and 0.5-0.8 mm wide. It is linear and falcate, the apex is acuminate, the base is attenuate and the margins are entire.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of <i>Asparagus racemosus</i> is actually a <strong>cladode</strong> : a leaf-like flattened branch that resembles and functions as a leaf. The <strong>cladodes</strong> of <i>Asparagus racemosus</i> grow in clusters (4-6 cladodes per cluster). The clusters grow alternately on the stem (spirally arranged).<br>The cladodes are bright green-coloured and glabrous.<br>The cladode of <i>Asparagus racemosus</i> is 0.5-1.5 cm long and 0.5-0.8 mm wide. It is linear and falcate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is attenuate and the <strong>margins</strong> are entire.<br> </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/asparagus_racemosus_leaf1.jpg",
+          "caption": "Asparagus racemosus cladodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/asparagus_racemosus_leaf2.jpg",
+          "caption": "Asparagus racemosus cladodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/asparagus_racemosus_leaf3.jpg",
+          "caption": "Asparagus racemosus cladodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/asparagus_racemosus_leaf4.jpg",
+          "caption": "Asparagus racemosus branches"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Asparagus racemosus is an armed, woody and deciduous climber growing up to 6-8 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Asparagus racemosus</i> is an armed, woody and <strong>deciduous climber</strong> growing up to 6-8 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/asparagus_racemosus_habit1.jpg",
+          "caption": "Asparagus racemosus climbing over a tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/asparagus_racemosus_habit2.jpg",
+          "caption": "Asparagus racemosus climbing over a tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/asparagus_racemosus_habit3.jpg",
+          "caption": "Asparagus racemosus in bloom"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The bark of Asparagus racemosus is smooth. The climber is armed with stout spines.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Asparagus racemosus</i> is smooth. The climber is armed with stout spines.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/asparagus_racemosus_stem1.jpg",
+          "caption": "Asparagus racemosus stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/asparagus_racemosus_stem2.jpg",
+          "caption": "Asparagus racemosus thorny stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/asparagus_racemosus_stem3.jpg",
+          "caption": "Asparagus racemosus thorn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/asparagus_racemosus_stem4.jpg",
+          "caption": "Asparagus racemosus thorns"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Asparagus racemosus is a berry. The fruit is usually 3-lobed and about 1 cm across. The fruit is green ripening red. It contains usually 3 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Asparagus racemosus</i> is a berry. The fruit is usually 3-lobed and about 1 cm across. The fruit is green ripening red. It contains usually 3 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit1.jpg",
+          "caption": "Asparagus racemosus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit2.jpg",
+          "caption": "Asparagus racemosus unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit3.jpg",
+          "caption": "Asparagus racemosus unripe fruits transversal sections"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit4.jpg",
+          "caption": "Asparagus racemosus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit5.jpg",
+          "caption": "Asparagus racemosus unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/asparagus_racemosus_fruit6.jpg",
+          "caption": "Asparagus racemosus unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Asparagus racemosus are grouped in axillary racemes. The perianth is composed of 6 tepals. The tepals are obovate, 2.5-3 mm long and 1 mm across. The perianth is white-coloured and glabrous. The androecium is composed of 6 stamens. The filaments are 2 mm long and white with elliptic and dark brown anthers at the tip. The style is short (0.5 mm long) with 3 recurved stigmas . The ovary is subglobose, 1.5 mm across and light green coloured. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Asparagus racemosus</i> are grouped in axillary racemes.<br>The <strong>perianth</strong> is composed of 6 tepals. The tepals are obovate, 2.5-3 mm long and 1 mm across. The perianth is white-coloured and glabrous.<br>The <strong>androecium</strong> is composed of 6 stamens. The filaments are 2 mm long and white with elliptic and dark brown anthers at the tip.<br>The <strong>style</strong> is short (0.5 mm long) with 3 recurved <strong>stigmas</strong>.<br>The <strong>ovary</strong> is subglobose, 1.5 mm across and light green coloured.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower1.jpg",
+          "caption": "Asparagus racemosus inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower2.jpg",
+          "caption": "Asparagus racemosus inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower3.jpg",
+          "caption": "Asparagus racemosus flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower4.jpg",
+          "caption": "Asparagus racemosus inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower5.jpg",
+          "caption": "Asparagus racemosus inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower6.jpg",
+          "caption": "Asparagus racemosus flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower7.jpg",
+          "caption": "Asparagus racemosus flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/asparagus_racemosus_flower8.jpg",
+          "caption": "Asparagus racemosus in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Asparagus racemosus is common in scrub jungles, thickets, hill slopes and forest borders from the coastal plains up to 1500 m of elevation.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Asparagus racemosus</i> is common in scrub jungles, thickets, hill slopes and forest borders from the coastal plains up to 1500 m of elevation.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Paleotropics",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Paleotropics</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Asparagus racemosus is bisexual (each flower of each individual has both male and female structures). Asparagus racemosus is pollinated by a wide variety of insects. The seeds of Asparagus racemosus are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Asparagus racemosus</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Asparagus racemosus</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Asparagus racemosus</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From December to March. From March to July. From March to July. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From March to July.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From March to July.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The boiled roots or root paste of Asparagus racemosus are given to animals to increase secretion of milk. The roots are given as astringent and vulnerary for diarrhea and dysentery. The powdered roots mixed with water are applied on wounds of cattle. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>boiled roots or root paste</strong> of <i>Asparagus racemosus</i> are given to animals to increase secretion of milk.<br><br>The <strong>roots</strong> are given as astringent and vulnerary for diarrhea and dysentery.<br><br>The <strong>powdered roots mixed with water</strong> are applied on wounds of cattle.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Asparagus racemosus is used in Ayurveda, Unani and Siddha medicines. The root of Asparagus racemosus is used as a refrigerant, demulcent, diuretic, aphrodisiac, antispasmodic, alterative, anti-diarrhoeatic and anti-dysenteric. It is generally used as a uterine tonic, in hyperacidity, and as a general health tonic. The root of Asparagus racemosus is also used for disorders of female genitourinary tract, as a styptic and ulcer-healing agent. The root is used as an intestinal disinfectant and astringent in diarrhoea. The boiled roots are given to women to increase the secretion of milk. The powdered tuberous roots mixed with milk are used as a tonic for impotency, quick ejaculation and spermatorrhea. The tubers are eaten as hepatic stimulant. The rhizome is chewed and the paste applied on insect bite. The rhizome extract is given orally as an antiseptic. The pulp of the ripe fruit is used in eczema. The tender shoots decoction is used as a tonic for convalescents and as a postpartum remedy. Along with other therapeutic applications, The Ayurvedic Pharmacopoeia of India indicates the use of the tuberous root in gout, puerperal diseases, lactic disorders, haematuria, bleeding disorders and also recommends it for hyperacidity. Contact therapy : A small piece of root is tied around the arm of woman to lead to safe delivery. A piece of root tied around the ears is used to relieve vertigo and for induction of sleep in children. Root pieces are tied with a sacred thread as a necklace to cure typhoid. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Basu & Kirtikar, 1918, Indian Medicinal Plants - Chopra, 1956, Glossary of Indian medicinal plants - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Asparagus racemosus</i> is used in Ayurveda, Unani and Siddha medicines.<br><br>The <strong>root</strong> of <i>Asparagus racemosus</i> is used as a refrigerant, demulcent, diuretic, aphrodisiac, antispasmodic, alterative, anti-diarrhoeatic and anti-dysenteric.<br>It is generally used as a uterine tonic, in hyperacidity, and as a general health tonic.<br>The root of <i>Asparagus racemosus</i> is also used for disorders of female genitourinary tract, as a styptic and ulcer-healing agent. The root is used as an intestinal disinfectant and astringent in diarrhoea.<br><br>The <strong>boiled roots</strong> are given to women to increase the secretion of milk.<br><br>The <strong>powdered tuberous roots</strong> mixed with milk are used as a tonic for impotency, quick ejaculation and spermatorrhea.<br><br>The <strong>tubers</strong> are eaten as hepatic stimulant.<br><br>The <strong>rhizome</strong> is chewed and the paste applied on insect bite.<br><br>The <strong>rhizome extract</strong> is given orally as an antiseptic.<br><br>The <strong>pulp of the ripe fruit</strong> is used in eczema.<br><br>The <strong>tender shoots decoction</strong> is used as a tonic for convalescents and as a postpartum remedy.<br><br>Along with other therapeutic applications, <i>The Ayurvedic Pharmacopoeia of India</i> indicates the use of the <strong>tuberous root</strong> in gout, puerperal diseases, lactic disorders, haematuria, bleeding disorders and also recommends it for hyperacidity.<br><br><strong>Contact therapy</strong> :<br>A small <strong>piece of root</strong> is tied around the arm of woman to lead to safe delivery.<br>A <strong>piece of root</strong> tied around the ears is used to relieve vertigo and for induction of sleep in children.<br><strong>Root pieces</strong> are tied with a sacred thread as a necklace to cure typhoid.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Chopra, 1956, Glossary of Indian medicinal plants</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Asparagus racemosus is able to flourish in a wide range of soils but all soils need to be free draining. The species grows well is full sun and can withstand shade. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Asparagus racemosus</i> is able to flourish in a wide range of soils but all soils need to be free draining. <br>The species grows well is full sun and can withstand shade.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

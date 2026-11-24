@@ -1,0 +1,242 @@
+{
+  "species_id": 268,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=268",
+  "scraped_at": "2025-10-03T13:03:21.013760Z",
+  "basic_info": {
+    "scientific_name": "Gloriosa superba",
+    "authority": null,
+    "family": "Colchicaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63fb0d4252954_63fb0d4252940_Gl.su_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gl.su_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Jan, 2023",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "latitude": "11°59'13 N",
+      "longitude": "79°48'22 E",
+      "raw": "11°59'13 N - 79°48'22 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Gloriosa superba",
+    "author": "Linnaeus, Carl (1753)",
+    "family": "Colchicaceae",
+    "english_names": "Tiger claw",
+    "indian_names": null,
+    "synonyms": [
+      "Eugone superba",
+      "Gloriosa angulata",
+      "Gloriosa cirrhifolia",
+      "Gloriosa doniana",
+      "Gloriosa graminifolia var. heterophylla",
+      "Gloriosa nepalensis",
+      "Gloriosa rothschildiana",
+      "Gloriosa sampiana",
+      "Gloriosa superba f. doniana",
+      "Gloriosa superba f. grandiflora",
+      "Gloriosa superba var. angustifolia",
+      "Gloriosa superba var. superba",
+      "Gloriosa verschuurii",
+      "Gloriosa virescens",
+      "Gloriosa virescens var. grandiflora",
+      "Gloriosa virescens var. leopoldii",
+      "Gloriosa virescens var. petersiana",
+      "Gloriosa virescens var. plantii",
+      "Gloriosa virescens var. platyphylla",
+      "Gloriosa ×rockefelleriana",
+      "Methonica doniana",
+      "Methonica gloriosa",
+      "Methonica grandiflora",
+      "Methonica petersiana",
+      "Methonica plantii",
+      "Methonica platyphylla",
+      "Methonica superba"
+    ],
+    "etymology": "-\nGloriosa\n: From the Latin\ngloriosus\nmeaning 'ostentatious'\n-\nsuperba\n: From the Latin word for wonderful",
+    "etymology_html": "<p>- <i>Gloriosa</i>: From the Latin <i>gloriosus</i> meaning 'ostentatious'<br>- <i>superba</i>: From the Latin word for wonderful</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Gloriosa superba is very flexible and fragile. It is usually 30 cm to 1.80 m long, but can grow up to 5 m in good condition. There is 1 to 4 slender deciduous stems growing from the tuberous rhizome. The rhizome is fleshy, elongated, often forked, red-brown in colour. The plant is maintained upright by the leaf tendrils that grow on thickets. The stem and branchlets are green in colour and glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Gloriosa superba is very flexible and fragile.<br>It is usually 30 cm to 1.80 m long, but can grow up to 5 m in good condition.<br>There is 1 to 4 slender deciduous stems growing from the tuberous rhizome.<br>The rhizome is fleshy, elongated, often forked, red-brown in colour.<br>The plant is maintained upright by the leaf tendrils that grow on thickets. <br>The stem and branchlets are green in colour and glabrous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gl.su_st2.jpg",
+          "caption": "Gloriosa superba stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gl.su_st1.jpg",
+          "caption": "Gloriosa superba stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gl.su_st3.jpg",
+          "caption": "Gloriosa superba long stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Gloriosa superba are red to brown in colour. There are many seeds, contained on each lobe of the capsule. The seeds are round, fleshy and about 5 mm across.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Gloriosa superba are red to brown in colour. <br>There are many seeds, contained on each lobe of the capsule. <br>The seeds are round, fleshy and about 5 mm across.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Gl.su_sd1.jpg",
+          "caption": "Gloriosa superba ripe open fruit showing red seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Gl.su_sd3.jpg",
+          "caption": "Gloriosa superba red seeds on the 3-lobbed capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Gl.su_sd4.jpg",
+          "caption": "Gloriosa superba seeds, dissected in half (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Gl.su_sd5.jpg",
+          "caption": "Gloriosa superba seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Gloriosa superba is an ellipsoid-oblong capsule. It is about 3 to 5 cm long and 1 to 2 cm wide. The fruit is torulose (cylindrical with alternate swellings and contractions). When mature, the capsule opens and exposes the seeds to the open.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Gloriosa superba is an ellipsoid-oblong capsule. <br>It is about 3 to 5 cm long and 1 to 2 cm wide. <br>The fruit is torulose (cylindrical with alternate swellings and contractions). <br>When mature, the capsule opens and exposes the seeds to the open.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_fr4.jpg",
+          "caption": "Gloriosa superba unripe capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_fr6.jpg",
+          "caption": "Gloriosa superba fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_fr3.jpg",
+          "caption": "Gloriosa superba unripe capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_fr2.jpg",
+          "caption": "Gloriosa superba 3-celled capsule, manually detached"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_fr1.jpg",
+          "caption": "Gloriosa superba unripe capsule dissected in length to show the immature seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gl.su_sd2.jpg",
+          "caption": "Gloriosa superba mature fruit, split open to show red seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Gloriosa superba are bisexual, growing solitary or in sub-corymbose at the tip of the branches. They are 6 to 12 cm wide, and the pedicel is 6 to 11 cm long. There are 6 glabrous petals, oblong to lanceolate in shape, with an undulated margin at maturity. The flower gradually spread backwards, sequencing the petals colour from green to yellow then scarlet. There are 6 prominent stamens that spread outwards. The filaments are about 4 cm long and the anthers are slightly curved. The base of the flower is a large, oblong, green 3-celled ovary.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Gloriosa superba are bisexual, growing solitary or in sub-corymbose at the tip of the branches.<br>They are 6 to 12 cm wide, and the pedicel is 6 to 11 cm long.<br>There are 6 glabrous petals, oblong to lanceolate in shape, with an undulated margin at maturity. <br>The flower gradually spread backwards, sequencing the petals colour from green to yellow then scarlet. <br>There are 6 prominent stamens that spread outwards. <br>The filaments are about 4 cm long and the anthers are slightly curved. <br>The base of the flower is a large, oblong, green 3-celled ovary.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl4.jpg",
+          "caption": "Gloriosa superba young flower not yet fully open"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl2.jpg",
+          "caption": "Gloriosa superba flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl3.jpg",
+          "caption": "Gloriosa superba flowers on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl5.jpg",
+          "caption": "Gloriosa superba nearly withered flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl8.jpg",
+          "caption": "Gloriosa superba stamen with pollen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl5c.jpg",
+          "caption": "Gloriosa superba flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl6c.jpg",
+          "caption": "Gloriosa superba lower side of the flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gl.su_fl7c.jpg",
+          "caption": "Gloriosa superba upper side of the flower"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Gloriosa superba are simple, growing in an alternate, opposite or whorled arrangement. They are oblong to lanceolate in shape and bright green in colour. The leaf is about 3 to 10 cm long and 1 to 3 cm wide. The leaf shows a prominent midrib and many lateral nerves. The leaf is chartaceous and glabrous with a cordate base, an entire margin and an acuminate, tendrilled apex. The leaf tip elongates into a slender tendril that coils around any nearby support to get a grip.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Gloriosa superba are simple, growing in an alternate, opposite or whorled arrangement.<br>They are oblong to lanceolate in shape and bright green in colour. <br>The leaf is about 3 to 10 cm long and 1 to 3 cm wide. <br>The leaf shows a prominent midrib and many lateral nerves. <br>The leaf is chartaceous and glabrous with a cordate base, an entire margin and an acuminate, tendrilled apex.<br>The leaf tip elongates into a slender tendril that coils around any nearby support to get a grip. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf2.jpg",
+          "caption": "Gloriosa superba leaves (top view)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf3.jpg",
+          "caption": "Gloriosa superba leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf5.jpg",
+          "caption": "Gloriosa superba leaves with prominent midrib"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf4.jpg",
+          "caption": "Gloriosa superba tendrilled leaf tip"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf6.jpg",
+          "caption": "Gloriosa superba leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf7.jpg",
+          "caption": "Gloriosa superba leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gl.su_lf1.jpg",
+          "caption": "Gloriosa superba leaves on stem"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Gloriosa superba is a slender, herbaceous vine growing from a thick tuberous rootstock. It is able to climb up to 3 m in height, with tendrils formed at the tip of the leaves. All parts of this plant are poisonous, especially the tuber.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Gloriosa superba is a slender, herbaceous vine growing from a thick tuberous rootstock.<br>It is able to climb up to 3 m in height, with tendrils formed at the tip of the leaves.<br>All parts of this plant are poisonous, especially the tuber.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gl.su_ha1.jpg",
+          "caption": "Gloriosa superba habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gl.su_ha3.jpg",
+          "caption": "Gloriosa superba habit of a young plant on the ground"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gl.su_ha2.jpg",
+          "caption": "Gloriosa superba habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gl.su_ha4.jpg",
+          "caption": "Gloriosa superba climbing habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

@@ -1,0 +1,234 @@
+{
+  "species_id": 98,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=98",
+  "scraped_at": "2025-10-02T17:17:06.330866Z",
+  "basic_info": {
+    "scientific_name": "Dendrophthoe falcata",
+    "authority": "(L.f.) Ettingsh.",
+    "family": "Loranthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/dendrophthoe_falcata.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/De.fa_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "20 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99520 N",
+      "longitude": "79.82419 E",
+      "raw": "11.99520 N - 79.82419 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Dendrophthoe falcata",
+    "author": null,
+    "family": "Loranthaceae",
+    "english_names": "Sickle mistletoe",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Dendrophthoe falcata is grey-coloured and smooth. The stems are dilated at the base (parasite-host contact).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Dendrophthoe falcata</em> is grey-coloured and smooth. The stems are dilated at the base (parasite-host contact).      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dendrophthoe_falcata_stem1.jpg",
+          "caption": "Dendrophthoe falcata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dendrophthoe_falcata_stem2.jpg",
+          "caption": "Dendrophthoe falcata stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dendrophthoe_falcata_stem3.jpg",
+          "caption": "Dendrophthoe falcata dilated stem (parasite-host contact)"
+        }
+      ]
+    },
+    "seed": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n          \n    </p>\n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Dendrophthoe falcata is an oblong berry. The fruit is 1.3-1.5 mm long and 6-7 mm wide and crowned by the persistent calyx. It is green turning yellow-pinkish-coloured when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Dendrophthoe falcata</em> is an oblong berry. The fruit is 1.3-1.5 mm long and 6-7 mm wide and crowned by the persistent calyx. It is green turning yellow-pinkish-coloured when ripe.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dendrophthoe_falcata_fruit1.jpg",
+          "caption": "Dendrophthoe falcata ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dendrophthoe_falcata_fruit2.jpg",
+          "caption": "Dendrophthoe falcata fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dendrophthoe_falcata_fruit3.jpg",
+          "caption": "Dendrophthoe falcata fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dendrophthoe_falcata_fruit4.jpg",
+          "caption": "Dendrophthoe falcata fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dendrophthoe_falcata_fruit5.jpg",
+          "caption": "Dendrophthoe falcata unripe fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Dendrophthoe falcata are grouped in axillary racemes (at the upper axils of the leaves). The calyx is tubular, 4-5 mm long and 2 mm across. The calyx is light green and glabrous. The corolla is tubular, 5 cm long and 2-4 mm wide, inflated and curved in the middle with 5 short, 6-7 mm long and greenish lobes. The corolla is yellowish-coloured (sometimes pinkish) and green at the tip. The androecium is composed of 5 stamens. The filaments are 4-5 mm long and pubescent with oblong and 5 mm long anthers at their tips. The style is filiform and 5 cm long and the stigma is small and globose. The ovary is oblong and 3-4 mm across.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Dendrophthoe falcata</em> are grouped in axillary racemes (at the upper axils of the leaves).<br>\nThe <b>calyx</b> is tubular, 4-5 mm long and 2 mm across. The calyx is light green and glabrous.<br>\nThe <b>corolla</b> is tubular, 5 cm long and 2-4 mm wide, inflated and curved in the middle with 5 short, 6-7 mm long and greenish lobes. The corolla is yellowish-coloured (sometimes pinkish) and green at the tip.<br>\nThe <b>androecium</b> is composed of 5 stamens. The <b>filaments</b> are 4-5 mm long and pubescent with oblong and 5 mm long anthers at their tips.<br>\nThe <b>style</b> is filiform and 5 cm long and the <b>stigma</b> is small and globose.<br>\nThe <b>ovary</b> is oblong and 3-4 mm across.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower1.jpg",
+          "caption": "Dendrophthoe falcata inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower2.jpg",
+          "caption": "Dendrophthoe falcata inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower3.jpg",
+          "caption": "Dendrophthoe falcata flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower4.jpg",
+          "caption": "Dendrophthoe falcata flower longitudinal section and reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower5.jpg",
+          "caption": "Dendrophthoe falcata flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower6.jpg",
+          "caption": "Dendrophthoe falcata inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower7.jpg",
+          "caption": "Dendrophthoe falcata flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower8.jpg",
+          "caption": "Dendrophthoe falcata corolla tip"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dendrophthoe_falcata_flower9.jpg",
+          "caption": "Dendrophthoe falcata flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Dendrophthoe falcata grow opposite on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 5-6 mm long petiole . The leaf of Dendrophthoe falcata is 6-14 cm long and 2.5-4.5 cm wide. The shape of the blade is very variable, from ovate to lanceolate or falcate, the apex is obtuse, the base is rounded and the margins are entire. The venation of the leaf is pinnate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Dendrophthoe falcata</em> grow opposite on the stem.<br>\nThe leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>\nThe leaves have a 5-6 mm long <b>petiole</b>.<br>\nThe leaf of <em>Dendrophthoe falcata</em> is 6-14 cm long and 2.5-4.5 cm wide. The shape of the <b>blade</b> is very variable, from ovate to lanceolate or falcate, the <b>apex</b> is obtuse, the <b>base</b> is rounded and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is pinnate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf1.jpg",
+          "caption": "Dendrophthoe falcata leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf2.jpg",
+          "caption": "Dendrophthoe falcata leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf3.jpg",
+          "caption": "Dendrophthoe falcata leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf4.jpg",
+          "caption": "Dendrophthoe falcata leaf shape variations"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf5.jpg",
+          "caption": "Dendrophthoe falcata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf6.jpg",
+          "caption": "Dendrophthoe falcata foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dendrophthoe_falcata_leaf7.jpg",
+          "caption": "Dendrophthoe falcata leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Dendrophthoe falcata is a large branch parasite . It is an evergreen and much-branched shrub growing up to 2-2.5 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Dendrophthoe falcata</em> is a large branch <b>parasite</b>. It is an evergreen and much-branched shrub growing up to 2-2.5 m.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/dendrophthoe_falcata_habit4.jpg",
+          "caption": "Dendrophthoe falcata parasite shrubs on a Ceiba pentandra tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/dendrophthoe_falcata_habit1.jpg",
+          "caption": "Dendrophthoe falcata parasite on Acacia auriculiformis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/dendrophthoe_falcata_habit2.jpg",
+          "caption": "Dendrophthoe falcata parasite"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/dendrophthoe_falcata_habit3.jpg",
+          "caption": "Dendrophthoe falcata parasite"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <em>Dendrophthoe falcata</em> is found from the coastal plains up to 1500 m on the hills. The species is very common in scrub jungles and deciduous forests.<br>\nIt is the most common of all the mistletoes that occur in India. At the moment reports say that it has around 401 plant hosts. (<em>Wikipedia</em>)        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n          Indo-Malesia biogeographical region, China and Australia        </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Dendrophthoe falcata</em> is bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Dendrophthoe falcata</em>  is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Dendrophthoe falcata</em> are dispersed by various fruit-eating birds and mammals.</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Seeding season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> Evergreen foliage.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          Not specified        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          Not specified        </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": "IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    IUCN threat status : Not evaluated (This taxon has not yet been assessed for the IUCN Red List)  </p>\n</div>",
+      "images": []
+    }
+  }
+}

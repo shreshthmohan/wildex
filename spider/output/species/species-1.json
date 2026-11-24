@@ -1,0 +1,282 @@
+{
+  "species_id": 1,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=1",
+  "scraped_at": "2025-10-07T03:45:15.730167Z",
+  "basic_info": {
+    "scientific_name": "Tamarindus indica",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/tamarindus_indica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ta.in_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "24 Aug, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99495 N",
+      "longitude": "79.82348 E",
+      "raw": "11.99495 N - 79.82348 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Tamarindus indica",
+    "author": null,
+    "family": "Fabaceae",
+    "english_names": "Tamarind tree , Indian date",
+    "indian_names": {
+      "Bengali": [
+        "Amli"
+      ],
+      "Hindi": [
+        "Amli",
+        "Ampli",
+        "Imli"
+      ],
+      "Kannada": [
+        "Amli",
+        "Huli"
+      ],
+      "Malayalam": [
+        "Amlam",
+        "Kolpuli",
+        "Puli",
+        "Valampuli"
+      ],
+      "Marathi": [
+        "Ambali",
+        "Amli",
+        "Chicha"
+      ],
+      "Sanskrit": [
+        "Amlika",
+        "Cinca",
+        "Tintrini"
+      ],
+      "Tamil": [
+        "Amilam",
+        "Amilikai",
+        "Puli"
+      ],
+      "Telugu": [
+        "Amlaki",
+        "Chinta",
+        "Cintacettu",
+        "Cintapandu"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark is dark grey, longitudinally fissured and horizontally cracked. The bark becomes more smooth on older specimens.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> is dark grey, longitudinally fissured and horizontally cracked. The bark becomes more smooth on older specimens.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/tamarindus_indica_stem1.jpg",
+          "caption": "Tamarindus indica trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/tamarindus_indica_stem2.jpg",
+          "caption": "Tamrindus indica bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds are brown, hard, shiny, smooth and 1 to 1.5 cm across. They are ovate-oblong, compressed and truncate at both ends. There are between 3 and 15 seeds in a pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> are brown, hard, shiny, smooth and 1 to 1.5 cm across.<br>\nThey are ovate-oblong, compressed and truncate at both ends.<br>\nThere are between 3 and 15 seeds in a pod.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/tamarindus_indica_seed1.jpg",
+          "caption": "Tamarindus indica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/tamarindus_indica_seed2.jpg",
+          "caption": "Tamarindus indica unripe fruit longitudinal section : immature seeds in the mesocarp"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/tamarindus_indica_seed3.jpg",
+          "caption": "Tamarindus indica seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit is an oblong, curved, sub-compressed and indehiscent pod, 7 to 20 cm long and 1 to 2.5 cm wide. The fruit-wall (the epicarp) is crustaceous. The pod is filled with dark brown acidic pulp (the mesocarp), traversed by fibers and the endocarp is septate and leathery. At maturity the pod is brownish ash coloured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> is an oblong, curved, sub-compressed and indehiscent pod, 7 to 20 cm long and 1 to 2.5 cm wide.<br>\nThe <b>fruit-wall</b> (the epicarp) is crustaceous.<br>\nThe <b>pod</b> is filled with dark brown acidic pulp (the mesocarp), traversed by fibers and the endocarp is septate and leathery.<br>\nAt maturity the pod is brownish ash coloured.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit1.jpg",
+          "caption": "Tamarindus indica ripe pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit2.jpg",
+          "caption": "Tamarindus indica unripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit3.jpg",
+          "caption": "Tamarindus indica open ripe pod : epicarp (top) and mesocarp containing the seeds (bottom)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit4.jpg",
+          "caption": "Tamarindus indica ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit5.jpg",
+          "caption": "Tamarindus indica unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/tamarindus_indica_fruit6.jpg",
+          "caption": "Tamarindus indica unripe pods"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers are grouped in few flowered racemes (10 cm long) at the end of branchlets. The peduncle is 0.5 to 1 cm long and pedicels to 0.5 cm. The calyx is composed of 4 sepals ovate-lanceolate and tip acute, pale yellow coloured, 1cm long. The petals are pale yellow and variegated with red-pink streaks and pink-dotted. The 2 lateral petals are ovate-lanceolate, clawed, wrinkled along the margins and the outer one is rolled up. Only 3 petals are developed, 1-1.5 cm x 0.5-0.7 cm and 2 others are reduced to scales. Only 3 monodelphous stamens are developed forming a subterete staminal sheath to 5-7 mm with a 5-6 mm long filament. Stamens are pubescent at the base. The anthers are oblong and dorsifixed with 2 bristly staminodes. The pistil is composed of a 7-8 mm long stipitate ovary and an attenuate and tomentose style to 5 mm with a globose stigma. The buds are green, pale yellow and pinkish-red before blossoming.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> are grouped in few flowered racemes (10 cm long) at the end of branchlets.<br>\nThe <b>peduncle</b> is 0.5 to 1 cm long and <b>pedicels</b> to 0.5 cm.<br>\nThe <b>calyx</b> is composed of 4 <b>sepals</b> ovate-lanceolate and tip acute, pale yellow coloured, 1cm long.<br>\nThe <b>petals</b> are pale yellow and variegated with red-pink streaks and pink-dotted. The 2 lateral petals are ovate-lanceolate, clawed, wrinkled along the margins and the outer one is rolled up.<br>\nOnly 3 petals are developed, 1-1.5 cm x 0.5-0.7 cm and 2 others are reduced to scales.<br>\nOnly 3 monodelphous <b>stamens</b> are developed forming a subterete <b>staminal sheath</b> to 5-7 mm with a 5-6 mm long filament. Stamens are pubescent at the base.<br>\nThe <b>anthers</b> are oblong and dorsifixed with 2 bristly staminodes.<br>\nThe <b>pistil</b> is composed of a 7-8 mm long stipitate ovary and an attenuate and tomentose style to 5 mm with a globose stigma.<br>\nThe <b>buds</b> are green, pale yellow and pinkish-red before blossoming.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower1.jpg",
+          "caption": "Tamarindus indica flowered racemes with buds, open flowers and young fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower2.jpg",
+          "caption": "Tamarindus indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower3.jpg",
+          "caption": "Tamarindus indica flower parts (sepals, petals and reproductive structures)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower4.jpg",
+          "caption": "Tamarindus indica flowered racemes (buds, flowers and young pod)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower5.jpg",
+          "caption": "Tamarindus indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/tamarindus_indica_flower6.jpg",
+          "caption": "Tamarindus indica reproductive structures (3 stamens and 1 pistil)"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "Tamarindus indica has 5 to 15 cm long compound and paripinnate leaves . These leaves are composed of 12-20 pairs of leaflets which are opposite, 1-2 cm x 0.4-0.7 mm, narrowly oblong, chartaceous, glabrous or puberulous, base and apex are obtuse (rounded) and the margin is entire. The petiole is 0.5 to 0.7 cm long and petiolules are reduced. The rachis is slender and channeled. The venation of the leaflet is reticulate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      <em>Tamarindus indica</em> has 5 to 15 cm long compound and paripinnate <b>leaves</b>.<br>\nThese leaves are composed of 12-20 pairs of <b>leaflets</b> which are opposite, 1-2 cm x 0.4-0.7 mm, narrowly oblong, chartaceous, glabrous or puberulous, <b>base</b> and <b>apex</b> are obtuse (rounded) and the <b>margin</b> is entire.<br>\nThe <b>petiole</b> is 0.5 to 0.7 cm long and <b>petiolules</b> are reduced.<br>\nThe <b>rachis</b> is slender and channeled.<br>\nThe <b>venation</b> of the leaflet is reticulate.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/tamarindus_indica_leaf1.jpg",
+          "caption": "Tamarindus indica leaf :  upper and lower sides"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/tamarindus_indica_leaf2.jpg",
+          "caption": "Tamarindus indica leaflet :  upper and lower sides"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/tamarindus_indica_leaf3.jpg",
+          "caption": "Tamarindus indica leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/tamarindus_indica_leaf4.jpg",
+          "caption": "Tamarindus indica leaves (young leaves in light green)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Tamarindus indica is a large deciduous tree . The tree can become very large, growing to about 25 meters in height. Tamarindus indica has a spreading dome-shaped crown with of anywhere between 10 and 20 meters in diameter depending on site-specific conditions. The trunk, on old specimens, is very large in circumference but not very tall. Remark : In some localities, the tree has the appearance of an evergreen because of favourable hydrologic and climatic conditions (high-rainfall, high water-table, short dry season).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Tamarindus indica</em> is a large <b>deciduous tree</b>. <br>\nThe tree can become very large, growing to about 25 meters in height.<br>\n<em>Tamarindus indica</em> has a spreading dome-shaped crown with of anywhere between 10 and 20 meters in diameter depending on site-specific conditions. <br>\nThe trunk, on old specimens, is very large in circumference but not very tall.<br>\nRemark : In some localities, the tree has the appearance of an evergreen because of favourable hydrologic and climatic conditions (high-rainfall, high water-table, short dry season).      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/tamarindus_indica_habit1.jpg",
+          "caption": "Isolated young Tamarind tree, on the border of a cashew tree plantation"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/tamarindus_indica_habit2.jpg",
+          "caption": "Old Tamarind tree on the roadside in Kuilapalayam village, Tamil Nadu"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/tamarindus_indica_habit3.jpg",
+          "caption": "Tamarind tree grove in Kuilapalayam, Tamil Nadu"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Tamarindus indica</em> tolerates drought and almost any soil.<br> In south India, it is found from the coastal plains up to elevations of between 1500 and 2000 m.\nDry weather is important during the period of fruit development.<br>\n<em>Tamarindus indica</em> can tolerate between 5-6 months of drought conditions, but does not bear fire, frost or water-logging.<br>\n<em>Tamarindus indica</em> is not found in the shade of closed canopies and belongs to the tree-savannah stage of the succession.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <em>Tamarindus indica</em> is thought to be native to Eastern Africa and Madagascar.<br>\nThis tree is cultivated in almost all tropical regions and was introduced in India in very ancient times.<br>\nThe tree is extensively planted into India on roadsides for its shade, beauty, fodder and fruit, on tank bunds, agricultural boundaries and around villages.<br>\nSelf-sown trees are common in areas of half-shade not subjected to grazing and fire.<br>\nIt was introduced into India so long ago that it has often been reported as indigenous here. The species name <em>indica</em> also gives the misleading impression that it originated in India.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>Bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span>Tamarind is predominantly cross pollinated.<br>\nThe flowers are nectariferous.<br>\nPollination is through the agents of insects. In India, red ant (<em>Oecophylla smaragdina</em> Fab.) plays an important role. (<em>Tamarind, Indian Council of forestry Research and Education, ICFRE, Dehra Dun</em>)</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal (barochory) :  dispersal of seeds by gravity.<br>\nAnimal dispersal (zoochory), depending on the area.<br>\nHumans play a considerable role in the dispersal of tamarind seeds.</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> April to August (with a peek in May-June).</li>\n      <li><span class=\"titchap\">Fruiting season :</span> The fruits ripen between Febuary and June.</li>\n      <li><span class=\"titchap\">Seeding season :</span> Febuary to June.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> In April in some hot plains.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "It is a good fuel wood (high calorific value) and gives an excellent charcoal. The seeds are used in the textile and jute industries for sizing, and as filler for adhesives in plywood industries.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        It is a good fuel <b>wood</b> (high calorific value) and gives an excellent charcoal.<br><br>\nThe <b>seeds</b> are used in the textile and jute industries for sizing, and as filler for adhesives in plywood industries.      </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The leaf is a good fodder for cattle. The leaves are very high in crude protein and are relished by wild animals. Leaves, however, are rarely used for this purpose on homesteads, as harvesting the leaves can reduce fruit production.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <b>The leaf</b> is a good fodder for cattle. The leaves are very high in crude protein and are relished by wild animals. Leaves, however, are rarely used for this purpose on homesteads, as harvesting the leaves can reduce fruit production.      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The tamarind wood is extremely hard, heavy, tough, durable and resistant to insect attacks. It is used for rice-pounders, oil and sugar mills, tools, turnery articles, mortars and pestles, agricultural implements, side planks of boats, cart wheels, shafts, axles and naves, well construction. Tamarind wood is a bold red color. Due to its density and durability, tamarind heartwood can be used in making furniture and wood flooring. The leaves yield a fixed dye which colors wool in red. The bark and wood ash is used as a tanning material in the preparation of hides. Tamarind concentrate can be used to remove tarnish from brass, copper, silver and bronze. The processed seed oil is used as a varnish for painting idols and images. Fresh seeds are powdered, mixed with gum, and used as cementing material. Sources : - Dastur, 2006, Useful Plants of India and Pakistan - El-Siddig, Gunasena, Prasad, Pushpakumara, Ramana, Vijayanand, Williams (2006) Tamarind, Tamarindus indica, Southampton Centre for Underutilised Crops, Southampton, UK",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The tamarind <b>wood</b> is extremely hard, heavy, tough, durable and resistant to insect attacks. It is used for rice-pounders, oil and sugar mills, tools, turnery articles, mortars and pestles, agricultural implements, side planks of boats, cart wheels, shafts, axles and naves, well construction.<br>\nTamarind wood is a bold red color. Due to its density and durability, tamarind heartwood can be used in making furniture and wood flooring. <br><br>\nThe <b>leaves</b> yield a fixed dye which colors wool in red. <br><br>\nThe <b>bark</b> and <b>wood ash</b> is used as a tanning material in the preparation of hides. <br><br>\nTamarind concentrate can be used to remove tarnish from brass, copper, silver and bronze. <br><br>\nThe processed <b>seed oil</b> is used as a varnish for painting idols and images. <br><br>\n<b>Fresh seeds</b> are powdered, mixed with gum, and used as cementing material.\n<br><br>\n<em>Sources :<br>\n- Dastur, 2006, Useful Plants of India and Pakistan<br>\n- El-Siddig, Gunasena, Prasad, Pushpakumara, Ramana, Vijayanand, Williams (2006) Tamarind, Tamarindus indica, Southampton Centre for Underutilised Crops, Southampton, UK</em>  </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruit pulp is edible. The hard green pulp of a young fruit is considered by many to be too sour, but is often used as a component of savory dishes. The ripened fruit is considered more palatable, as it becomes sweeter and less sour (acidic) as it matures. It is used in desserts as a jam, blended into juices or sweetened drinks, sorbets, ice creams and all manner of snacks. In most parts of India, tamarind is used to flavour foods ranging from meals to snacks (bitter-sweet flavour). In regional cuisines it is used to make rasam, amtee, sambhar, vatha kuzhambu, puliyogare, chutneys and pickles. In Andhra Pradesh and Tamil Nadu, tender leaves of tamarind are used with lentils to make raw chutney. The immature pods and flowers are also pickled and used as a side dish. The pulp contains non-starch polysaccharides, which contribute to its dietary fiber content. They bind with bile to help flush waste through the colon, decreasing the chances of it sticking around. Each 100 grams of tamarind pulp contain 37% of the thiamin, 22% of the iron, 26% of magnesium, 16% of the phosphorus, 13% of potassium and  13% of niacin recommended for a day's worth of nutrition. ( Agricultural Research Service United States Department of Agriculture, USDA Database ) Tamarind also contains high levels of tartaric acid providing a powerful antioxidant action.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit pulp</b> is edible. The hard green pulp of a young fruit is considered by many to be too sour, but is often used as a component of savory dishes.<br><br>\nThe ripened fruit is considered more palatable, as it becomes sweeter and less sour (acidic) as it matures. It is used in desserts as a jam, blended into juices or sweetened drinks, sorbets, ice creams and all manner of snacks. <br><br>\nIn most parts of India, tamarind is used to flavour foods ranging from meals to snacks (bitter-sweet flavour). In regional cuisines it is used to make rasam, amtee, sambhar, vatha kuzhambu, puliyogare, chutneys and pickles. In Andhra Pradesh and Tamil Nadu, tender leaves of tamarind are used with lentils to make raw chutney. The immature pods and flowers are also pickled and used as a side dish. <br><br>\nThe pulp contains non-starch polysaccharides, which contribute to its dietary fiber content. They bind with bile to help flush waste through the colon, decreasing the chances of it sticking around. <br><br>\nEach 100 grams of tamarind pulp contain 37% of the thiamin, 22% of the iron, 26% of magnesium, 16% of the phosphorus, 13% of potassium and  13% of niacin recommended for a day's worth of nutrition. (<em>Agricultural Research Service United States Department of Agriculture, USDA Database</em>) <br><br>\nTamarind also contains high levels of tartaric acid providing a powerful antioxidant action.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/culinary/tamarindus_indica_culinary1.jpg",
+          "caption": "Tamarindus indica paste"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/culinary/tamarindus_indica_culinary2.jpg",
+          "caption": "Tamarindus indica pulp in its pod"
+        }
+      ]
+    },
+    "medicinal": {
+      "text": "The root bark is astringent, constipating, emmenagogue and tonic and is useful in diarrhea, asthma, amenorrhea, gingivitis and ulcers, it is also used for reducing fever and as an antiseptic. The leaves are sour, astringent, anthelmintic, anti-inflammatory, antifungal, diuretic, febrifuge, aperient and ophthalmic. They are reported to be useful for swellings, fever, scalding of urine, gastropathy, helminthiasis, wounds, ulcers, jaundice, scabies, tumors, ringworm, boils, smallpox, otalgia and conjunctivitis. The fruits are sour, sweet, refrigerant, digestive, carminative, laxative, antiscorbutic, antiseptic, ophthalmic and febrifuge. They are useful in gastropathy, bilious vomiting, Datura poisoning, alcoholic intoxication, scabies, pharyngitis, pharyngodynia, stomatitis, constipation, hemorrhoids and ophthalmopathy. A hot poultice of the pulp is applied over inflammatory swellings. A paste of the pulp made with salt is used as a liniment to treat muscular and joint pain. The seeds are astringent, cooling, aphrodisiac, stomachic, constipating and tonic. They are useful in stomachalgia, diarrhea, dysentery, burning sensation, hematuria, giddiness, vertigo, hepatopathy, inflammations, chronic ulcers, abscess, hemorrhoids, vaginopathy, metroptosis, diabetes and general debility. Sources : - Basu & Kirtikar, 1918, Indian Medicinal Plants - Arya Vaidya Sala, 1996, Indian Medicinal plants - FRLHT, 2000, Tropical Indian Medicinal Plants - Dastur, 2006, Useful Plants of India and Pakistan - El-Siddig, Gunasena, Prasad, Pushpakumara, Ramana, Vijayanand, Williams, 2006, Tamarindus indica, Southampton Centre for Underutilised Crops, Southampton, UK - Rasa (taste) : Amla (sour), Madhura (sweet) - Guna (quality) : Guru (heavy), Ruksha (dry) - Veerya (potency) : Ushna (warming, stimulating) - Vipaaka (post-digestive taste) : Amla (sour) - Karma (action) : Tridoshanaashaka (reduces Vata-Pitta-Kapha), Deepana/Paachana (digestive), Shaitya (refrigerant), Anulomana (carminative, laxative), vermifugal The leaves and crushed seeds are Shophaghna (reduce inflammations) and the leaf juice is used in bleeding piles. - Digestive system : The ripe fruit is used in Aruchi (loss of appetite, anorexia), Trishaa (polydipsia - excessive thirst), Ajeerna (indigestion), Shoola (abdominal colic/pain), Krimi (intestinal worms), Vaata (flatulence) and Yakrit vikaara (liver disorders) - Circulatory system : The syrup used in Hridayaroga (heart diseases) - Urinary system : Kshaara (bark ashes) is used in Mootrakrichchhra (retention of urine) - Temperature : The fruit pulp and syrup reduce complications in case of  Jwara (fever, eg: nausea, vomiting) or Daaha (heat) - Eyes : The flower pulp is used in conjunctivitis Fruits, seeds, leaves, flowers - On Dosha : The unripe fruit is vataghna (reduces Vata) but pittakaphavardhaka (increases Pitta-Kapha). The ripe fruit is tridoshanaashak (reduces Vata-Pitta-Kapha). - On Dhatu : Rakta (reduces heat and burning sensation) - On Mala : Mootra (urine) - Organs : Liver, heart",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      <b>The root bark</b> is astringent, constipating, emmenagogue and tonic and is useful in diarrhea, asthma, amenorrhea, gingivitis and ulcers, it is also used for reducing fever and as an antiseptic.<br><br>\n<b>The leaves</b> are sour, astringent, anthelmintic, anti-inflammatory, antifungal, diuretic, febrifuge, aperient and ophthalmic. They are reported to be useful for swellings, fever, scalding of urine, gastropathy, helminthiasis, wounds, ulcers, jaundice, scabies, tumors, ringworm, boils, smallpox, otalgia and conjunctivitis. <br><br>\n<b>The fruits</b> are sour, sweet, refrigerant, digestive, carminative, laxative, antiscorbutic, antiseptic, ophthalmic and febrifuge. They are useful in gastropathy, bilious vomiting, Datura poisoning, alcoholic intoxication, scabies, pharyngitis, pharyngodynia, stomatitis, constipation, hemorrhoids and ophthalmopathy. <br>\nA hot poultice of the pulp is applied over inflammatory swellings. A paste of the pulp made with salt is used as a liniment to treat muscular and joint pain. <br><br>\n<b>The seeds</b> are astringent, cooling, aphrodisiac, stomachic, constipating and tonic. They are useful in stomachalgia, diarrhea, dysentery, burning sensation, hematuria, giddiness, vertigo, hepatopathy, inflammations, chronic ulcers, abscess, hemorrhoids, vaginopathy, metroptosis, diabetes and general debility.<br><br>\n\n<em>Sources :<br>\n- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants<br>\n- Arya Vaidya Sala, 1996, Indian Medicinal plants<br>\n- FRLHT, 2000, Tropical Indian Medicinal Plants<br>\n- Dastur, 2006, Useful Plants of India and Pakistan<br>\n- El-Siddig, Gunasena, Prasad, Pushpakumara, Ramana, Vijayanand, Williams, 2006, Tamarindus indica, Southampton Centre for Underutilised Crops, Southampton, UK</em>      \n    </p>\n\n    \n    \n    <div id=\"ayurveda\"><div id=\"ayurveda_tit\">Dravya Guna - Ayurvedic Pharmacology</div>  \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Pancharasa | <span class=\"ayurveda_tit3_small\">Essence of the plant</span></div><div class=\"cleaner\"></div></div>\n          <p>- <b>Rasa</b> (taste) : Amla (sour), Madhura (sweet)<br>\n- <b>Guna</b> (quality) : Guru (heavy), Ruksha (dry)<br>\n- <b>Veerya</b> (potency) : Ushna (warming, stimulating)<br>\n- <b>Vipaaka</b> (post-digestive taste) : Amla (sour)<br>\n- <b>Karma</b> (action) : Tridoshanaashaka (reduces Vata-Pitta-Kapha), Deepana/Paachana (digestive), Shaitya (refrigerant), Anulomana (carminative, laxative), vermifugal</p> \n       \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">External uses</div><div class=\"cleaner\"></div></div>\n          <p>The <b>leaves</b> and <b>crushed seeds</b> are Shophaghna (reduce inflammations) and the <b>leaf juice</b> is used in bleeding piles.</p> \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Internal uses</div><div class=\"cleaner\"></div></div>\n          <p>- <b>Digestive system</b> : The ripe fruit is used in Aruchi (loss of appetite, anorexia), Trishaa (polydipsia - excessive thirst), Ajeerna (indigestion), Shoola (abdominal colic/pain), Krimi (intestinal worms), Vaata (flatulence) and Yakrit vikaara (liver disorders)<br>\n- <b>Circulatory system</b> : The syrup used in Hridayaroga (heart diseases)<br>\n- <b>Urinary system</b> : Kshaara (bark ashes) is used in Mootrakrichchhra (retention of urine)<br>\n- <b>Temperature</b> : The fruit pulp and syrup reduce complications in case of  Jwara (fever, eg: nausea, vomiting) or Daaha (heat)<br>\n- <b>Eyes</b> : The flower pulp is used in conjunctivitis</p>  \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Useful parts</div><div class=\"cleaner\"></div></div>\n          <p>Fruits, seeds, leaves, flowers</p>    \n      \n      \n      \n              <div id=\"ayurveda_tit2\"> <div id=\"ayurveda_tit3\">Srotogamitva | <span class=\"ayurveda_tit3_small\">Overview on Dosha (body humours), Dhatu (body tissues) and Mala (waste materials)</span></div><div class=\"cleaner\"></div></div>\n          <p>- On <b>Dosha</b> : The unripe fruit is vataghna (reduces Vata) but pittakaphavardhaka (increases Pitta-Kapha). The ripe fruit is tridoshanaashak (reduces Vata-Pitta-Kapha).<br>\n- On <b>Dhatu</b> : Rakta (reduces heat and burning sensation)<br>\n- On <b>Mala</b> : Mootra (urine)<br>\n- <b>Organs</b> : Liver, heart</p>  \n            \n      <div id=\"ay_sources_tit\">Sources</div><div id=\"ay_sources\">- Sairam, T. V., 2000, Home Remedies. Penguin UK<br>\n- Vaidya V.M. Gogte, 2000, Ayurvedic Pharmacology and Therapeutic Uses of Medicinal Plants (Dravyagunavignyan). Bharatiya Vidya Bhavan</div>    \n\n    </div>\n\n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Tamarindus indica</em> is able to flourish in a wide range of soils (rocky, sandy, or rich soils) but all soils need to be free draining. The tree grows well in open areas and does not thrive when shaded.<br>\nThe tree is suitable for marginal lands, where rainfall and poor soil may limit other crop production. Tamarind is a tree that is easy to cultivate and requires minimum care. It is generally free of serious pests and diseases, has a life span of 80-200 years. <br>\nOnce established in the field, tamarind trees do not usually require irrigation and can be inter-cropped with a number of food crops.<br><br>\n\"<em>Tamarindus indica</em> is very useful for eco-restoration work. Drought-resistant, it can be introduced in degraded areas devoid of good soils or high-water-tables. It creates a good shade for most of the year, holds the soil with its extensive root-system and importantly, is a wonderful nurse-tree thanks to its much loved fruits. In reforestation work, evergreen species can be introduced in its shade.\" (<em>R. Walker, forester</em>)<br>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          Generally no pretreatment is necessary for the seeds germination but 12 hours of soaking in water accelerates the germination process.<br>\nThe acid scarified seeds perform better than the untreated seeds and scarification for longer duration of 10 minutes gave higher germination than half that duration (<em>Tamarind, Indian Council of forestry Research and Education, ICFRE, Dehra Dun</em>).        </li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/tamarindus_indica_reforestation1.jpg",
+          "caption": "Tamarindus indica seedling"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/tamarindus_indica_reforestation2.jpg",
+          "caption": "Tamarindus indica seedling"
+        }
+      ]
+    }
+  }
+}

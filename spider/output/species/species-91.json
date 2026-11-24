@@ -1,0 +1,248 @@
+{
+  "species_id": 91,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=91",
+  "scraped_at": "2025-10-07T07:12:39.807857Z",
+  "basic_info": {
+    "scientific_name": "Alangium salviifolium",
+    "authority": "(L.f.) Wangerin",
+    "family": "Cornaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/alangium_salviifolium.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.sa_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Sep, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99450 N",
+      "longitude": "79.82351 E",
+      "raw": "11.99450 N - 79.82351 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Alangium salviifolium",
+    "author": "Wangerin, Walther (Leonhard) (1910)",
+    "family": "Cornaceae",
+    "english_names": "Sage-leaved alangium",
+    "indian_names": {
+      "Hindi": [
+        "Angol",
+        "ankol"
+      ],
+      "Kannada": [
+        "Ankolamara"
+      ],
+      "Malayalam": [
+        "Alangi",
+        "ankolam"
+      ],
+      "Sanskrit": [
+        "Ankolah"
+      ],
+      "Tamil": [
+        "Azhinjil"
+      ],
+      "Telugu": [
+        "Ankolamu",
+        "Urgu"
+      ]
+    },
+    "synonyms": [
+      "Alangium acuminatum",
+      "Alangium decapetalum",
+      "Alangium lamarckii",
+      "Alangium latifolium",
+      "Alangium mohillae",
+      "Alangium salviifolium subsp. decapetalum",
+      "Alangium salviifolium subsp. salviifolium",
+      "Alangium sundanum var. miqueliana",
+      "Alangium tomentosum",
+      "Grewia salviifolia",
+      "Karangolum mohillae",
+      "Karangolum salviifolium",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAlangium\n: From a Malayalam vernacular name,\nalangi\n, used in Kerala (Southwestern India) for the plant.\n-\nSalviifolium\n: From the Latin\nsalvia-folium\nmeaning \"sage-leaved\".",
+    "etymology_html": "<p>-<i>Alangium</i> : From a Malayalam vernacular name, <i>alangi</i>, used in Kerala (Southwestern India) for the plant.<br>-<i>Salviifolium</i> : From the Latin <i>salvia-folium</i> meaning \"sage-leaved\".</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Alangium salviifolium is rough, grey-coloured and longitudinally fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Alangium salviifolium</i> is rough, grey-coloured and longitudinally fissured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/alangium_salviifolium_stem1.jpg",
+          "caption": "Alangium salviifolium trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/alangium_salviifolium_stem2.jpg",
+          "caption": "Alangium salviifolium bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Alangium salviifolium is an ellipsoid drupe . It is about 2 cm long and 1 cm wide, pubescent and purple-coloured when ripe. The fruit contains one seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Alangium salviifolium</i> is an ellipsoid <strong>drupe</strong>. It is about 2 cm long and 1 cm wide, pubescent and purple-coloured when ripe. The fruit contains one seed.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Alangium salviifolium are grouped in short axillary cymes. The flowers are 5-merous. The calyx-tube is urn-shaped, 1-2 mm long with triangular lobes up to 1.5 mm long. The calyx is light green and tomentose. The corolla is composed of 10 cream-coloured,reflexed and strap-shaped petals. The petals are densely tomentose outside and glabrous inside, 1-1.5 cm long and 2 mm wide. The androecium is composed of 10-30 stamens. The filaments are 5-10 mm long. The style is 1.5-2 cm long style with a capitate stigma at the end. The ovary is turbinate and 1-celled. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Alangium salviifolium</i> are grouped in short axillary cymes.<br>The flowers are 5-merous.<br>The <strong>calyx-tube</strong> is urn-shaped, 1-2 mm long with triangular lobes up to 1.5 mm long. The calyx is light green and tomentose.<br>The <strong>corolla</strong> is composed of 10 cream-coloured,reflexed and strap-shaped petals. The petals are densely tomentose outside and glabrous inside, 1-1.5 cm long and 2 mm wide.<br>The <strong>androecium</strong> is composed of 10-30 stamens. The filaments are 5-10 mm long.<br>The <strong>style</strong> is 1.5-2 cm long style with a capitate <strong>stigma</strong> at the end.<br>The <strong>ovary</strong> is turbinate and 1-celled.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower1.jpg",
+          "caption": "Alangium salviifolium inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower2.jpg",
+          "caption": "Alangium salviifolium flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower3.jpg",
+          "caption": "Alangium salviifolium flower and flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower4.jpg",
+          "caption": "Alangium salviifolium flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower5.jpg",
+          "caption": "Alangium salviifolium flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower6.jpg",
+          "caption": "Alangium salviifolium flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower7.jpg",
+          "caption": "Alangium salviifolium inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower8.jpg",
+          "caption": "Alangium salviifolium flower and flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower9.jpg",
+          "caption": "Alangium salviifolium flowering branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/alangium_salviifolium_flower10.jpg",
+          "caption": "Alangium salviifolium in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Alangium salviifolium grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (pubescent on the veins on both sides). The leaves have a 1 cm long petiole . The leaf of Alangium salviifolium is 10-15 cm long and 3-4 cm wide. The shape of the blade is lanceolate, the apex is acute, the base is rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Alangium salviifolium</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (pubescent on the veins on both sides).<br>The leaves have a 1 cm long <strong>petiole</strong>.<br>The leaf of <i>Alangium salviifolium</i> is 10-15 cm long and 3-4 cm wide. The shape of the <strong>blade</strong> is lanceolate, the <strong>apex</strong> is acute, the <strong>base</strong> is rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf1.jpg",
+          "caption": "Alangium salviifolium twig (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf2.jpg",
+          "caption": "Alangium salviifolium twig (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf3.jpg",
+          "caption": "Alangium salviifolium leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf4.jpg",
+          "caption": "Alangium salviifolium leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf5.jpg",
+          "caption": "Alangium salviifolium leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf6.jpg",
+          "caption": "Alangium salviifolium leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf7.jpg",
+          "caption": "Alangium salviifolium leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/alangium_salviifolium_leaf8.jpg",
+          "caption": "Alangium salviifolium branchlets"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Alangium salviifolium is a medium-sized, thornless and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Alangium salviifolium</i> is a medium-sized, thornless and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/alangium_salviifolium_habit1.jpg",
+          "caption": "Alangium salviifolium young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/alangium_salviifolium_habit2.jpg",
+          "caption": "Alangium salviifolium foliage"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Alangium salviifolium is usually found near sandy riverine tracts, by the side of roads, on tank bunds, or on agricultural boundaries.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Alangium salviifolium</i> is usually found near sandy riverine tracts, by the side of roads, on tank bunds, or on agricultural boundaries.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Southern and Eastern Asia, tropical Australia, western Pacific Ocean islands and New Caledonia, western Africa and Madagascar.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Southern and Eastern Asia, tropical Australia, western Pacific Ocean islands and New Caledonia, western Africa and Madagascar.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Alangium salviifolium is bisexual (each flower of each individual has both male and female structures). Alangium salviifolium is pollinated by a wide variety of insects. The seeds of Alangium salviifolium are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Alangium salviifolium</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Alangium salviifolium</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Alangium salviifolium</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/alangium_salviifolium_reproduction1.jpg",
+          "caption": "Alangium salviifolium flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/alangium_salviifolium_reproduction2.jpg",
+          "caption": "Alangium salviifolium flower reproductive structures (a style surrounded by numerous stamens)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/alangium_salviifolium_reproduction3.jpg",
+          "caption": "Alangium salviifolium flower reproductive structures (an erected style and numerous stamens)"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From February to May. From April to September. From April to September. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From April to September.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From April to September.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The twigs are used for brushing the teeth in India. A mixture of mature fruits of Alangium salviifolium with honey and rootstocks of sweet flag ( Acorus calamus ) is used to manage pests on agricultural crops. Source : Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. & Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers/Bois d'oeuvre. PROTA, Wageningen, Netherlands.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>twigs</strong> are used for brushing the teeth in India.<br><br>A <strong>mixture of mature fruits</strong> of <i>Alangium salviifolium</i> with honey and rootstocks of sweet flag (<i>Acorus calamus</i>) is used to manage pests on agricultural crops.<br><br>Source : <i>Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. &amp; Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers/Bois d'oeuvre. PROTA, Wageningen, Netherlands.</i></p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Alangium salviifolium is valued for musical instruments and furniture. It is used in building as beams, for flooring, furniture, cabinet work, inlaying, carving, bobbins, spindles, shuttles, rice pestles, tool handles, walking sticks, gunstocks and handicraft articles. Source : Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. & Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers-Bois d'oeuvre. PROTA, Wageningen, Netherlands.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Alangium salviifolium</i> is valued for musical instruments and furniture. It is used in building as beams, for flooring, furniture, cabinet work, inlaying, carving, bobbins, spindles, shuttles, rice pestles, tool handles, walking sticks, gunstocks and handicraft articles.<br><br>Source : <i>Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. &amp; Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers-Bois d'oeuvre. PROTA, Wageningen, Netherlands.</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The leaves are used to cure asthma and as cataplasm to reduce rheumatic pains. The fruit is cooling, tonic, nutritive, useful in burning of the body, consumption, and in haemorrhage. The fruit is used as purgative, expectorant, carminative and as an antidote for poisoning. It was also used in leprosy. The fruit juice is applied to cure eye diseases. The stem is used to cure diarrhoea and vomiting. The roots and the fruits are used for the treatment of rheumatism and haemorrhoid. The root bark is also used in skin problems and as an antidote for snake bite. It is also used to expel parasitic worms and other internal parasites from the body. It is also used as an emetic and purgative. Sources : - Basu & Kirtikar, 1918, Indian Medicinal Plants - Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. & Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers-Bois d'oeuvre. PROTA, Wageningen, Netherlands.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>leaves</strong> are used to cure asthma and as cataplasm to reduce rheumatic pains.<br><br>The <strong>fruit</strong> is cooling, tonic, nutritive, useful in burning of the body, consumption, and in haemorrhage.<br>The <strong>fruit</strong> is used as purgative, expectorant, carminative and as an antidote for poisoning. It was also used in leprosy.<br>The <strong>fruit juice</strong> is applied to cure eye diseases.<br><br>The <strong>stem</strong> is used to cure diarrhoea and vomiting.<br><br>The <strong>roots</strong> and the <strong>fruits</strong> are used for the treatment of rheumatism and haemorrhoid.<br><br>The <strong>root bark</strong> is also used in skin problems and as an antidote for snake bite. It is also used to expel parasitic worms and other internal parasites from the body. It is also used as an emetic and purgative.<br><br><i>Sources :</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Ebanyenle, E., 2009. Alangium salviifolium (L.f.) Wangerin. In: Lemmens, R.H.M.J., Louppe, D. &amp; Oteng-Amoako, A.A. (Editors). Prota 7(2): Timbers-Bois d'oeuvre. PROTA, Wageningen, Netherlands.</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Alangium salviifolium is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Alangium salviifolium</i> is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

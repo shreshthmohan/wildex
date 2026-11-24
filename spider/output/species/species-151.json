@@ -1,0 +1,205 @@
+{
+  "species_id": 151,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=151",
+  "scraped_at": "2025-10-03T02:45:53.288592Z",
+  "basic_info": {
+    "scientific_name": "Aegle marmelos",
+    "authority": "(L.) Correa",
+    "family": "Rutaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/aegle_marmelos.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ae.ma_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99553 N",
+      "longitude": "79.82355 E",
+      "raw": "11.99553 N - 79.82355 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Aegle marmelos",
+    "author": "Correa da Serra, Jose Francisco (1800)",
+    "family": "Rutaceae",
+    "english_names": "Bael tree",
+    "indian_names": {
+      "Hindi": [
+        "Bel"
+      ],
+      "Kannada": [
+        "Bilvapatre"
+      ],
+      "Malayalam": [
+        "Koolakam",
+        "vivam"
+      ],
+      "Marathi": [
+        "Maredu"
+      ],
+      "Sanskrit": [
+        "Vilvah"
+      ],
+      "Tamil": [
+        "Vilvam"
+      ],
+      "Telugu": [
+        "Muredu"
+      ]
+    },
+    "synonyms": [
+      "Aegle marmelos var. mahurensis",
+      "Belou marmelos",
+      "Bilacus marmelos",
+      "Crateva marmelos",
+      "Crateva religiosa",
+      "Feronia pellucida",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAegle\n: In Greek mythology\nAegle\nwas one of the Naiads (nymphs of the fresh water, rivers, springs and lakes).\n-\nMarmelos\n: From the Portuguese vernacular name\nmarmelo\nfor marmalade.",
+    "etymology_html": "<p>- <i>Aegle</i> : In Greek mythology <i>Aegle</i> was one of the Naiads (nymphs of the fresh water, rivers, springs and lakes).<br>- <i>Marmelos</i> : From the Portuguese vernacular name <i>marmelo</i> for marmalade.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Aegle marmelos is greyish-coloured, rough. It is longitudinally fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Aegle marmelos</i> is greyish-coloured, rough. It is longitudinally fissured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/aegle_marmelos_stem1.jpg",
+          "caption": "Aegle marmelos trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/aegle_marmelos_stem2.jpg",
+          "caption": "Aegle marmelos bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/aegle_marmelos_stem3.jpg",
+          "caption": "Aegle marmelos spine"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Aegle marmelos are hairy, oblong and whitish-coloured. The seeds are 0.8-1 cm across. They are embedded in a fibrous and orange pulp. There are 10-15 seeds per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Aegle marmelos</i> are hairy, oblong and whitish-coloured. The seeds are 0.8-1 cm across. They are embedded in a fibrous and orange pulp. There are 10-15 seeds per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/aegle_marmelos_seed1.jpg",
+          "caption": "Aegle marmelos seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/aegle_marmelos_seed2.jpg",
+          "caption": "Aegle marmelos seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Aegle marmelos is a rounded, pyriform or oval berry . The fruit is 10-20 in diameter and woody. It is greenish-coloured turning yellow when fully ripe. The fruit contains 10-15 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Aegle marmelos</i> is a rounded, pyriform or oval <strong>berry</strong>. The fruit is 10-20 in diameter and woody. It is greenish-coloured turning yellow when fully ripe. The fruit contains 10-15 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aegle_marmelos_fruit1.jpg",
+          "caption": "Aegle marmelos fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aegle_marmelos_fruit2.jpg",
+          "caption": "Aegle marmelos fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aegle_marmelos_fruit3.jpg",
+          "caption": "Aegle marmelos fruit pulp"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Aegle marmelos are fascicled on short protuberances. The leaf is compound, 3-foliate. The leaf is 10-12 cm long and 5-8 cm wide with a 3 cm long petiole. The leaflet of Aegle marmelos is ovate, the apex is acuminate, the base is rounded and the margins are slightly serrate. The terminal leaflet are 7-8 cm long and 3.5-4 cm wide with a 0.8-1 cm long petiolule . The 2 lateral ones are subsessile, about 5 cm long and 2.5-3 cm wide. The venation of the leaflets is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Aegle marmelos</i> are fascicled on short protuberances.<br>The leaf is compound, 3-foliate. The leaf is 10-12 cm long and 5-8 cm wide with a 3 cm long petiole.<br>The <strong>leaflet</strong> of <i>Aegle marmelos</i> is ovate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is rounded and the <strong>margins</strong> are slightly serrate.<br>The terminal leaflet are 7-8 cm long and 3.5-4 cm wide with a 0.8-1 cm long <strong>petiolule</strong>. The 2 lateral ones are subsessile, about 5 cm long and 2.5-3 cm wide.<br>The <strong>venation</strong> of the leaflets is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf1.jpg",
+          "caption": "Aegle marmelos compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf2.jpg",
+          "caption": "Aegle marmelos compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf3.jpg",
+          "caption": "Aegle marmelos leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf4.jpg",
+          "caption": "Aegle marmelos leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf5.jpg",
+          "caption": "Aegle marmelos foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf6.jpg",
+          "caption": "Aegle marmelos leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aegle_marmelos_leaf7.jpg",
+          "caption": "Aegle marmelos leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Aegle marmelos is a thorny, small-sized and decideous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Aegle marmelos</i> is a thorny, small-sized and <strong>decideous</strong> tree growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/aegle_marmelos_habit1.jpg",
+          "caption": "Aegle marmelos tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/aegle_marmelos_habit2.jpg",
+          "caption": "Aegle marmelos foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/aegle_marmelos_habit3.jpg",
+          "caption": "Aegle marmelos fruiting tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Aegle marmelos is bisexual (each flower of each individual has both male and female structures). Aegle marmelos is pollinated by a wide variety of insects. The seeds of Aegle marmelos are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Aegle marmelos</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Aegle marmelos</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Aegle marmelos</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From February to April. From May to September. From May to September. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to April.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May to September.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From May to September.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The leaves and twigs of Aegle marmelos are lopped for fodder.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>leaves and twigs</strong> of <i>Aegle marmelos</i> are lopped for fodder.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Aegle marmelos is hard and takes a good polish. It is used for house building, carving, agricultural implements or tool handles... A yellow dye is obtained from the rind of the unripe fruit. It is used in calico printing. An essential oil is extracted from the rind. The gum makes a good adhesive. The fruit pulp has detergent action and has been used for washing clothes. Source : - Dastur, 2006, Useful Plants of India and Pakistan - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Aegle marmelos</i> is hard and takes a good polish. It is used for house building, carving, agricultural implements or tool handles...<br><br>A yellow <strong>dye</strong> is obtained from the rind of the unripe fruit. It is used in calico printing.<br><br>An <strong>essential oil</strong> is extracted from the rind.<br><br>The <strong>gum</strong> makes a good adhesive.<br><br>The <strong>fruit pulp</strong> has detergent action and has been used for washing clothes.<br><br><i>Source :</i><br><i>- Dastur, 2006, Useful Plants of India and Pakistan</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "Aegle marmelos fruit pulp is edible. The pulp mixed with milk and sugar makes a popular drink in India.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Aegle marmelos</i> <strong>fruit pulp</strong> is edible.<br>The pulp mixed with milk and sugar makes a popular drink in India.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Aegle marmelos prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Aegle marmelos</i> prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

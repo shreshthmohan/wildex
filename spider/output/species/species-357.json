@@ -1,0 +1,249 @@
+{
+  "species_id": 357,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=357",
+  "scraped_at": "2025-10-02T17:37:05.813480Z",
+  "basic_info": {
+    "scientific_name": "Echinochloa colona",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/677fc0a23fd13_677fc0a23fd0a_Ec.co_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ec.co_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "21 Nov, 2024",
+    "collected_by": "M.d.H, U.M.P.",
+    "gps_coordinates": {
+      "latitude": "11°59'12 N",
+      "longitude": "79°48'18 E",
+      "raw": "11°59'12 N - 79°48'18 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Echinochloa colona",
+    "author": "(L.) Link,  Johann Heinrich Friedrich (1833)",
+    "family": "Poaceae",
+    "english_names": "Jungle rice, Shama millet, Small Barnyard grass, Marsh grass",
+    "indian_names": {
+      "Tamil": [
+        "Pullampayiru",
+        "-"
+      ],
+      "Hindi": [
+        "J angli jhangora",
+        "Jharwa",
+        "Jirio",
+        "-"
+      ],
+      "Kannada": [
+        "Udike",
+        "Udalu kaadu haaraka",
+        "Kaadu haaraka hullu",
+        "-"
+      ],
+      "Telugu": [
+        "Othagaddi",
+        "-"
+      ],
+      "Marathi": [
+        "Borur",
+        "Jiria",
+        "Pacushama",
+        "Pawank"
+      ]
+    },
+    "synonyms": [
+      "Echinochloa crus-galli subsp. colonum",
+      "Milium colonum",
+      "Oplismenus colonum",
+      "Oplismenus crus-galli var. colonum",
+      "Panicum colonum",
+      "Panicum crus-galli subsp. colonum",
+      "Panicum crus-galli var. minus",
+      "Echinochloa colonum subsp. colonum",
+      "Echinochloa colonum subsp. edulis"
+    ],
+    "etymology": "-\nEchinochloa\n: From the Greek\nechinos\n- hedgehog and\nchloa\n- grass, referring to the bristly spikelets of some species.\n-\ncolona\n: From Latin\ncolonus\n- farmer, maybe for its proximity to farms as it is used as farmer food.",
+    "etymology_html": "<p>- <i>Echinochloa</i>: From the Greek <i>echinos</i>- hedgehog and <i>chloa</i>- grass, referring to the bristly spikelets of some species.<br>- <i>colona</i>: From Latin <i>colonus</i>- farmer, maybe for its proximity to farms as it is used as farmer food.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The culms of Echinochloa colona are erect or ascending. They are growing between 40 to 90 cm tall. The nodes are glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Echinochloa colona are erect or ascending. <br>They are growing between 40 to 90 cm tall. <br>The nodes are glabrous. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ec.co_st1.jpg",
+          "caption": "Echinochloa colona glabrous node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ec.co_st4.jpg",
+          "caption": "Echinochloa colona glabrous node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ec.co_st2.jpg",
+          "caption": "Echinochloa colona roots and plant base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ec.co_st5.jpg",
+          "caption": "Echinochloa colona culm"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ec.co_st3.jpg",
+          "caption": "Echinochloa colona striated culm with leaf base"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The fruit of Echinochloa colona is a caryopis.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruit of Echinochloa colona is a caryopis.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Echinochloa colona is a caryopis.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Echinochloa colona is a caryopis.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The inflorescences of Echinochloa colona are growing in linear racemes. They are up to 10 cm long. The racemes are 1.5 to 2 cm long, they are appressed from the rachis to half of their length. The spikelets are ovoid-ellipsoid in shape. They occur in pairs, or clustered at each node. The spikelets are up to 2 mm. The glumes have 5 nerves and they are unequal. The lower glume is broadly ovate, 1 mm and densely hispidulous. The upper glume is ovate, 2 mm. The lower lemma is up to 0.2 cm, acute to cuspidate. The upper lemma is crustaceous, up to 2 mm.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Echinochloa colona are growing in linear racemes. They are up to 10 cm long. <br>The racemes are 1.5 to 2 cm long, they are appressed from the rachis to half of their length. <br>The spikelets are ovoid-ellipsoid in shape. They occur in pairs, or clustered at each node. <br>The spikelets are up to 2 mm. <br>The glumes have 5 nerves and they are unequal. <br>The lower glume is broadly ovate, 1 mm and densely hispidulous. <br>The upper glume is ovate, 2 mm. <br>The lower lemma is up to 0.2 cm, acute to cuspidate. <br>The upper lemma is crustaceous, up to 2 mm.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl1.jpg",
+          "caption": "Echinochloa colona raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl4.jpg",
+          "caption": "Echinochloa colona florets cluster with dark purple pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl3.jpg",
+          "caption": "Echinochloa colona racme with specific florets arrangement in spiral around the central axis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl2.jpg",
+          "caption": "Echinochloa colona floret arrangement on the spikelet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl6.jpg",
+          "caption": "Echinochloa colona raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl7.jpg",
+          "caption": "Echinochloa colona floret with dark purple pistils and dark purple anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl5.jpg",
+          "caption": "Echinochloa colona florets with dark purple pistils and dark purple anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ec.co_fl8.jpg",
+          "caption": "Echinochloa colona florets spiralling around the central axis"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Echinochloa colona are lanceolate in shape. They are 4 to 30 cm long and 0.4 to 0.8 cm wide. The leaves are glabrous and there is no ligule. The sheaths are occasionally marked with purple bars.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Echinochloa colona are lanceolate in shape. <br>They are 4 to 30 cm long and 0.4 to 0.8 cm wide. <br>The leaves are glabrous and there is no ligule. <br>The sheaths are occasionally marked with purple bars. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf1.jpg",
+          "caption": "Echinochloa colona leaf blade"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf2.jpg",
+          "caption": "Echinochloa colona leaves and node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf3.jpg",
+          "caption": "Echinochloa colona leaf base (front side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf4.jpg",
+          "caption": "Echinochloa colona leaf base (back side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf6.jpg",
+          "caption": "Echinochloa colona leaf apex"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf5.jpg",
+          "caption": "Echinochloa colona leaf nervation and margin"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf8.jpg",
+          "caption": "Echinochloa colona leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf7.jpg",
+          "caption": "Echinochloa colona leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf9.jpg",
+          "caption": "Echinochloa colona leaf blade (lower side) with pronounced midrib"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ec.co_lf10.jpg",
+          "caption": "Echinochloa colona leaf blade (upper side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Echinochloa colona is an annual herb with stems rising prostrate up to 1 m long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Echinochloa colona is an annual herb with stems rising prostrate up to 1 m long.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": "Echinochloa colonum is growing from the coastal plains to the hills. It is found in wet fields and disturbed areas.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n          <p>Echinochloa colonum is growing from the coastal plains to the hills. <br>It is found in wet fields and disturbed areas.</p>        </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "In India the seeds of Echinochloa colonum are used to prepare a food dish called khichadi, and are consumed during festival fasting days. It is also used as a fodder grass for livestock.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>In India the seeds of Echinochloa colonum are used to prepare a food dish called khichadi, and are consumed during festival fasting days. <br>It is also used as a fodder grass for livestock. </p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    }
+  }
+}

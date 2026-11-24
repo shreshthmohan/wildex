@@ -1,0 +1,257 @@
+{
+  "species_id": 8,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=8",
+  "scraped_at": "2025-10-02T18:00:00.520294Z",
+  "basic_info": {
+    "scientific_name": "Canavalia cathartica",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/canavalia_cathartica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.ca_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Dec, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99527 N",
+      "longitude": "79.82248 E",
+      "raw": "11.99527 N - 79.82248 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Canavalia cathartica",
+    "author": "Thouars, Louis-Marie Aubert du Petit (1913)",
+    "family": "Fabaceae",
+    "english_names": "Maunaloa , Poisonous sea bean",
+    "indian_names": {
+      "Hindi": [
+        "Jangli-sem",
+        "Kadsambol"
+      ],
+      "Kannada": [
+        "Kaadavare",
+        "Kaadu",
+        "Thamateballi"
+      ],
+      "Marathi": [
+        "Abai"
+      ],
+      "Tamil": [
+        "Kaattu kozhi avarai",
+        "Kaattu Thammattai"
+      ],
+      "Telugu": [
+        "Adavi chemma",
+        "Adavithamma",
+        "Kaaru chamma"
+      ]
+    },
+    "synonyms": [
+      "Canavalia bouquete",
+      "Canavalia bouquete",
+      "Canavalia ensiformis var. turgida",
+      "Canavalia ensiformis var. virosa",
+      "Canavalia glandifolia",
+      "Canavalia glandifolia",
+      "Canavalia microcarpa",
+      "Canavalia obtusifolia var. insularis",
+      "Canavalia polystachya",
+      "Canavalia stocksii",
+      "Canavalia turgida",
+      "Canavalia turgida",
+      "Canavalia virosa",
+      "Dolichos virosus",
+      "Lablab microcarpus",
+      "Phaseolus virosus",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nCanavalia\n: Derived from the Malabar vernacular name \"\nkavavali\n\", which means \"\nforest climber\n\".\n-\nCathartica\n: With purgative qualities : cleaning, purging, cathartic.",
+    "etymology_html": "<p>- <i>Canavalia</i> : Derived from the Malabar vernacular name \"<i>kavavali</i>\", which means \"<i>forest climber</i>\".<br>- <i>Cathartica</i> : With purgative qualities : cleaning, purging, cathartic.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Canavalia cathartica is warty and old stems show vertical veins. The branchlets are glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Canavalia cathartica</i> is warty and old stems show vertical veins. The branchlets are glabrous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canavalia_cathartica_stem1.jpg",
+          "caption": "Canavalia cathartica stem and bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canavalia_cathartica_stem2.jpg",
+          "caption": "Canavalia cathartica stem node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/canavalia_cathartica_stem3.jpg",
+          "caption": "Canavalia cathartica twining shoot"
+        }
+      ]
+    },
+    "seed": {
+      "text": "Each pod of Canavalia cathartica contains 6 to 12 seeds. The seeds are smooth, glabrous and 1.5 to 1.8 cm long and 1 cm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>Each pod of <i>Canavalia cathartica</i> contains 6 to 12 seeds. <br>The <strong>seeds</strong> are smooth, glabrous and 1.5 to 1.8 cm long and 1 cm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/canavalia_cathartica_seed1.jpg",
+          "caption": "Canavalia cathartica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/canavalia_cathartica_seed2.jpg",
+          "caption": "Canavalia cathartica unripe seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Canavalia cathartica is a pod . The thick pod is 10 to 15 cm long and 2 to 2.5 cm wide. It is oblong, compressed and pubescent with obtuse and horned apex. The pod is 5-12-seeded and has a 0.5-0.7 cm peduncle .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Canavalia cathartica</i> is a <strong>pod</strong>.<br>The thick pod is 10 to 15 cm long and 2 to 2.5 cm wide.<br>It is oblong, compressed and pubescent with obtuse and horned apex.<br>The pod is 5-12-seeded and has a 0.5-0.7 cm <strong>peduncle</strong>.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canavalia_cathartica_fruit1.jpg",
+          "caption": "Canavalia cathartica unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canavalia_cathartica_fruit2.jpg",
+          "caption": "Canavalia cathartica unripe and ripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/canavalia_cathartica_fruit3.jpg",
+          "caption": "Canavalia cathartica unripe pod longitudinal sections"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Canavalia cathartica are pink, in 10 to 20 cm long axillary racemes . The peduncle is about 15 cm long and the pedicel of each flower is 3-4 mm long. Both are sparsely hairy. The flower is 2.5 cm across. The calyx-tube is 1.3-1.5 cm long and 0.5-0.8 cm wide. This tube is 2-lipped : the upper is 2-lobbed (5 mm long) and the lower is 3-dentate (1-2 mm long). The corolla is pink and lilac-coloured. It is composed of a 2x2.5 cm reflex standard, 2 narrow wings (2 cm long and 0.6 cm wide) and 2 incurved keels (2.5 cm long and 0.7 cm wide). The staminal shealth is 2.5 cm long with 6-8 filaments (0.6-0.7 mm long) and 2 mm long anthers. The style is curved and about 2.5 cm long and the ovary is about 0.5 cm across with many ovules. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Canavalia cathartica</i> are pink, in 10 to 20 cm long axillary <strong>racemes</strong>.<br>The <strong>peduncle</strong> is about 15 cm long and the <strong>pedicel</strong> of each flower is 3-4 mm long. Both are sparsely hairy.<br>The <strong>flower</strong> is 2.5 cm across. The <strong>calyx-tube</strong> is 1.3-1.5 cm long and 0.5-0.8 cm wide. This tube is 2-lipped : the upper is 2-lobbed (5 mm long) and the lower is 3-dentate (1-2 mm long). The <strong>corolla</strong> is pink and lilac-coloured. It is composed of a 2x2.5 cm reflex standard, 2 narrow wings (2 cm long and 0.6 cm wide) and 2 incurved keels (2.5 cm long and 0.7 cm wide).<br>The <strong>staminal shealth</strong> is 2.5 cm long with 6-8 filaments (0.6-0.7 mm long) and 2 mm long anthers.<br>The <strong>style</strong> is curved and about 2.5 cm long and the <strong>ovary</strong> is about 0.5 cm across with many ovules.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower1.jpg",
+          "caption": "Canavalia cathartica raceme with open flower and bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower2.jpg",
+          "caption": "Canavalia cathartica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower3.jpg",
+          "caption": "Canavalia cathartica flower parts (sepals, calyx-tube and reproductive structures)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower4.jpg",
+          "caption": "Canavalia cathartica reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower5.jpg",
+          "caption": "Canavalia cathartica buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower6.jpg",
+          "caption": "Canavalia cathartica inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower7.jpg",
+          "caption": "Canavalia cathartica flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower8.jpg",
+          "caption": "Canavalia cathartica flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/canavalia_cathartica_flower9.jpg",
+          "caption": "Canavalia cathartica buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "Canavalia cathartica has 10 to 20 cm long compound (trifoliolate) and alternate leaves . The petiole is 5 to 10 cm long. The leaflets are ovate and 5 to 12 cm long and 2.5 to 8 cm wide. These leaflets are chartaceous with entire margins , acuminate at apex , rounded at base , glabrous above and slightly puberulous below (yellowish-brown coloured hairs). The petiolules are about 5 mm long. The stipules are subulate and 2-3 mm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p><i>Canavalia cathartica</i> has 10 to 20 cm long compound (trifoliolate) and alternate <strong>leaves</strong>.<br>The <strong>petiole</strong> is 5 to 10 cm long.<br>The <strong>leaflets</strong> are ovate and 5 to 12 cm long and 2.5 to 8 cm wide. These leaflets are chartaceous with entire <strong>margins</strong>, acuminate at <strong>apex</strong>, rounded at <strong>base</strong>, glabrous above and slightly puberulous below (yellowish-brown coloured hairs).<br>The <strong>petiolules</strong> are about 5 mm long. The <strong>stipules</strong> are subulate and 2-3 mm long.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf1.jpg",
+          "caption": "Canavalia cathartica trifoliate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf2.jpg",
+          "caption": "Canavalia cathartica leaflet (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf3.jpg",
+          "caption": "Canavalia cathartica young leaf and twining shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf4.jpg",
+          "caption": "Canavalia cathartica leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf5.jpg",
+          "caption": "Canavalia cathartica leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/canavalia_cathartica_leaf6.jpg",
+          "caption": "Canavalia cathartica young leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Canavalia cathartica is a woody and deciduous climber . It is a thornless vine with thick, twining and climbing stems (to 8 meters).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Canavalia cathartica</i> is a woody and <strong>deciduous climber</strong>. It is a thornless vine with thick, twining and climbing stems (to 8 meters).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/canavalia_cathartica_habit1.jpg",
+          "caption": "Canavalia cathartica covering shrubs and trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/canavalia_cathartica_habit2.jpg",
+          "caption": "Canavalia cathartica  straggling over a tree (Cassia roxburghii)"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Canavalia cathartica is pollinated by a wide variety of insects and by sunbirds (in India). - Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. - Hydrochory : Canavalia cathartica pods and seeds are also disperse by water (coastal species).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Canavalia cathartica</i> is pollinated by a wide variety of insects and by sunbirds (in India).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>- Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>- Hydrochory : <i>Canavalia cathartica</i> pods and seeds are also disperse by water (coastal species).</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/canavalia_cathartica_reproduction1.jpg",
+          "caption": "Canavalia cathartica flowers and pollinator"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/canavalia_cathartica_reproduction2.jpg",
+          "caption": "Canavalia cathartica flowers and pollinator"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Canavalia cathartica blossoms almost throughout the year but there are 2 peaks during October to January and July to September. Throughout the year. Throughout the year. The leaves fall briefly during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p><i>Canavalia cathartica</i> blossoms almost throughout the year but there are 2 peaks during October to January and July to September.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall briefly during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "Canavalia cathartica is used as cattle fodder . The stems with pods and leaves are fed to rabbits and hares. ( B. Bhagya, K.R. Sridhar and S. Seena )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Canavalia cathartica</i> is used as cattle <strong>fodder</strong>. The stems with pods and leaves are fed to rabbits and hares. (<i>B. Bhagya, K.R. Sridhar and S. Seena</i>)</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "In some islands, the showy flowers and large seeds of Canavalia cathartica are used in leis*. ( R. Barboza ) * A lei is a wreath of flowers or other objects such as shells, nuts, and feathers, worn especially around the neck .",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>In some islands, the showy <strong>flowers</strong> and large <strong>seeds</strong> of <i>Canavalia cathartica</i> are used in leis*. (<i>R. Barboza</i>)<br>* <i>A lei is a wreath of flowers or other objects such as shells, nuts, and feathers, worn especially around the neck</i>.</p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "There are several direct and indirect uses of different parts of Canavalia cathartica throughout the tropical regions of the world. In India, inhabitants of Karnataka and Kerala consume seeds and immature pods of Canavalia cathartica during shortage of food. Fishermen communities eat cooked immature pods occasionally after removing the fibres. The seeds of Canavalia cathartica are a rich source of proteins, sulphur and essential amino acids, carbohydrates and energy. It is considered to be an underutilized wild plant with the potential to serve as a protein and carbohydrate rich food crop. ( Nutritional and microbiological features of little known legumes, Canavalia cathartica Thouars and C. maritima Thouars of the southwest coast of India, S. Seena and K. R. Sridhar ) The tender pods are rich in protein, fiber, starch, potassium, magnesium, zinc and manganese and Canavalia cathartica has more protein than several other edible legumes such as pigeon pea, chickpea, and cowpea. ( Biochemical and protein quality evaluation of tender pods of wild legume Canavalia cathartica of coastal sand dunes, B. Bhagya, K.R. Sridhar and S. Seena ). The raw, uncooked seeds are narcotic and poisonous but the trypsin inhibitor activity was absent in tender pods and pressure-cooking decreased the other antinutritional factors. Like many legumes, Canavalia cathartica contains antinutrients and requires some processing or preparation before it can be used for food. Antinutrients in the species include phenols, tannins, and lectins. Pressure cooking can reduce antinutrients. ( B. Bhagya, K.R. Sridhar and S. Seena )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>There are several direct and indirect uses of different parts of <i>Canavalia cathartica</i> throughout the tropical regions of the world. <br><br>In India, inhabitants of Karnataka and Kerala consume <strong>seeds</strong> and <strong>immature pods</strong> of <i>Canavalia cathartica</i> during shortage of food. Fishermen communities eat cooked immature pods occasionally after removing the fibres. <br><br>The <strong>seeds</strong> of <i>Canavalia cathartica</i> are a rich source of proteins, sulphur and essential amino acids, carbohydrates and energy. <br>It is considered to be an underutilized wild plant with the potential to serve as a protein and carbohydrate rich food crop. (<i>Nutritional and microbiological features of little known legumes, Canavalia cathartica Thouars and C. maritima Thouars of the southwest coast of India, S. Seena and K. R. Sridhar</i>)<br><br>The <strong>tender pods</strong> are rich in protein, fiber, starch, potassium, magnesium, zinc and manganese and <i>Canavalia cathartica</i> has more protein than several other edible legumes such as pigeon pea, chickpea, and cowpea. (<i>Biochemical and protein quality evaluation of tender pods of wild legume Canavalia cathartica of coastal sand dunes, B. Bhagya, K.R. Sridhar and S. Seena</i>).<br><br>The <strong>raw, uncooked seeds</strong> are narcotic and poisonous but the trypsin inhibitor activity was absent in tender pods and pressure-cooking decreased the other antinutritional factors. <br>Like many legumes, <i>Canavalia cathartica</i> contains antinutrients and requires some processing or preparation before it can be used for food. Antinutrients in the species include phenols, tannins, and lectins. Pressure cooking can reduce antinutrients. (<i>B. Bhagya, K.R. Sridhar and S. Seena</i>)</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Canavalia cathartica can be planted in the sun or half shade and it will grow in a wide variety of situations and soils. Generally no pretreatment is necessary for the seeds germination but scratch and 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Canavalia cathartica</i> can be planted in the sun or half shade and it will grow in a wide variety of situations and soils.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>Generally no pretreatment is necessary for the seeds germination but scratch and 12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

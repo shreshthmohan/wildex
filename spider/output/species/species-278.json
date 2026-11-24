@@ -1,0 +1,250 @@
+{
+  "species_id": 278,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=278",
+  "scraped_at": "2025-10-02T16:53:59.139775Z",
+  "basic_info": {
+    "scientific_name": "Combretum albidum",
+    "authority": null,
+    "family": "Combretaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/64688ec2cfcaf_64688ec2cfc9c_Co.al_mp2.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Co.al_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "22 Mar, 2023",
+    "collected_by": "A.A.S, R.S",
+    "gps_coordinates": {
+      "raw": "11°59'13 N - 79°48'29 E \n12°00'25 N - 79°49'31 E \n12°10'51 N - 79°17'21 E"
+    },
+    "locality": "Auroville Botanical Gardens, Samridhi and Pakkamalai RF, Gingee, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Combretum albidum",
+    "author": "Don, George (1827)",
+    "family": "Combretaceae",
+    "english_names": "Buffalo calf plant, Oval-leaved Wheel creeper",
+    "indian_names": null,
+    "synonyms": [
+      "Combretum ovalifolium",
+      "Combretum albidum var. cooperi",
+      "Combretum thwaitesianum",
+      "Combretum wightianum"
+    ],
+    "etymology": "-\nCombretum\n: From its resemblance to an undetermined climbing plant named in Latin by Pliny\n-\nalbidum\n: From the Latin\nalbus\nwhich means white, referring to the pale colour of the lower side of the leaves",
+    "etymology_html": "<p>- <i>Combretum</i>: From its resemblance to an undetermined climbing plant named in Latin by Pliny<br>- <i>albidum</i>: From the Latin <i>albus</i> which means white, referring to the pale colour of the lower side of the leaves</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Combretum albidum is smooth and grey in colour. The branchlets are glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Combretum albidum is smooth and grey in colour. <br>The branchlets are glabrous. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.al_st1.jpg",
+          "caption": "Combretum albidum branching twigs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.al_bk1.jpg",
+          "caption": "Combretum albidum bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.al_st3.jpg",
+          "caption": "Combretum albidum climbing stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Combretum albidum is found at the centre of the 4 membranous wings. It is solitary, about 1 cm long, narrow in shape. It is light to dark brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seed of Combretum albidum is found at the centre of the 4 membranous wings. <br>It is solitary, about 1 cm long, narrow in shape. <br>It is light to dark brown in colour.  </p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Co.al_sd1.jpg",
+          "caption": "Combretum albidum 4-winged old fruits with central seed"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Co.al_sd2.jpg",
+          "caption": "Combretum albidum seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Co.al_sd3.jpg",
+          "caption": "Combretum albidum solitary seed"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Combretum albidum are ovoid in shape, with 4 membranous semi-circular wings. They are about 2 cm across. The fruits are green in colour, sometimes tinged with red, and turn brown when they dry. Each fruit has a single seed at the centre of its wings. The fruits are prominent over the canopy.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Combretum albidum are ovoid in shape, with 4 membranous semi-circular wings. <br>They are about 2 cm across. <br>The fruits are green in colour, sometimes tinged with red, and turn brown when they dry.<br>Each fruit has a single seed at the centre of its wings. <br>The fruits are prominent over the canopy.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr1.jpg",
+          "caption": "Combretum albidum fruits prominent on top of the canopy"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr6.jpg",
+          "caption": "Combretum albidum young fruits and withered flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr5.jpg",
+          "caption": "Combretum albidum fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr4.jpg",
+          "caption": "Combretum albidum dry fruit on twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr2.jpg",
+          "caption": "Combretum albidum 4-winged fruit cut to show the cross section (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.al_fr3.jpg",
+          "caption": "Combretum albidum fruits with variation of colour depending on their ripening"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Combretum albidum are bisexual. They grow as panicled spikes at the end of the branches. The flowers are small, less than 1 cm, and tightly arranged on a peduncle which is 2 cm long. They are cream and green in colour with a pleasant smell. The flowers have 4 very small petals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Combretum albidum are bisexual. <br>They grow as panicled spikes at the end of the branches. <br>The flowers are small, less than 1 cm, and tightly arranged on a peduncle which is 2 cm long. <br>They are cream and green in colour with a pleasant smell. <br>The flowers have 4 very small petals. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl7.jpg",
+          "caption": "Combretum albidum blooming stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl6.jpg",
+          "caption": "Combretum albidum flower buds and withered flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl5.jpg",
+          "caption": "Combretum albidum flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl1.jpg",
+          "caption": "Combretum albidum flowers in panicled spikes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl2.jpg",
+          "caption": "Combretum albidum flowers in spikes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl3.jpg",
+          "caption": "Combretum albidum flower with a central pistil and 8 stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.al_fl4.jpg",
+          "caption": "Combretum albidum flowers with 4 narrow tiny petals"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Combretum albidum are simple in an opposite arrangement. The leaves are oblong or ovate-lanceolate in shape. The leaves are about 5 to 8 cm long and 2 to 4 cm wide. They are thinly coriaceous. They are green in colour, paler on the lower side, and turn red before falling. The base of the leaf is cuneate-subcuneate, the leaf margin is entire and the leaf apex is acuminate. The petiole can be up to 1.5 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Combretum albidum are simple in an opposite arrangement. <br>The leaves are oblong or ovate-lanceolate in shape. <br>The leaves are about 5 to 8 cm long and 2 to 4 cm wide. <br>They are thinly coriaceous. <br>They are green in colour, paler on the lower side, and turn red before falling. <br>The base of the leaf is cuneate-subcuneate, the leaf margin is entire and the leaf apex is acuminate. <br>The petiole can be up to 1.5 cm long.  </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf1.jpg",
+          "caption": "Combretum albidum leaves on top of canopy"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf2.jpg",
+          "caption": "Combretum albidum young leaves at the base of the creeper"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf3.jpg",
+          "caption": "Combretum albidum old foliage turning red"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf4.jpg",
+          "caption": "Combretum albidum opposite leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf5.jpg",
+          "caption": "Combretum albidum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf6.jpg",
+          "caption": "Combretum albidum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf7.jpg",
+          "caption": "Combretum albidum leaves becoming red with age"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.al_lf8.jpg",
+          "caption": "Combretum albidum leaf arrangement on stem"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Combretum albidum is a large woody deciduous liana that grows vigorously by winding itself against another plant. It can grow up to 10 m long. It can be a nuisance to its host as it can blanket the full canopy.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Combretum albidum is a large woody deciduous liana that grows vigorously by winding itself against another plant. <br>It can grow up to 10 m long. <br>It can be a nuisance to its host as it can blanket the full canopy.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.al_ha1.jpg",
+          "caption": "Combretum albidum leaves on top of canopy"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.al_ha2.jpg",
+          "caption": "Combretum albidum habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.al_ha3.jpg",
+          "caption": "Combretum albidum habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.al_ha4.jpg",
+          "caption": "Combretum albidum climbing habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "distribution": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Ecology :</span><br>\n                  </li>\n      \n      <p>\n        </p><li><span class=\"titchap\">Distribution :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n      </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n              </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n                  </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+      "images": []
+    },
+    "status": {
+      "text": "NE",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>NE</p>  \n</div>",
+      "images": []
+    }
+  }
+}

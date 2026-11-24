@@ -1,0 +1,162 @@
+{
+  "species_id": 241,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=241",
+  "scraped_at": "2025-10-02T18:45:13.363547Z",
+  "basic_info": {
+    "scientific_name": "Albizia odoratissima",
+    "authority": null,
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63245adbb1ba0_63245adbb1b94_Al.od_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.od_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Jun, 2022",
+    "collected_by": "A.S, A.A.S, R.S",
+    "gps_coordinates": {
+      "latitude": "11.5910 N",
+      "longitude": "79.4830 E",
+      "raw": "11.5910 N - 79.4830 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Albizia odoratissima",
+    "author": "(L.f.) Bentham, George (1844)",
+    "family": "Fabaceae",
+    "english_names": "Black siris",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nAlbizia\n: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe\n-\nodoratissima\n: From the Latin\nodorata\nwhich means \"most fragrant\" referring to the flowers",
+    "etymology_html": "<p>- <i>Albizia</i>: after Filippo degli Albizzi (1749), Italian botanist who introduced the Persian silk tree to Europe<br>- <i>odoratissima</i> : From the Latin <i>odorata</i> which means \"most fragrant\" referring to the flowers</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Albizia odoratissima dark grey to dark brown in colour. The bark is rough with horizontal warts, irregularly cracked and blaze red-pink below the cracks. The stems are black to brown in colour. The branches are terete in shape and show horizontal lenticels. The branchlets are initially tawny pubescent and finally glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Albizia odoratissima dark grey to dark brown in colour. <br>The bark is rough with horizontal warts, irregularly cracked and blaze red-pink below the cracks. <br>The stems are black to brown in colour.<br>The branches are terete in shape and show horizontal lenticels. <br>The branchlets are initially tawny pubescent and finally glabrous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6327f9c38280d_Al.od_bk1.jpg",
+          "caption": "Albizia odoratissima trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6327f9c887afd_Al.od_bk2.jpg",
+          "caption": "Albizia odoratissima brown rought bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6327f9d7dc921_Al.od_st1.jpg",
+          "caption": "Albizia odoratissima grey branchlet with white lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6327f9d340077_Al.od_st2.jpg",
+          "caption": "Albizia odoratissima stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.od_bk2.jpg",
+          "caption": "Albizia odoratissima rought bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Albizia odoratissima are oblong, orbicular and compressed in shape, less than 1 cm in size. There are 6 to 14 seeds per pod. The seeds are yellow-brown in colour with a circular fine line drawn on the flat surface of the seed.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Albizia odoratissima are oblong, orbicular and compressed in shape, less than 1 cm in size. <br>There are 6 to 14 seeds per pod. <br>The seeds are yellow-brown in colour with a circular fine line drawn on the flat surface of the seed.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Al.od_fr1.jpg",
+          "caption": "Albizia odoratissima deteriorated seedpod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Al.od_fr2.jpg",
+          "caption": "Albizia odoratissima deteriorated seedpod open in half to show the seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Albizia odoratissima are thin leathery seedpods. They are subsessile, compressed and flat pods. Each pod can be up to 20 cm long and 3 cm wide. They are strongly nerved and apically obtuse. They are often glossy and dehiscent. They are red-brown to dark brown in colour, turning black when they are dry. Each pod is containing 6 to 14 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Albizia odoratissima are thin leathery seedpods. <br>They are subsessile, compressed and flat pods. <br>Each pod can be up to 20 cm long and 3 cm wide. <br>They are strongly nerved and apically obtuse. <br>They are often glossy and dehiscent. <br>They are red-brown to dark brown in colour, turning black when they are dry. <br>Each pod is containing 6 to 14 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6327fdffb6fc6_Al.od_fr1.jpg",
+          "caption": "Albizia odoratissima glossy long thin flat seedpod"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flower-heads of Albizia odoratissima are globose, arranged in umbellate or terminal panicles which are around 15 cm long. There are 10 to 15 flowers per head, each one is less than 1 cm wide. The flowers are white-cream in colour. The calyx tube is 5-lobed and pubescent. Each flower has 5 petals pubescent without, many stamens, one long staminal tube and one stipitate ovary. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flower-heads of Albizia odoratissima are globose, arranged in umbellate or terminal panicles which are around 15 cm long. <br>There are 10 to 15 flowers per head, each one is less than 1 cm wide. <br>The flowers are white-cream in colour. <br>The calyx tube is 5-lobed and pubescent. <br>Each flower has 5 petals pubescent without, many stamens, one long staminal tube and one stipitate ovary. <br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6327f87108ebd_Al.od_fl1.jpg",
+          "caption": "Albizia odoratissima withered white flower-head with long stamens, and flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Albizia odoratissima are compound, bipinnate, with an alternate arrangement. The leaves are 15 to 20 cm long, with a long rachis up to 20 cm. There are 2 to 8 pairs of opposite pinnae per leaf. Each pinnae is around 5 to 15 cm long. Each pinnae has around 6 to 15 pairs of leaflets that are oblong-elliptic in shape and the terminal ones are obovate. The leaflets are puberulous or glabrescent. The base of the leaflet is oblique. The leaflet margine is entire and the apex obtuse. The leaf bears a discoid brown gland located 1 to 2 cm above its base, and an upper gland between the 2 distal pairs of pinnae. The leaves are dark green in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Albizia odoratissima are compound, bipinnate, with an alternate arrangement. <br>The leaves are 15 to 20 cm long, with a long rachis up to 20 cm. <br>There are 2 to 8 pairs of opposite pinnae per leaf. Each pinnae is around 5 to 15 cm long. <br>Each pinnae has around 6 to 15 pairs of leaflets that are oblong-elliptic in shape and the terminal ones are obovate. <br>The leaflets are puberulous or glabrescent. The base of the leaflet is oblique. <br>The leaflet margine is entire and the apex obtuse. <br>The leaf bears a discoid brown gland located 1 to 2 cm above its base, and an upper gland between the 2 distal pairs of pinnae. <br>The leaves are dark green in colour.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245b511b908_Al.od_lf1.jpg",
+          "caption": "Albizia odoratissima dark green bipinnate foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245b55a0fe0_Al.od_lf2.jpg",
+          "caption": "Albizia odoratissima leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245b6173175_Al.od_lf4.jpg",
+          "caption": "Albizia odoratissima bipinnate leaf with 4 pairs of pinnae (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245b693b3dc_Al.od_lf5.jpg",
+          "caption": "Albizia odoratissima bipinnate leaf with 4 pairs of pinnae (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245c79b7b33_Al.od_lf6.jpg",
+          "caption": "Albizia odoratissima pinnae (upper and lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245c8a71bc2_Al.od_lf7.jpg",
+          "caption": "Albizia odoratissima upper gland located between the 2 distal pairs of pinnae"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.od_lf9.jpg",
+          "caption": "Albizia odoratissima lower gland located 2 cm above the leaf base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63245c9651067_Al.od_lf10.jpg",
+          "caption": "Albizia odoratissima terminal opposite leaflets (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Albizia odoratissima is a medium sized deciduous tree growing up to 10 m in height. It has an extensive crown, relatively dense with drooping dark green leaves.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Albizia odoratissima is a medium sized deciduous tree growing up to 10 m in height. <br>It has an extensive crown, relatively dense with drooping dark green leaves.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63245b0d77d9b_Al.od_ha1.jpg",
+          "caption": "Albizia odoratissima habit of an 8 years old tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63245b0fe6700_Al.od_ha2.jpg",
+          "caption": "Albizia odoratissima habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

@@ -1,0 +1,297 @@
+{
+  "species_id": 36,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=36",
+  "scraped_at": "2025-10-08T06:09:13.545538Z",
+  "basic_info": {
+    "scientific_name": "Artabotrys hexapetalus",
+    "authority": "(L.f.) Bhandari",
+    "family": "Annonaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/artabotrys_hexapetalus.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ar.he_herb1b.jpg"
+  },
+  "collection_metadata": {
+    "date": "24 Mar, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99425 N",
+      "longitude": "79.82335 E",
+      "raw": "11.99425 N - 79.82335 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Artabotrys hexapetalus",
+    "author": "Bhandari, Madan Mal (1965)",
+    "family": "Annonaceae",
+    "english_names": "Climbing ylang-ylang , Tail grape",
+    "indian_names": {
+      "Bengali": [
+        "Kanthalichampa"
+      ],
+      "Hindi": [
+        "Manorangini"
+      ],
+      "Kannada": [
+        "Manoranjani"
+      ],
+      "Marathi": [
+        "Hirva chapha"
+      ],
+      "Tamil": [
+        "Manoranjitham"
+      ],
+      "Telugu": [
+        "Sampenga"
+      ]
+    },
+    "synonyms": [
+      "Annona hexapetala",
+      "Annona uncinata",
+      "Artabotrys hamatus",
+      "Artabotrys intermedius",
+      "Artabotrys odoratissimus",
+      "Artabotrys odoratissimus",
+      "Artabotrys uncata",
+      "Artabotrys uncatus",
+      "Artabotrys uncinatus",
+      "Unona uncata",
+      "Unona uncinata",
+      "Uvaria esculenta",
+      "Uvaria odoratissima",
+      "Uvaria uncata",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nArtabotrys\n: From the Greek\nartane, artao\n\"that by which something is hung up\" and\nbotrys\n\"cluster, a bunch of grapes, a cluster of grapes\"; in reference to the hanging clusters of fruits.\n-\nHexapetalus\n: With six petals.",
+    "etymology_html": "<p>- <i>Artabotrys</i> : From the Greek <i>artane, artao</i> \"that by which something is hung up\" and <i>botrys</i> \"cluster, a bunch of grapes, a cluster of grapes\"; in reference to the hanging clusters of fruits.<br>- <i>Hexapetalus</i> : With six petals.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Artabotrys hexapetalus is brownish, longitudinally fissured and transversally cracked. Artabotrys hexapetalus has some stout thorns and recurved hooks.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Artabotrys hexapetalus</i> is brownish, longitudinally fissured and transversally cracked. <i>Artabotrys hexapetalus</i> has some stout thorns and recurved hooks.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/artabotrys_hexapetalus_stem1.jpg",
+          "caption": "Artabotrys hexapetalus trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/artabotrys_hexapetalus_stem2.jpg",
+          "caption": "Artabotrys hexapetalus bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/artabotrys_hexapetalus_stem3.jpg",
+          "caption": "Artabotrys hexapetalus thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/artabotrys_hexapetalus_stem4.jpg",
+          "caption": "Artabotrys hexapetalus hook"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Artabotrys hexapetalus is oblong, 2 cm long and 1.2 cm wide. The seed is concave and flattened on one side. There are usually 2 seeds in a fruit (sometimes only one).",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Artabotrys hexapetalus</i> is oblong, 2 cm long and 1.2 cm wide. The seed is concave and flattened on one side.<br>There are usually 2 seeds in a fruit (sometimes only one).</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/artabotrys_hexapetalus_seed1.jpg",
+          "caption": "Artabotrys hexapetalus seeds (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/artabotrys_hexapetalus_seed2.jpg",
+          "caption": "Artabotrys hexapetalus seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Artabotrys hexapetalus is a berry . They are grouped in clusters of 10-15 fruits . The pear-shaped berry is 3-4 cm long and 2 cm wide, sessile and 1 or 2-seeded. The fruit is shiny, smooth and green turning yellow when ripe. The fruits are very fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Artabotrys hexapetalus</i> is a <strong>berry</strong>. They are grouped in clusters of 10-15 <strong>fruits</strong>.<br>The pear-shaped berry is 3-4 cm long and 2 cm wide, sessile and 1 or 2-seeded. The fruit is shiny, smooth and green turning yellow when ripe.<br>The fruits are very fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit1.jpg",
+          "caption": "Artabotrys hexapetalus ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit2.jpg",
+          "caption": "Artabotrys hexapetalus ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit3.jpg",
+          "caption": "Artabotrys hexapetalus unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit4.jpg",
+          "caption": "Artabotrys hexapetalus unripe fruits cluster"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit5.jpg",
+          "caption": "Artabotrys hexapetalus unripe fruits cluster"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/artabotrys_hexapetalus_fruit6.jpg",
+          "caption": "Artabotrys hexapetalus unripe fruits cluster"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Artabotrys hexapetalus are solitary or paired. The pedicel is 1.5 cm long. The calyx is composed of 3 sepals. The sepals are ovate, recurved, 7 mm long and 5 mm wide. The calyx is light green and pubescent. The corolla is composed of 2 rows of 3 fleshy petals. The petals are lanceolate, 3.5 cm long and 1.2 cm wide. The corolla is yellow-coloured and glabrous with minute hairs at the base and the margins. The androecium is composed of numerous short stamens. The buds are green and covered with short and white hairs. The flowers are very fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Artabotrys hexapetalus</i> are solitary or paired. The <strong>pedicel</strong> is 1.5 cm long.<br>The <strong>calyx</strong> is composed of 3 sepals. The sepals are ovate, recurved, 7 mm long and 5 mm wide. The calyx is light green and pubescent.<br>The <strong>corolla</strong> is composed of 2 rows of 3 fleshy petals. The petals are lanceolate, 3.5 cm long and 1.2 cm wide. The corolla is yellow-coloured and glabrous with minute hairs at the base and the margins.<br>The <strong>androecium</strong> is composed of numerous short stamens.<br>The <strong>buds</strong> are green and covered with short and white hairs.<br>The flowers are very fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower1.jpg",
+          "caption": "Artabotrys hexapetalus flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower2.jpg",
+          "caption": "Artabotrys hexapetalus flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower3.jpg",
+          "caption": "Artabotrys hexapetalus flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower4.jpg",
+          "caption": "Artabotrys hexapetalus flower longitudinal section (exposing the reproductive structures)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower5.jpg",
+          "caption": "Artabotrys hexapetalus petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower6.jpg",
+          "caption": "Artabotrys hexapetalus flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower7.jpg",
+          "caption": "Artabotrys hexapetalus flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower8.jpg",
+          "caption": "Artabotrys hexapetalus unmatured flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/artabotrys_hexapetalus_flower9.jpg",
+          "caption": "Artabotrys hexapetalus flower bud"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Artabotrys hexapetalus grow alternately on the stem (spirally arranged). The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides. The leaves have a 6 mm long petiole . The leaf of Artabotrys hexapetalus is 10-15 cm long and 3-5 cm wide. The shape is oblong-lanceolate, the apex is acuminate, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Artabotrys hexapetalus</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides.<br>The leaves have a 6 mm long <strong>petiole</strong>.<br>The leaf of <i>Artabotrys hexapetalus</i> is 10-15 cm long and 3-5 cm wide. The shape is oblong-lanceolate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf1.jpg",
+          "caption": "Artabotrys hexapetalus branchlet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf2.jpg",
+          "caption": "Artabotrys hexapetalus branchlet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf3.jpg",
+          "caption": "Artabotrys hexapetalus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf4.jpg",
+          "caption": "Artabotrys hexapetalus leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf5.jpg",
+          "caption": "Artabotrys hexapetalus branchlet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf6.jpg",
+          "caption": "Artabotrys hexapetalus branchlet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf8.jpg",
+          "caption": "Artabotrys hexapetalus leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/artabotrys_hexapetalus_leaf7.jpg",
+          "caption": "Artabotrys hexapetalus leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Artabotrys hexapetalus is an evergreen and strangling climber up to 6-8 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Artabotrys hexapetalus</i> is an evergreen and <strong>strangling climber</strong> up to 6-8 m.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/artabotrys_hexapetalus_habit1.jpg",
+          "caption": "Artabotrys hexapetalus climbing over a tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/artabotrys_hexapetalus_habit2.jpg",
+          "caption": "Artabotrys hexapetalus climbing over bamboos"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/artabotrys_hexapetalus_habit3.jpg",
+          "caption": "Artabotrys hexapetalus branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/artabotrys_hexapetalus_habit4.jpg",
+          "caption": "Artabotrys hexapetalus in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Artabotrys hexapetalus is cultivated (and naturalised) throughout India for its fragrant flowers.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Artabotrys hexapetalus</i> is cultivated (and naturalised) throughout India for its fragrant flowers.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Artabotrys hexapetalus is bisexual (each flower of each individual has both male and female structures). Artabotrys hexapetalus is pollinated by a wide variety of insects. The seeds of Artabotrys hexapetalus are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Artabotrys hexapetalus</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Artabotrys hexapetalus</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Artabotrys hexapetalus</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/artabotrys_hexapetalus_reproduction1.jpg",
+          "caption": "Artabotrys hexapetalus flower longitudinal section (exposing the reproductive structures)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/artabotrys_hexapetalus_reproduction2.jpg",
+          "caption": "Artabotrys hexapetalus reproductive structures (stamens surrounding pistils)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/artabotrys_hexapetalus_reproduction3.jpg",
+          "caption": "Artabotrys hexapetalus reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/artabotrys_hexapetalus_reproduction4.jpg",
+          "caption": "Artabotrys hexapetalus reproductive structures"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The essential oil extracted from the flowers of Artabotrys hexapetalus is used in perfumery. Source : Chopra, 1956, Glossary of Indian medicinal plants",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>essential oil</strong> extracted from the flowers of <i>Artabotrys hexapetalus</i> is used in perfumery.<br><br><i>Source : Chopra, 1956, Glossary of Indian medicinal plants</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The flowers of Artabotrys hexapetalus are tonic and stimulant. The fruits and the bark are used to treat fever, diarrhea, skin diseases, wounds, ulcers, inflammation, cough, asthma and bronchitis. The leaves extract has antibacterial, antifertility and antifungal activities. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>flowers</strong> of <i>Artabotrys hexapetalus</i> are tonic and stimulant.<br><br>The <strong>fruits</strong> and the <strong>bark</strong> are used to treat fever, diarrhea, skin diseases, wounds, ulcers, inflammation, cough, asthma and bronchitis.<br><br>The <strong>leaves extract</strong> has antibacterial, antifertility and antifungal activities.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Artabotrys hexapetalus is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in the shade. Artabotrys hexapetalus is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Artabotrys hexapetalus</i> is able to grow in a wide range of soils but all soils need to be free draining. This species is drought tolerant and prefers to establish in the shade.<br><i>Artabotrys hexapetalus</i> is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

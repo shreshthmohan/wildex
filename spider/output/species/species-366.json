@@ -1,0 +1,230 @@
+{
+  "species_id": 366,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=366",
+  "scraped_at": "2025-10-02T17:54:29.004635Z",
+  "basic_info": {
+    "scientific_name": "Setaria pumila",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/67820dcdda4ae_67820dcdda4a6_Se.pu_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Se.pu_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "01 Jan, 1970",
+    "collected_by": null,
+    "gps_coordinates": null,
+    "locality": null
+  },
+  "nomenclature": {
+    "botanical_name": "Setaria pumila",
+    "author": "(Poir.) Roemer, Johann Jacob  & Schult. (1817)",
+    "family": "Poaceae",
+    "english_names": "Pigeon grass, Yellow Bristle grass, Yellow Foxtail grass",
+    "indian_names": {
+      "Tamil": [
+        "Koralaepullu",
+        "-"
+      ],
+      "Bengali": [
+        "Begun",
+        "-"
+      ],
+      "Hindi": [
+        "Bandra",
+        "Bandri",
+        "Ban kauni",
+        "Siun",
+        "Ankutt",
+        "-"
+      ],
+      "Kannada": [
+        "Bilikoriekhullu",
+        "-"
+      ],
+      "Marathi": [
+        "Barati",
+        "Bhadli -"
+      ],
+      "Oriya": [
+        "Kukru",
+        "-"
+      ],
+      "Sanskrit": [
+        "Venupatrika"
+      ]
+    },
+    "synonyms": [
+      "Panicum glaucum var. pumilum",
+      "Panicum imberbe var. pumilum",
+      "Panicum pumilum",
+      "Setaria glauca var. pumil",
+      "Setaria lutescens f. pumila"
+    ],
+    "etymology": "-\nSetaria\n: From the Latin word\nseta\n, meaning bristle or hair, which refers to the bristly spikelets.\n-\npumila\n: From the Latin word for dwarf or low growing.",
+    "etymology_html": "<p>- <i>Setaria</i>: From the Latin word <i>seta</i>, meaning bristle or hair, which refers to the bristly spikelets.<br>- <i>pumila</i>: From the Latin word for dwarf or low growing.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The culms of Setaria pumila are growing 30 cm up to 1 m tall. The culms are erect and the nodes are glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Setaria pumila are growing 30 cm up to 1 m tall. <br>The culms are erect and the nodes are glabrous. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st5.jpg",
+          "caption": "Setaria pumila node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st6.jpg",
+          "caption": "Setaria pumila roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st2.jpg",
+          "caption": "Setaria pumila ligule (profile view)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st3.jpg",
+          "caption": "Setaria pumila ligule (front view)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st1.jpg",
+          "caption": "Setaria pumila plant base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Se.pu_st4.jpg",
+          "caption": "Setaria pumila plant base"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The fruit of Setaria pumila is a caryopsis. The grains are about 1.5 mm long and ellipsoid in shape.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The fruit of Setaria pumila is a caryopsis. <br>The grains are about 1.5 mm long and ellipsoid in shape.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Se.pu_sd1.jpg",
+          "caption": "Setaria pumila dry caryopsis"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Se.pu_sd2.jpg",
+          "caption": "Setaria pumila dry caryopsis"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Setaria pumila is a caryopsis. The grains are about 1.5 mm long and ellipsoid in shape.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Setaria pumila is a caryopsis. <br>The grains are about 1.5 mm long and ellipsoid in shape.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Se.pu_fr1.jpg",
+          "caption": "Setaria pumila dry fruiting panicle"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Setaria pumila are spiciform panicles. The panicles are 4 to 10 cm long, they are cylindric and yellow in colour. The bristles are scabrid and 3 to 7 mm long. The spikelets are 2 to 2.5 mm long, ovate or subglobose in shape. The lower glume is 1 to 1.5 mm long and is ovate-acute. The upper glume is 1 to 2 mm long and is ovate or orbicular in shape. The lower floret is male or barren. The upper floret is bisexual. There are 3 stamens. The ovary is oblong in shape.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Setaria pumila are spiciform panicles. <br>The panicles are 4 to 10 cm long, they are cylindric and yellow in colour. <br>The bristles are scabrid and 3 to 7 mm long. <br>The spikelets are 2 to 2.5 mm long, ovate or subglobose in shape. <br>The lower glume is 1 to 1.5 mm long and is ovate-acute. <br>The upper glume is 1 to 2 mm long and is ovate or orbicular in shape. <br>The lower floret is male or barren. <br>The upper floret is bisexual. <br>There are 3 stamens. <br>The ovary is oblong in shape.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl2.jpg",
+          "caption": "Setaria pumila panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl1.jpg",
+          "caption": "Setaria pumila panicle with pink pistils and yellow anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl6.jpg",
+          "caption": "Setaria pumila florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl7.jpg",
+          "caption": "Setaria pumila florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl5.jpg",
+          "caption": "Setaria pumila florets with pink pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl3.jpg",
+          "caption": "Setaria pumila young immature panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl4.jpg",
+          "caption": "Setaria pumila florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Se.pu_fl8.jpg",
+          "caption": "Setaria pumila blooming panicle"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Setaria pumila are linear or lanceolate in shape, and they are sparsely hairy. The leaf base is rounded and the apex is acuminate. The leaves are 5 to 23 cm long and 0.4 to 1 cm wide. The sheaths are up to 8 cm long and they are keeled. The ligules are membranous and ovate in shape.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Setaria pumila are linear or lanceolate in shape, and they are sparsely hairy. <br>The leaf base is rounded and the apex is acuminate. <br>The leaves are 5 to 23 cm long and 0.4 to 1 cm wide. <br>The sheaths are up to 8 cm long and they are keeled. <br>The ligules are membranous and ovate in shape. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf5.jpg",
+          "caption": "Setaria pumila leaf blade (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf6.jpg",
+          "caption": "Setaria pumila leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf7.jpg",
+          "caption": "Setaria pumila leaf base with sparse white long hairs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf1.jpg",
+          "caption": "Setaria pumila leaf blade (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf2.jpg",
+          "caption": "Setaria pumila leaf blade"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf4.jpg",
+          "caption": "Setaria pumila leaf nervation (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Se.pu_lf3.jpg",
+          "caption": "Setaria pumila leaves with sparse white long hairs"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Setaria pumila is an erect annual herb, growing up to 1 m tall.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Setaria pumila is an erect annual herb, growing up to 1 m tall.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Se.pu_ha1.jpg",
+          "caption": "Setaria pumila habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Se.pu_ha2.jpg",
+          "caption": "Setaria pumila habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Setaria pumila is used as an ornamental grass in gardens and as a fodder crop for livestock. It is also used for erosion control, as a soil stabiliser, and as a cover crop.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Setaria pumila is used as an ornamental grass in gardens and as a fodder crop for livestock. <br>It is also used for erosion control, as a soil stabiliser, and as a cover crop.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {}
+}

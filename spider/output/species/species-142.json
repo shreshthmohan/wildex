@@ -1,0 +1,212 @@
+{
+  "species_id": 142,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=142",
+  "scraped_at": "2025-10-08T06:21:24.575004Z",
+  "basic_info": {
+    "scientific_name": "Azima tetracantha",
+    "authority": "Lam.",
+    "family": "Salvadoraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/azima_tetracantha.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Az.te_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 Feb, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99409 N",
+      "longitude": "79.82359 E",
+      "raw": "11.99409 N - 79.82359 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Azima tetracantha",
+    "author": "Lamarck, Jean Baptiste Antoine Pierre de Monnet de (1783)",
+    "family": "Salvadoraceae",
+    "english_names": "Needle bush",
+    "indian_names": {
+      "Hindi": [
+        "Kantagur kamai"
+      ],
+      "Malayalam": [
+        "Sankukuppi",
+        "Yeshenku"
+      ],
+      "Sanskrit": [
+        "Kundali"
+      ],
+      "Tamil": [
+        "Mulsangu",
+        "sangan"
+      ],
+      "Telugu": [
+        "Uppiaku"
+      ]
+    },
+    "synonyms": [
+      "Azima angustifolia",
+      "Azima nova",
+      "Azima spinosissima",
+      "Azima tetracantha var. laxior",
+      "Azima tetracantha var. pubescens",
+      "Fagonia montana",
+      "Kandena spinosa",
+      "Monetia barlerioides",
+      "Monetia tetracantha",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAzima\n: From the Malagasy vernacular name\nazimena\n.\n-\nTetracantha\n: Spines in whorls of 4.",
+    "etymology_html": "<p>- <i>Azima</i> : From the Malagasy vernacular name <i>azimena</i>.<br>- <i>Tetracantha</i> : Spines in whorls of 4.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Azima tetracantha is light brown-coloured on old stems. It is smooth and slightly wrinkled. Azima tetracantha is armed with 2-paired, axillary and very sharp spines. The spines are 2-3 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Azima tetracantha</i> is light brown-coloured on old stems. It is smooth and slightly wrinkled. <i>Azima tetracantha</i> is armed with 2-paired, axillary and very sharp spines. The spines are 2-3 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/azima_tetracantha_stem1.jpg",
+          "caption": "Azima tetracantha sharp spines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/azima_tetracantha_stem2.jpg",
+          "caption": "Azima tetracantha stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/azima_tetracantha_stem3.jpg",
+          "caption": "Azima tetracantha bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/azima_tetracantha_stem4.jpg",
+          "caption": "Azima tetracantha spines"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Azima tetracantha is a white globular berry .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Azima tetracantha</i> is a white globular <strong>berry</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "Azima tetracantha have unisexual flowers on separate individuals (dioecious). The flowers of Azima tetracantha are axillary, solitary (female flowers) or grouped in short spikes (male flowers). The flowers are 4-merous. The calyx-tube is campanulate, 4-lobed and 2.5 mm long and wide. The calyx is whitish light green and finely pubescent. The corolla is composed of 4 greenish-coloured petals. The petals are lanceolate, 3 mm long and 1 mm wide. The male flowers have 4 free stamens. The female flowers have a globose ovary (1.5 mm across) with a stout and 1 mm long style and a capitate stigma.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Azima tetracantha</i> have unisexual flowers on separate individuals (dioecious).<br>The <strong>flowers</strong> of <i>Azima tetracantha</i> are axillary, solitary (female flowers) or grouped in short spikes (male flowers).<br>The flowers are 4-merous.<br>The <strong>calyx-tube</strong> is campanulate, 4-lobed and 2.5 mm long and wide. The calyx is whitish light green and finely pubescent.<br>The <strong>corolla</strong> is composed of 4 greenish-coloured petals. The petals are lanceolate, 3 mm long and 1 mm wide.<br>The <strong>male flowers</strong> have 4 free stamens.<br>The <strong>female flowers</strong> have a globose ovary (1.5 mm across) with a stout and 1 mm long style and a capitate stigma.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/azima_tetracantha_flower1.jpg",
+          "caption": "Azima tetracantha axillary and solitary female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/azima_tetracantha_flower2.jpg",
+          "caption": "Azima tetracantha female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/azima_tetracantha_flower3.jpg",
+          "caption": "Azima tetracantha female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/azima_tetracantha_flower4.jpg",
+          "caption": "Azima tetracantha female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/azima_tetracantha_flower5.jpg",
+          "caption": "Azima tetracantha female flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Azima tetracantha grow opposite on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 3-4 mm long petiole . The leaf of Azima tetracantha is 5-8 cm long and 2.5-4 cm wide. The shape of the blade is ovate or elliptic, the apex is aristate, the base is cuneate-attenuate and the margins are entire.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Azima tetracantha</i> grow opposite on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 3-4 mm long <strong>petiole</strong>.<br>The leaf of <i>Azima tetracantha</i> is 5-8 cm long and 2.5-4 cm wide. The shape of the <strong>blade</strong> is ovate or elliptic, the <strong>apex</strong> is aristate, the <strong>base</strong> is cuneate-attenuate and the <strong>margins</strong> are entire.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf1.jpg",
+          "caption": "Azima tetracantha branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf2.jpg",
+          "caption": "Azima tetracantha leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf3.jpg",
+          "caption": "Azima tetracantha leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf4.jpg",
+          "caption": "Azima tetracantha leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf5.jpg",
+          "caption": "Azima tetracantha leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf6.jpg",
+          "caption": "Azima tetracantha branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/azima_tetracantha_leaf7.jpg",
+          "caption": "Azima tetracantha shoot"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Azima tetracantha is a spiny and evergreen scrambling shrub growing up to 5-6 m high with arching branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Azima tetracantha</i> is a spiny and <strong>evergreen scrambling shrub</strong> growing up to 5-6 m high with arching branches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/azima_tetracantha_habit1.jpg",
+          "caption": "Azima tetracantha climbing shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/azima_tetracantha_habit2.jpg",
+          "caption": "Azima tetracantha arching branches"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Azima tetracantha is found in \"mangrove edges, sea-dunes, coastal bushland, not far from high-water mark, scrub on eroded ground, and particularly on saline or alkaline soils near lakes and seasonal rivers\". ( Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info) )",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Azima tetracantha</i> is found in \"mangrove edges, sea-dunes, coastal bushland, not far from high-water mark, scrub on eroded ground, and particularly on saline or alkaline soils near lakes and seasonal rivers\". (<i>Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i>)</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Paleotropics",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Paleotropics</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Azima tetracantha is dioecious . The species has unisexual flowers on separate individuals (either only male or only female flowers). No individual plant of the population produces both pollen and ovules. Azima tetracantha is pollinated by a wide variety of insects. The seeds of Azima tetracantha are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Azima tetracantha</i> is <strong>dioecious</strong>. The species has unisexual flowers on separate individuals (either only male or only female flowers). No individual plant of the population produces both pollen and ovules.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Azima tetracantha</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Azima tetracantha</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From January to April. From March to August. From March to August. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From January to April.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From March to August.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From March to August.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Azima tetracantha is grown as a living fence .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Azima tetracantha</i> is grown as a <strong>living fence</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruit of Azima tetracantha is edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Azima tetracantha</i> is edible.</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Azima tetracantha is used in Ayurveda and Siddha medicines. The whole plant is used to treat dropsy, dyspepsia, chronic diarrhea, diabetes and arthritis. The leaves infusion is used to treat venereal diseases. The pickled leaves are used against colds. The leaves made into a paste with water are used for fever. The juice of the leaves is expectorant and it is said to relieve the cough, bronchitis, vomiting, tuberculosis and asthma. It is also applied as eardrops against earache. The crushed leaves are placed on painful teeth. The leaf powder is antiinflammatory and wound-healing. The root is considered to have the same properties as the leaves, and to be also diuretic. The pounded roots are applied directly to snakebites. The root decoction is used to treat stomach disorders. The root, root bark and leaves are added to food as a remedy for rheumatism. The juice of the berries is applied directly into the ear to treat earache. The sap is disinfectant, used in oral health care and applied directly to treat toothache and bleeding gums after tooth extraction. Sources : - Basu & Kirtikar, 1918, Indian Medicinal Plants - Chopra, 1956, Glossary of Indian medicinal plants - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Azima tetracantha</i> is used in Ayurveda and Siddha medicines.<br><br>The whole plant is used to treat dropsy, dyspepsia, chronic diarrhea, diabetes and arthritis.<br><br>The <strong>leaves infusion</strong> is used to treat venereal diseases.<br>The <strong>pickled leaves</strong> are used against colds.<br>The <strong>leaves made into a paste with water</strong> are used for fever.<br>The <strong>juice of the leaves</strong> is expectorant and it is said to relieve the cough, bronchitis, vomiting, tuberculosis and asthma. It is also applied as eardrops against earache.<br>The <strong>crushed leaves</strong> are placed on painful teeth.<br>The <strong>leaf powder</strong> is antiinflammatory and wound-healing.<br><br>The <strong>root</strong> is considered to have the same properties as the leaves, and to be also diuretic.<br>The <strong>pounded roots</strong> are applied directly to snakebites.<br><br>The <strong>root decoction</strong> is used to treat stomach disorders.<br>The <strong>root, root bark and leaves</strong> are added to food as a remedy for rheumatism.<br><br>The <strong>juice of the berries</strong> is applied directly into the ear to treat earache. The <strong>sap</strong> is disinfectant, used in oral health care and applied directly to treat toothache and bleeding gums after tooth extraction.<br><br><i>Sources :</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Chopra, 1956, Glossary of Indian medicinal plants</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Azima tetracantha prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Azima tetracantha</i> prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "species_id": 125,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=125",
+  "scraped_at": "2025-10-02T18:04:20.886741Z",
+  "basic_info": {
+    "scientific_name": "Ficus benjamina",
+    "authority": "L.",
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ficus_benjamina.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.be_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "20 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99543 N",
+      "longitude": "79.82222 E",
+      "raw": "11.99543 N - 79.82222 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus benjamina",
+    "author": null,
+    "family": "Moraceae",
+    "english_names": "Benjamin tree, weeping fig",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus benjamina is greyish or light-brown-coloured, smooth and lenticellate.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Ficus benjamina</em> is greyish or light-brown-coloured, smooth and lenticellate.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_benjamina_stem1.jpg",
+          "caption": "Ficus benjamina trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_benjamina_stem2.jpg",
+          "caption": "Ficus benjamina bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus benjamina are enclosed into a tiny achene.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Ficus benjamina</em> are enclosed into a tiny achene.    \n    </p>\n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fig , what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes). The fruits of Ficus benjamina are ovate achenes , brownish when ripe and about 1.5-2 mm long. The figs are sessile, in pairs at the axil of the leaves. They are globose, 2-2.5 cm across and they are orange-coloured when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fig</b>, what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes).<br><br>\nThe <b>fruits</b> of <em>Ficus benjamina</em> are ovate <b>achenes</b>, brownish when ripe and about 1.5-2 mm long.<br><br>\nThe <b>figs</b> are sessile, in pairs at the axil of the leaves.<br>\nThey are globose, 2-2.5 cm across and they are orange-coloured when ripe.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit1.jpg",
+          "caption": "Ficus benjamina fruiting branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit2.jpg",
+          "caption": "Ficus benjamina syconia"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit3.jpg",
+          "caption": "Ficus benjamina syconium (lower and upper sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit4.jpg",
+          "caption": "Ficus benjamina syconium (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit5.jpg",
+          "caption": "Ficus benjamina syconia"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benjamina_fruit6.jpg",
+          "caption": "Ficus benjamina in fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus benjamina are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called syconium (*). The syconium of Ficus benjamina is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators). (*) The syconium is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts. Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen. Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. ( Galil, J., Fig biology, 1977 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Ficus benjamina</em> are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called <b>syconium</b> (*).<br>\nThe syconium of <em>Ficus benjamina</em> is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators).<br><br>\n\n(*) The <b>syconium</b> is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts.<br>\nSyconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen.<br>\nOnce pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. (<em>Galil, J., Fig biology, 1977</em>)      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_benjamina_flower1.jpg",
+          "caption": "Ficus benjamina syconium section: tiny flowers enclosed into the fleshy receptacle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_benjamina_flower2.jpg",
+          "caption": "Ficus benjamina syconium section: tiny flowers enclosed into the fleshy receptacle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_benjamina_flower3.jpg",
+          "caption": "Ficus benjamina flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus benjamina grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (some minute hairs on the margins and on the midrib beneath). The leaves have a 2 cm long petiole . The leaf of Ficus benjamina is about 10 cm long and 6 cm wide. The shape of the blade is elliptic, the apex is acuminate, the base is cuneate or rounded and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Ficus benjamina</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (some minute hairs on the margins and on the midrib beneath).<br>\nThe leaves have a 2 cm long <b>petiole</b>.<br>\nThe leaf of <em>Ficus benjamina</em> is about 10 cm long and 6 cm wide. The shape of the <b>blade</b> is elliptic, the <b>apex</b> is acuminate, the <b>base</b> is cuneate or rounded and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benjamina_leaf1.jpg",
+          "caption": "Ficus benjamina branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benjamina_leaf2.jpg",
+          "caption": "Ficus benjamina leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benjamina_leaf3.jpg",
+          "caption": "Ficus benjamina leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benjamina_leaf4.jpg",
+          "caption": "Ficus benjamina leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benjamina_leaf5.jpg",
+          "caption": "Ficus benjamina leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus benjamina is a thornless, medium-sized and evergreen tree growing up to 15-20 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Ficus benjamina</em> is a thornless, medium-sized and <b>evergreen tree</b> growing up to 15-20 m high.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benjamina_habit1.jpg",
+          "caption": "Ficus benjamina trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benjamina_habit2.jpg",
+          "caption": "Ficus benjamina tree in fruit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>The syconium of <em>Ficus benjamina</em> is monoecious : each fig contains both female and male flowers.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Ficus benjamina</em> is pollinated by a symbiosis with a kind of fig wasp (family Agaonidae). The syconium supplies shelter and food for fig wasps and in turn the fig wasps pollinate the flowers of the ficus.<br><br>\n\nThe tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. (<em>Wikipedia</em>)<br>\n\nFor further information about the life cycle of the fig wasp :  see a <a href=\"http://www.britannica.com/animal/fig-wasp\" target=\"_blank\">figure of Encyclopaedia Britannica</a>.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Ficus benjamina</em> are dispersed by fruit-eating birds and bats.</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From April to October.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> The syconia (\"figs\") ripen between April and October.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From April to October.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The inner bark of Ficus benjamina is a source of fibre . A latex can be obtained from all parts of the plant (30% of caoutchouc). The wood of Ficus benjamina is of low quality but is used as timber for temporary constructions. Source : Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The inner bark of <em>Ficus benjamina</em> is a source of <b>fibre</b>.<br><br>\n\nA <b>latex</b> can be obtained from all parts of the plant (30% of caoutchouc).<br><br>\n\nThe wood of <em>Ficus benjamina</em> is of low quality but is used as <b>timber</b> for temporary constructions.<br><br>\n\n<em>Source : Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</em>  </p>\n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Ficus benjamina</em> thrives in open areas, moist, fertile and well-drained soils.<br>\nThe species is propagated by seeds or by cuttings.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          No pre-treatment is required (germination can take several month).<br>\nFicus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

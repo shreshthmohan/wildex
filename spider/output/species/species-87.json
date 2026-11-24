@@ -1,0 +1,224 @@
+{
+  "species_id": 87,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=87",
+  "scraped_at": "2025-10-02T18:47:45.620667Z",
+  "basic_info": {
+    "scientific_name": "Helicteres isora",
+    "authority": "L.",
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/helicteres_isora.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/He.is_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "03 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99536 N",
+      "longitude": "79.82414 E",
+      "raw": "11.99536 N - 79.82414 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Helicteres isora",
+    "author": null,
+    "family": "Malvaceae",
+    "english_names": "East-Indian screw tree",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Helicteres isora is greyish-coloured, rough and warty.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Helicteres isora</em> is greyish-coloured, rough and warty.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/helicteres_isora_stem1.jpg",
+          "caption": "Helicteres isora stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/helicteres_isora_stem2.jpg",
+          "caption": "Helicteres isora stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/helicteres_isora_stem3.jpg",
+          "caption": "Helicteres isora bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Helicteres isora are 2-3 mm long and 1.5-2 mm wide and dark brown-coloured. There are numerous seeds in each follicle.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Helicteres isora</em> are 2-3 mm long and 1.5-2 mm wide and dark brown-coloured. There are numerous seeds in each follicle.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/helicteres_isora_seed1.jpg",
+          "caption": "Helicteres isora seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Helicteres isora is a spirally twisted follicle . It is 4-6 cm long and 1-1.5 cm wide and beaked with a 4 cm peduncle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Helicteres isora</em> is a spirally twisted <b>follicle</b>. It is 4-6 cm long and 1-1.5 cm wide and beaked with a 4 cm peduncle.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit1.jpg",
+          "caption": "Helicteres isora ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit2.jpg",
+          "caption": "Helicteres isora unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit3.jpg",
+          "caption": "Helicteres isora unripe fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit4.jpg",
+          "caption": "Helicteres isora ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit5.jpg",
+          "caption": "Helicteres isora unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/helicteres_isora_fruit6.jpg",
+          "caption": "Helicteres isora unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Helicteres isora are grouped in axillary and few-flowered cymes. The peduncle is 7 mm long. The calyx-tube is campanulate, irregularly lobed and 1.5 cm long and 5-8 mm across. The calyx is light yellow-coloured and finely pubescent. The corolla is composed of 5 red-coloured, glabrous, irregular and clawed petals. The gynandrophore is 3.5-4 cm long.\nThe androecium is composed of 10 stamens at the end of the gynandrophore. The style is filiform, curved and about 4 mm long with a simple stigma . The ovary is ovoid and 5-celled with numerous ovules in each cell. The buds are covered with short and white hairs. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Helicteres isora</em> are grouped in axillary and few-flowered cymes. The <b>peduncle</b> is 7 mm long.<br>\nThe <b>calyx-tube</b> is campanulate, irregularly lobed and 1.5 cm long and 5-8 mm across. The calyx is light yellow-coloured and finely pubescent.<br>\nThe <b>corolla</b> is composed of 5 red-coloured, glabrous, irregular and clawed petals.<br>\nThe <b>gynandrophore</b> is 3.5-4 cm long.\nThe <b>androecium</b> is composed of 10 stamens at the end of the gynandrophore.<br>\nThe <b>style</b> is filiform, curved and about 4 mm long with a simple <b>stigma</b>.<br>\nThe <b>ovary</b> is ovoid and 5-celled with numerous ovules in each cell.<br>\nThe <b>buds</b> are covered with short and white hairs.<br>\nThe flowers are fragrant.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower1.jpg",
+          "caption": "Helicteres isora blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower2.jpg",
+          "caption": "Helicteres isora flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower3.jpg",
+          "caption": "Helicteres isora flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower4.jpg",
+          "caption": "Helicteres isora flower and bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower5.jpg",
+          "caption": "Helicteres isora flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower6.jpg",
+          "caption": "Helicteres isora flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower7.jpg",
+          "caption": "Helicteres isora flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower8.jpg",
+          "caption": "Helicteres isora flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower9.jpg",
+          "caption": "Helicteres isora flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/helicteres_isora_flower10.jpg",
+          "caption": "Helicteres isora in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Helicteres isora grow alternately on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and pubescent on both sides. The leaves have a 0.8-1 cm long petiole with a pair of ensiform stipules at the axil of the stalk. The leaf of Helicteres isora is 8-12 cm long and 6-8 cm wide. The shape of the blade is obovate, the apex is acuminate, the base is cordate and the margins are serrate. The venation of the leaf is digitate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Helicteres isora</em> grow alternately on the stem.<br>\nThe leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and pubescent on both sides.<br>\nThe leaves have a 0.8-1 cm long <b>petiole</b> with a pair of ensiform stipules at the axil of the stalk.<br> \nThe leaf of <em>Helicteres isora</em> is 8-12 cm long and 6-8 cm wide. The shape of the <b>blade</b> is obovate, the <b>apex</b> is acuminate, the <b>base</b> is cordate and the <b>margins</b> are serrate.<br>\nThe <b>venation</b> of the leaf is digitate.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf1.jpg",
+          "caption": "Helicteres isora twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf2.jpg",
+          "caption": "Helicteres isora leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf3.jpg",
+          "caption": "Helicteres isora leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf4.jpg",
+          "caption": "Helicteres isora leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf5.jpg",
+          "caption": "Helicteres isora leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf6.jpg",
+          "caption": "Helicteres isora foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/helicteres_isora_leaf7.jpg",
+          "caption": "Helicteres isora leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Helicteres isora is a small-sized, thornless, multi-stemmed and deciduous tree .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Helicteres isora</em> is a small-sized, thornless, multi-stemmed and  <b>deciduous tree</b>.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/helicteres_isora_habit1.jpg",
+          "caption": "Helicteres isora tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/helicteres_isora_habit2.jpg",
+          "caption": "Helicteres isora young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Helicteres isora</em> is bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Helicteres isora</em>  is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>\nThe seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits of <em>Helicteres isora</em> burst and scatter the seeds.<br></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/helicteres_isora_reproduction1.jpg",
+          "caption": "Helicteres isora gynandrophore"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From July to December.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From November to March</li>\n      <li><span class=\"titchap\">Seeding season :</span> From November to March</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The leaves and tender parts of Helicteres isora are useful as fodder . Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The leaves and tender parts of <em>Helicteres isora</em> are useful as <b>fodder</b>.<br><br>\n\n<em>Source : Dastur, 2006, Useful Plants of India and Pakistan</em>      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The fibre extracted from the inner bark of Helicteres isora is used for making container bags, rough sacking, sewing gunny bags and cattle harness. It is used to make cordage. Helicteres isora is used for the manufacture of paper. Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>fibre</b> extracted from the inner bark of <em>Helicteres isora</em> is used for making container bags, rough sacking, sewing gunny bags and cattle harness. It is used to make cordage.<br><br>\n\n<em>Helicteres isora</em> is used for the manufacture of paper.<br><br>\n\n<em>Source : Dastur, 2006, Useful Plants of India and Pakistan</em>  </p>\n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Helicteres isora</em> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas.<br>\n<em>Helicteres isora</em> requires a sunny position in a well-drained soil.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          24 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

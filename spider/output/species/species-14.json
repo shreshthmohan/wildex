@@ -1,0 +1,234 @@
+{
+  "species_id": 14,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=14",
+  "scraped_at": "2025-10-03T04:48:10.961168Z",
+  "basic_info": {
+    "scientific_name": "Senna siamea",
+    "authority": "(Lam.) H.S. Irwin & Barneby",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/senna_siamea.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Se.si_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Nov, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99421 N",
+      "longitude": "79.82415 E",
+      "raw": "11.99421 N - 79.82415 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Senna siamea",
+    "author": null,
+    "family": "Fabaceae",
+    "english_names": "Kassod tree, Siam cassia, Siamese senna , Yellow cassia",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "Senna siamea has a straight and short trunk usually reaching no more than 30 cm in diameter. Its bark is smooth, greyish and slightly fissured longitudinally with age.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Senna siamea</em> has a straight and short <b>trunk</b> usually reaching no more than 30 cm in diameter. <br>Its <b>bark</b> is smooth, greyish and slightly fissured longitudinally with age.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/senna_siamea_stem1.jpg",
+          "caption": "Senna siamea trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/senna_siamea_stem2.jpg",
+          "caption": "Senna siamea bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Senna siamea are flat, smooth, glossy and brown coloured with a distinct areola. These seeds are oblong, 8 mm long and 5-6 mm wide. There are 15-20 seeds in a pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Senna siamea</em> are flat, smooth, glossy and brown coloured with a distinct areola. <br>These seeds are oblong, 8 mm long and 5-6 mm wide.<br>\nThere are 15-20 seeds in a pod.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/senna_siamea_seed1.jpg",
+          "caption": "Senna siamea seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/senna_siamea_seed2.jpg",
+          "caption": "Senna siamea seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Senna siamea is a long, flat and narrow pod . It is 20-25 cm long and 1 cm wide, woody and dark brown when ripe. These pod contains numerous seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Senna siamea</em> is a long, flat and narrow <b>pod</b>.<br>It is 20-25 cm long and 1 cm wide, woody and dark brown when ripe. <br>These pod contains numerous seeds.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/senna_siamea_fruit1.jpg",
+          "caption": "Senna siamea immature fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/senna_siamea_fruit2.jpg",
+          "caption": "Senna siamea pod (almost ripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/senna_siamea_fruit3.jpg",
+          "caption": "Senna siamea twigs bearing clusters of unripe pods"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescence of Senna siamea is a terminal panicle . These panicles are pyramidal and erected at the end of twigs. These large inflorescences (up to 30 cm long and 15 cm wide) are composed of numerous bright yellow flowers. The flowers are 3 cm across with a 2.5 cm long and hairy pedicel . The calyx is composed of 5 hairy, yellow-greenish coloured and ovate lobes and a calyx-tube. The calyx lobes are 6-7 mm long and 4-5 mm wide, concave and ovate with an obtuse apex. The corolla is composed of 5 bright yellow petals. These petals are obovate, clawed and with an obtuse apex. They are 1.3-1.5 cm long and 0.8-1 cm wide. The calyx is glabrous. The androecium is composed of 10 stamens of different sizes, from 4 mm to about 1.5 cm long. The filament are thick and straight and about the twice as long as the anthers. The anthers are erected, basifixed and brownish coloured. The smaller are 2 mm long and the longer about 7 mm. The ovary is superior, linear and  grooved, 1 cm long and pubescent. The style is linear, curved, glabrous and 4-5 mm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>inflorescence</b> of <em>Senna siamea</em> is a terminal  <b>panicle</b>. These panicles are pyramidal and erected at the end of twigs. These large inflorescences (up to 30 cm long and 15 cm wide) are composed of numerous bright yellow flowers.<br>\nThe <b>flowers</b> are 3 cm across with a 2.5 cm long and hairy <b>pedicel</b>.<br>\nThe <b>calyx</b> is composed of 5 hairy, yellow-greenish coloured and ovate lobes and a calyx-tube. The <b>calyx lobes</b> are 6-7 mm long and 4-5 mm wide, concave and ovate with an obtuse apex.<br>\nThe <b>corolla</b> is composed of 5 bright yellow petals. These <b>petals</b> are obovate, clawed and with an obtuse apex. They are 1.3-1.5 cm long and 0.8-1 cm wide. The calyx is glabrous.<br>\nThe <b>androecium</b> is composed of 10 <b>stamens</b> of different sizes, from 4 mm to about 1.5 cm long. The <b>filament</b> are thick and straight and about the twice as long as the anthers. The <b>anthers</b> are erected, basifixed and brownish coloured. The smaller are 2 mm long and the longer about 7 mm.<br>\nThe <b>ovary</b> is superior, linear and  grooved, 1 cm long and pubescent. The <b>style</b> is linear, curved, glabrous and 4-5 mm long.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower1.jpg",
+          "caption": "Senna siamea inflorescence : a part of the panicle with flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower2.jpg",
+          "caption": "Senna siamea flowers in bloom and flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower3.jpg",
+          "caption": "Senna siamea flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower4.jpg",
+          "caption": "Senna siamea flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower5.jpg",
+          "caption": "Senna siamea bud and flowers in full bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower6.jpg",
+          "caption": "Senna siamea twigs bearing inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower7.jpg",
+          "caption": "Senna siamea flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower8.jpg",
+          "caption": "Senna siamea flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/senna_siamea_flower9.jpg",
+          "caption": "Senna siamea flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Senna siamea grow alternately on the stem (spirally arranged). Senna siamea has compound leaves : paripinnate leaves. The leaf is 15-30 cm long and 6-12 cm wide. The leaves have a 3-4 cm long petiole with a pair of caducous and subulate stipules at the axil of the stalk. The rachis is slender, reddish coloured above and green beneath. There are 7-12 pairs of chartaceous leaflets , dark green coloured on the upper side and pale light green beneath. They are glabrous on both sides (some minute hairs on the nerves beneath). The leaflets are ovate-oblong with a rounded base and an obtuse (somewhat emarginate) apex tipped with a minute sharp mucro. The margins are entire, orange-reddish coloured. On the lower side, the midrid is prominent and orange-reddish coloured too. The leaflets have a 3 mm long petiolule . The venation of the leaf is reticulate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Senna siamea</em> grow alternately on the stem (spirally arranged).<br>\n<em>Senna siamea</em> has <b>compound leaves</b> : paripinnate leaves.<br>\nThe leaf is 15-30 cm long and 6-12 cm wide.<br>\nThe leaves have a 3-4 cm long <b>petiole</b> with a pair of caducous and subulate <b>stipules</b> at the axil of the stalk.<br> The <b>rachis</b> is slender, reddish coloured above and green beneath.<br>\nThere are 7-12 pairs of chartaceous <b>leaflets</b>, dark green coloured on the upper side and pale light green beneath. They are glabrous on both sides (some minute hairs on the nerves beneath). The leaflets are ovate-oblong with a rounded <b>base</b> and an obtuse (somewhat emarginate) <b>apex</b> tipped with a minute sharp mucro. The <b>margins</b> are entire, orange-reddish coloured. On the lower side, the midrid is prominent and orange-reddish coloured too.<br> The leaflets have a 3 mm long <b>petiolule</b>.<br>\nThe <b>venation</b> of the leaf is reticulate.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/senna_siamea_leaf1.jpg",
+          "caption": "Senna siamea compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/senna_siamea_leaf2.jpg",
+          "caption": "Senna siamea compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/senna_siamea_leaf3.jpg",
+          "caption": "Senna siamea leaflet (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/senna_siamea_leaf4.jpg",
+          "caption": "Senna siamea leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/senna_siamea_leaf5.jpg",
+          "caption": "Senna siamea leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Senna siamea is a medium-sized (10-15 meters) deciduous tree . It has usually a short and straight bole and a dense and spreading crown.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Senna siamea</em> is a medium-sized (10-15 meters) <b>deciduous tree</b>. It has usually a short and straight bole and a dense and spreading crown.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/senna_siamea_habit1.jpg",
+          "caption": "Senna siamea trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/senna_siamea_habit2.jpg",
+          "caption": "Senna siamea tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Senna siamea</em> grows under a wide variety of climatic conditions but is particularly suited to lowland tropics with a monsoon climate. Its light requirements are high and it prefers well-drained soils.<br>\nIt is a very fast-growing species.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <em>Senna siamea</em> is native to South and South-east Asia. Its exact origin is unknown.<br>\nToday the species is distributed throughout the tropics in semi-arid and subhumid tropics.<br>\nIn India, the species is planted by the roadsides, on agricultural boundaries, parks, etc.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>Bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Senna siamea</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>\nThe seeds disperse from the pods and germinate on sites with favourable conditions : the ripen dry fruits burst and scatter the seeds.<br></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/senna_siamea_reproduction1.jpg",
+          "caption": "Senna siamea reproductive structures (stamens above and pistil below)"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Seeding season :</span> Throughout the year.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> The leaves fall during the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The leaves of Senna siamea are used as green manure to improve the soil quality. Senna siamea can be planted to limit erosion : the tree increase water infiltration in the topspoil, reducing runoff and soil erosion. The dense wood of Senna siamea makes good fuel and it gives an excellent charcol. The wood of Senna siamea was formerly used for locomotive engines. Senna siamea is grown as a shade tree along roads and in cocoa, coffee and tea plantations. The tree is often planted as an ornamental for its abundant shiny yellow flowers. In India, the species is used as a host for the parasitic and well-known aromatic sandalwood ( Santalum spp. ). Senna siamea is also used extensively for rehabilitation of degraded land (as aluminium mine tailings). Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony (2009) Agroforestree Database : a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The leaves of <em>Senna siamea</em> are used as <b>green manure</b> to improve the soil quality.<br><br>\n<em>Senna siamea</em> can be planted to <b>limit erosion</b> : the tree increase water infiltration in the topspoil, reducing runoff and soil erosion.<br><br>\nThe dense wood of <em>Senna siamea</em> makes good <b>fuel</b> and it gives an excellent charcol.<br>\nThe wood of <em>Senna siamea</em> was formerly used for locomotive engines.<br><br>\n\n<em>Senna siamea</em> is grown as a <b>shade tree</b> along roads and in cocoa, coffee and tea plantations.<br><br>\n\nThe tree is often planted as an <b>ornamental</b> for its abundant shiny yellow flowers.<br><br>\n\nIn India, the species is used as a <b>host</b> for the parasitic and well-known aromatic sandalwood (<em>Santalum spp.</em>).<br><br>\n\n<em>Senna siamea</em> is also used extensively for <b>rehabilitation of degraded land</b> (as aluminium mine tailings).<br><br>\n\n<em>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony (2009) Agroforestree Database : a tree reference and selection guide</em>      </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The leaves and seeds are eaten by cattle and sheep but are toxic to non-ruminants. ( Trees of Delhi, P. Krishen )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>leaves</b> and <b>seeds</b> are eaten by cattle and sheep but are toxic to non-ruminants. (<em>Trees of Delhi, P. Krishen</em>)      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "Senna siamea yields a medium-weight to heavy hardwood . The heartwood is black-brown with paler streaks (it is known as \"Bombay blackwood\") and the sapwood is pale. This hard and durable wood is resistant to termites.\nThe nicely figured wood is used for joinery, furniture making, inlaying, handles, sticks and for making many decorative objects. The wood is also used for building. All the parts of plants are rich in tannins, they can be used for tanning . Highest tannin concentration is found in the leaves. Sennna siamea is used in China as a host plant for the lac insect ( Kerria lacca ) to produce the resin known as lac or shellac. Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    <em>Senna siamea</em> yields a medium-weight to heavy <b>hardwood</b>. The heartwood is black-brown with paler streaks (it is known as \"Bombay blackwood\") and the sapwood is pale. This hard and durable wood is resistant to termites.\nThe nicely figured wood is used for joinery, furniture making, inlaying, handles, sticks and for making many decorative objects. The wood is also used for building.<br><br>\n\nAll the parts of plants are rich in tannins, they can be used for <b>tanning</b>. Highest tannin concentration is found in the leaves.<br><br>\n\n<em>Sennna siamea</em> is used in China as a <b>host plant</b> for the lac insect (<em>Kerria lacca</em>) to produce the resin known as lac or shellac.<br><br>\n\n<em>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide</em>  </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "In Thailand, the young fruits and leaves are eaten as a vegetable. During preparation the cooking liquid is replaced 3 times to remove toxins. In Sri Lanka, the flowers and young fruits are used in curries. Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        In Thailand, the <b>young fruits</b> and <b>leaves</b> are eaten as a vegetable. During preparation the cooking liquid is replaced 3 times to remove toxins.<br><br>\nIn Sri Lanka, the <b>flowers</b> and <b>young fruits</b> are used in curries.<br><br>\n<em>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide</em>      </p>\n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The fruits and the roots of Senna siamea are used to treat intestinal worms.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The <b>fruits</b> and the <b>roots</b> of <em>Senna siamea</em> are used to treat intestinal worms.      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/medicinal/senna_siamea_medicinal1.jpg",
+          "caption": "Market stall of medicinal plants in Thanjavuru with bundles of Senna siamea flowers and leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/medicinal/senna_siamea_medicinal1.jpg",
+          "caption": "Bundles of flowers and leaves of Senna siamea"
+        }
+      ]
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Senna siamea</em> is able to flourish in a wide range of soils but all soils need to be free draining.<br> The species prefers full sun.<br>\n<em>Senna siamea</em> is much used in the afforestation of eroded lands particularly in dry zones.<br>\nThis tree is usually propagated by seeds.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          The seeds of <em>Senna siamea</em> germinate readily without treatment, but scarification and soaking accelerate the germination.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

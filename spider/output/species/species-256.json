@@ -1,0 +1,166 @@
+{
+  "species_id": 256,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=256",
+  "scraped_at": "2025-10-02T18:45:49.352176Z",
+  "basic_info": {
+    "scientific_name": "Cadaba fruticosa",
+    "authority": null,
+    "family": "Capparaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/636239fd38b38_636239fd38b2d_Ca.fr_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.fr_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "21 Sep, 2022",
+    "collected_by": "A.A.S.",
+    "gps_coordinates": {
+      "latitude": "11°59'38 N",
+      "longitude": "79°49'24 E",
+      "raw": "11°59'38 N - 79°49'24 E"
+    },
+    "locality": "Pitchandikulam, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cadaba fruticosa",
+    "author": "Druce, George Claridge (1914)",
+    "family": "Capparaceae",
+    "english_names": "Indian cadaba",
+    "indian_names": null,
+    "synonyms": [
+      "Cadaba indica",
+      "Cleome fruticosa",
+      "Mozambe levigata",
+      "Stroemia tetrandra"
+    ],
+    "etymology": "-\nCadaba\n: From the Arabic\nkadhab\ndesignating this species\n-\nfruticosa\n: From the Latin meaning \"in the form of a bush\" referring to the growing habit of the plant",
+    "etymology_html": "<p>- <i>Cadaba</i>: From the Arabic <i>kadhab</i> designating this species<br>- <i>fruticosa</i>: From the Latin meaning \"in the form of a bush\" referring to the growing habit of the plant</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Cadaba fruticosa is dark brown and rough. The stems of Cadaba fruticosa are smooth when young, dark brown and grey in colour with white lenticels. The branches grow in a wiry and straggling habit.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Cadaba fruticosa is dark brown and rough. <br>The stems of Cadaba fruticosa are smooth when young, dark brown and grey in colour with white lenticels. <br>The branches grow in a wiry and straggling habit. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.fr_bk1.jpg",
+          "caption": "Cadaba fruticosa rough bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.fr_bk2.jpg",
+          "caption": "Cadaba fruticosa grey-brown stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.fr_st3.jpg",
+          "caption": "Cadaba fruticosa stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.fr_st5.jpg",
+          "caption": "Cadaba fruticosa brown stem with white lenticels"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Cadaba fruticosa are kidney-shaped. They are very small and black in colour. They are found immersed in red-orange pulp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Cadaba fruticosa are kidney-shaped. <br>They are very small and black in colour. <br>They are found immersed in red-orange pulp.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruit of Cadaba fruticosa is a dehiscent, cylindric, slightly moniliform berry. It is about 4 cm long and 0.5 cm wide. The fruits are leathery when young. They are green in colour, turning orange when ripe. The internal tissues surrounding the seeds are often orange coloured. The fruits look similar to small red-orange chilis.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Cadaba fruticosa is a dehiscent, cylindric, slightly moniliform berry. <br>It is about 4 cm long and 0.5 cm wide. <br>The fruits are leathery when young. <br>They are green in colour, turning orange when ripe. <br>The internal tissues surrounding the seeds are often orange coloured. <br>The fruits look similar to small red-orange chilis. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.fr_fr1.jpg",
+          "caption": "Cadaba fruticosa cylindric and moniliform ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.fr_fr2.jpg",
+          "caption": "Cadaba fruticosa unripe green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.fr_fr3.jpg",
+          "caption": "Cadaba fruticosa unripe leathery green fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Cadaba fruticosa grow in terminal racemes or axillary solitary. They are up to 7 cm long including the elongated peduncle, which can be 1.5 cm long. The flower has 4 green sepals and 4 spathulate clawed white petals. The smaller sepals are narrow-lanceolate and the larger ones are obovate. The gynandrophore (the stalk of the pistil) is long, hairy, funnel-shaped and pale pink in colour. There are 4 exserted stamens and the ovary is one-celled.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Cadaba fruticosa grow in terminal racemes or axillary solitary. <br>They are up to 7 cm long including the elongated peduncle, which can be 1.5 cm long. <br>The flower has 4 green sepals and 4 spathulate clawed white petals. <br>The smaller sepals are narrow-lanceolate and the larger ones are obovate. <br>The gynandrophore (the stalk of the pistil) is long, hairy, funnel-shaped and pale pink in colour. <br>There are 4 exserted stamens and the ovary is one-celled.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ca.fr_fl1.jpg",
+          "caption": "Cadaba fruticosa flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ca.fr_fl4.jpg",
+          "caption": "Cadaba fruticosa flowers profile with 4 exserted stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ca.fr_fl3.jpg",
+          "caption": "Cadaba fruticosa open flowers with 4 green sepals and 4 spathulate clawed white petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ca.fr_fl2.jpg",
+          "caption": "Cadaba fruticosa open flower with a long gynandrophore"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cadaba fruticosa are simple and grow in an alternate arrangement. The leaves are oblong to lanceolate in shape. They are 2.5 cm to 4 cm long and 1 cm to 2.5 cm wide. The leaf base is cuneate (narrowly triangular). The leaf apex is obtuse or apiculate and the leaf margin is entire. The leaf petiole is less than 0.5 cm long. The colour of the leaves is light green when young turning dark green at maturity. The leaves are slightly pubescent.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Cadaba fruticosa are simple and grow in an alternate arrangement. <br>The leaves are oblong to lanceolate in shape. <br>They are 2.5 cm to 4 cm long and 1 cm to 2.5 cm wide. <br>The leaf base is cuneate (narrowly triangular). The leaf apex is obtuse or apiculate and the leaf margin is entire. <br>The leaf petiole is less than 0.5 cm long. <br>The colour of the leaves is light green when young turning dark green at maturity. <br>The leaves are slightly pubescent. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf3.jpg",
+          "caption": "Cadaba fruticosa alternate leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf2.jpg",
+          "caption": "Cadaba fruticosa leaf venation (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf1.jpg",
+          "caption": "Cadaba fruticosa young leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf4.jpg",
+          "caption": "Cadaba fruticosa leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf5.jpg",
+          "caption": "Cadaba fruticosa leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.fr_lf6.jpg",
+          "caption": "Cadaba fruticosa leaf arrangement"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cadaba fruticosa is a deciduous much branched shrub with no thorns. It is a rigid wiry climber, growing up to 5 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Cadaba fruticosa is a deciduous much branched shrub with no thorns. <br>It is a rigid wiry climber, growing up to 5 m in height. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ca.fr_ha1.jpg",
+          "caption": "Cadaba fruticosa habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ca.fr_st2.jpg",
+          "caption": "Cadaba fruticosa wiry drooping stems"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

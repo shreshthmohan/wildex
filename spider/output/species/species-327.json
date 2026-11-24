@@ -1,0 +1,184 @@
+{
+  "species_id": 327,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=327",
+  "scraped_at": "2025-10-02T18:36:52.611920Z",
+  "basic_info": {
+    "scientific_name": "Blastania garcinii",
+    "authority": null,
+    "family": "Cucurbitaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/66078cbc7a141_66078cbc7a138_Ct.ga_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ct.ga_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Feb, 2024",
+    "collected_by": "A.A.S, M.D",
+    "gps_coordinates": {
+      "latitude": "11°59'13 N",
+      "longitude": "79°47'28 E",
+      "raw": "11°59'13 N- 79°47'28 E"
+    },
+    "locality": "Edayanchavadi, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Blastania garcinii",
+    "author": "(Burm.f.) Clarke, Charles Baron (1879)",
+    "family": "Cucurbitaceae",
+    "english_names": "Garcin's bur cucumber",
+    "indian_names": null,
+    "synonyms": [
+      "Blastania garcinii",
+      "Bryonia agrestis",
+      "Bryonia garcinii",
+      "Bryonia reniformis",
+      "Bryonia stipulacea",
+      "Bryonia triloba",
+      "Ctenopsis garcinii",
+      "Pilogyne garcinii",
+      "Sicyos garcinii",
+      "Zehneria garcinii"
+    ],
+    "etymology": "-\nBlastania\n:\n-\ngarcinii\n: After Laurent Garcin (1683-1751), french botanist, meterologist and doctor who traveled in India from 1720 to 1729.",
+    "etymology_html": "<p>- <i>Blastania</i>:<br>- <i>garcinii</i>: After Laurent Garcin (1683-1751), french botanist, meterologist and doctor who traveled in India from 1720 to 1729.</p>"
+  },
+  "description": {
+    "fruit": {
+      "text": "The fruit of Ctenolepis garcinii is a fleshy berry. The berry is ovoid in shape, broader than long, about 1 cm wide and 0.5 cm long. It is glabrous and green in colour, turning orange then bright red at maturity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Ctenolepis garcinii is a fleshy berry. <br>The berry is ovoid in shape, broader than long, about 1 cm wide and 0.5 cm long. <br>It is glabrous and green in colour, turning orange then bright red at maturity.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ct.ga_fr1.jpg",
+          "caption": "Ctenolepis garcinii fruiting stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ct.ga_fr2.jpg",
+          "caption": "Ctenolepis garcinii ripe fruits on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ct.ga_fr3.jpg",
+          "caption": "Ctenolepis garcinii ripe berry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ct.ga_fr4.jpg",
+          "caption": "Ctenolepis garcinii unripe berries and tendrils on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ct.ga_fr6b.jpg",
+          "caption": "Ctenolepis garcinii berries from unripe (green) to ripe stage (red)"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Blastania garcinii are very small and pinwheel shaped. They are yellow to light green in colour. The male flowers are small, about 2 mmm wide, and they are borne in cymes. The female flowers are borne singly and are even smaller than the male flowers.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Blastania garcinii are very small and pinwheel shaped. <br>They are yellow to light green in colour. <br>The male flowers are small, about 2 mmm wide, and they are borne in cymes. <br>The female flowers are borne singly and are even smaller than the male flowers.</p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Blastania garcinii are simple, growing in an alternate arrangement. The leaves are 1.5 to 6 cm long and 1 to 4 cm wide. They are deeply palmately 3 to 5-lobed and toothed. The lobes are hairy on both sides of the leaf. The leaf base is narrow, the leaf apex ends in a fine point and the margin is crenulate-denticulate. The petiole can be up to 5 cm long. The tendrils are simple and filiform. The bracts are stipuliform and ovate in shape. They are 1 by 2 cm and ciliate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Blastania garcinii are simple, growing in an alternate arrangement. <br>The leaves are 1.5 to 6 cm long and 1 to 4 cm wide. <br>They are deeply palmately 3 to 5-lobed and toothed. <br>The lobes are hairy on both sides of the leaf. <br>The leaf base is narrow, the leaf apex ends in a fine point and the margin is crenulate-denticulate. <br>The petiole can be up to 5 cm long. <br>The tendrils are simple and filiform. <br>The bracts are stipuliform and ovate in shape. They are 1 by 2 cm and ciliate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf1.jpg",
+          "caption": "Blastania garcinii foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf2.jpg",
+          "caption": "Blastania garcinii leaf on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf4.jpg",
+          "caption": "Blastania garcinii leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf5.jpg",
+          "caption": "Blastania garcinii leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf6.jpg",
+          "caption": "Blastania garcinii leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf7.jpg",
+          "caption": "Blastania garcinii ciliate bract"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf8.jpg",
+          "caption": "Blastania garcinii ciliate bract at the base of the leaf petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ct.ga_lf9.jpg",
+          "caption": "Blastania garcinii pubescent petiole"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Blastania garcinii is an annual twining vine with a slender stem. It climbs its host using tendrils and can grow up to 3 m in length.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Blastania garcinii is an annual twining vine with a slender stem. <br>It climbs its host using tendrils and can grow up to 3 m in length.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ct.ga_ha1.jpg",
+          "caption": "Blastania garcinii habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ct.ga_ha2.jpg",
+          "caption": "Blastania garcinii fruiting habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ct.ga_ha3.jpg",
+          "caption": "Blastania garcinii foliage"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The stems of Blastania garcinii are slender and the branchlets are scabrous. The tendrils are filiform, in spiral and can be up to 6 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stems of Blastania garcinii are slender and the branchlets are scabrous.<br>The tendrils are filiform, in spiral and can be up to 6 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ct.ga_st1.jpg",
+          "caption": "Blastania garcinii slender stem and tendril"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ct.ga_st3.jpg",
+          "caption": "Blastania garcinii stem and tendril"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ct.ga_st2.jpg",
+          "caption": "Blastania garcinii tendril"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Blastania garcinii are found by pair in one berry. They are smooth, sulcate (marked with parallel grooves) on one face and convex (curved outward) on the other. They are pale brown in colour and less than 1 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Blastania garcinii are found by pair in one berry. <br>They are smooth, sulcate (marked with parallel grooves) on one face and convex (curved outward) on the other. <br>They are pale brown in colour and less than 1 cm long.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ct.ga_sd1b.jpg",
+          "caption": "Blastania garcinii fleshy berry cut open to show 2 seeds inside"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ct.ga_sd2.jpg",
+          "caption": "Blastania garcinii pair of convex seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ct.ga_sd3.jpg",
+          "caption": "Blastania garcinii seeds"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

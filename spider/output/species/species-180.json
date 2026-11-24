@@ -1,0 +1,232 @@
+{
+  "species_id": 180,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=180",
+  "scraped_at": "2025-10-07T06:41:47.293524Z",
+  "basic_info": {
+    "scientific_name": "Ziziphus jujuba",
+    "authority": "Mill.",
+    "family": "Rhamnaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ziziphus_jujuba.jpg",
+    "dry_herbarium": null
+  },
+  "collection_metadata": {
+    "date": "24 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99613 N",
+      "longitude": "79.82176 E",
+      "raw": "11.99613 N - 79.82176 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ziziphus jujuba",
+    "author": "Miller, Philip (1768)",
+    "family": "Rhamnaceae",
+    "english_names": "Jujube",
+    "indian_names": {
+      "Hindi": [
+        "Ber"
+      ],
+      "Kannada": [
+        "Bore"
+      ],
+      "Malayalam": [
+        "Ilanta"
+      ],
+      "Marathi": [
+        "Bor"
+      ],
+      "Sanskrit": [
+        "Badri"
+      ],
+      "Tamil": [
+        "Ilandhai"
+      ],
+      "Telugu": [
+        "Keegu",
+        "regu"
+      ]
+    },
+    "synonyms": [
+      "Paliurus mairei",
+      "Rhamnus jujuba",
+      "Rhamnus soporifera",
+      "Rhamnus zizyphus",
+      "Ziziphus jujuba var. jujuba",
+      "Ziziphus mauritiana",
+      "Ziziphus mauritiana var. deserticola",
+      "Ziziphus mauritiana var. muratiana",
+      "Ziziphus mauritiana subsp. orthacantha",
+      "Ziziphus mauritiana var. orthacantha",
+      "Ziziphus muratiana",
+      "Ziziphus nitida",
+      "Ziziphus orthacantha",
+      "Ziziphus poiretii",
+      "Ziziphus rotundata",
+      "Ziziphus sativa",
+      "Ziziphus sinensis",
+      "Ziziphus soporifera",
+      "Ziziphus tomentosa",
+      "Ziziphus trinervia",
+      "Ziziphus vulgaris",
+      "Ziziphus zizyphus",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nZiziphus\n: From the ancient Greek name\nzizufon\nfor\nZizyphus jujuba\n, from the Arabic\nzizouf\nor\nzizafun\n.\n-\nJujuba\n: From the Arabic name\njujube\n.",
+    "etymology_html": "<p>- <i>Ziziphus</i> : From the ancient Greek name <i>zizufon</i> for <i>Zizyphus jujuba</i>, from the Arabic <i>zizouf</i> or <i>zizafun</i>.<br>- <i>Jujuba</i> : From the Arabic name <i>jujube</i>.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ziziphus jujuba is dark greyish-coloured with vertical furrows. Ziziphus jujuba is armed with recurved stipular thorns.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Ziziphus jujuba</i> is dark greyish-coloured with vertical furrows. <i>Ziziphus jujuba</i> is armed with recurved stipular thorns.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_jujuba_stem1.jpg",
+          "caption": "Ziziphus jujuba trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ziziphus_jujuba_stem2.jpg",
+          "caption": "Ziziphus jujuba bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Ziziphus jujuba is enclosed into a globose en rough stone. The stone is 1-1.5 cm across and contains one seed.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Ziziphus jujuba</i> is enclosed into a globose en rough stone. The <strong>stone</strong> is 1-1.5 cm across and contains one seed.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Zi.ju_sd1.jpg",
+          "caption": "Ziziphus jujuba ripe fruit and washed seed (on right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/ziziphus_jujuba_seed1.jpg",
+          "caption": "Ziziphus jujuba stone"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/ziziphus_jujuba_seed2.jpg",
+          "caption": "Ziziphus jujuba stone"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Ziziphus jujuba is a subglobose drupe . It is 2-2.5 cm across, green turning brown-reddish when ripe with a 4-5 mm long peduncle. Each fruit contains one stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Ziziphus jujuba</i> is a subglobose <strong>drupe</strong>. It is 2-2.5 cm across, green turning brown-reddish when ripe with a 4-5 mm long peduncle. Each fruit contains one stone.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_jujuba_fruit1.jpg",
+          "caption": "Ziziphus jujuba ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_jujuba_fruit2.jpg",
+          "caption": "Ziziphus jujuba unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_jujuba_fruit3.jpg",
+          "caption": "Ziziphus jujuba young fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_jujuba_fruit4.jpg",
+          "caption": "Ziziphus jujuba ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ziziphus_jujuba_fruit5.jpg",
+          "caption": "Ziziphus jujuba young fruit"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ziziphus jujuba grow alternately on the stem (spirally arranged). The shape of the leaves are very variable. The leaf is simple, bright green-coloured above and paler beneath. The leaf is glossy, chartaceous and glabrous above. The leaves have a 6-8 mm long petiole . The leaf of Ziziphus jujuba is 5-10 cm long and 3-5 cm wide. The shape of the blade is elliptic, the apex is acute or obtuse, the base is rounded and the margins are denticulate. The venation of the leaf is reticulate with 3 prominent veins.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Ziziphus jujuba</i> grow alternately on the stem (spirally arranged).<br>The shape of the leaves are very variable.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is glossy, chartaceous and glabrous above.<br>The leaves have a 6-8 mm long <strong>petiole</strong>.<br>The leaf of <i>Ziziphus jujuba</i> is 5-10 cm long and 3-5 cm wide. The shape of the <strong>blade</strong> is elliptic, the <strong>apex</strong> is acute or obtuse, the <strong>base</strong> is rounded and the <strong>margins</strong> are denticulate.<br>The <strong>venation</strong> of the leaf is reticulate with 3 prominent veins.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf1.jpg",
+          "caption": "Ziziphus jujuba leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf2.jpg",
+          "caption": "Ziziphus jujuba leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf3.jpg",
+          "caption": "Ziziphus jujuba shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf4.jpg",
+          "caption": "Ziziphus jujuba leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf5.jpg",
+          "caption": "Ziziphus jujuba leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ziziphus_jujuba_leaf6.jpg",
+          "caption": "Ziziphus jujuba new leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ziziphus jujuba is a thorny, small-sized and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Ziziphus jujuba</i> is a thorny, small-sized and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ziziphus_jujuba_habit1.jpg",
+          "caption": "Ziziphus jujuba tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Not specified.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p>Not specified.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "The precise natural distribution of Ziziphus jujuba is uncertain due to extensive cultivation, but is thought to be in southern Asia (between Lebanon, northern India, and southern and central China).",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>The precise natural distribution of <i>Ziziphus jujuba</i> is uncertain due to extensive cultivation, but is thought to be in southern Asia (between Lebanon, northern India, and southern and central China).</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Ziziphus jujuba is bisexual (each flower of each individual has both male and female structures). Ziziphus jujuba is pollinated by a wide variety of insects. The seeds of Ziziphus jujuba are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Ziziphus jujuba</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Ziziphus jujuba</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Ziziphus jujuba</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From June to November. From December to April. From December to April. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From June to November.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From December to April.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From December to April.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The leaves of Ziziphus jujuba are used as fodder for goats and sheep.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>leaves</strong> of <i>Ziziphus jujuba</i> are used as fodder for goats and sheep.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Ziziphus jujuba is hard, durable, close-grained and takes a good polish. It is used for agricultural implements, well construction, tool handles, turnery... The bark is used as a tanning material. Sources : - Dastur, 2006, Useful Plants of India and Pakistan - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Ziziphus jujuba</i> is hard, durable, close-grained and takes a good polish. It is used for agricultural implements, well construction, tool handles, turnery...<br><br>The <strong>bark</strong> is used as a tanning material.<br><br><i>Sources :</i><br><i>- Dastur, 2006, Useful Plants of India and Pakistan</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruit of Ziziphus jujuba is eaten fresh or dried.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Ziziphus jujuba</i> is eaten fresh or dried.</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Ziziphus jujuba is used in Ayurveda, Unani and Siddha medicines. The bark is astringent, constipating and tonic, and is useful in dysentery, diarrhoea, gingivitis and boils. The stem bark decoction is used to check diarrhea. The leaves are febrifuge. The leaves paste are applied on the affected portion to cure scorpion sting. The fruit is astringent, anodyne, cooling, expectorant and stomachic. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Basu & Kirtikar, 1918, Indian Medicinal Plants - Chopra, 1956, Glossary of Indian medicinal plants - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Ziziphus jujuba</i> is used in Ayurveda, Unani and Siddha medicines.<br><br>The <strong>bark</strong> is astringent, constipating and tonic, and is useful in dysentery, diarrhoea, gingivitis and boils.<br>The <strong>stem bark decoction</strong> is used to check diarrhea.<br><br>The <strong>leaves</strong> are febrifuge.<br>The <strong>leaves paste</strong> are applied on the affected portion to cure scorpion sting.<br><br>The <strong>fruit</strong> is astringent, anodyne, cooling, expectorant and stomachic.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Chopra, 1956, Glossary of Indian medicinal plants</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Ziziphus jujuba is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Ziziphus jujuba</i> is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

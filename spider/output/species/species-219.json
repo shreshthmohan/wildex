@@ -1,0 +1,204 @@
+{
+  "species_id": 219,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=219",
+  "scraped_at": "2025-11-17T18:25:47.713938Z",
+  "basic_info": {
+    "scientific_name": "Ficus arnottiana",
+    "authority": null,
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62668469cdefe_62668469cdeee_Fi.ar_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.ar_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Mar, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5908 N  79.4824 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus arnottiana",
+    "author": "Miquel, Friedrich Anton Wilhelm (1867)",
+    "family": "Moraceae",
+    "english_names": "Indian rock fig",
+    "indian_names": {
+      "Tamil": [
+        "Kodi arasu"
+      ],
+      "Hindi": [
+        "Bassari"
+      ]
+    },
+    "synonyms": [
+      "Ficus courtallensis",
+      "Ficus populeaster",
+      "Urostigma arnottianum",
+      "Urostigma courtallense"
+    ],
+    "etymology": "-\nFicus\n: From the Latin designating the species\n-\narnottiana\n: For Professor Arnol Walker Arnott (1799-1868), Scottish botanist assistant of Robert Wight for his \"illustrations of Indian Botany\"",
+    "etymology_html": "<p>- <i>Ficus</i>: From the Latin designating the species<br>- <i>arnottiana</i>: For Professor Arnol Walker Arnott (1799-1868), Scottish botanist assistant of Robert Wight for his \"illustrations of Indian Botany\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus arnottiana is pale grey to brown in colour. The bark is with lenticels. The tree develops a dense net of aerial roots.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ficus arnottiana is pale grey to brown in colour. <br>The bark is with lenticels. <br>The tree develops a dense net of aerial roots.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/626673c7e65f8_Fi.ar_bk1.jpg",
+          "caption": "Ficus arnottiana trunk base with aerial roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/626673caaee42_Fi.ar_bk2.jpg",
+          "caption": "Ficus arnottiana trunk with aerial roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/626673cf98545_Fi.ar_bk3.jpg",
+          "caption": "Ficus arnottiana grey bark with aerial roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/626673d2c9ff4_Fi.ar_bk4.jpg",
+          "caption": "Ficus arnottiana grey bark with lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63465d3fe8403_Fi.ar_st1.jpg",
+          "caption": "Ficus arnottiana stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63465d42d9d40_Fi.ar_st2.jpg",
+          "caption": "Ficus arnottiana stems and aerial roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/63465d48d7a66_Fi.ar_st3.jpg",
+          "caption": "Ficus arnottiana branches"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ficus arnottiana are enclosed inside the fig. They are lenticular and minuscule (less than 1 mm in size).",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ficus arnottiana are enclosed inside the fig. <br>They are lenticular and minuscule (less than 1 mm in size).</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/626673804a7e1_Fi.ar_sd1.jpg",
+          "caption": "Ficus arnottiana fig dissected in half to show minuscule seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/626674a2ddf7b_Fi.ar_sd2.jpg",
+          "caption": "Ficus arnottiana seeds washed and dry"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Ficus arnottiana are the figs also known as synconium (or synconia in plural). The figs are sub-globose to pyriform in shape. They appear in clusters of 3 to 4, in the axils of the fallen leaves or below the leaves. They are attached by a short peduncle (less than 1 cm long). The figs are light green with white dots when unripe. They turn purple with green dots when ripe. They are glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Ficus arnottiana are the figs also known as synconium (or synconia in plural). <br>The figs are sub-globose to pyriform in shape. <br>They appear in clusters of 3 to 4, in the axils of the fallen leaves or below the leaves. <br>They are attached by a short peduncle (less than 1 cm long). <br>The figs are light green with white dots when unripe. <br>They turn purple with green dots when ripe. <br>They are glabrous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6266728e4146b_Fi.ar_fr1.jpg",
+          "caption": "Ficus arnottiana ripe fig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/626672e945f71_Fi.ar_fr3.jpg",
+          "caption": "Ficus arnottiana green pyriform figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/626672ed2767e_Fi.ar_fr4.jpg",
+          "caption": "Ficus arnottiana green figs on twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/626672fd360b1_Fi.ar_fr5.jpg",
+          "caption": "Ficus arnottiana green fig cut open"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/626672fd35da1_Fi.ar_fr6.jpg",
+          "caption": "Ficus arnottiana ripe fig cut open"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus arnottiana are enclosed within the fig, which is also known as synconia. The fig is actually a compartment carrying hundreds of flowers. They are borne in clusters on the trunk and the branchlets. They are attached by a short peduncle (less than 1 cm long). The flowers are of 3 kinds: male flower, female flower and gale flower. The flowers are pollinated by very small wasps that crawl through the opening (ostiole) to lay their eggs.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ficus arnottiana are enclosed within the fig, which is also known as synconia. <br>The fig is actually a compartment carrying hundreds of flowers. <br>They are borne in clusters on the trunk and the branchlets. <br>They are attached by a short peduncle (less than 1 cm long). <br>The flowers are of 3 kinds: male flower, female flower and gale flower. <br>The flowers are pollinated by very small wasps that crawl through the opening (ostiole) to lay their eggs.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626671c0e9099_Fi.ar_fl1.jpg",
+          "caption": "Ficus arnottiana unripe figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Fi.ar_fl2.jpg",
+          "caption": "Ficus arnottiana fig enclosing 3 kinds of flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626671c9292ec_Fi.ar_fl3.jpg",
+          "caption": "Ficus arnottiana fig enclosing 3 kinds of flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus arnottiana are simple, with an alternate and spiral arrangement. The leaves are cordate, subcordate, ovate to broadly ovate. They are 5 to 30 cm long and 3 to 20 cm wide. The leaves are dark green and glossy on the upper side and light green on the lower side. The young growth shows a very distinctive red colour. The petiole is between 2 to 15 cm long and glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ficus arnottiana are simple, with an alternate and spiral arrangement. <br>The leaves are cordate, subcordate, ovate to broadly ovate. <br>They are 5 to 30 cm long and 3 to 20 cm wide. <br>The leaves are dark green and glossy on the upper side and light green on the lower side. <br>The young growth shows a very distinctive red colour. <br>The petiole is between 2 to 15 cm long and glabrous. </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670ae8aa61_Fi.ar_lf1.jpg",
+          "caption": "Ficus arnottiana alternate and spiral leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670b13d0d4_Fi.ar_lf2.jpg",
+          "caption": "Ficus arnottiana young leaves with their distinctive red colour"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670ba39355_Fi.ar_lf4.jpg",
+          "caption": "Ficus arnottiana young red leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670c277882_Fi.ar_lf5.jpg",
+          "caption": "Ficus arnottiana leaf bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670ca66151_Fi.ar_lf6.jpg",
+          "caption": "Ficus arnottiana young red leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6266712e997cd_Fi.ar_lf8.jpg",
+          "caption": "Ficus arnottiana leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6266716342733_Fi.ar_lf7.jpg",
+          "caption": "Ficus arnottiana leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/626670e33ed84_Fi.ar_lf9.jpg",
+          "caption": "Ficus arnottiana bunch of leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus arnottiana is a medium sized deciduous tree growing up to 10 m in height. Like other species of the Ficus family, Ficus arnottiana does grow aerial roots. The tree is often found epiphytic.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ficus arnottiana is a medium sized deciduous tree growing up to 10 m in height. <br>Like other species of the Ficus family, Ficus arnottiana does grow aerial roots. <br>The tree is often found epiphytic.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6266707761342_Fi.ar_ha1.jpg",
+          "caption": "Ficus arnottiana habit of young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6266707cd85a6_Fi.ar_ha2.jpg",
+          "caption": "Ficus arnottiana multi-stem habit with aerial roots"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

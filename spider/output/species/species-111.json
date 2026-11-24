@@ -1,0 +1,288 @@
+{
+  "species_id": 111,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=111",
+  "scraped_at": "2025-10-07T07:10:55.574282Z",
+  "basic_info": {
+    "scientific_name": "Acacia auriculiformis",
+    "authority": "A.Cunn. ex Benth.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/acacia_auriculiformis.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ac.au_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "22 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99418 N",
+      "longitude": "79.82392 E",
+      "raw": "11.99418 N - 79.82392 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Acacia auriculiformis",
+    "author": "Cunningham, Allan (1842)",
+    "family": "Fabaceae",
+    "english_names": "Earleaf acacia, earpod wattle",
+    "indian_names": {
+      "Hindi": [
+        "Bengali babul"
+      ],
+      "Kannada": [
+        "Aurculis"
+      ],
+      "Tamil": [
+        "Pencil maram"
+      ]
+    },
+    "synonyms": [
+      "Acacia auriculaeformis",
+      "Acacia auriculiformis",
+      "Acacia moniliformis",
+      "Racosperma auriculiforme",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nAcacia\n: From the Greek\nakakia\nused by Dioscorides ; from\nake\n,\nakis\n\"tip, thorn\".\n-\nAuriculiformis\n: Ear-shaped, in reference to the shape of the leaves.",
+    "etymology_html": "<p>-<i>Acacia</i> : From the Greek <i>akakia</i> used by Dioscorides ; from <i>ake</i>, <i>akis</i> \"tip, thorn\".<br>-<i>Auriculiformis</i> : Ear-shaped, in reference to the shape of the leaves.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Acacia auriculiformis is rough, greyish or light brown-coloured. The bark is longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Acacia auriculiformis</i> is rough, greyish or light brown-coloured. The bark is longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/acacia_auriculiformis_stem1.jpg",
+          "caption": "Acacia auriculiformis trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/acacia_auriculiformis_stem2.jpg",
+          "caption": "Acacia auriculiformis bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Acacia auriculiformis are ovate, 5 mm long and 4 mm wide. The seeds are dark brown-coloured and encircled by a long showy yellowish-orange-coloured and fleshy funicle.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Acacia auriculiformis</i> are ovate, 5 mm long and 4 mm wide. The seeds are dark brown-coloured and encircled by a long showy yellowish-orange-coloured and fleshy funicle.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed1.jpg",
+          "caption": "Acacia auriculiformis seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed2.jpg",
+          "caption": "Acacia auriculiformis seeds encircled by a showy funicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed3.jpg",
+          "caption": "Acacia auriculiformis seed encircled by the funicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed4.jpg",
+          "caption": "Acacia auriculiformis hanging seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed5.jpg",
+          "caption": "Acacia auriculiformis seed and its funicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/acacia_auriculiformis_seed6.jpg",
+          "caption": "Acacia auriculiformis seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Acacia auriculiformis is a coiled and spirally twisted pod . The pod is 6-8 cm long and 1 cm wide, flattened and it usually contains 5-7 seeds. The pod is brownish-coloured and woody when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Acacia auriculiformis</i> is a coiled and spirally twisted <strong>pod</strong>. The pod is 6-8 cm long and 1 cm wide, flattened and it usually contains 5-7 seeds. The pod is brownish-coloured and woody when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit1.jpg",
+          "caption": "Acacia auriculiformis ripe and open fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit2.jpg",
+          "caption": "Acacia auriculiformis unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit3.jpg",
+          "caption": "Acacia auriculiformis unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit4.jpg",
+          "caption": "Acacia auriculiformis ripe and open fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit5.jpg",
+          "caption": "Acacia auriculiformis unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/acacia_auriculiformis_fruit6.jpg",
+          "caption": "Acacia auriculiformis in fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Acacia auriculiformis are grouped in axillary and terminal spikes. The bright-yellow spikes are 6-8 cm long and have a 0.8-1 cm peduncle . The calyx-tube is cup-shaped with 5 short and triangular lobes. The calyx is light green yellowish and glabrous. The corolla is composed of 5 yellow-coloured and glabrous petals. The petals are ovate-lanceolate and recurved, about 1 mm long and 0.6-0.7 mm wide. The androecium is composed of numerous and bright yellow stamens. The filaments are 1.5-2 mm with tiny and globular anthers. The style is yellow-coloured, 2.5-3 mm long and the stigma is simple. The ovary is globose and about 1 mm across. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Acacia auriculiformis</i> are grouped in axillary and terminal spikes. The bright-yellow spikes are 6-8 cm long and have a 0.8-1 cm <strong>peduncle</strong>.<br>The <strong>calyx-tube</strong> is cup-shaped with 5 short and triangular lobes. The calyx is light green yellowish and glabrous.<br>The <strong>corolla</strong> is composed of 5 yellow-coloured and glabrous petals. The petals are ovate-lanceolate and recurved, about 1 mm long and 0.6-0.7 mm wide.<br>The <strong>androecium</strong> is composed of numerous and bright yellow stamens. The filaments are 1.5-2 mm with tiny and globular anthers.<br>The <strong>style</strong> is yellow-coloured, 2.5-3 mm long and the <strong>stigma</strong> is simple.<br>The <strong>ovary</strong> is globose and about 1 mm across.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower1.jpg",
+          "caption": "Acacia auriculiformis blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower2.jpg",
+          "caption": "Acacia auriculiformis inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower3.jpg",
+          "caption": "Acacia auriculiformis inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower4.jpg",
+          "caption": "Acacia auriculiformis inflorescence from buds to open flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower5.jpg",
+          "caption": "Acacia auriculiformis flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower6.jpg",
+          "caption": "Acacia auriculiformis blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower7.jpg",
+          "caption": "Acacia auriculiformis inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower8.jpg",
+          "caption": "Acacia auriculiformis flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower9.jpg",
+          "caption": "Acacia auriculiformis flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/acacia_auriculiformis_flower10.jpg",
+          "caption": "Acacia auriculiformis flower buds and flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaf of Acacia auriculiformis is actually an expanded petiole resembling and having the function of a leaf, a phyllode . The phyllodes of Acacia auriculiformis grow alternately on the stem (spirally arranged). The phyllode is bright green-coloured. It is coriaceous, leathery and glabrous on both sides. The phyllode of Acacia auriculiformis is 15-20 cm long and 3-5 cm wide. The shape is elliptic and falcate, the apex is obtuse or acute, the base is attenuate and the margins are entire. The phyllode has parallel and arching veins .",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of <i>Acacia auriculiformis</i> is actually an expanded petiole resembling and having the function of a leaf, a <strong>phyllode</strong>.<br>The <strong>phyllodes</strong> of <i>Acacia auriculiformis</i> grow alternately on the stem (spirally arranged).<br>The phyllode is bright green-coloured. It is coriaceous, leathery and glabrous on both sides.<br>The phyllode of <i>Acacia auriculiformis</i> is 15-20 cm long and 3-5 cm wide. The shape is elliptic and falcate, the <strong>apex</strong> is obtuse or acute, the <strong>base</strong> is attenuate and the <strong>margins</strong> are entire.<br>The phyllode has parallel and arching <strong>veins</strong>.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf1.jpg",
+          "caption": "Acacia auriculiformis branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf2.jpg",
+          "caption": "Acacia auriculiformis phyllodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf3.jpg",
+          "caption": "Acacia auriculiformis phyllode"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf4.jpg",
+          "caption": "Acacia auriculiformis shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf5.jpg",
+          "caption": "Acacia auriculiformis \"foliage\""
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf6.jpg",
+          "caption": "Acacia auriculiformis phyllodes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/acacia_auriculiformis_leaf7.jpg",
+          "caption": "Acacia auriculiformis phyllode"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Acacia auriculiformis is a thornless, medium-sized and evergreen tree growing up to 15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Acacia auriculiformis</i> is a thornless, medium-sized and <strong>evergreen tree</strong> growing up to 15 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_auriculiformis_habit1.jpg",
+          "caption": "Acacia auriculiformis tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_auriculiformis_habit2.jpg",
+          "caption": "Acacia auriculiformis young trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_auriculiformis_habit3.jpg",
+          "caption": "Acacia auriculiformis tree in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/acacia_auriculiformis_habit4.jpg",
+          "caption": "Acacia auriculiformis tree in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "\" Acacia auriculiformis occurs in the lowland tropics growing naturally in narrow belts along river banks, where it may be dominant or one of the principal species. It also occurs in small pockets in depressions and in open-forest and it is also found in littoral rain forest behind either mangroves or coastal dunes.\" ( CABI - Invasive Species Compendium. Wallingford , UK (CAB International) www.cabi.org/isc ) Acacia auriculiformis is particularly drought resistant, but also tolerates seasonally waterlogged soils. The species grows in a wide range of soil types and soil pH. Acacia auriculiformis is aided in drought resistance and low-nutrient tolerance by mycorrhizal and nitrogen-fixing bacterial associations of the roots (Osonubi et al. 1991, MacDicken and Brewbaker 1989).",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p>\"<i>Acacia auriculiformis</i> occurs in the lowland tropics growing naturally in narrow belts along river banks, where it may be dominant or one of the principal species. It also occurs in small pockets in depressions and in open-forest and it is also found in littoral rain forest behind either mangroves or coastal dunes.\" (<i>CABI - Invasive Species Compendium. Wallingford , UK (CAB International) www.cabi.org/isc</i>)<br><br><i>Acacia auriculiformis</i> is particularly drought resistant, but also tolerates seasonally waterlogged soils. The species grows in a wide range of soil types and soil pH.<br><br><i>Acacia auriculiformis</i> is aided in drought resistance and low-nutrient tolerance by mycorrhizal and nitrogen-fixing bacterial associations of the roots (Osonubi et al. 1991, MacDicken and Brewbaker 1989).</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Natural stands of Acacia auriculiformis are found in Australia, Papua New Guinea and Indonesia. Acacia auriculiformis has been extensively introduced across the tropics. \"The domestication of Acacia auriculiformis began when it was introduced to Thailand in 1935 (Booth and Turnbull, 1994). It is planted widely in tropical Asia, with extensive plantings in China and India. ( CABI - Invasive Species Compendium. Wallingford , UK (CAB International) www.cabi.org/isc )",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Natural stands of <i>Acacia auriculiformis</i> are found in Australia, Papua New Guinea and Indonesia.<br><i>Acacia auriculiformis</i> has been extensively introduced across the tropics.<br><br>\"The domestication of <i>Acacia auriculiformis</i> began when it was introduced to Thailand in 1935 (Booth and Turnbull, 1994). It is planted widely in tropical Asia, with extensive plantings in China and India. (<i>CABI - Invasive Species Compendium. Wallingford , UK (CAB International) www.cabi.org/isc</i>)</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Acacia auriculiformis is bisexual (each flower of each individual has both male and female structures). Acacia auriculiformis is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Acacia auriculiformis</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Acacia auriculiformis</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From December to March. From February to May. From March to May. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From March to May.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The flowers of Acacia auriculiformis are a source of pollen for honey production. The wood of Acacia auriculiformis is dense and delivers high energy. It is a major source of firewood . It also provides very good charcoal . - Erosion control : Its spreading, superficial and densely matted root system makes Acacia auriculiformis suitable for stabilizing eroded land. - Shade or shelter : The dense, dark-green foliage, which remains throughout the dry season, makes Acacia auriculiformis an excellent shade tree. Acacia auriculiformis is planted to provide shelter on beaches and beachfronts. - Reclamation : The spreading, densely matted root system stabilizes eroding land. Its rapid early growth, even on infertile sites, and tolerance of both highly acidic and alkaline soils make it popular for stabilizing and revegetating mine spoils. - Soil improver : Plantations of Acacia auriculiformis improve soil physio-chemical properties such as water-holding capacity, organic carbon, nitrogen and potassium through litter fall. Its phyllodes provide a good, long-lasting mulch. - Nitrogen fixing : Acacia auriculiformis can fix nitrogen after nodulating with a range of Rhizobium and Bradyrhizobium strains. It also has associations with both ecto- and endo-mycorrhizal fungi. - Ornamental : Acacia auriculiformis is used for shade and ornamental purposes in cities where its hardiness, dense foliage and bright yellow flowers are positive attributes. Source : Wikipedia",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of <i>Acacia auriculiformis</i> are a <strong>source of pollen</strong> for honey production.<br><br>The wood of <i>Acacia auriculiformis</i> is dense and delivers high energy. It is a major <strong>source of firewood</strong>. It also provides very good <strong>charcoal</strong>.<br><br>- <strong>Erosion control</strong>: Its spreading, superficial and densely matted root system makes <i>Acacia auriculiformis</i> suitable for stabilizing eroded land.<br><br>- <strong>Shade or shelter</strong>: The dense, dark-green foliage, which remains throughout the dry season, makes <i>Acacia auriculiformis</i> an excellent shade tree.<br><i>Acacia auriculiformis</i> is planted to provide shelter on beaches and beachfronts.<br><br>- <strong>Reclamation</strong>: The spreading, densely matted root system stabilizes eroding land. Its rapid early growth, even on infertile sites, and tolerance of both highly acidic and alkaline soils make it popular for stabilizing and revegetating mine spoils.<br><br>- <strong>Soil improver</strong>: Plantations of <i>Acacia auriculiformis</i> improve soil physio-chemical properties such as water-holding capacity, organic carbon, nitrogen and potassium through litter fall. Its phyllodes provide a good, long-lasting mulch.<br><br>- <strong>Nitrogen fixing</strong>: <i>Acacia auriculiformis</i> can fix nitrogen after nodulating with a range of <i>Rhizobium</i> and <i>Bradyrhizobium</i> strains. It also has associations with both ecto- and endo-mycorrhizal fungi.<br><br>- <strong>Ornamental</strong>: <i>Acacia auriculiformis</i> is used for shade and ornamental purposes in cities where its hardiness, dense foliage and bright yellow flowers are positive attributes.<br><br><i>Source : Wikipedia</i></p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "Acacia auriculiformis is sometimes used as fodder . In India 1-year-old plantations are browsed by cattle. ( Wikipedia )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Acacia auriculiformis</i> is sometimes used as <strong>fodder</strong>.<br>In India 1-year-old plantations are browsed by cattle. (<i>Wikipedia</i>)</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood is extensively used for paper pulp and large-scale plantations have already been established for the production of pulp. The wood of Acacia auriculiformis is fine-grained, often attractively figured and finishes well. It is excellent for turnery articles, toys, carom coins, chessmen and handicrafts. It is also used for furniture, joinery, tool handles and for construction if trees of suitable girth are available. The bark contains sufficient tannin (13-25%) for commercial exploitation and contains 6-14% of a natural dye . The bark is use as tanning material and a natural dye is also extracted from the bark. Source : Wikipedia",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The wood is extensively used for <strong>paper pulp</strong> and large-scale plantations have already been established for the production of pulp.<br><br>The <strong>wood</strong> of <i>Acacia auriculiformis</i> is fine-grained, often attractively figured and finishes well. It is excellent for turnery articles, toys, carom coins, chessmen and handicrafts. It is also used for furniture, joinery, tool handles and for construction if trees of suitable girth are available.<br><br>The bark contains sufficient tannin (13-25%) for commercial exploitation and contains 6-14% of a <strong>natural dye</strong>.<br>The bark is use as <strong>tanning material</strong> and a natural dye is also extracted from the bark.<br><br><i>Source : Wikipedia</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "A decoction of the root of Acacia auriculiformis is used to treat aches and pains and sore eyes. An infusion of the bark is used to treat rheumatism.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>A <strong>decoction of the root</strong> of <i>Acacia auriculiformis</i> is used to treat aches and pains and sore eyes.<br><br>An <strong>infusion of the bark</strong> is used to treat rheumatism.</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Acacia auriculiformis is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Acacia auriculiformis</i> is a fast growing species and it is able to flourish in a wide range of soils. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/acacia_auriculiformis_reforestation1.jpg",
+          "caption": "Acacia auriculiformis saplings"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/acacia_auriculiformis_reforestation2.jpg",
+          "caption": "Acacia auriculiformis seedlings"
+        }
+      ]
+    }
+  }
+}

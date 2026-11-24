@@ -1,0 +1,245 @@
+{
+  "species_id": 340,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=340",
+  "scraped_at": "2025-10-07T08:24:54.267481Z",
+  "basic_info": {
+    "scientific_name": "Alloteropsis cimicina",
+    "authority": null,
+    "family": "Poaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/67162f3531cb2_67162f3531cab_Al.ci_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Al.ci_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "19 Sep, 2024",
+    "collected_by": "M.d.H, U.M.P.",
+    "gps_coordinates": {
+      "latitude": "11°59'14 N",
+      "longitude": "79°48'22 E",
+      "raw": "11°59'14 N- 79°48'22 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Alloteropsis cimicina",
+    "author": "(L.) Stapf, Otto (1919)",
+    "family": "Poaceae",
+    "english_names": "Summer grass, Bug-seed grass, Cockatoo grass",
+    "indian_names": {
+      "Kannada": [
+        "Neeru sajjae hullu"
+      ]
+    },
+    "synonyms": [
+      "Agrostis cimicina",
+      "Agrostis digitata",
+      "Axonopus cimicinus",
+      "Coridochloa cimicina",
+      "Melica cimicina",
+      "Milium cimicinum",
+      "Panicum cimicinum",
+      "Urochloa cimicina",
+      "Alloteropsis latifolia",
+      "Alloteropsis quintasii",
+      "Axonopus latifolius",
+      "Coridochloa fimbriata",
+      "Eriachne melicacea var. fragrans",
+      "Oplismenus fasciculatus",
+      "Panicum fasciculatum",
+      "Panicum fasciculiflorum",
+      "Urochloa fasciculata",
+      "Urochloa quintasii"
+    ],
+    "etymology": "-\nAlloteropsis\n: From the Greek\nallotrios\n- belonging to another and\nopsis\n- appearance, or alien-looking, referring to the irregular grouping of the spikelets.\n-\ncimicina\n: From the Latin\ncimex\n- bug, referring to the fact that mature spikelets bear a fanciful resemblance to a small bug.",
+    "etymology_html": "<p>- <i>Alloteropsis</i>: From the Greek <i>allotrios</i>- belonging to another and <i>opsis</i>- appearance, or alien-looking, referring to the irregular grouping of the spikelets.<br>- <i>cimicina</i>: From the Latin <i>cimex</i>- bug, referring to the fact that mature spikelets bear a fanciful resemblance to a small bug.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The culms of Alloteropsis cimicina are between 15 cm to 1 m high. They are decumbent and canaliculate. The nodes are glabrous or with hairs in the tubercle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The culms of Alloteropsis cimicina are between 15 cm to 1 m high. <br>They are decumbent and canaliculate. <br>The nodes are glabrous or with hairs in the tubercle.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.ci_st1.jpg",
+          "caption": "Alloteropsis cimicina culm and base of pedicels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.ci_st2.jpg",
+          "caption": "Alloteropsis cimicina ciliate culm"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.ci_st3.jpg",
+          "caption": "Alloteropsis cimicina ciliate culm and node"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.ci_st4.jpg",
+          "caption": "Alloteropsis cimicina roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Al.ci_st5.jpg",
+          "caption": "Alloteropsis cimicina node"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The grains of Alloteropsis cimicina are about 1.5 mm long by 1 mm wide. They are ovate in shape.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The grains of Alloteropsis cimicina are about 1.5 mm long by 1 mm wide. <br>They are ovate in shape.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Al.ci_sd1.jpg",
+          "caption": "Alloteropsis cimicina mature glumes ready to open"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The grains of Alloteropsis cimicina are caryopsis about 1.5 mm long by 1 mm wide. They are ovate in shape.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The grains of Alloteropsis cimicina are caryopsis about 1.5 mm long by 1 mm wide. <br>They are ovate in shape.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr4.jpg",
+          "caption": "Alloteropsis cimicina mature caryopsis with hairy glumes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr5.jpg",
+          "caption": "Alloteropsis cimicina young caryopsis with hairy glume on the margins"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr8.jpg",
+          "caption": "Alloteropsis cimicina glumes with long purple hairs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr6.jpg",
+          "caption": "Alloteropsis cimicina dry mature glume"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr7.jpg",
+          "caption": "Alloteropsis cimicina fruiting spikelet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr1.jpg",
+          "caption": "Alloteropsis cimicina dry inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr2.jpg",
+          "caption": "Alloteropsis cimicina dry inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Al.ci_fr3.jpg",
+          "caption": "Alloteropsis cimicina dry inflorescence"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Alloteropsis cimicina are growing in 3 to 8 racemes. The racemes can be digitate, umbellate or corymbose. They are 4 to 15 cm long. The rachis are angular and scabrid. The spikelets are 2-flowered, 2-5 mm long excluding aristate and broadly elliptic. The lower glume is 1.5-2 x 1 mm wide, ovate-lanceolate, shortly acuminate and 3-nerved. The upper glume is 3.5 x 1 mm, broadly ovate, acuminate and 5-nerved. The lower floret is male. The upper floret is bisexual. The first lemma is 2-3 x 1 mm, ovate and 5-nerved. The second lemma is 2-3 x 1 mm, elliptic, with ciliate margins and aristate. The arista is 1-3 mm long, erect and scaberulous. The palea is 1.5-3 x 0.5-1 mm, ovate or elliptic. There are 3 stamens, the anthers are 0.5-1 mm long and yellow. The ovary is about 0.5 mm and oblong in shape. The stigmas are 0.5-1 mm and violet in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Alloteropsis cimicina are growing in 3 to 8 racemes. <br>The racemes can be digitate, umbellate or corymbose. They are 4 to 15 cm long. <br>The rachis are angular and scabrid. <br>The spikelets are 2-flowered, 2-5 mm long excluding aristate and broadly elliptic. <br>The lower glume is 1.5-2 x 1 mm wide, ovate-lanceolate, shortly acuminate and 3-nerved.<br>The upper glume is 3.5 x 1 mm, broadly ovate, acuminate and 5-nerved. <br>The lower floret is male. The upper floret is bisexual. <br>The first lemma is 2-3 x 1 mm, ovate and 5-nerved. <br>The second lemma is 2-3 x 1 mm, elliptic, with ciliate margins and aristate. <br>The arista is 1-3 mm long, erect and scaberulous. <br>The palea is 1.5-3 x 0.5-1 mm, ovate or elliptic. <br>There are 3 stamens, the anthers are 0.5-1 mm long and yellow. <br>The ovary is about 0.5 mm and oblong in shape. The stigmas are 0.5-1 mm and violet in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl7.jpg",
+          "caption": "Alloteropsis cimicina raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl1.jpg",
+          "caption": "Alloteropsis cimicina spikelets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl4.jpg",
+          "caption": "Alloteropsis cimicina spikelets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl2.jpg",
+          "caption": "Alloteropsis cimicina young green spikelets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl3.jpg",
+          "caption": "Alloteropsis cimicina florets with hanging yellow stamens and purple pistil"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl5.jpg",
+          "caption": "Alloteropsis cimicina florets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl6.jpg",
+          "caption": "Alloteropsis cimicina florets with purple pistils"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl8.jpg",
+          "caption": "Alloteropsis cimicina spikelet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Al.ci_fl9.jpg",
+          "caption": "Alloteropsis cimicina floret"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Alloteropsis cimicina are 2 to 4.5 cm long and less than 2.5 cm wide. The leaves are oblong-lanceolate or lanceolate in shape. The leaf base is rounded or cordate, the apex is abruptly acute and the margins are ciliate with tubercle-based hairs. The sheaths are 5 to 12 cm long, they are covered with tubercle-based hairs. The ligule is truncate and fimbriate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Alloteropsis cimicina are 2 to 4.5 cm long and less than 2.5 cm wide. <br>The leaves are oblong-lanceolate or lanceolate in shape. <br>The leaf base is rounded or cordate, the apex is abruptly acute and the margins are ciliate with tubercle-based hairs. <br>The sheaths are 5 to 12 cm long, they are covered with tubercle-based hairs. <br>The ligule is truncate and fimbriate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf1.jpg",
+          "caption": "Alloteropsis cimicina full leaf on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf2.jpg",
+          "caption": "Alloteropsis cimicina leaf base and hairy ligule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf4.jpg",
+          "caption": "Alloteropsis cimicina leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf5.jpg",
+          "caption": "Alloteropsis cimicina ligule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf6.jpg",
+          "caption": "Alloteropsis cimicina full leaf on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf7.jpg",
+          "caption": "Alloteropsis cimicina leaf apex"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf8.jpg",
+          "caption": "Alloteropsis cimicina leaf margin"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Al.ci_lf3.jpg",
+          "caption": "Alloteropsis cimicina hairy leaf margins"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Alloteropsis cimicina is an annual herb, growing up to 1 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Alloteropsis cimicina is an annual herb, growing up to 1 m.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Al.ci_ha1.jpg",
+          "caption": "Alloteropsis cimicina habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Al.ci_ha2.jpg",
+          "caption": "Alloteropsis cimicina habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Al.ci_ha3.jpg",
+          "caption": "Alloteropsis cimicina habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

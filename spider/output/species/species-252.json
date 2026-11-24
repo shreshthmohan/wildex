@@ -1,0 +1,190 @@
+{
+  "species_id": 252,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=252",
+  "scraped_at": "2025-10-07T07:05:53.446186Z",
+  "basic_info": {
+    "scientific_name": "Ximenia americana",
+    "authority": null,
+    "family": "Ximeniaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63299240839d2_63299240839c6_Xi.am_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Xi.am_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Jun, 2022",
+    "collected_by": "A.A.S, R.S, S.P",
+    "gps_coordinates": {
+      "raw": "11.5846 N 79.4904 E12.0622 N 79.1816  E"
+    },
+    "locality": "Pakkammalai and Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ximenia americana",
+    "author": "Candolle, Augustin Pyramus de (1824)",
+    "family": "Ximeniaceae",
+    "english_names": "Hog plum",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nXimenia\n: After Francisco Ximenez (1570-1620) Spanish monk who detailed a collection of medicinal plants found in Mexico\n-\namericana\n: From America, as an indication of where the plant had been first collected",
+    "etymology_html": "<p>- <i>Ximenia</i>: After Francisco Ximenez (1570-1620) Spanish monk who detailed a collection of medicinal plants found in Mexico<br>- <i>americana</i>: From America, as an indication of where the plant had been first collected</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ximenia americana is dark brown to pale grey in colour. It is smooth to scaly. The new branchlets are purple-red with a waxy bloom. The tree is armed with straight conical spines.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Ximenia americana is dark brown to pale grey in colour. <br>It is smooth to scaly. <br>The new branchlets are purple-red with a waxy bloom. <br>The tree is armed with straight conical spines.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632994410e357_Xi.am_bk1.jpg",
+          "caption": "Ximenia americana scaly bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329944360752_Xi.am_bk2.jpg",
+          "caption": "Ximenia americana rought bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329944a5e4d9_Xi.am_bk3.jpg",
+          "caption": "Ximenia americana smooth bark with lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329944e3e7d8_Xi.am_st1.jpg",
+          "caption": "Ximenia americana stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632994569162b_Xi.am_st2.jpg",
+          "caption": "Ximenia americana straggling branch"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329945b720e5_Xi.am_st3.jpg",
+          "caption": "Ximenia americana young red new growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329945fca89d_Xi.am_st4.jpg",
+          "caption": "Ximenia americana smooth grey stem with numerous lenticels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/632994879e6be_Xi.am_th3.jpg",
+          "caption": "Ximenia americana straight conical thorn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6329946fb088f_Xi.am_th1.jpg",
+          "caption": "Ximenia americana thorn distribution on stem and branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Xi.am_th2.jpg",
+          "caption": "Ximenia americana straight conical thorn"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Ximenia americana are woody and 1.5 cm long by 1.2 cm wide. They are pale yellow in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Ximenia americana are woody and 1.5 cm long by 1.2 cm wide. <br>They are pale yellow in colour.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Ximenia americana are smooth globose drupes. They are round to ellipsoidal in shape, growing up to 3 cm in diameter. The fruit is green when young, becoming yellow or red-orange when ripe. The fruits have a green juicy pulp which contains one large endospermic seed inside. The fruit is edible, having a refreshing taste.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Ximenia americana are smooth globose drupes. <br>They are round to ellipsoidal in shape, growing up to 3 cm in diameter. <br>The fruit is green when young, becoming yellow or red-orange when ripe. <br>The fruits have a green juicy pulp which contains one large endospermic seed inside. <br>The fruit is edible, having a refreshing taste.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/632993c69b8f8_Xi.am_fr1.jpg",
+          "caption": "Ximenia americana ripe smooth globose fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/632993ca1fee0_Xi.am_fr2.jpg",
+          "caption": "Ximenia americana fruits on the shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/632993ce45ac3_Xi.am_fr3.jpg",
+          "caption": "Ximenia americana smooth globose drupe red-orange with white dots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/632993d23e1ae_Xi.am_fr4.jpg",
+          "caption": "Ximenia americana fruiting shrub at its maturity"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ximenia americana are small, white-cream or pale pink in colour. They are growing in umbellate racemes in terminal or axillary formation. The flowers are less than 1 cm in size. The peduncles are glabrous and less than 0.5 cm. The calyx has 4 to 5 lobes. The petals are 4 or 5 in number. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Ximenia americana are small, white-cream or pale pink in colour. <br>They are growing in umbellate racemes in terminal or axillary formation. <br>The flowers are less than 1 cm in size. <br>The peduncles are glabrous and less than 0.5 cm. <br>The calyx has 4 to 5 lobes. The petals are 4 or 5 in number. <br>The flowers are fragrant.</p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Ximenia americana are simple, growing in alternate arrangement. They are clustered on spur shoots. The leaves are about 2 cm to 8 cm long and 1 to 3 cm wide. The leaves have a spear-like to oval shape. The base and the apex is obtuse, apiculate, or sometimes emarginate. They curve upwards along the midrib. The leaves are red and hairy when young, becoming smooth and shiny as they mature. The petiole is short and thin, less than 1 cm long. The leaves are leathery and grey-green in colour. When crushed, the young leaves smell of bitter almond.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Ximenia americana are simple, growing in alternate arrangement. <br>They are clustered on spur shoots. <br>The leaves are about 2 cm to 8 cm long and 1 to 3 cm wide. <br>The leaves have a spear-like to oval shape. <br>The base and the apex is obtuse, apiculate, or sometimes emarginate. <br>They curve upwards along the midrib. <br>The leaves are red and hairy when young, becoming smooth and shiny as they mature.<br>The petiole is short and thin, less than 1 cm long. <br>The leaves are leathery and grey-green in colour. <br>When crushed, the young leaves smell of bitter almond.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632992f509bf4_Xi.am_lf1.jpg",
+          "caption": "Ximenia americana leaves in woody armed branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632992f74290e_Xi.am_lf2.jpg",
+          "caption": "Ximenia americana leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/632992fc45561_Xi.am_lf3.jpg",
+          "caption": "Ximenia americana young growth of red leaves in quadrangular red branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6329930401684_Xi.am_lf4.jpg",
+          "caption": "Ximenia americana leaves in woody armed branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6329930835459_Xi.am_lf5.jpg",
+          "caption": "Ximenia americana young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6329930c925c8_Xi.am_lf6.jpg",
+          "caption": "Ximenia americana fleshy oval leaves with emarginate apex"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Xi.am_lf7.jpg",
+          "caption": "Ximenia americana oval emarginated leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Xi.am_lf8.jpg",
+          "caption": "Ximenia americana oval emarginated leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/63299666ac330_Xi.am_lf9.jpg",
+          "caption": "Ximenia americana leaf and thorn arrangement (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ximenia americana is a deciduous straggler with smooth bark and thorns. This bush-forming shrub or small tree grows up to 4 m in height. The branches form a loose arch downwards and the branchlets have straight, thin, protruding spines that are 1 cm long. It is a dioecious species (both male and female forms need to be grown for fruiting). The plant is sometime found as semi-parasitic.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Ximenia americana is a deciduous straggler with smooth bark and thorns. <br>This bush-forming shrub or small tree grows up to 4 m in height. <br>The branches form a loose arch downwards and the branchlets have straight, thin, protruding spines that are 1 cm long. It is a dioecious species (both male and female forms need to be grown for fruiting). <br>The plant is sometime found as semi-parasitic.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/632992698b434_Xi.am_ha1.jpg",
+          "caption": "Ximenia americana small tree habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6329926d17bc0_Xi.am_ha2.jpg",
+          "caption": "Ximenia americana habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6329927bb8915_Xi.am_ha3.jpg",
+          "caption": "Ximenia americana blooming straggler habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/63299278e7e22_Xi.am_ha4.jpg",
+          "caption": "Ximenia americana small tree habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

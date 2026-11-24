@@ -1,0 +1,272 @@
+{
+  "species_id": 9,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=9",
+  "scraped_at": "2025-10-07T07:18:55.096717Z",
+  "basic_info": {
+    "scientific_name": "Adenanthera pavonina",
+    "authority": "L.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/adenanthera_pavonina.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ad.pa_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 Jan, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99453 N",
+      "longitude": "79.82307 E",
+      "raw": "11.99453 N - 79.82307 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Adenanthera pavonina",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Fabaceae",
+    "english_names": "Acacia coral, Coral pea, Curly bean, Peacock flower fence, Red bead tree, Red Lucky Seed",
+    "indian_names": {
+      "Hindi": [
+        "Baragunci",
+        "Rakta chandan",
+        "Ranjana",
+        "Ratan Gunj"
+      ],
+      "Kannada": [
+        "Aane gulaganji",
+        "Manjati"
+      ],
+      "Malayalam": [
+        "Manjati",
+        "Sem"
+      ],
+      "Marathi": [
+        "Thorligunj",
+        "Vhadli-gunj"
+      ],
+      "Sanskrit": [
+        "Kamboji",
+        "Kucandanah",
+        "Tamraka"
+      ],
+      "Tamil": [
+        "Anaikundumani",
+        "Manjadi",
+        "Yanaikuntumani"
+      ],
+      "Telugu": [
+        "Bandi gurvina",
+        "Gurivenda",
+        "Mansenikottae"
+      ]
+    },
+    "synonyms": [
+      "Adenanthera gersenii",
+      "Adenanthera pavonina var. pavonina",
+      "Adenanthera polita",
+      "Corallaria parvifolia",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nAdenanthera\n: Referring to the deciduous stalked gland (Greek\naden\n=gland) on each anthers.\n-\nPavonina\n: Derived from the Latin (\npavonia\n) peacock; probably referring to the attractive seeds, the dry and open fruit showing red seeds.",
+    "etymology_html": "<p>- <i>Adenanthera</i> : Referring to the deciduous stalked gland (Greek <i>aden</i>=gland) on each anthers.<br>- <i>Pavonina</i> : Derived from the Latin (<i>pavonia</i>) peacock; probably referring to the attractive seeds, the dry and open fruit showing red seeds.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "Adenanthera pavonina has a rough and dark grey-brown bark with longitudinal fissures whereas the young glabrous branchlets have smooth and red-brown bark. The wood of Adeanthera pavonina is hard and close-grained, with a red heart-wood.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Adenanthera pavonina</i> has a rough and dark grey-brown <strong>bark</strong> with longitudinal fissures whereas the young glabrous branchlets have smooth and red-brown bark.<br>The <strong>wood</strong> of <i>Adeanthera pavonina</i> is hard and close-grained, with a red heart-wood.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/adenanthera_pavonina_stem1.jpg",
+          "caption": "Adenanthera pavonina trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/adenanthera_pavonina_stem2.jpg",
+          "caption": "Adenanthera pavonina bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Adenanthera pavonina are usually bright scarlet, lenticular-globose, compressed, smooth and shiny. There are 8-12 seeds in a pod and they are about 8 mm across.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Adenanthera pavonina</i> are usually bright scarlet, lenticular-globose, compressed, smooth and shiny.<br>There are 8-12 seeds in a pod and they are about 8 mm across.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/adenanthera_pavonina_seed1.jpg",
+          "caption": "Adenanthera pavonina seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/adenanthera_pavonina_seed3.jpg",
+          "caption": "Adenanthera pavonina seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/adenanthera_pavonina_seed2.jpg",
+          "caption": "Adenanthera pavonina seeds on dry and open pods"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Adenanthera pavonina is a falcate and pointed pod . The pod is green when unripe and turns dark brown when ripe. The pods are curved and twisted when dry. The 2 valves are spirally coiled after dehiscence to expose the seeds. They are thin, about 15-20 cm long and 1 cm wide.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Adenanthera pavonina</i> is a falcate and pointed <strong>pod</strong>.<br>The pod is green when unripe and turns dark brown when ripe.<br>The pods are curved and twisted when dry. The 2 valves are spirally coiled after dehiscence to expose the seeds. They are thin, about 15-20 cm long and 1 cm wide.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/adenanthera_pavonina_fruit1.jpg",
+          "caption": "Adenanthera pavonina unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/adenanthera_pavonina_fruit2.jpg",
+          "caption": "Adenanthera pavonina unripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/adenanthera_pavonina_fruit3.jpg",
+          "caption": "Adenanthera pavonina unripe pods"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/adenanthera_pavonina_fruit4.jpg",
+          "caption": "Adenanthera pavonina dry and open pods exposing the red seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescence of Adenanthera pavonina is a raceme . These axillary and spike-shaped racemes grow from the axils of leaves or at the ends of the branches. They are about 15-20 cm long and 2 cm wide with a 3-5 cm long peduncle . The flowers are pale yellow, clustered and 6-7 mm across. The pedicels are slender and 3-4 mm long. The calyx is tubular, campanulate and 5-toothed (teeth < 1 mm long). The corolla is composed of 5 pale yellow and lanceolate petals to 4 mm long and 1.5 mm wide. A flower has 10 free stamens . The filaments are filiform and 3.5 mm long. The anthers are dorsified, 0.7 mm long and tipped with a deciduous gland. The pistil is composed of a flat ovary (containing numerous ovules) and a 2 mm long and filiform style with a simple stigma. The flowers open from the base to the tip of the inflorescence and they are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>inflorescence</strong> of <i>Adenanthera pavonina</i> is a <strong>raceme</strong>. These axillary and spike-shaped racemes grow from the axils of leaves or at the ends of the branches. They are about 15-20 cm long and 2 cm wide with a 3-5 cm long <strong>peduncle</strong>.<br>The <strong>flowers</strong> are pale yellow, clustered and 6-7 mm across. The <strong>pedicels</strong> are slender and 3-4 mm long. The <strong>calyx</strong> is tubular, campanulate and 5-toothed (teeth &lt; 1 mm long). The <strong>corolla</strong> is composed of 5 pale yellow and lanceolate petals to 4 mm long and 1.5 mm wide.<br>A flower has 10 free <strong>stamens</strong>. The <strong>filaments</strong> are filiform and 3.5 mm long. The <strong>anthers</strong> are dorsified, 0.7 mm long and tipped with a deciduous gland. The <strong>pistil</strong> is composed of a flat ovary (containing numerous ovules) and a 2 mm long and filiform style with a simple stigma.<br>The flowers open from the base to the tip of the inflorescence and they are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower1.jpg",
+          "caption": "Adenanthera pavonina inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower2.jpg",
+          "caption": "Adenanthera pavonina inflorescence tip with open flowers and buds at the end"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower3.jpg",
+          "caption": "Adenanthera pavonina flowers in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower4.jpg",
+          "caption": "Adenanthera pavonina flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower5.jpg",
+          "caption": "Adenanthera pavonina buds and flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower6.jpg",
+          "caption": "Adenanthera pavonina flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower7.jpg",
+          "caption": "Adenanthera pavonina flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower8.jpg",
+          "caption": "Adenanthera pavonina buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/adenanthera_pavonina_flower9.jpg",
+          "caption": "Adenanthera pavonina flowering twig"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "Adenanthera pavonina has bipinnate compound leaves. These leaves are 15 to 30 cm long with 3 to 6 pairs of opposite pinnae to 10-15 cm long. The leaflets are alternate, numerous (10-20), oblong-elliptic, 2-3 cm long and 1-1.5 cm wide, slightly puberulous. These leaflets have obtuse apex , oblique base and entire margin . They are dark green above and light green below. The petiole of these compound leaves is about 5-8 cm long and the petiolules are 2 mm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p><i>Adenanthera pavonina</i> has <strong>bipinnate</strong> compound leaves. These <strong>leaves</strong> are 15 to 30 cm long with 3 to 6 pairs of opposite <strong>pinnae</strong> to 10-15 cm long. The <strong>leaflets</strong> are alternate, numerous (10-20), oblong-elliptic, 2-3 cm long and 1-1.5 cm wide, slightly puberulous. These leaflets have obtuse <strong>apex</strong>, oblique <strong>base</strong> and entire <strong>margin</strong>. They are dark green above and light green below.<br>The <strong>petiole</strong> of these compound leaves is about 5-8 cm long and the <strong>petiolules</strong> are 2 mm long.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf1.jpg",
+          "caption": "Adenanthera pavonina bipinnate leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf2.jpg",
+          "caption": "Adenanthera pavonina pinnae (upper side) and lower side of a pinna"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf3.jpg",
+          "caption": "Adenanthera pavonina leaflet (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf4.jpg",
+          "caption": "Adenanthera pavonina compound leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf5.jpg",
+          "caption": "Adenanthera pavonina compound leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/adenanthera_pavonina_leaf6.jpg",
+          "caption": "Adenanthera pavonina shoot (young leaf)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Adenanthera pavonina is an unarmed and deciduous tree . It grows up to 20-25 meters. It has a clear bole : the branches usually start to grow high up on a slim and straight trunk, spreading outwards.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Adenanthera pavonina</i> is an unarmed and <strong>deciduous tree</strong>.<br>It grows up to 20-25 meters.<br>It has a clear bole : the branches usually start to grow high up on a slim and straight trunk, spreading outwards.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/adenanthera_pavonina_habit1.jpg",
+          "caption": "Adenanthera pavonina tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/adenanthera_pavonina_habit2.jpg",
+          "caption": "Adenanthera pavonina young tree (the tallest tree in the middle)"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Adenanthera pavonina is found on a variety of soils from deep, well-drained to shallow and rocky but prefers neutral to slightly acidic soils. ( World Agroforestry Centre ) It is found in different types of vegetation : from evergreen lowland rain forests, seasonally dry forests, to open savannahs or scrubs and dry deciduous forests, in agricultural land, forest edges and coastal areas. It is a pioneer unable to regenerate under a closed canopy. Adenanthera pavonina is also frequently planted along roads and found around human settlements.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Adenanthera pavonina</i> is found on a variety of soils from deep, well-drained to shallow and rocky but prefers neutral to slightly acidic soils. (<i>World Agroforestry Centre</i>)<br>It is found in different types of vegetation : from evergreen lowland rain forests, seasonally dry forests, to open savannahs or scrubs and dry deciduous forests, in agricultural land, forest edges and coastal areas. It is a pioneer unable to regenerate under a closed canopy.<br><i>Adenanthera pavonina</i> is also frequently planted along roads and found around human settlements.<br> </p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Adenanthera pavonina is native to Southern China, India and Sri Lanka with first reports being recorded in India. ( Roshetko and Gutteridge, 1996 ) The species is now found throughout the tropics (it has been widely introduced and naturalized in Malaysia, Western and Eastern Africa as well as most islands of both the Pacific and Caribbean regions). This species has been widely introduced in tropical and subtropical regions to be used in agroforestry systems.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p><i>Adenanthera pavonina</i> is native to Southern China, India and Sri Lanka with first reports being recorded in India. (<i>Roshetko and Gutteridge, 1996</i>)<br>The species is now found throughout the tropics (it has been widely introduced and naturalized in Malaysia, Western and Eastern Africa as well as most islands of both the Pacific and Caribbean regions). This species has been widely introduced in tropical and subtropical regions to be used in agroforestry systems.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Adenanthera pavonina is pollinated by a wide variety of insects. - Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on site with favourable conditions : the ripe, dry fruits burst open and scatter the seeds. - The seeds of Adenanthera pavonina are also eaten and dispersed by birds. - Humans also play a considerable role in the dispersion of the attractive seeds of Adenanthera pavonina .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Adenanthera pavonina</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>- Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on site with favourable conditions : the ripe, dry fruits burst open and scatter the seeds.<br>- The seeds of <i>Adenanthera pavonina</i> are also eaten and dispersed by birds.<br>- Humans also play a considerable role in the dispersion of the attractive seeds of <i>Adenanthera pavonina</i>.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From January to April. The pods appear after the monsoon (January-February) and they often remain dry on the tree until after the next flowering season. After March. The leaves fall briefly during the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From January to April.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>The pods appear after the monsoon (January-February) and they often remain dry on the tree until after the next flowering season.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>After March.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>The leaves fall briefly during the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Children love to play with the colourful and glossy seeds . The bark contains saponin and has been used to wash hair and clothing. In Indonesia and Malaysia trees are planted for shade in coffee, clove and rubber plantations. It is planted along field borders as part of a windbreak. This tree is used as a nitrogen fixing species and as a soil improver. Adenanthera pavonina wood burns readily, producing significant heat, and is used in both above and below-ground ovens. Good-sized fuelwood, larger than 11 cm in diameter can be produced in 5 years. The wood yields very good charcoal. ( World Agroforestry Centre Database ) It is also extensively cultivated as an ornamental for planting along roadsides and in common areas, notably for its red, glossy seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Children love to play with the colourful and glossy <strong>seeds</strong>.<br><br>The <strong>bark</strong> contains saponin and has been used to wash hair and clothing.<br><br>In Indonesia and Malaysia <strong>trees</strong> are planted for shade in coffee, clove and rubber plantations. It is planted along field borders as part of a windbreak. This tree is used as a nitrogen fixing species and as a soil improver.<br><br><i>Adenanthera pavonina</i> <strong>wood</strong> burns readily, producing significant heat, and is used in both above and below-ground ovens. Good-sized fuelwood, larger than 11 cm in diameter can be produced in 5 years.<br>The wood yields very good charcoal. (<i>World Agroforestry Centre Database</i>)<br><br>It is also extensively cultivated as an ornamental for planting along roadsides and in common areas, notably for its red, glossy seeds.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The leaves of Adenanthera pavonina are used as a supplemental source of cattle fodder. The leaves are fairly high in digestible crude protein (17-22%) but low in mineral content. ( World Agroforestry Centre Database ).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>leaves</strong> of <i>Adenanthera pavonina</i> are used as a supplemental source of cattle fodder.<br>The leaves are fairly high in digestible crude protein (17-22%) but low in mineral content. (<i>World Agroforestry Centre Database</i>).</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "Adenanthera pavonina yields medium to heavy hardwood with a density of 595-1100 kg/cubic m at 15% moisture content. The heartwood is bright yellow when fresh, turning red. It is sharply demarcated from the light grey sapwood, which can be up to 5 cm wide. The heartwood is closely and even grained, with a moderately fine to slightly coarse and even texture. The wood is moderately lustrous. The shrinkage is variable, and the wood seasons very well with only slight warping. The wood is very hard, durable and strong. It can be easy or somewhat difficult to work, easy to plane and it takes a high finish. The heartwood is resistant to dry wood termites. The wood is used for bridge and household construction (beams, posts, joists and rafters), flooring, paving blocks and vehicle bodies. It may also be suitable for furniture and cabinet work and turnery. ( Benthal, 1946; Clark and Thaman, 1993; Zarnowski et al., 2004 ) The wood is sometimes used instead of red sandalwood ( Pterocarpus santalinus ) for furniture or for wall panels. The red dye extracted from the wood is used as a substitute for the dye extracted from red sandalwood. It has been used for dyeing clothes and by the Brahmins of India for marking the forehead. ( Useful Plants of India and Pakistan, Dastur ) The seeds have been used as beads for rosaries and as unit weights by goldsmiths and jewellers (because of their narrow range in weight), the Malay name \" Saga \" is traced to the Arabic term for goldsmith. A useful cement is formed by mixing the powder of the seeds with borax and water. The gum that exudes from the tree is known as \" madatia \". ( Useful Plants of India and Pakistan, Dastur )",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p><i>Adenanthera pavonina</i> yields medium to heavy <strong>hardwood</strong> with a density of 595-1100 kg/cubic m at 15% moisture content. The heartwood is bright yellow when fresh, turning red. It is sharply demarcated from the light grey sapwood, which can be up to 5 cm wide. The heartwood is closely and even grained, with a moderately fine to slightly coarse and even texture. The wood is moderately lustrous. The shrinkage is variable, and the wood seasons very well with only slight warping. The wood is very hard, durable and strong. It can be easy or somewhat difficult to work, easy to plane and it takes a high finish. The heartwood is resistant to dry wood termites. The wood is used for bridge and household construction (beams, posts, joists and rafters), flooring, paving blocks and vehicle bodies. It may also be suitable for furniture and cabinet work and turnery. (<i>Benthal, 1946; Clark and Thaman, 1993; Zarnowski et al., 2004</i>)<br>The wood is sometimes used instead of red sandalwood (<i>Pterocarpus santalinus</i>) for furniture or for wall panels.<br><br>The red <strong>dye</strong> extracted from the <strong>wood</strong> is used as a substitute for the dye extracted from red sandalwood. It has been used for dyeing clothes and by the Brahmins of India for marking the forehead. (<i>Useful Plants of India and Pakistan, Dastur</i>)<br><br>The <strong>seeds</strong> have been used as <strong>beads</strong> for rosaries and as unit weights by goldsmiths and jewellers (because of their narrow range in weight), the Malay name \"<i>Saga</i>\" is traced to the Arabic term for goldsmith.<br>A useful <strong>cement</strong> is formed by mixing the powder of the seeds with borax and water.<br><br>The <strong>gum</strong> that exudes from the tree is known as \"<i>madatia</i>\". (<i>Useful Plants of India and Pakistan, Dastur</i>)</p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "Known as \"food tree\" in several islands in the Pacific (as Melanesia and Polynesia) the seeds of Adeanthera pavonina are roasted over a fire and eaten by humans and young leaves are eaten as vegetables. ( Orwa et al., 2009 ) Nutritional studies have shown that 1/4 of the seed weight is oil, with a high percentage of protein and a fatty acid composition, resulting in high digestibility in humans. ( Burkill, 1966; Balogun and Fetuga, 1985 ) The raw seeds are poisonous. They may require boiling to neutralize toxicity.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Known as \"food tree\" in several islands in the Pacific (as Melanesia and Polynesia) the <strong>seeds</strong> of <i>Adeanthera pavonina</i> are roasted over a fire and eaten by humans and young leaves are eaten as vegetables. (<i>Orwa et al., 2009</i>)<br>Nutritional studies have shown that 1/4 of the <strong>seed</strong> weight is oil, with a high percentage of protein and a fatty acid composition, resulting in high digestibility in humans. (<i>Burkill, 1966; Balogun and Fetuga, 1985</i>)<br>The <strong>raw seeds</strong> are poisonous. They may require boiling to neutralize toxicity.</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The bark and leaves are astringent, vulnerary and aphrodisiac. They are useful in colonorrhea, haematuria, ulcers, pharyngopathy and gout. ( Indian Medicinal plants, Arya Vaidya Sala ) A decoction of bark or leaves is also used to treat dysentery, diarrhea and tonsillitis. A decoction of leaves is used against chronic rheumatism and gout. ( Indian Medicinal Plants, Basu & Kirtikar ) The seeds are bitter, astringent, sweet, cooling, aphrodisiac, suppurative, antiemetic and febrifuge. They are useful in gout, burning sensation, hyperdipsia, vomiting, fever and giddiness. ( Indian Medicinal plants, Arya Vaidya Sala ) The powdered seeds make a useful external application, hastening suppuration and treating boils. The seed contains an anti-inflammatory active principle (O-acetylethanolamine) and they are used for the treatment of paralysis. A decoction of seeds is given in pulmonary affections. ( Indian Medicinal Plants, An Illustrated Dictionary, C.P. Khare ) The seeds are poisonous but harmless if the red chitinous coat remains unbroken. The heartwood is astringent, aphrodisiac, haemostatic, and is useful in dysentery, haemorrhages. ( Indian Medicinal plants, Arya Vaidya Sala ) Pulverized wood mixed with water is taken orally for migraines and headaches.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>bark and leaves</strong> are astringent, vulnerary and aphrodisiac. They are useful in colonorrhea, haematuria, ulcers, pharyngopathy and gout. (<i>Indian Medicinal plants, Arya Vaidya Sala</i>)<br>A <strong>decoction of bark or leaves</strong> is also used to treat dysentery, diarrhea and tonsillitis.<br>A <strong>decoction of leaves</strong> is used against chronic rheumatism and gout. (<i>Indian Medicinal Plants, Basu &amp; Kirtikar</i>)<br><br>The <strong>seeds</strong> are bitter, astringent, sweet, cooling, aphrodisiac, suppurative, antiemetic and febrifuge. They are useful in gout, burning sensation, hyperdipsia, vomiting, fever and giddiness. (<i>Indian Medicinal plants, Arya Vaidya Sala</i>)<br>The <strong>powdered seeds</strong> make a useful external application, hastening suppuration and treating boils.<br>The <strong>seed</strong> contains an anti-inflammatory active principle (O-acetylethanolamine) and they are used for the treatment of paralysis. A <strong>decoction of seeds</strong> is given in pulmonary affections. (<i>Indian Medicinal Plants, An Illustrated Dictionary, C.P. Khare</i>)<br>The <strong>seeds are poisonous</strong> but harmless if the red chitinous coat remains unbroken.<br><br>The <strong>heartwood</strong> is astringent, aphrodisiac, haemostatic, and is useful in dysentery, haemorrhages. (<i>Indian Medicinal plants, Arya Vaidya Sala</i>)<br><strong>Pulverized wood</strong> mixed with water is taken orally for migraines and headaches.</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Adenanthera pavonina grows best in wet environments, mainly in tropical areas with mean annual rainfall ranging from 3000 mm to 5000 mm and mean annual temperatures around 25-30 degrees, with the mean maximum of the hottest month being 28-35 degrees and the mean minimum of the coolest month being 14-22 degrees. It is not at all frost tolerant. This species is adapted to grow on a variety of soils from deep, well-drained to shallow and rocky soils. However, it prefers neutral to slightly acidic soils. ( Sosef et al., 1998; Orwa et al., 2009 ) Seedling growth is slow at first, but height and diameter increase rapidly from the second year. ( Adkins, 1993 ) Trees planted 1 x 2 m apart for windbreaks and at 2 x 2 m in plantations can be thinned in 3-5 years to provide fuelwood and construction materials. Trees resprout easily, allowing for coppice management with good survival. Trees are susceptible to breakage in high winds, with most of the damage occurring in the crown. ( Orwa et al., 2009; PROSEA, 2012; PIER, 2012 ) Source : CABI, Invasive Species Compendium, Adenanthera pavonina Generally no pretreatment is necessary for the seed germination but scratching its tips and 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Adenanthera pavonina</i> grows best in wet environments, mainly in tropical areas with mean annual rainfall ranging from 3000 mm to 5000 mm and mean annual temperatures around 25-30 degrees, with the mean maximum of the hottest month being 28-35 degrees and the mean minimum of the coolest month being 14-22 degrees. It is not at all frost tolerant. This species is adapted to grow on a variety of soils from deep, well-drained to shallow and rocky soils. However, it prefers neutral to slightly acidic soils. (<i>Sosef et al., 1998; Orwa et al., 2009</i>)<br><br>Seedling growth is slow at first, but height and diameter increase rapidly from the second year. (<i>Adkins, 1993</i>)<br>Trees planted 1 x 2 m apart for windbreaks and at 2 x 2 m in plantations can be thinned in 3-5 years to provide fuelwood and construction materials. Trees resprout easily, allowing for coppice management with good survival. Trees are susceptible to breakage in high winds, with most of the damage occurring in the crown. (<i>Orwa et al., 2009; PROSEA, 2012; PIER, 2012</i>)<br><i>Source : CABI, Invasive Species Compendium, Adenanthera pavonina</i></p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>Generally no pretreatment is necessary for the seed germination but scratching its tips and 12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "species_id": 18,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=18",
+  "scraped_at": "2025-11-02T17:39:39.754845Z",
+  "basic_info": {
+    "scientific_name": "Grewia flavescens",
+    "authority": "Juss.",
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/grewia_flavescens.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gr.fl_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Nov, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99426 N",
+      "longitude": "79.82384 E",
+      "raw": "11.99426 N - 79.82384 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Grewia flavescens",
+    "author": null,
+    "family": "Malvaceae",
+    "english_names": "Donkey berry, Sandpaper raisin",
+    "indian_names": {
+      "Hindi": [
+        "Khatkhati"
+      ],
+      "Malayalam": [
+        "Shenkadasi",
+        "Chathurakall"
+      ],
+      "Marathi": [
+        "Khatkhati"
+      ],
+      "Tamil": [
+        "Semparandai"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Grewia flavescens is grey-brownish coloured. The main stem of the shrub is 4-angled and deeply grooved.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Grewia flavescens</em> is grey-brownish coloured.<br>The <b>main stem</b> of the shrub is 4-angled and deeply grooved.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_flavescens_stem1.jpg",
+          "caption": "main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_flavescens_stem2.jpg",
+          "caption": "bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_flavescens_stem3.jpg",
+          "caption": "bark with shoot"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Grewia flavescens is enclosed into a stone. The stone is globose, very hard, with an irregular surface. It is about 5 mm across and there is 1 stone per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seed</b> of <em>Grewia flavescens</em> is enclosed into a stone. The stone is globose, very hard, with an irregular surface. It is about 5 mm across and there is 1 stone per fruit.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/grewia_flavescens_seed1.jpg",
+          "caption": "Grewia flavescens seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/grewia_flavescens_seed2.jpg",
+          "caption": "Grewia flavescens seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Grewia flavescens is a drupe, brown coloured when ripe. This fruit is globose (sometimes 2-lobbed), about 1 cm across and stellate tomentose. The epicarp (fruit-wall) is crustaceous and the mesocarp (pulp) is fibrous. The fruit is 1- or 2-seeded.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Grewia flavescens</em> is a drupe, brown coloured when ripe.<br>\nThis fruit is globose (sometimes 2-lobbed), about 1 cm across and stellate tomentose.<br>\nThe epicarp (fruit-wall) is crustaceous and the mesocarp (pulp) is fibrous.<br>\nThe fruit is 1- or 2-seeded.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit1.jpg",
+          "caption": "Grewia flavescens ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit2.jpg",
+          "caption": "Grewia flavescens unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit3.jpg",
+          "caption": "Grewia flavescens ripe fruit fibrous pulp"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit4.jpg",
+          "caption": "Grewia flavescens branch bearing fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit5.jpg",
+          "caption": "Grewia flavescens ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_flavescens_fruit6.jpg",
+          "caption": "Grewia flavescens unripe fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Grewia flavescens are bright yellow, 1.5-2 cm across and they are grouped in axillary 3-flowered clusters (cymes). The peduncle is about 5-6 mm long covered with long hairs. The bracts are ovate, 4 cm long and 3 mm wide with an acute apex. The calyx is composed of 5 sepals . They are linear, 1.5 cm long and 0.25 cm wide, bright yellow above and greenish stellate-tomentose beneath. They curve back when the flower is in full bloom. The corolla is composed of 5 bright yellow petals , hairy only at the base. They are linear, 1.5 cm long and 2 mm wide with a bifid tip. The yellow stamens are numerous with 8-12 mm long filiform filaments and tiny versatile anthers. The ovary is globose and 2-celled. The style is 12 mm long with a trifid and pointed stigma. The flower is fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Grewia flavescens</em> are bright yellow, 1.5-2 cm across and they are grouped in axillary 3-flowered clusters (cymes).<br>\nThe <b>peduncle</b> is about 5-6 mm long covered with long hairs.<br>\nThe <b>bracts</b> are ovate, 4 cm long and 3 mm wide with an acute apex.<br>\nThe <b>calyx</b> is composed of 5 <b>sepals</b>. They are linear, 1.5 cm long and 0.25 cm wide, bright yellow above and greenish stellate-tomentose beneath. They curve back when the flower is in full bloom.<br>\nThe <b>corolla</b> is composed of 5 bright yellow <b>petals</b>, hairy only at the base. They are linear, 1.5 cm long and 2 mm wide with a bifid tip.<br>\nThe yellow <b>stamens</b> are numerous with 8-12 mm long filiform filaments and tiny versatile anthers.<br>\nThe <b>ovary</b> is globose and 2-celled. The style is 12 mm long with a trifid and pointed stigma.<br>\nThe flower is fragrant.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower1.jpg",
+          "caption": "Grewia flavescens flowers in bloom and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower2.jpg",
+          "caption": "Grewia flavescens flowers in bloom and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower3.jpg",
+          "caption": "Grewia flavescens flowers and buds cluster on the right (a cyme)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower4.jpg",
+          "caption": "Grewia flavescens reproductive structures : numerous stamens and a trifid pistil"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower5.jpg",
+          "caption": "Grewia flavescens flowers cluster"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower6.jpg",
+          "caption": "Grewia flavescens flowers in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower7.jpg",
+          "caption": "Grewia flavescens flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_flavescens_flower8.jpg",
+          "caption": "Grewia flavescens flower and buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Grewia flavescens are simple and distichous-arranged on the twigs. They are oblong-lanceolate, thick, stellate-tomentose and dark-green above and pale green coloured beneath. The leaves are 6-10 cm long and 2.5-3.5 cm wide with a short petiole (4-5 mm long). The apex is acute, the base is rounded to truncate and the margins are serrate. The venation is reticulate with prominent nerves.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Grewia flavescens</em> are simple and distichous-arranged on the twigs.<br>\nThey are oblong-lanceolate, thick, stellate-tomentose and dark-green above and pale green coloured beneath. The leaves are 6-10 cm long and 2.5-3.5 cm wide with a short <b>petiole</b> (4-5 mm long). The <b>apex</b> is acute, the <b>base</b> is rounded to truncate and the <b>margins</b> are serrate.<br>\nThe <b>venation</b> is reticulate with prominent nerves.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf1.jpg",
+          "caption": "Grewia flavescens leaf (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf2.jpg",
+          "caption": "Grewia flavescens shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf3.jpg",
+          "caption": "Grewia flavescens twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf4.jpg",
+          "caption": "Grewia flavescens branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf5.jpg",
+          "caption": "Grewia flavescens leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_flavescens_leaf6.jpg",
+          "caption": "Grewia flavescens shoot (with cyme buds enclosed into the bracts)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Grewia flavescens is a deciduous , densely branched and multi-stemmed shrub up to 4-5 meters.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Grewia flavescens</em> is a <b>deciduous</b>, densely branched and multi-stemmed <b>shrub</b> up to 4-5 meters.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/grewia_flavescens_habit1.jpg",
+          "caption": "Grewia flavescens multi-stemmed shrub"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Grewia flavescens</em> is found in open woodland, scrub jungles, thickets, on rocky hillsides, along river banks and at margins of forests; from coastal plains to 900-1000 meters of elevation.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <em>Grewia flavescens</em> is distributed throughout tropical Africa, Arabian Peninsula and India.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>Bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Grewia flavescens</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Grewia flavescens</em> are mainly dispersed by various frugivorous birds and mammals.</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> Thoughout the year.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> Thoughout the year.</li>\n      <li><span class=\"titchap\">Seeding season :</span> Thoughout the year.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The branches of Grewia flavescens are used for making baskets.",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>branches</b> of <em>Grewia flavescens</em> are used for making baskets.  </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruit of Grewia flavescens is edible and tasty.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The<b> fruit</b> of <em>Grewia flavescens</em> is edible and tasty.      </p>\n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The fruit of Grewia flavescens contains remarkably high amounts of iron. ( Nutritional composition of Grewia species fruits, G.O. Mohammed Elhassan and S.M. Yagi, 2010 ) That supports the traditional use of the plant in the treatment of anemia.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The <b>fruit</b> of <em>Grewia flavescens</em> contains remarkably high amounts of iron. (<em>Nutritional composition of Grewia species fruits, G.O. Mohammed Elhassan and S.M. Yagi, 2010</em>)<br>\nThat supports the traditional use of the plant in the treatment of anemia.      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Grewia flavescens</em> grows in a wide range of soils but all soils need to be free draining and the plant prefers open lands with full sun.<br>\n<em>Grewia flavescens</em> can be grown from seed but germination is unpredictable. The stones that have passed through the stomach of wild fruit-eaters germinate rapidly (stomach acids dissolve the tough stone coat).        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          12 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

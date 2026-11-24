@@ -1,0 +1,217 @@
+{
+  "species_id": 262,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=262",
+  "scraped_at": "2026-01-10T07:44:07.011928Z",
+  "basic_info": {
+    "scientific_name": "Asystasia gangetica",
+    "authority": null,
+    "family": "Acanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63f9e89099222_63f9e89099211_As.ga_mpb.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/As.ga_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "18 Jan, 2023",
+    "collected_by": "M.D, M.K, R.S",
+    "gps_coordinates": {
+      "latitude": "11°59'13 N",
+      "longitude": "79°48'22 E",
+      "raw": "11°59'13 N - 79°48'22 E"
+    },
+    "locality": "Auroville Botanical Gardens, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Asystasia gangetica",
+    "author": "(L) Anderson, Thomas (1860)",
+    "family": "Acanthaceae",
+    "english_names": "Coromandel Foxglove",
+    "indian_names": null,
+    "synonyms": [
+      "Asystasia acuminata",
+      "Asystasia bojeriana",
+      "Asystasia calycina",
+      "Asystasia comorensis var. humilis",
+      "Asystasia coromandeliana",
+      "Asystasia coromandeliana",
+      "Asystasia gangetica var. mendeliana",
+      "Asystasia plumbaginea",
+      "Asystasia quarterna",
+      "Asystasia violacea",
+      "Dyschoriste biloba",
+      "Intrusaria bicolor",
+      "Justicia gangetica",
+      "Justicia plumbaginea",
+      "Ruellia biloba",
+      "Ruellia gangetica",
+      "Ruellia zeylanica",
+      "Tyloglossa longipes"
+    ],
+    "etymology": "- A\nsystasia\n: from the Latin 'a' and 'systasis' meaning non-consistent, referring to the radial growing flowers which is uncommon in the family\n-\ngangetica\n: After the Ganges River in India",
+    "etymology_html": "<p>- A<i>systasia</i>: from the Latin 'a' and 'systasis' meaning non-consistent, referring to the radial growing flowers which is uncommon in the family<br>- <i>gangetica</i>: After the Ganges River in India</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Asystasia gangetica is striated in its length. They are straight, branching in regular angle. The stems have a swollen base, red in colour at the base of the branching.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Asystasia gangetica is striated in its length.<br>They are straight, branching in regular angle.<br>The stems have a swollen base, red in colour at the base of the branching.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/As.ga_st1.jpg",
+          "caption": "Asystasia gangetica branching stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/As.ga_st2.jpg",
+          "caption": "Asystasia gangetica striated stem with red swollen base at the branching"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Asystasia gangetica are enclosed in a club-shaped capsule. They are 4 to 6 in number in one capsule. The seeds are angular with an irregular shape. They are less than 5 mm wide, and brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Asystasia gangetica are enclosed in a club-shaped capsule. <br>They are 4 to 6 in number in one capsule.<br>The seeds are angular with an irregular shape.<br>They are less than 5 mm wide, and brown in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/As.ga_sd1.jpg",
+          "caption": "Asystasia gangetica brown seed with open ripe capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/As.ga_sd2.jpg",
+          "caption": "Asystasia gangetica seeds mature (brown in colour)and unripe (white on right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/As.ga_sd3.jpg",
+          "caption": "Asystasia gangetica angular seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/As.ga_sd4.jpg",
+          "caption": "Asystasia gangetica seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Asystasia gangetica are capsules. The fruit is club-shaped, 1.50 cm long and 0.50 cm wide, apically pointed with seeds inside. It is green when unripe, turning brown at maturity. The fruit is minutely pubescent, often with the protruding persistent stigma. It opens widely in a reflexed curve when ready.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Asystasia gangetica are capsules. <br>The fruit is club-shaped, 1.50 cm long and 0.50 cm wide, apically pointed with seeds inside. <br>It is green when unripe, turning brown at maturity.<br>The fruit is minutely pubescent, often with the protruding persistent stigma.<br>It opens widely in a reflexed curve when ready.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr1.jpg",
+          "caption": "Asystasia gangetica long raceme with unripe fruit at the bottom and flower on top"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr2.jpg",
+          "caption": "Asystasia gangetica unripe green fruit with protruding persistent stigma"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr3.jpg",
+          "caption": "Asystasia gangetica unripe capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr4.jpg",
+          "caption": "Asystasia gangetica fruit arrangement along the raceme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr5.jpg",
+          "caption": "Asystasia gangetica split open mature fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/As.ga_fr6.jpg",
+          "caption": "Asystasia gangetica unripe fruit dissected in half to show the seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Asystasia gangetica are white in colour, sometimes with a pale purple tinge. They are tube funnel-shaped and about 3 cm long in size. The flowers are borne in a 7-8 lax spike like raceme, which can be up to 1.50 cm long. The lower flowers are 2 cm apart and get closer above. The bracts are lanceolate, they are less than 0.50 cm in size. The calyx is acuminate with 5 thinly pubescent lobes. The sepal-cup is divided to the base into 5 linear-lance shaped sepals about 1 cm long, and has dense velvet hairs.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Asystasia gangetica are white in colour, sometimes with a pale purple tinge.<br>They are tube funnel-shaped and about 3 cm long in size.<br>The flowers are borne in a 7-8 lax spike like raceme, which can be up to 1.50 cm long. <br>The lower flowers are 2 cm apart and get closer above.<br>The bracts are lanceolate, they are less than 0.50 cm in size. <br>The calyx is acuminate with 5 thinly pubescent lobes.  <br>The sepal-cup is divided to the base into 5 linear-lance shaped sepals about 1 cm long, and has dense velvet hairs.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl1.jpg",
+          "caption": "Asystasia gangetica white open flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl6b.jpg",
+          "caption": "Asystasia gangetica pale purple coloured flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl2.jpg",
+          "caption": "Asystasia gangetica inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl3.jpg",
+          "caption": "Asystasia gangetica pubescent flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl4.jpg",
+          "caption": "Asystasia gangetica flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/As.ga_fl5.jpg",
+          "caption": "Asystasia gangetica flowers dissected in half"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Asystasia gangetica are simple, growing in opposite decussate arrangement. They are 2 to 6 cm long and 1.50 to 4 cm wide. The leaf shape is elliptic ovate with an entire margin. The base is heart-shaped and the tip is pointed or blunt. The upper side of the leaf is pubescent and pale, and the lower side is woolly. The petiole is about 1 to 2 cm long, red when young and pubescent.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Asystasia gangetica are simple, growing in opposite decussate arrangement. <br>They are 2 to 6 cm long and 1.50 to 4 cm wide. <br>The leaf shape is elliptic ovate with an entire margin. <br>The base is heart-shaped and the tip is pointed or blunt. <br>The upper side of the leaf is pubescent and pale, and the lower side is woolly. <br>The petiole is about 1 to 2 cm long, red when young and pubescent.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf1.jpg",
+          "caption": "Asystasia gangetica leaf with red petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf2.jpg",
+          "caption": "Asystasia gangetica leaves in opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf4.jpg",
+          "caption": "Asystasia gangetica leaf with pointed tip"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf3.jpg",
+          "caption": "Asystasia gangetica young leaf growth"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf5.jpg",
+          "caption": "Asystasia gangetica leaves arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf6.jpg",
+          "caption": null
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/As.ga_lf7.jpg",
+          "caption": "Asystasia gangetica leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Asystasia gangetica is a perennial herb growing up to 30 to 80 cm long. It can climb up to 2 m with the support of other species. It is a common under-storey species of the Tropical Dry Evergreen forest.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Asystasia gangetica is a perennial herb growing up to 30 to 80 cm long.<br>It can climb up to 2 m with the support of other species.<br>It is a common under-storey species of the Tropical Dry Evergreen forest.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/As.ga_ha1.jpg",
+          "caption": "Asystasia gangetica as a ground cover"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/As.ga_ha2.jpg",
+          "caption": "Asystasia gangetica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/As.ga_ha3.jpg",
+          "caption": "Asystasia gangetica habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

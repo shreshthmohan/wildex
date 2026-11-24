@@ -1,0 +1,239 @@
+{
+  "species_id": 84,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=84",
+  "scraped_at": "2025-10-08T06:42:17.613198Z",
+  "basic_info": {
+    "scientific_name": "Diospyros montana",
+    "authority": "Roxb.",
+    "family": "Ebenaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/diospyros_montana.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Di.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "23 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99557 N",
+      "longitude": "79.82246 E",
+      "raw": "11.99557 N - 79.82246 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Diospyros montana",
+    "author": "Roxburgh, William (1795)",
+    "family": "Ebenaceae",
+    "english_names": "Bombay ebony, mountain ebony",
+    "indian_names": {
+      "Hindi": [
+        "Bistendu"
+      ],
+      "Kannada": [
+        "Kalagunda",
+        "tendu"
+      ],
+      "Malayalam": [
+        "Malayakathitholi",
+        "manjakara"
+      ],
+      "Marathi": [
+        "Govindhu",
+        "tembhurni"
+      ],
+      "Tamil": [
+        "Karundhuvalisu",
+        "vakanai",
+        "vakkanatthi"
+      ],
+      "Telugu": [
+        "Makar tendi",
+        "muchi tanki"
+      ]
+    },
+    "synonyms": [
+      "Diospyros auriculata",
+      "Diospyros bracteata",
+      "Diospyros calcarea",
+      "Diospyros calycina",
+      "Diospyros cordifolia",
+      "Diospyros dioica",
+      "Diospyros glauca",
+      "Diospyros goindu",
+      "Diospyros heterophylla",
+      "Diospyros humilis",
+      "Diospyros kanjilalii",
+      "Diospyros microcarpa",
+      "Diospyros montana f. cordifolia",
+      "Diospyros montana var. cordifolia",
+      "Diospyros orixensis",
+      "Diospyros pubicalyx",
+      "Diospyros punctata",
+      "Diospyros rugosula",
+      "Diospyros waldemarii",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nDiospyros\n: From the ancient Greek words\nDios\nmeaning divine and\nPuros\nfor grain, wheat. Thus, in context\nDiospyros\nmeans more or less \"food of god\", referring to the species with edible fruit.\n-\nMontana\n: Meaning from the mountains.",
+    "etymology_html": "<p>- <i>Diospyros</i> : From the ancient Greek words <i>Dios</i> meaning divine and <i>Puros</i> for grain, wheat. Thus, in context <i>Diospyros</i> means more or less \"food of god\", referring to the species with edible fruit.<br>- <i>Montana</i> : Meaning from the mountains.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The young trunk of Diospyros montana is often spinescent. The bark is grey and it exfoliates in irregular and small flakes on old specimen.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The young <strong>trunk</strong> of <i>Diospyros montana</i> is often spinescent. The <strong>bark</strong> is grey and it exfoliates in irregular and small flakes on old specimen.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/diospyros_montana_stem1.jpg",
+          "caption": "Diospyros montana trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/diospyros_montana_stem2.jpg",
+          "caption": "Diospyros montana bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "There are usualy 4 to 8 seeds in each berry of Diospyros montana . The seeds are ovate, brown-coloured with an apical beak.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>There are usualy 4 to 8 <strong>seeds</strong> in each berry of <i>Diospyros montana</i>.<br>The seeds are ovate, brown-coloured with an apical beak.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/diospyros_montana_seed1.jpg",
+          "caption": "Diospyros montana seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/diospyros_montana_seed2.jpg",
+          "caption": "Diospyros montana seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Diospyros montana is a subglobose berry up to 2 cm across. The fruit is fleshy with persistent and dry calyx at the base. The berry is greenish-coloured turning yellowish-orange when ripe. It contains 4-8 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Diospyros montana</i> is a subglobose <strong>berry</strong> up to 2 cm across. The fruit is fleshy with persistent and dry calyx at the base. The berry is greenish-coloured turning yellowish-orange when ripe. It contains 4-8 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit1.jpg",
+          "caption": "Diospyros montana ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit2.jpg",
+          "caption": "Diospyros montana ripe fruits (with the persitent calyx at the base)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit3.jpg",
+          "caption": "Diospyros montana unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit4.jpg",
+          "caption": "Diospyros montana unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit5.jpg",
+          "caption": "Diospyros montana ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/diospyros_montana_fruit6.jpg",
+          "caption": "Diospyros montana fruiting branchlets"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Diospyros montana are unisexual. The male flowers are grouped in short and axillary cymes (usually 3-flowered). The calyx is cup-shaped and 4-lobed. The calyx-lobes are ovate, ciliate and 2-3 mm long. The corolla is campanulate with 4 greenish-coloured, ovate and 4-5 mm long lobes. The androecium is composed of 16 stamens (8 pairs) with short filament and lanceolate anthers. The female flowers are axillary and solitary. The calyx and the corolla are similar to the male flowers. The style is 1-2 mm long, the stigma is capitate and the ovary is globose and 6-7 mm across. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Diospyros montana</i> are unisexual.<br>The <strong>male flowers</strong> are grouped in short and axillary cymes (usually 3-flowered).<br>The <strong>calyx</strong> is cup-shaped and 4-lobed. The calyx-lobes are ovate, ciliate and 2-3 mm long.<br>The <strong>corolla</strong> is campanulate with 4 greenish-coloured, ovate and 4-5 mm long lobes.<br>The <strong>androecium</strong> is composed of 16 stamens (8 pairs) with short filament and lanceolate anthers.<br>The <strong>female flowers</strong> are axillary and solitary.<br>The <strong>calyx</strong> and the <strong>corolla</strong> are similar to the male flowers.<br>The <strong>style</strong> is 1-2 mm long, the <strong>stigma</strong> is capitate and the <strong>ovary</strong> is globose and 6-7 mm across. The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": []
+    },
+    "leaf": {
+      "text": "The leaves of Diospyros montana grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 5-8 mm long petiole . The leaf of Diospyros montana is 5-10 m long and 3-4 cm wide. The shape of the blade is ovate to oblong, the apex is acute, the base is rounded or truncate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Diospyros montana</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 5-8 mm long <strong>petiole</strong>.<br>The leaf of <i>Diospyros montana</i> is 5-10 m long and 3-4 cm wide. The shape of the <strong>blade</strong> is ovate to oblong, the <strong>apex</strong> is acute, the <strong>base</strong> is rounded or truncate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf1.jpg",
+          "caption": "Diospyros montana twig (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf2.jpg",
+          "caption": "Diospyros montana twig (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf3.jpg",
+          "caption": "Diospyros montana leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf4.jpg",
+          "caption": "Diospyros montana leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf5.jpg",
+          "caption": "Diospyros montana young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf6.jpg",
+          "caption": "Diospyros montana leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf7.jpg",
+          "caption": "Diospyros montana leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/diospyros_montana_leaf8.jpg",
+          "caption": "Diospyros montana foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Diospyros montana is a medium-sized and deciduous tree growing up to 12-15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Diospyros montana</i> is a medium-sized and <strong>deciduous tree</strong> growing up to 12-15 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/diospyros_montana_habit1.jpg",
+          "caption": "Diospyros montana tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Diospyros montana is common in a wide range of habitats and resistant to sun and drought. It is found in dry deciduous to dry evergreen forests up to 1200 m high in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Diospyros montana</i> is common in a wide range of habitats and resistant to sun and drought. It is found in dry deciduous to dry evergreen forests up to 1200 m high in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region and Australia.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region and Australia.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Diospyros montana is monoecious with unisexual (male or female) flowers on the same individual. Diospyros montana is pollinated by a wide variety of insects (mainly bees, wasps, beetles and butterflies). The seeds of Diospyros montana are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Diospyros montana</i> is monoecious with unisexual (male or female) flowers on the same individual.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Diospyros montana</i> is pollinated by a wide variety of insects (mainly bees, wasps, beetles and butterflies).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Diospyros montana</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From March to May. From July to November. From July to November. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From March to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From July to November.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From July to November.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The bark ground mixed with salt is applied over wounds and also on the broken part of a limb. ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants ) The twigs and the leaves of Diospyros montana are lopped for fodder . ( Krishen, 2006, Trees of Delhi )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark ground mixed with salt</strong> is applied over wounds and also on the broken part of a limb. (<i>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i>)<br><br>The twigs and the leaves of <i>Diospyros montana</i> are lopped for <strong>fodder</strong>. (<i>Krishen, 2006, Trees of Delhi</i>)</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Diospyros montana is hard and heavy and it takes a good polish. It is used for building construction, boat masts, well construction. The fruits are rich in pectin and tannin. They are used as sizing and tanning material. Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Diospyros montana</i> is hard and heavy and it takes a good polish. It is used for building construction, boat masts, well construction.<br><br>The <strong>fruits</strong> are rich in pectin and tannin. They are used as sizing and tanning material.<br><br><i>Source : Dastur, 2006, Useful Plants of India and Pakistan</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Diospyros montana is used in Ayurveda and Siddha medicines. The fruits of Diospyros montana are poisonous , bitter, astringent, febrifuge, abortifacient. The fruits are applied externally to boils and spider stings. The bark paste is given with boiled rice for swelling of the body. The extract of fresh stem bark is taken in stomachache. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Diospyros montana</i> is used in Ayurveda and Siddha medicines.<br><br>The <strong>fruits</strong> of <i>Diospyros montana</i> are <strong>poisonous</strong>, bitter, astringent, febrifuge, abortifacient.<br>The fruits are applied externally to boils and spider stings.<br><br>The <strong>bark paste</strong> is given with boiled rice for swelling of the body.<br><br>The <strong>extract of fresh stem bark</strong> is taken in stomachache.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Diospyros montana is able to grow in a wide range of soils but all soils need to be free draining. The tree is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Diospyros montana</i> is able to grow in a wide range of soils but all soils need to be free draining.<br>The tree is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

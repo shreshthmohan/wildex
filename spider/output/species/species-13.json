@@ -1,0 +1,206 @@
+{
+  "species_id": 13,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=13",
+  "scraped_at": "2025-10-03T13:05:11.029001Z",
+  "basic_info": {
+    "scientific_name": "Ficus benghalensis",
+    "authority": "L.",
+    "family": "Moraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/ficus_benghalensis.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Fi.bg_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "17 Jan, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99512 N",
+      "longitude": "79.82449 E",
+      "raw": "11.99512 N - 79.82449 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Ficus benghalensis",
+    "author": null,
+    "family": "Moraceae",
+    "english_names": "Banyan tree , Bengal fig, Indian banyan, Indian fig",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Ficus benghalenis is greyish-white and smooth (becoming flaky with age). The young shoots are pubescent. The bark exude milky sap when cut. The aerial roots sending down from the massive horizontal branches become props when reaching the ground and over the years they grow in separate trunks.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Ficus benghalenis</em> is greyish-white and smooth (becoming flaky with age). The young shoots are pubescent. The bark exude milky sap when cut.<br>\nThe <b>aerial roots</b> sending down from the massive horizontal branches become props when reaching the ground and over the years they grow in separate trunks.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_benghalensis_stem1.jpg",
+          "caption": "main trunk and prop-roots"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_benghalensis_stem2.jpg",
+          "caption": "main trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/ficus_benghalensis_stem3.jpg",
+          "caption": "bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fig , what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes). The fruits of Ficus benghalensis are globose achenes , brownish and about 2 mm across. The figs are sessile, in pairs at the axil of the leaves. They are 1.5-2 cm across, depressed-globose, downy and they are pinkish-red when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fig</b>, what we referred to as a fruit, is in fact a fleshy enclosure, an infructescence that contains hundreds of tiny fruits (achenes).<br><br>\nThe <b>fruits</b> of <em>Ficus benghalensis</em> are globose <b>achenes</b>, brownish and about 2 mm across.<br><br>\nThe <b>figs</b> are sessile, in pairs at the axil of the leaves.<br> They are 1.5-2 cm across, depressed-globose, downy and they are pinkish-red when ripe.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit1.jpg",
+          "caption": "infructescences : the figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit2.jpg",
+          "caption": "fig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit3.jpg",
+          "caption": "infructescence : a longitudinal section of the fig enclosing the tiny fruits (unripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit4.jpg",
+          "caption": "fig enclosing the tiny fruits (ripe)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit5.jpg",
+          "caption": "figs"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/ficus_benghalensis_fruit6.jpg",
+          "caption": "pair of figs"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Ficus benghalensis are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called syconium (*). The syconium of Ficus benghalensis is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators). (*) The syconium is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts. Syconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen. Once pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. ( Galil, J., Fig biology, 1977 )",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Ficus benghalensis</em> are enclosed within a fleshy receptacle referred to as the fig. What we think of as a fruit is an inflorescence, a flower-bearing structure called <b>syconium</b> (*).<br>\nThe syconium of <em>Ficus benghalensis</em> is monoecious, containing both female and male flowers and also gall flowers (hosts of pollinators).<br><br>\n\n(*) The <b>syconium</b> is an urn-shaped receptacle which contains between 50 to 7000 (depending on the species) highly simplified uniovulate flowers or florets on its inner surface. It is closed off from most organisms by the ostiole, formed by bracts.<br>\nSyconia can be monoecious or functionally dioecious : the former contain female flowers with variable style length and few male flowers, and produce seeds and pollen. The latter have male and female forms in different plants : seed figs contain female flowers with long styles and produce seeds; gall figs contain female flowers with short styles and male flowers and produce pollen.<br>\nOnce pollinated, the florets develop into achenes or drupes, in which the seeds are enclosed by a layer of endocarp. From this perspective, the fig is an enclosure with tens to thousands of fruits within it. (<em>Galil, J., Fig biology, 1977</em>)      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_benghalensis_flower1.jpg",
+          "caption": "inflorescence : a longitudinal section of the syconium enclosing the flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/ficus_benghalensis_flower2.jpg",
+          "caption": "pollinated flowers, the black spot in the middle is a group of wasps (the fig pollinators)"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Ficus benghalensis grow alternately on the stem (spirally arranged), often in clusters at ends of the branches. The leaves have a pubescent and 2.5-3 cm long petiole . The leaf is simple, coriaceous and leathery, shiny and dark green coloured above and pale light green coloured below. The upper side of the leaf is glabrous and the lower side is puberulous (especially on the nerves). The leaf of Ficus benghalensis is 10-15 cm long and 6-9 cm wide. These leaves are ovate, the apex is obtuse to acute, the base is rounded or cordate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib. The leaf bud is covered by two large scales that fall when the leaf develops.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Ficus benghalensis</em> grow alternately on the stem (spirally arranged), often in clusters at ends of the branches.<br>\nThe leaves have a pubescent and 2.5-3 cm long <b>petiole</b>.<br>\nThe <b>leaf</b> is simple, coriaceous and leathery, shiny and dark green coloured above and pale light green coloured below. The <b>upper side</b> of the leaf is glabrous and the <b>lower side</b> is puberulous (especially on the nerves).<br>\nThe leaf of <em>Ficus benghalensis</em> is 10-15 cm long and 6-9 cm wide. These leaves are ovate, the <b>apex</b> is obtuse to acute, the <b>base</b> is rounded or cordate and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.<br>\nThe leaf bud is covered by two large scales that fall when the leaf develops.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf1.jpg",
+          "caption": "branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf2.jpg",
+          "caption": "leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf3.jpg",
+          "caption": "leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf4.jpg",
+          "caption": "branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf5.jpg",
+          "caption": "leathery leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/ficus_benghalensis_leaf6.jpg",
+          "caption": "leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Ficus benghalensis is a huge spreading and deciduous tree (up to 15 meters). It has characteristic aerial roots descending from the branches to the ground which over the years grow and become trunk-like pillars supporting the spreading and thick branches. Sometimes, with age, these pillars become indistinguishable from the main trunk. Some specimens in India are among the largest trees in the world by canopy coverage. Ficus benghalensis starts its life as an epiphyte (a plant that grows on another plant or object). The seeds germinate in the cracks of a host tree or buildings. The mesh of roots growing around the support tree applies considerable pressure that often kills the host tree.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Ficus benghalensis</em> is a huge spreading and <b>deciduous tree</b> (up to 15 meters).<br>\nIt has characteristic aerial roots descending from the branches to the ground which over the years grow and become trunk-like pillars supporting the spreading and thick branches. Sometimes, with age, these pillars become indistinguishable from the main trunk.<br>\nSome specimens in India are among the largest trees in the world by canopy coverage.<br>\n<em>Ficus benghalensis</em> starts its life as an epiphyte (a plant that grows on another plant or object). The seeds germinate in the cracks of a host tree or buildings. The mesh of roots growing around the support tree applies considerable pressure that often kills the host tree.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benghalensis_habit1.jpg",
+          "caption": "Ficus benghalensis tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benghalensis_habit2.jpg",
+          "caption": "Ficus benghalensis main trunk and trunk-like pillars supporting the spreading branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benghalensis_habit3.jpg",
+          "caption": "Young Ficus benghalensis strangling a palm tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/ficus_benghalensis_habit4.jpg",
+          "caption": "The great banyan tree of Kolkata botanic gardens, the largest known in India in spread : more than 250 years old and spreading over an area of about 1.5 hectare with about 2880 prop-roots"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Ficus benghalensis</em> grows in deciduous and semi-evergreen forests, from coastal plains up to 1200 m.<br>\nThe species tolerates poor soils but it thrives in well-drained, rich soils and sunny places.        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <em>Ficus benghalensis</em> is native to India, Sri Lanka and Pakistan.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span>The syconium of <em>Ficus benghalensis</em> is monoecious : each fig contains both female and male flowers.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Ficus benghalensis</em> is pollinated by a symbiosis with a kind of fig wasp (family Agaonidae). The syconium supplies shelter and food for fig wasps and in turn the fig wasps pollinate the flowers of the ficus.<br><br>\n\nThe tight ostiolar enclosure at the apex of syconia makes them highly pollinator-specific. When receptive to pollen, the ostiole slightly loosens, allowing the highly specialized wasps to enter through it. The wasps lose their wings in the process, and once inside they pollinate female flowers as they lay their eggs in some ovules, which then form galls. The wasps then die and larvae develop in the galls, while seeds develop in the pollinated flowers. 4-6 weeks after egg laying, the wingless males emerge, mate with the females still in their galls, and cut a tunnel out of the syconium. As the females emerge, they collect pollen from male flowers, which ripen later. (<em>Wikipedia</em>)<br>\n\nFor further information about the life cycle of the fig wasp :  see a <a href=\"http://www.britannica.com/animal/fig-wasp\" target=\"_blank\">figure of Encyclopaedia Britannica</a>.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Ficus benghalensis</em> are dispersed by fruit-eating birds and bats.<br>\nFig seeds that pass through the digestive system of birds are more likely to germinate and sprout earlier (<em>Midya, S.; Brahmachary, R. L. (1991) \"The Effect of Birds Upon Germination of Banyan (Ficus bengalensis) Seeds\". Journal of Tropical Ecology. 7(4):537-538</em>).</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From March to August.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> The syconia (\"figs\") ripen between April and August.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From April to August.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "The latex is externally applied for pains and bruises and in rheumatism and lumbago inflammations. It is applied to the soles of the feet when cracked or inflamed. The gum is used as a remedy for tooth-ache. An infusion of the bark is supposed to be a powerful tonic and is considered to have specific properties in the treatment of diabetes. The leaves are applied, heated as a poultice, to abscesses and wounds for promoting suppuration and they are used to treat allergic conditions of the skin and burning sensations. The tender ends of the hanging roots are given for obstinate vomiting. Source : Indian Medicinal Plants, Basu & Kirtikar - Rasa (taste) : Kashaaya (astringent) - Guna (quality) : Guru (heavy), ruksha (dry) - Veerya (potency) : Sheeta (cooling) - Vipaaka (post-digestive taste) : Katu (pungent) - Karma (action) : KaphaPittashaamaka (pacifying Kapha and Pitta) It is Vedanasthaapana (stops the pain), Vranaropana (cures wounds), Raktarodhaka (stopping blood), Shothahara (taking away inflammations and swellings), Chakshushya (pleasing to the eyes). The latex is used in Vrana (wounds), Vipaadikaa (cracked soles), Sandhishotha (inflammation, swelling of the joints: synovitis, arthritis) Aamavaata (inflammation of the joints: rheumatoid arthritis), Vankshanashotha (swelling in the groin-illiaco-pubic region), Granthishotha (swollen cyst), Karnasraava (exudation from ear), Dantashoola (toothache), Netraabhishyanda (conjunctivitis), Arma (pterigium), also in lymphadenitis, otorrhoea and piles. The paste of areal roots is applied on the breasts in case of Stanashaithilya (breast looseness), and also in Charmaroga (skin diseases) and skin ulcers. A bundle of leaves is tied over an inflammatory part or a joint with synovitis. - Circulatory system : It is Raktashodaka (purifying blood) and Raktapittahara (taking away haemorrhage). In Varnavikaara (diseases of skin complexion), Raktavikaara/Raktapitta (bleeding disorders), a decoction of the tender leaves or the bark is given to drink twice daily. The latex is analgesic (works as pain-killer). - Digestive system : Being Kashaaya (astringent), it is Stambhana (stopping, making immovable). The latex is given to treat Atisaara (diarrhoea), Raktaatisaara (diarrhoea with blood), Pravaahikaa (amoebic dysentery and bacillary dysentery). In Vibandha (constipation) the tender shoots or tender hanging roots are grounded with the scum of the rice water then mixed with a lassi or sweetened buttermilk and drunk twice daily. - Reproductive system : Garbhaashayashothahara (removing swelling in the womb). A decoction of the bark or of young shoots is used as a douche in case of Shvetapradara (leucorrhoea) and Raktapradara (menorrhagia). For internal intake, milk and sugar are added to the decoction of young shoots and drunk twice daily (morning and evening). The tender leaves are Garbhasthaapana (anti-abortifacient). Shukrastambhana (arresting, restraining the semen). The latex with sugar is a good remedy to premature ejaculation. The powder of areal roots in water twice daily reduces seminal weakness.\n- Respiratory system : A decoction of tender leaves is given in Kaasa (cough with phlegm). - Urinary system : Mootrasangrahaneeya (to be taken in case of urinary disorders). All latex , bark , skin and fruits are anti-diabetic. The bark soaked in water overnight and drunk the next morning helps to maintain the blood sugar level. - In fever : Daahaprashaamana (pacifies the burning sensation). Latex, tender leaves, leaves, bark, fruits, areal roots Bark/tender leaves decoction : 50-100 ml; Powder : 3-6gr ; latex : 10-20 drops - On Dosha : Kaphaghna (alleviates Kapha), Pittaghna (alleviates Pitta) - On Dhatu : Rakta (blood, red blood cells : menorrhagia, complexion enhancer, bleeding disorders), Shukra (gonades : premature ejaculation), Mamsa (muscles) and Meda (adepous tissus) : wound healing - On Mala : Purisha (stool), Mootra (urine) - Organs : Uterus (in menorrhagia, leucorrhoea, garbhasthaapana-antiabortifacient)",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The <b>latex</b> is externally applied for pains and bruises and in rheumatism and lumbago inflammations. It is applied to the soles of the feet when cracked or inflamed.<br><br>\nThe <b>gum</b> is used as a remedy for tooth-ache.<br><br>\nAn infusion of the <b>bark</b> is supposed to be a powerful tonic and is considered to have specific properties in the treatment of diabetes.<br><br>\nThe <b>leaves</b> are applied, heated as a poultice, to abscesses and wounds for promoting suppuration and they are used to treat allergic conditions of the skin and burning sensations.<br><br>\nThe tender <b>ends of the hanging roots</b> are given for obstinate vomiting.<br><br>\n<em>Source : Indian Medicinal Plants, Basu &amp; Kirtikar</em>      \n    </p>\n\n    \n    \n    <div id=\"ayurveda\"><div id=\"ayurveda_tit\">Dravya Guna - Ayurvedic Pharmacology</div>  \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Pancharasa | <span class=\"ayurveda_tit3_small\">Essence of the plant</span></div><div class=\"cleaner\"></div></div>\n          <p>- <b>Rasa</b> (taste) : Kashaaya (astringent)<br>\n- <b>Guna</b> (quality) : Guru (heavy), ruksha (dry)<br>\n- <b>Veerya</b> (potency) : Sheeta (cooling)<br>\n- <b>Vipaaka</b> (post-digestive taste) : Katu (pungent)<br>\n- <b>Karma</b> (action) : KaphaPittashaamaka (pacifying Kapha and Pitta)</p> \n       \n\n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">External uses</div><div class=\"cleaner\"></div></div>\n          <p>It is Vedanasthaapana (stops the pain), Vranaropana (cures wounds), Raktarodhaka (stopping blood), Shothahara (taking away inflammations and swellings), Chakshushya (pleasing to the eyes).<br>\nThe <b>latex</b> is used in Vrana (wounds), Vipaadikaa (cracked soles), Sandhishotha (inflammation, swelling of the joints: synovitis, arthritis) Aamavaata (inflammation of the joints: rheumatoid arthritis), Vankshanashotha (swelling in the groin-illiaco-pubic region), Granthishotha (swollen cyst), Karnasraava (exudation from ear), Dantashoola (toothache), Netraabhishyanda (conjunctivitis), Arma (pterigium), also in lymphadenitis, otorrhoea and piles.<br>\nThe <b>paste of areal roots</b> is applied on the breasts in case of Stanashaithilya (breast looseness), and also in Charmaroga (skin diseases) and skin ulcers.<br>\nA bundle of <b>leaves</b> is tied over an inflammatory part or a joint with synovitis.</p> \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Internal uses</div><div class=\"cleaner\"></div></div>\n          <p>- <b>Circulatory system</b> : It is Raktashodaka (purifying blood) and Raktapittahara (taking away haemorrhage). In Varnavikaara (diseases of skin complexion), Raktavikaara/Raktapitta (bleeding disorders), a <b>decoction of the tender leaves or the bark</b> is given to drink twice daily. The <b>latex</b> is analgesic (works as pain-killer).<br>\n- <b>Digestive system</b> : Being Kashaaya (astringent), it is Stambhana (stopping, making immovable). The <b>latex</b> is given to treat Atisaara (diarrhoea), Raktaatisaara (diarrhoea with blood), Pravaahikaa (amoebic dysentery and bacillary dysentery). In Vibandha (constipation) the <b>tender shoots or tender hanging roots</b> are grounded with the scum of the rice water then mixed with a lassi or sweetened buttermilk and drunk twice daily.<br>\n- <b>Reproductive system</b> : Garbhaashayashothahara (removing swelling in the womb). A <b>decoction of the bark or of young shoots</b> is used as a douche in case of Shvetapradara (leucorrhoea) and Raktapradara (menorrhagia). For internal intake, milk and sugar are added to the decoction of young shoots and drunk twice daily (morning and evening). The <b>tender leaves</b> are Garbhasthaapana (anti-abortifacient). Shukrastambhana (arresting, restraining the semen). The <b>latex</b> with sugar is a good remedy to premature ejaculation. The <b>powder of areal roots</b> in water twice daily reduces seminal weakness.\n- <b>Respiratory system</b> : A <b>decoction of tender leaves</b> is given in Kaasa (cough with phlegm).<br>\n- <b>Urinary system</b> : Mootrasangrahaneeya (to be taken in case of urinary disorders). All <b>latex</b>, <b>bark</b>, <b>skin</b> and <b>fruits</b> are anti-diabetic. The <b>bark</b> soaked in water overnight and drunk the next morning helps to maintain the blood sugar level.<br>\n- <b>In fever</b> : Daahaprashaamana (pacifies the burning sensation).</p>  \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Useful parts</div><div class=\"cleaner\"></div></div>\n          <p>Latex, tender leaves, leaves, bark, fruits, areal roots</p>    \n      \n              <div id=\"ayurveda_tit2\"><div id=\"ayurveda_tit3\">Dosage</div><div class=\"cleaner\"></div></div>\n          <p>Bark/tender leaves decoction : 50-100 ml; Powder : 3-6gr ; latex : 10-20 drops</p>\n      \n      \n              <div id=\"ayurveda_tit2\"> <div id=\"ayurveda_tit3\">Srotogamitva | <span class=\"ayurveda_tit3_small\">Overview on Dosha (body humours), Dhatu (body tissues) and Mala (waste materials)</span></div><div class=\"cleaner\"></div></div>\n          <p>- On <b>Dosha</b> : Kaphaghna (alleviates Kapha), Pittaghna (alleviates Pitta)<br>\n- On <b>Dhatu</b> : Rakta (blood, red blood cells : menorrhagia, complexion enhancer, bleeding disorders), Shukra (gonades : premature ejaculation), Mamsa (muscles) and Meda (adepous tissus) : wound healing<br>\n- On <b>Mala</b> : Purisha (stool), Mootra (urine)<br>\n- <b>Organs</b> : Uterus (in menorrhagia, leucorrhoea, garbhasthaapana-antiabortifacient)</p>  \n            \n      <div id=\"ay_sources_tit\">Sources</div><div id=\"ay_sources\">- Balkrishna, A., 2008, Secrets of Indian Herbs for Good Health, Divya Prakashan Publishers<br>\n- Krishnamurthy, K. H., Banyan and Peepul Traditional Family Medicine, Books for all<br>\n- Sharma, P. V., 2001, Dravyaguna-Vijana. Chaukhambha Bharati Academy, Varanasi<br>\n- Vaidya, V.M. Gogte, 2000, Ayurvedic Pharmacology and Therapeutic Uses of Medicinal Plants (Dravyagunavignyan). Bharatiya Vidya Bhavan</div>    \n\n    </div>\n\n       \n\n  </div>",
+      "images": []
+    },
+    "others": {
+      "text": "Due to the large size of the tree's canopy Ficus benghalensis provides useful shade in hot climates.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        Due to the large size of the tree's canopy <em>Ficus benghalensis</em> provides useful <b>shade</b> in hot climates.      </p>\n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The twigs and leaves make good fodder for cattle but the tree being sacred, its leaves will be plucked for cattle fodder only in the most dire circumstances.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>twigs</b> and <b>leaves</b> make good fodder for cattle but the tree being sacred, its leaves will be plucked for cattle fodder only in the most dire circumstances.      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The prop-roots are (or were) used to make tent and poles, cheap furniture, cart yokes and boxes... (the wood of accessory trunks is stronger than that of the main stem). The wood of Ficus benghalensis is moderately hard but it is durable under water, so it is used for well curbs. A paper pulp can be prepared from the wood. The bark and aerial roots yields fibres used for making ropes. The latex is used for making glue and yields an inferior rubber. This milky sap is also used for copper oxidation. Source : Useful Plants of India and Pakistan, Dastur",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>prop-roots</b> are (or were) used to make tent and poles, cheap furniture, cart yokes and boxes... (the wood of accessory trunks is stronger than that of the main stem).<br><br>\nThe <b>wood</b> of Ficus benghalensis is moderately hard but it is durable under water, so it is used for well curbs.<br><br>\nA paper pulp can be prepared from the wood.<br><br>\nThe <b>bark</b> and <b>aerial roots</b> yields fibres used for making ropes.<br><br>\nThe <b>latex</b> is used for making glue and yields an inferior rubber. This milky sap is also used for copper oxidation.<br><br>\n<em>Source : Useful Plants of India and Pakistan, Dastur</em>  </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The figs are eaten as a famine fruit.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>figs</b> are eaten as a famine fruit.      </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Ficus benghalensis</em> is able to flourish in a wide range of soils (stony, sandy, or rich soils) but all soils need to be free draining. The tree thrives in open areas.<br>\nIt can be propagated from rooting tip cuttings, eye cuttings or seeds.<br><br>\n\nIn India planting a banyan is a popular custom since ancient times.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          No pre-treatment is required (germination can take several month).<br>\nFicus seeds need heat and light to germinate, so they need to be sown on the top of the soil with nothing covering them.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

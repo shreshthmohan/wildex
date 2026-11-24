@@ -1,0 +1,169 @@
+{
+  "species_id": 164,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=164",
+  "scraped_at": "2025-10-02T17:54:18.616292Z",
+  "basic_info": {
+    "scientific_name": "Hardwickia binata",
+    "authority": "Roxb.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/hardwickia_binata.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ha.bi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "22 Apr, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99492 N",
+      "longitude": "79.82218 E",
+      "raw": "11.99492 N - 79.82218 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Hardwickia binata",
+    "author": null,
+    "family": "Fabaceae",
+    "english_names": "Anjan tree",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Hardwickia binata is grey brownish-coloured, rough, longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Hardwickia binata</em> is grey brownish-coloured, rough, longitudinally fissured and transversally cracked.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/hardwickia_binata_stem1.jpg",
+          "caption": "Hardwickia binata trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/hardwickia_binata_stem2.jpg",
+          "caption": "Hardwickia binata bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Hardwickia binata are ovate, light brown-coloured and 1.5-2 cm long and 0.7-1 cm wide. There is only one seed per pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seeds</b> of <em>Hardwickia binata</em> are ovate, light brown-coloured and 1.5-2 cm long and 0.7-1 cm wide. There is only one seed per pod.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/hardwickia_binata_seed1.jpg",
+          "caption": "Hardwickia binata seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/hardwickia_binata_seed2.jpg",
+          "caption": "Hardwickia binata seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Hardwickia binata is a samaroid pod . It is flattened, winged, 7-8 cm long and 1.5-1.7 cm wide and brown-coloured. Each pod contains 1 seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Hardwickia binata</em> is a samaroid <b>pod</b>. It is flattened, winged, 7-8 cm long and 1.5-1.7 cm wide and brown-coloured. Each pod contains 1 seed.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/hardwickia_binata_fruit1.jpg",
+          "caption": "Hardwickia binata fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/hardwickia_binata_fruit2.jpg",
+          "caption": "Hardwickia binata fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/hardwickia_binata_fruit3.jpg",
+          "caption": "Hardwickia binata open fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/hardwickia_binata_fruit4.jpg",
+          "caption": "Hardwickia binata fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/hardwickia_binata_fruit5.jpg",
+          "caption": "Hardwickia binata unripe fruits"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Hardwickia binata grow alternately on the stem (spirally arranged). The leaf is compound, bifoliate with a 1.5-2 cm petiole. The leaflets are coriaceous and glabrous on both sides (some minute hairs on the margins and on the midrib beneath). The leaflets are sessile. The leaflet of Hardwickia binata is 4-7 cm long and 2.5-4 cm wide. The shape of the blade is ovate-elliptic, the apex is obtuse, the base is obliquely rounded and the margins are entire. The venation of the leaflets is reticulate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Hardwickia binata</em> grow alternately on the stem (spirally arranged).<br>\nThe <b>leaf</b> is compound, bifoliate with a 1.5-2 cm petiole.<br>\nThe <b>leaflets</b> are coriaceous and glabrous on both sides (some minute hairs on the margins and on the midrib beneath).<br>\nThe leaflets are sessile.<br>\nThe leaflet of <em>Hardwickia binata</em> is 4-7 cm long and 2.5-4 cm wide. The shape of the <b>blade</b> is ovate-elliptic, the <b>apex</b> is obtuse, the <b>base</b> is obliquely rounded and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaflets is reticulate.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf1.jpg",
+          "caption": "Hardwickia binata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf2.jpg",
+          "caption": "Hardwickia binata leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf3.jpg",
+          "caption": "Hardwickia binata compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf4.jpg",
+          "caption": "Hardwickia binata compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf5.jpg",
+          "caption": "Hardwickia binata leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf6.jpg",
+          "caption": "Hardwickia binata leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf7.jpg",
+          "caption": "Hardwickia binata leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/hardwickia_binata_leaf8.jpg",
+          "caption": "Hardwickia binata foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Hardwickia binata is a medium-sized and deciduous tree growing up to 20 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Hardwickia binata</em> is a medium-sized and <b>deciduous tree</b> growing up to 20 m high.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/hardwickia_binata_habit1.jpg",
+          "caption": "Hardwickia binata tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Hardwickia binata</em> is bisexual (each flower of each individual has both male and female structures).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Hardwickia binata</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The winged fruits of <em>Hardwickia binata</em> are dispersed by the wind (anemochory).</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From June to December.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From February to June.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From February to June.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": "The twigs of Hardwickia binata are used as fodder .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The twigs of <em>Hardwickia binata</em> are used as <b>fodder</b>.      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Hardwickia binata is very hard and closed grained. It is used for beams and mine props, bridge and house construction, agricultural implements... The bark yields a strong fibre employed for making ropes. Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Hardwickia binata</em> is very hard and closed grained. It is used for beams and mine props, bridge and house construction, agricultural implements...<br><br>\n\nThe bark yields a strong <b>fibre</b> employed for making ropes.<br><br>\n\n<em>Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</em>  </p>\n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Hardwickia binata</em> is a light demander and fairly drought resistant. It will grow in a wide variety of situations and soils.<br>\nThe species is propagated by seeds or by cuttings.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          12 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

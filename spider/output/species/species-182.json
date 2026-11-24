@@ -1,0 +1,181 @@
+{
+  "species_id": 182,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=182",
+  "scraped_at": "2025-10-02T18:00:08.645096Z",
+  "basic_info": {
+    "scientific_name": "Cordia myxa",
+    "authority": "L.",
+    "family": "Boraginaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/cordia_myxa.jpg",
+    "dry_herbarium": null
+  },
+  "collection_metadata": {
+    "date": "17 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99629 N",
+      "longitude": "79.82137 E",
+      "raw": "11.99629 N - 79.82137 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cordia myxa",
+    "author": null,
+    "family": "Boraginaceae",
+    "english_names": "Indian cherry, Sebesten tree",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Cordia myxa is pale brown-coloured with vertical furrows.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Cordia myxa</em> is pale brown-coloured with vertical furrows.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cordia_myxa_stem1.jpg",
+          "caption": "Cordia myxa trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/cordia_myxa_stem2.jpg",
+          "caption": "Cordia myxa bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Cordia myxa is enclosed into an ellipsoid and compressed stone. This stone is light brown-coloured and contains 1 seed.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>seed</b> of <em>Cordia myxa</em> is enclosed into an ellipsoid and compressed stone. This <b>stone</b> is light brown-coloured and contains 1 seed.    \n    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cordia_myxa_seed1.jpg",
+          "caption": "Cordia myxa stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/cordia_myxa_seed2.jpg",
+          "caption": "Cordia myxa stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Cordia myxa is a subglobose drupe . It is about 1.5-2 cm in diameter, pinkish-coloured when ripe. The drupe is seated in a cup-shaped enlarged calyx. Each fruit contains 1 stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Cordia myxa</em> is a subglobose <b>drupe</b>. It is about 1.5-2 cm in diameter, pinkish-coloured when ripe. The drupe is seated in a cup-shaped enlarged calyx. Each fruit contains 1 stone.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit1.jpg",
+          "caption": "Cordia myxa fruiting twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit2.jpg",
+          "caption": "Cordia myxa fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit3.jpg",
+          "caption": "Cordia myxa ripe fruits (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit4.jpg",
+          "caption": "Cordia myxa fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit5.jpg",
+          "caption": "Cordia myxa fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/cordia_myxa_fruit6.jpg",
+          "caption": "Cordia myxa fruit"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cordia myxa grow alternately on the stem (spirally arranged). The leaf is simple, dark green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (some minute hairs on the midrib beneath). The leaves have a 2.5-3 cm long petiole . The blade of the leaf of Cordia myxa is 8-12 cm long and 7-10 cm wide. The shape of the blade is ovate, the apex is acuminate, the base is cuneate and the margins are sinuate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Cordia myxa</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, dark green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides (some minute hairs on the midrib beneath).<br>\nThe leaves have a 2.5-3 cm long <b>petiole</b>.<br>\nThe blade of the leaf of <em>Cordia myxa</em> is 8-12 cm long and 7-10 cm wide. The shape of the <b>blade</b> is ovate, the <b>apex</b> is acuminate, the <b>base</b> is cuneate and the <b>margins</b> are sinuate.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf1.jpg",
+          "caption": "Cordia myxa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf2.jpg",
+          "caption": "Cordia myxa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf3.jpg",
+          "caption": "Cordia myxa leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf4.jpg",
+          "caption": "Cordia myxa leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf5.jpg",
+          "caption": "Cordia myxa leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf6.jpg",
+          "caption": "Cordia myxa leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf7.jpg",
+          "caption": "Cordia myxa leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/cordia_myxa_leaf8.jpg",
+          "caption": "Cordia myxa foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cordia myxa is a thornless, medium-sized and decidous tree growing up to 12-15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Cordia myxa</em> is a thornless, medium-sized and <b>decidous tree</b> growing up to 12-15 m high.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cordia_myxa_habit1.jpg",
+          "caption": "Cordia myxa tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cordia_myxa_habit2.jpg",
+          "caption": "Cordia myxa young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/cordia_myxa_habit3.jpg",
+          "caption": "Cordia myxa tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Cordia myxa</em> is monoecious, with unisexual (male or female) flowers on the same individual.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Cordia myxa</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>The seeds of <em>Cordia myxa</em> are mainly dispersed by frugivorous birds and mammals.<br></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From March to June.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From March to August.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From March to August.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The wood of Cordia myxa is moderately hard. It is used for boat building, agricultural implements, posts, beams, furnitures and carving... A fibre is obtained form the bark and used to make cordage and for caulking boats. The leaves and fruits yield a dye . The sticky, mucilaginous pulp of the fruit is used as a glue . Sources : - Dastur, 2006, Useful Plants of India and Pakistan - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Cordia myxa</em> is moderately hard. It is used for boat building, agricultural implements, posts, beams, furnitures and carving...<br><br>\n\nA <b>fibre</b> is obtained form the bark and used to make cordage and for caulking boats.<br><br>\n\nThe leaves and fruits yield a <b>dye</b>.<br><br>\n\nThe sticky, mucilaginous pulp of the fruit is used as a <b>glue</b>.<br><br>\n\n<em>Sources : <br>\n- Dastur, 2006, Useful Plants of India and Pakistan<br>\n- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</em>  </p>\n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The ripe fruit of Cordia myxa is eaten raw or cooked. The unripe fruits are eaten as a vegetable or pickled. The leaves and young shoots are used as a vegetable. Source : Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>ripe fruit</b> of <em>Cordia myxa</em> is eaten raw or cooked. The <b>unripe fruits</b> are eaten as a vegetable or pickled.<br><br>\n\nThe <b>leaves</b> and <b>young shoots</b> are used as a vegetable.<br><br>\n\n<em>Source : Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</em>      </p>\n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Cordia myxa</em>  is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>\nThe species is propagated by seeds or by cuttings.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          24 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

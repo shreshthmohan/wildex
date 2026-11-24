@@ -1,0 +1,186 @@
+{
+  "species_id": 214,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=214",
+  "scraped_at": "2025-10-02T18:47:09.198213Z",
+  "basic_info": {
+    "scientific_name": "Maerua apetala",
+    "authority": null,
+    "family": "Capparaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/624570846a852_624570846a845_Ma.ap_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ma.ap_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 Nov, 2021",
+    "collected_by": "M.D.",
+    "gps_coordinates": {
+      "raw": "10.1165 N \n78.1848 E"
+    },
+    "locality": "Madurai, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Maerua apetala",
+    "author": "Jacobs, Maxwell Ralph (1964)",
+    "family": "Capparaceae",
+    "english_names": "Petal-less caper",
+    "indian_names": {
+      "Tamil": [
+        "Iruvali"
+      ]
+    },
+    "synonyms": [
+      "Capparis apetala",
+      "Capparis linifolia",
+      "Crateva apetala",
+      "Niebuhria apetala",
+      "Niebuhria linifolia"
+    ],
+    "etymology": "-\nMaerua\n: From the Arabic\nmarw\n\"odoriferous plant\"\n-\napetala\n: From the Latin meaning \"without petals\"",
+    "etymology_html": "<p>- <i>Maerua</i>: From the Arabic <i>marw</i> \"odoriferous plant\"<br>- <i>apetala</i>: From the Latin meaning \"without petals\"</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Maerua apetala is white-grey in colour, finely smooth with fissures and wrinkles.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Maerua apetala is white-grey in colour, finely smooth with fissures and wrinkles.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229cb1be5f75_Ma.ap_bk1.jpg",
+          "caption": "Maerua apetala white grey bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229cb1d8fe22_Ma.ap_bk2.jpg",
+          "caption": "Maerua apetala smooth bark of an ancient tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229cb21e5d7b_Ma.ap_bk3.jpg",
+          "caption": "Maerua apetala bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/6229cb4c98555_Ma.ap_st1.jpg",
+          "caption": "Maerua apetala stem arrangement"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Maerua apetala are 6 mm across, oblong-ellipsoid in shape. They are about 9 in a fruit, embedded in a brown sticky pulp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Maerua apetala are 6 mm across, oblong-ellipsoid in shape. <br>They are about 9 in a fruit, embedded in a brown sticky pulp.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229cb008ed93_Ma.ap_sd1.jpg",
+          "caption": "Maerua apetala fruit at its maturity, open in half showing 9 seeds in sticky pulp"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/6229cb0370c4e_Ma.ap_sd2.jpg",
+          "caption": "Maerua apetala brown seeds with granular surface"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Maerua apetala is a glabrous berry. Initially green, it turns red then pale brown after 2 months of maturation. The fruit is oblong-ovoid, 1 to 3 cm in size, hanging on a drooping elongated gynophore. The fruit is indehiscent, which means it doesn't open spontaneously at maturity to release the seeds. Each fruit contains about 9 seeds in a sticky brown pulp.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Maerua apetala is a glabrous berry.<br> Initially green, it turns red then pale brown after 2 months of maturation. <br>The fruit is oblong-ovoid, 1 to 3 cm in size, hanging on a drooping elongated gynophore. <br>The fruit is indehiscent, which means it doesn't open spontaneously at maturity to release the seeds. <br>Each fruit contains about 9 seeds in a sticky brown pulp.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229caba29003_Ma.ap_fr1.jpg",
+          "caption": "Maerua apetala young green fruits with fallen flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229cabd23517_Ma.ap_fr2.jpg",
+          "caption": "Maerua apetala young immature fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/6229cacb25362_Ma.ap_fr3.jpg",
+          "caption": "Maerua apetala immature fruit turning red"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62aafd4e88b46_Ma.ap_fr4.jpg",
+          "caption": null
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Maerua apetala have numerous exerted stamens (60 to 90 per flower) and no petals (as its name indicates). The stamens are cream-white while the gynophore and ovary are purple in colour. The flowers are borne in corymbs at the end of the branch. The size of the flower is between 1 to 3 cm. The flower is hermaphroditic. The strong fragrance comes from its large volume of nectar and abundant pollen. The anthers fall is happening shortly after the blooming.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Maerua apetala have numerous exerted stamens (60 to 90 per flower) and no petals (as its name indicates). <br>The stamens are cream-white while the gynophore and ovary are purple in colour. <br>The flowers are borne in corymbs at the end of the branch. <br>The size of the flower is between 1 to 3 cm. <br>The flower is hermaphroditic. <br>The strong fragrance comes from its large volume of nectar and abundant pollen. <br>The anthers fall is happening shortly after the blooming.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229ca6492dfd_Ma.ap_fl1.jpg",
+          "caption": "Maerua apetala flower with purple cup-shaped calyx, 4 green sepals and numerous stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229ca66f0f88_Ma.ap_fl2.jpg",
+          "caption": "Maerua apetala flowers with prominent purple gynophore and ovary contrasting with white stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229ca6b8b902_Ma.ap_fl3.jpg",
+          "caption": "Maerua apetala flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/6229ca70746e7_Ma.ap_fl4.jpg",
+          "caption": "Maerua apetala young and fallen flowers with green fruits"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Maerua apetala are foliolate with 3 (trifoliate) to 5 leaves. The leaf arrangement is alternate. With age the leaflets vary a lot in shape: from thin to rounded shape. They are linear, oblong and lanceolate. They are 4 to 7 cm long and 1 to 2 cm wide. The leaf base is rounded, the margin entire and the apex acute to acuminate. The petiole is long up to 8 cm. The young leaves are bright green while the mature leaves are dark green.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Maerua apetala are foliolate with 3 (trifoliate) to 5 leaves.<br>The leaf arrangement is alternate. <br>With age the leaflets vary a lot in shape: from thin to rounded shape. <br>They are linear, oblong and lanceolate. <br>They are 4 to 7 cm long and 1 to 2 cm wide. <br>The leaf base is rounded, the margin entire and the apex acute to acuminate. <br>The petiole is long up to 8 cm. <br>The young leaves are bright green while the mature leaves are dark green.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c9460bdf3_Ma.ap_lf1.jpg",
+          "caption": "Maerua apetala 5 foliolate leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c95693e98_Ma.ap_lf2.jpg",
+          "caption": "Maerua apetala trifoliate young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c95787a8d_Ma.ap_lf3.jpg",
+          "caption": "Maerua apetala trifoliate young leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c95ba5648_Ma.ap_lf4.jpg",
+          "caption": "Maerua apetala trifoliate leaves in young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c9772b37f_Ma.ap_lf5.jpg",
+          "caption": "Maerua apetala trifoliate leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/6229c979e4aa8_Ma.ap_lf6.jpg",
+          "caption": "Maerua apetala trifoliate leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Maerua apetala is a medium size deciduous tree, growing up to 10 m in height. It is slow growing.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Maerua apetala is a medium size deciduous tree, growing up to 10 m in height. <br>It is slow growing.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6229c9128c49f_Ma.ap_ha1.jpg",
+          "caption": "Maerua apetala habit of mature tree in a sacred grove"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6229c9128cb8b_Ma.ap_ha2.jpg",
+          "caption": "Maerua apetala habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/6229c9128b506_Ma.ap_ha3.jpg",
+          "caption": "Maerua apetala habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

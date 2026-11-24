@@ -1,0 +1,185 @@
+{
+  "species_id": 167,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=167",
+  "scraped_at": "2025-10-02T17:59:56.607618Z",
+  "basic_info": {
+    "scientific_name": "Reutealis trisperma",
+    "authority": "(Blanco) Airy Shaw",
+    "family": "Euphorbiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/reutealis_trisperma.jpg",
+    "dry_herbarium": null
+  },
+  "collection_metadata": {
+    "date": "29 Apr, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99409 N",
+      "longitude": "79.82341 E",
+      "raw": "11.99409 N - 79.82341 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Reutealis trisperma",
+    "author": null,
+    "family": "Euphorbiaceae",
+    "english_names": "Philippine tung tree, soft lumbang",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Reutealis trisperma is light brown-coloured and longitudinally fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Reutealis trisperma</em> is light brown-coloured and longitudinally fissured.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/reutealis_trisperma_stem1.jpg",
+          "caption": "Reutealis trisperma trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/reutealis_trisperma_stem2.jpg",
+          "caption": "Reutealis trisperma bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Reutealis trisperma is a globose and 3-angular capsule . It is densely velvety-pubescent and 4-5 cm across.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Reutealis trisperma</em> is a globose and 3-angular <b>capsule</b>. It is densely velvety-pubescent and 4-5 cm across.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/reutealis_trisperma_fruit1.jpg",
+          "caption": "Reutealis trisperma young fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/reutealis_trisperma_fruit2.jpg",
+          "caption": "Reutealis trisperma young fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/reutealis_trisperma_fruit3.jpg",
+          "caption": "Reutealis trisperma ripe fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Reutealis trisperma are grouped in axillary and terminal racemes. The flowers are unisexual. The calyx-tube is cup-shaped, 2 or 3-lobed and about 5 mm long. The calyx is light green and finely pubescent. The corolla is composed of 5 pinkish-coloured and pubescent petals. The petals are elliptic, 1 cm long and 0.5 cm wide. The male flowers have 10 stamens in 2 series. The female flowers have bifid styles and 3-celled, globose and hairy ovary . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Reutealis trisperma</em> are grouped in axillary and terminal racemes.<br>\nThe flowers are unisexual.<br>\nThe <b>calyx-tube</b> is cup-shaped, 2 or 3-lobed and about 5 mm long. The calyx is light green and finely pubescent.<br>\nThe <b>corolla</b> is composed of 5 pinkish-coloured and pubescent petals. The petals are elliptic, 1 cm long and 0.5 cm wide.<br>\nThe <b>male flowers</b> have 10 <b>stamens</b> in 2 series.<br>\nThe <b>female flowers</b> have bifid <b>styles</b> and 3-celled, globose and hairy <b>ovary</b>.<br>\nThe flowers are fragrant.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower1.jpg",
+          "caption": "Reutealis trisperma inflorescence (male flowers)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower2.jpg",
+          "caption": "Reutealis trisperma male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower3.jpg",
+          "caption": "Reutealis trisperma male flower (lower and upper sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower4.jpg",
+          "caption": "Reutealis trisperma male flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower5.jpg",
+          "caption": "Reutealis trisperma flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower6.jpg",
+          "caption": "Reutealis trisperma inflorescences (male flowers)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower7.jpg",
+          "caption": "Reutealis trisperma male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower8.jpg",
+          "caption": "Reutealis trisperma male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/reutealis_trisperma_flower9.jpg",
+          "caption": "Reutealis trisperma flower bud"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Reutealis trisperma grow alternately on the stem (spirally arranged). The leaf is simple, dark green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (some minute hairs on the veins beneath). The leaves have a 6-12 cm long petiole . The blade of the leaf of Reutealis trisperma is 8-15 cm long and wide. The blade is heart-shaped, the apex is acuminate, the base is cordate and the margins are entire. The venation of the leaf is pinnate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Reutealis trisperma</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, dark green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides (some minute hairs on the veins beneath).<br>\nThe leaves have a 6-12 cm long <b>petiole</b>.<br>\nThe <b>blade</b> of the leaf of <em>Reutealis trisperma</em> is 8-15 cm long and wide. The <b>blade</b> is heart-shaped, the <b>apex</b> is acuminate, the <b>base</b> is cordate and the <b>margins</b> are entire.<br>\nThe <b>venation</b> of the leaf is pinnate.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf1.jpg",
+          "caption": "Reutealis trisperma leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf2.jpg",
+          "caption": "Reutealis trisperma leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf3.jpg",
+          "caption": "Reutealis trisperma leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf4.jpg",
+          "caption": "Reutealis trisperma leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf5.jpg",
+          "caption": "Reutealis trisperma leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/reutealis_trisperma_leaf6.jpg",
+          "caption": "Reutealis trisperma foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Reutealis trisperma is a medium-sized and deciduous tree growing up to 15 m with a dense crown and a straight bole.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Reutealis trisperma</em> is a medium-sized and <b>deciduous tree</b> growing up to 15 m with a dense crown and a straight bole.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/reutealis_trisperma_habit1.jpg",
+          "caption": "Reutealis trisperma young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Reutealis trisperma</em> is monoecious, with unisexual (male or female) flowers on the same individual.</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Reutealis trisperma</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.</li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/reutealis_trisperma_reproduction1.jpg",
+          "caption": "Reutealis trisperma male flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/reutealis_trisperma_reproduction2.jpg",
+          "caption": "Reutealis trisperma male flower stamens"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From February to May.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From August onwards.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From August onwards.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "handicrafts": {
+      "text": "The oil yielded by the seeds of Reutealis trisperma \"was formerly employed in the Philippines for the production of a weak soap which was in demand among sailors owing to its property of lathering in sea water.\" (Airy Shaw, 1967; Pax, 1910) Source : Stuppy, W., P.C. van Welzen, P. Klinratana & M.C.T. Posa. 1999. Revision of the genera Aleurites, Reutealis and Vernicia (Euphorbiaceae). Blumea 44: 73-98 - http://www.nationaalherbarium.nl/Euphorbs/specR/Reutealis.html",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>oil</b> yielded by the seeds of <em>Reutealis trisperma</em> \"was formerly employed in the Philippines for the production of a weak soap which was in demand among sailors owing to its property of lathering in sea water.\" (Airy Shaw, 1967; Pax, 1910)<br><br>\n\n<em>Source : Stuppy, W., P.C. van Welzen, P. Klinratana &amp; M.C.T. Posa. 1999. Revision of the genera Aleurites, Reutealis and Vernicia (Euphorbiaceae). Blumea 44: 73-98 - http://www.nationaalherbarium.nl/Euphorbs/specR/Reutealis.html</em>  </p>\n</div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Reutealis trisperma</em>  can be planted in the sun or half shade. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>\nThe species is propagated by seeds.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          24 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "species_id": 100,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=100",
+  "scraped_at": "2025-10-03T04:49:07.821494Z",
+  "basic_info": {
+    "scientific_name": "Spondias pinnata",
+    "authority": "(L. f.) Kurz",
+    "family": "Anacardiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/spondias_pinnata.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Sp.pi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "24 Jul, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99458 N",
+      "longitude": "79.82345 E",
+      "raw": "11.99458 N - 79.82345 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {},
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Spondias pinnata is light-brown or greyish-coloured. It is smooth and becomes deeply cracked on old individuals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Spondias pinnata</i> is light-brown or greyish-coloured. It is smooth and becomes deeply cracked on old individuals.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/spondias_pinnata_stem1.jpg",
+          "caption": "Spondias pinnata trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/spondias_pinnata_stem2.jpg",
+          "caption": "Spondias pinnata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/spondias_pinnata_stem3.jpg",
+          "caption": "Spondias pinnata old trunk"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Spondias pinnata is enclosed in a big stone. The stone is ellipsoid, 3-3.5 cm long and 2 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Spondias pinnata</i> is enclosed in a big stone. The stone is ellipsoid, 3-3.5 cm long and 2 mm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/spondias_pinnata_seed1.jpg",
+          "caption": "Spondias pinnata stone"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/spondias_pinnata_seed2.jpg",
+          "caption": "Spondias pinnata stone"
+        }
+      ]
+    },
+    "fruit": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Spondias pinnata is found in dry to moist deciduous forests from the coastal plains up to 1000 m of elevation.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Spondias pinnata</i> is found in dry to moist deciduous forests from the coastal plains up to 1000 m of elevation.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Tropical areas of Africa, Asia and Oceania (excluding Australia and New Zealand)",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Tropical areas of Africa, Asia and Oceania (excluding Australia and New Zealand)</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Spondias pinnata is polygamous : it has male, female, and bisexual flowers on the same plant. Spondias pinnata is pollinated by a wide variety of insects. The seeds of Spondias pinnata are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Spondias pinnata</i> is polygamous : it has male, female, and bisexual flowers on the same plant.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Spondias pinnata</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Spondias pinnata</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/spondias_pinnata_reproduction1.jpg",
+          "caption": "Spondias pinnata hermaphrodite flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/spondias_pinnata_reproduction2.jpg",
+          "caption": "Spondias pinnata hermaphrodite flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/spondias_pinnata_reproduction3.jpg",
+          "caption": "Spondias pinnata stamens"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From February to May. From August to November. From August to November. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From August to November.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From August to November.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "culinary": {
+      "text": "The raw or cooked fruit of Spondias pinnata is edible. It can be eaten as a vegetable or made into chutneys, stews, pickles and jams. Source : Plant Resources of Southeast Asia, http://proseanet.org",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The raw or cooked <strong>fruit</strong> of <i>Spondias pinnata</i> is edible. It can be eaten as a vegetable or made into chutneys, stews, pickles and jams.<br><br><i>Source : Plant Resources of Southeast Asia, http://proseanet.org</i></p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Spondias pinnata is used in Ayurveda, Unani and Siddha medicines. The bark of Spondias pinnata is used in dysentery, diarrhea, biliousness, menstrual disorders, arthritis, tuberculosis, for rubbing on the skin over painful joints. The bark paste is used for stomach and body pain. The bark paste is applied externally to articular and muscular rheumatism. The bark juice is taken for diarrhea and dysentery and also applied on ringworm and skin diseases. The leaves juice is dropped in the ear in earache. The fruit is used as an astringent, blood purifier, antiscorbutic and against dyspepsia. The fruit juice is applied or dropped against earache and also taken to stop blood dysentery. The root is used for regulating menstruation. Sources : - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Spondias pinnata</i> is used in Ayurveda, Unani and Siddha medicines.<br><br>The <strong>bark</strong> of <i>Spondias pinnata</i> is used in dysentery, diarrhea, biliousness, menstrual disorders, arthritis, tuberculosis, for rubbing on the skin over painful joints.<br>The <strong>bark paste</strong> is used for stomach and body pain.<br>The <strong>bark paste</strong> is applied externally to articular and muscular rheumatism.<br>The <strong>bark juice</strong> is taken for diarrhea and dysentery and also applied on ringworm and skin diseases.<br><br>The <strong>leaves juice</strong> is dropped in the ear in earache.<br><br>The <strong>fruit</strong> is used as an astringent, blood purifier, antiscorbutic and against dyspepsia.<br>The <strong>fruit juice</strong> is applied or dropped against earache and also taken to stop blood dysentery.<br><br>The <strong>root</strong> is used for regulating menstruation.<br><br><i>Sources :</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Spondias pinnata is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas. Spondias pinnata requires a sunny position in a well-drained soil. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Spondias pinnata</i> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas.<br><i>Spondias pinnata</i> requires a sunny position in a well-drained soil.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "species_id": 128,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=128",
+  "scraped_at": "2025-11-02T16:04:03.680331Z",
+  "basic_info": {
+    "scientific_name": "Phyllanthus emblica",
+    "authority": "L.",
+    "family": "Phyllanthaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/phyllanthus_emblica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ph.em_herb3.jpg"
+  },
+  "collection_metadata": {
+    "date": "27 Mar, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99406 N",
+      "longitude": "79.82356 E",
+      "raw": "11.99406 N - 79.82356 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Phyllanthus emblica",
+    "author": "Linnaeus, Carl von (1753)",
+    "family": "Phyllanthaceae",
+    "english_names": "Amla, emblic myrobalan, Indian gooseberry",
+    "indian_names": {
+      "Hindi": [
+        "Amlika",
+        "aonla"
+      ],
+      "Kannada": [
+        "Nellka"
+      ],
+      "Malayalam": [
+        "Nellika"
+      ],
+      "Marathi": [
+        "Anvala"
+      ],
+      "Sanskrit": [
+        "Amalaki",
+        "dhatri"
+      ],
+      "Tamil": [
+        "Nelli"
+      ],
+      "Telugu": [
+        "Amalakamu"
+      ]
+    },
+    "synonyms": [
+      "Cicca emblica",
+      "Diasperus emblica",
+      "Dichelactina nodicaulis",
+      "Emblica arborea",
+      "Emblica officinalis",
+      "Phyllanthus glomeratus",
+      "Phyllanthus mairei",
+      "Phyllanthus mimosifolius",
+      "Phyllanthus taxifolius",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nPhyllanthus\n: From the Greek\nphyllon\n\"a leaf\" and\nanthos\n\"flower\", in some species the flowers are produced on leaf-like branches and branchlets or the flowers appear on leaf-like cladodes.\n-\nEmblica\n: The Bengali name,\namlaki\n, for the fruit of the species.",
+    "etymology_html": "<p>- <i>Phyllanthus</i> : From the Greek <i>phyllon</i> \"a leaf\" and <i>anthos</i> \"flower\", in some species the flowers are produced on leaf-like branches and branchlets or the flowers appear on leaf-like cladodes.<br>- <i>Emblica</i> : The Bengali name, <i>amlaki</i>, for the fruit of the species.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Phyllanthus emblica is grey and light borwn-coloured. The bark flakes off in irregular scales. The trunk of Phyllanthus emblica is usually fluted.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Phyllanthus emblica</i> is grey and light borwn-coloured. The bark flakes off in irregular scales.<br>The <strong>trunk</strong> of <i>Phyllanthus emblica</i> is usually fluted.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/phyllanthus_emblica_stem1.jpg",
+          "caption": "Phyllanthus emblica trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/phyllanthus_emblica_stem2.jpg",
+          "caption": "Phyllanthus emblica bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Phyllanthus emblica are enclosed within a hard and woody stone. Each stone contains usually 6 brown-coloured, shiny and trigonous seeds. The seed of Phyllanthus emblica is 5-6 mm long and 3-4 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Phyllanthus emblica</i> are enclosed within a hard and woody stone. Each stone contains usually 6 brown-coloured, shiny and trigonous seeds. The seed of <i>Phyllanthus emblica</i> is 5-6 mm long and 3-4 mm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed1.jpg",
+          "caption": "Phyllanthus emblica stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed2.jpg",
+          "caption": "Phyllanthus emblica stone"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed3.jpg",
+          "caption": "Phyllanthus emblica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed4.jpg",
+          "caption": "Phyllanthus emblica stone longitudinal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed5.jpg",
+          "caption": "Phyllanthus emblica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/phyllanthus_emblica_seed6.jpg",
+          "caption": "Phyllanthus emblica stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Phyllanthus emblica is a subglobose drupe . The fruit is yellowish green-coloured and 2-3.5 cm across with 6 vertical furrows. It has a fleshy and juicy pulp and each fruit contains one stone.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Phyllanthus emblica</i> is a subglobose <strong>drupe</strong>. The fruit is yellowish green-coloured and 2-3.5 cm across with 6 vertical furrows. It has a fleshy and juicy pulp and each fruit contains one stone.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/phyllanthus_emblica_fruit1.jpg",
+          "caption": "Phyllanthus emblica fruit (upper an lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/phyllanthus_emblica_fruit2.jpg",
+          "caption": "Phyllanthus emblica fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/phyllanthus_emblica_fruit3.jpg",
+          "caption": "Phyllanthus emblica ripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Phyllanthus emblica are grouped in few-flowered and axillary cymes (below the leaves) on small branchlets. Phyllanthus emblica is monoecious with usually the male flowers at the base of the branchlets and the female ones upper and fewer. The flowers have no petals. The female flowers have 6 green-coloured, obovate and 2 mm long tepals. The female flowers have 3 large and spreading stigmas. The male flowers have 6 yellowish, obovate and 2 mm long tepals. They have 3 connate and column-shaped stamens with elliptic anthers. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Phyllanthus emblica</i> are grouped in few-flowered and axillary cymes (below the leaves) on small branchlets.<br><i>Phyllanthus emblica</i> is monoecious with usually the male flowers at the base of the branchlets and the female ones upper and fewer.<br>The <strong>flowers</strong> have no petals.<br>The <strong>female flowers</strong> have 6 green-coloured, obovate and 2 mm long tepals. The female flowers have 3 large and spreading stigmas.<br>The <strong>male flowers</strong> have 6 yellowish, obovate and 2 mm long tepals.<br>They have 3 connate and column-shaped <strong>stamens</strong> with elliptic anthers.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower1.jpg",
+          "caption": "Phyllanthus emblica blossoming branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower2.jpg",
+          "caption": "Phyllanthus emblica blossoming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower3.jpg",
+          "caption": "Phyllanthus emblica male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower4.jpg",
+          "caption": "Phyllanthus emblica female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower5.jpg",
+          "caption": "Phyllanthus emblica male (left side) and female flowers (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower6.jpg",
+          "caption": "Phyllanthus emblica blossoming branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower7.jpg",
+          "caption": "Phyllanthus emblica blossoming branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower8.jpg",
+          "caption": "Phyllanthus emblica male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower9.jpg",
+          "caption": "Phyllanthus emblica male (left side) and female flowers (right side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/phyllanthus_emblica_flower10.jpg",
+          "caption": "Phyllanthus emblica in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Phyllanthus emblica grow opposite (distichous) on the stem. The small branchlets bearing the leaves look like compound (pinnate) leaves. The leaf is simple bright green-coloured above and paler beneath. The leaf is glabrous on both sides. The leaves are subsessile. The leaf of Phyllanthus emblica is 1.2-1.5 cm long and 3 mm wide. The shape of the blade is oblong, the apex is obtuse, the base is cordate and the margins are entire.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Phyllanthus emblica</i> grow opposite (distichous) on the stem.<br>The small branchlets bearing the leaves look like compound (pinnate) leaves.<br>The <strong>leaf</strong> is simple bright green-coloured above and paler beneath. The leaf is glabrous on both sides.<br>The leaves are subsessile.<br>The leaf of <i>Phyllanthus emblica</i> is 1.2-1.5 cm long and 3 mm wide. The shape of the <strong>blade</strong> is oblong, the <strong>apex</strong> is obtuse, the <strong>base</strong> is cordate and the <strong>margins</strong> are entire.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf1.jpg",
+          "caption": "Phyllanthus emblica branchlets"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf2.jpg",
+          "caption": "Phyllanthus emblica branchlet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf3.jpg",
+          "caption": "Phyllanthus emblica branchlet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf4.jpg",
+          "caption": "Phyllanthus emblica leaf (upper and lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf5.jpg",
+          "caption": "Phyllanthus emblica leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf6.jpg",
+          "caption": "Phyllanthus emblica leaves (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf7.jpg",
+          "caption": "Phyllanthus emblica new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/phyllanthus_emblica_leaf8.jpg",
+          "caption": "Phyllanthus emblica shoot"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Phyllanthus emblica is a thornless, medium-sized and deciduous tree growing up to 15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Phyllanthus emblica</i> is a thornless, medium-sized and <strong>deciduous tree</strong> growing up to 15 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/phyllanthus_emblica_habit1.jpg",
+          "caption": "Phyllanthus emblica tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/phyllanthus_emblica_habit2.jpg",
+          "caption": "Phyllanthus emblica tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Phyllanthus emblica is found in dry deciduous and open forests from the coastal plains up to 2000 m in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Phyllanthus emblica</i> is found in dry deciduous and open forests from the coastal plains up to 2000 m in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region, China and Australia.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region, China and Australia.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Phyllanthus emblica is monoecious, with unisexual (male or female) flowers on the same individual. Phyllanthus emblica is pollinated by a wide variety of insects. The seeds of Phyllanthus emblica are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Phyllanthus emblica</i> is monoecious, with unisexual (male or female) flowers on the same individual.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Phyllanthus emblica</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Phyllanthus emblica</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/phyllanthus_emblica_reproduction1.jpg",
+          "caption": "Phyllanthus emblica male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/phyllanthus_emblica_reproduction2.jpg",
+          "caption": "Phyllanthus emblica male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/phyllanthus_emblica_reproduction3.jpg",
+          "caption": "Phyllanthus emblica female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/phyllanthus_emblica_reproduction4.jpg",
+          "caption": "Phyllanthus emblica female flowers"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From March to May. From February to April. From February to April. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From March to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From February to April.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From February to April.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The branches are lopped and used as a green manure and they are said to correct excessively alkaline soils Reforestation : \" Phyllanthus emblica is planted in degraded woodland and open areas in a mix with various other species that all have the ability to grow fast; produce dense, weed-suppressing crowns; and attract seed-dispersing wildlife, particularly birds and bats\". Source : - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The branches are lopped and used as a <strong>green manure</strong> and they are said to correct excessively alkaline soils<br><br><strong>Reforestation</strong> : \"<i>Phyllanthus emblica</i> is planted in degraded woodland and open areas in a mix with various other species that all have the ability to grow fast; produce dense, weed-suppressing crowns; and attract seed-dispersing wildlife, particularly birds and bats\".<br><br><i>Source :</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i></p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Phyllanthus emblica is hard, close-grained. It is used for minor constructions, furniture or agricultural implements... The bark, fruit and leaves contain tannin and are used for tanning leather. The fruit and leaves yields a dye (light brown colour). The fruits are used to prepare a black ink and a hair dye . The wood chips are used to clarify muddy water . The dried fruits have detergent properties and are used in shampoo. Sources : - Dastur, 2006, Useful Plants of India and Pakistan - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The <strong>wood</strong> of <i>Phyllanthus emblica</i> is hard, close-grained. It is used for minor constructions, furniture or agricultural implements...<br><br>The bark, fruit and leaves contain tannin and are used for <strong>tanning</strong> leather.<br><br>The fruit and leaves yields a <strong>dye</strong> (light brown colour).<br>The fruits are used to prepare a black <strong>ink</strong> and a hair <strong>dye</strong>.<br><br>The wood chips are used to <strong>clarify muddy water</strong>.<br><br>The dried fruits have <strong>detergent properties</strong> and are used in shampoo.<br><br><i>Sources :</i><br><i>- Dastur, 2006, Useful Plants of India and Pakistan</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The raw and ripe fruit is edible (very sour) and it is made into pickles and preserves. The fruit of Phyllanthus emblica is an important source of vitamin C (one of the richest vegetable source of vitamine C), minerals and amino acids.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The raw and ripe <strong>fruit</strong> is edible (very sour) and it is made into pickles and preserves.<br>The fruit of <i>Phyllanthus emblica</i> is an important source of vitamin C (one of the richest vegetable source of vitamine C), minerals and amino acids.</p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "Phyllanthus emblica is of great importance in traditional Asiatic medicine. It is used as an antiscorbutic but also in the treatment of diverse ailments (especially those associated with the digestive organs). In India, Phyllanthus emblica is used in Ayurveda, Unani and Siddha medicines. The fruit of Phyllanthus emblica is one of the 3 ingredients of the Ayurvedic triphala (along with the fruits of Terminalia bellirica and Terminalia chebula ) used for immune system stimulation, improvement of digestion, relief of constipation, gastrointestinal tract cleansing, relief of gas, treatment of diabetes, treatment of eye disease. The flowers of Phyllanthus emblica are cooling. The pounded leaves are used against vomiting and the leaf paste is applied to heal wounds. The leaf juice is given to cure scorpion stings and diarrhea. The fresh fruit is eaten as diuretic, blood purifier, astringent, laxative and tonic. The fruits decoction is used as an eye drop for conjunctivitis. The fruits are taken as chutney in headache. The dried fruit is astringent, stomachic, antiscorbutic, blood purifier. It is used in diarrhea, dysentery and hemorrhage. The fresh fruits are chewed and the paste is applied on decaying tooth. The fruit juice along with turmeric powder and honey is prescribed in diabetes insipidus. The aqueous extract of fruits of Phyllanthus emblica mixed with the fruits Terminalia chebula and Terminalia bellirica is used in constipation and cataract. The fermented liquor made from the fruit is used in jaundice, dyspepsia and cough. The exudation from incisions on the fruit is used as an external application for eye inflammation. The juice and powder of fruits and leaves are taken before the lunch and dinner to control blood sugar level. The leaves and fruits decoction are used for stomach and hair problems. The leaf juice is given in vomiting. The seeds are stomachic, antibilious and antiasthmatic. They are used for asthma, bronchitis, nausea, stomach troubles, biliousness. The powder of seeds mixed with water is given orally to cure syphilis. The seed decoction is given in urinary troubles and leucorrhea. The oil extracted from the seeds is used as a medicated massage oil on head in madness, hysteria, unconsciousness and nervous breakdown. The seeds, roots and leaves of Phyllanthus emblica are used to treat stomachic problems, cough and blood pressure. Sources : - Arya Vaidya Sala, 1996, Indian Medicinal plants - Basu & Kirtikar, 1918, Indian Medicinal Plants - Chopra, 1956, Glossary of Indian medicinal plants - Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary - Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants - Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Phyllanthus emblica</i> is of great importance in traditional Asiatic medicine. It is used as an antiscorbutic but also in the treatment of diverse ailments (especially those associated with the digestive organs).<br><br>In India, <i>Phyllanthus emblica</i> is used in Ayurveda, Unani and Siddha medicines.<br><br>The <strong>fruit</strong> of <i>Phyllanthus emblica</i> is one of the 3 ingredients of the Ayurvedic triphala (along with the fruits of <i>Terminalia bellirica</i> and <i>Terminalia chebula</i>) used for immune system stimulation, improvement of digestion, relief of constipation, gastrointestinal tract cleansing, relief of gas, treatment of diabetes, treatment of eye disease.<br><br>The <strong>flowers</strong> of <i>Phyllanthus emblica</i> are cooling.<br><br>The <strong>pounded leaves</strong> are used against vomiting and the <strong>leaf paste</strong> is applied to heal wounds.<br>The <strong>leaf juice</strong> is given to cure scorpion stings and diarrhea.<br><br>The <strong>fresh fruit</strong> is eaten as diuretic, blood purifier, astringent, laxative and tonic.<br>The <strong>fruits decoction</strong> is used as an eye drop for conjunctivitis.<br>The <strong>fruits</strong> are taken as chutney in headache.<br>The <strong>dried fruit</strong> is astringent, stomachic, antiscorbutic, blood purifier. It is used in diarrhea, dysentery and hemorrhage.<br>The <strong>fresh fruits</strong> are chewed and the <strong>paste</strong> is applied on decaying tooth.<br>The <strong>fruit juice</strong> along with turmeric powder and honey is prescribed in diabetes insipidus.<br>The <strong>aqueous extract of fruits</strong> of <i>Phyllanthus emblica</i> mixed with the fruits <i>Terminalia chebula</i> and <i>Terminalia bellirica</i> is used in constipation and cataract.<br>The <strong>fermented liquor</strong> made from the fruit is used in jaundice, dyspepsia and cough.<br><br>The <strong>exudation</strong> from incisions on the fruit is used as an external application for eye inflammation.<br><br>The <strong>juice and powder of fruits and leaves</strong> are taken before the lunch and dinner to control blood sugar level. The <strong>leaves and fruits decoction</strong> are used for stomach and hair problems.<br><br>The <strong>leaf juice</strong> is given in vomiting.<br><br>The <strong>seeds</strong> are stomachic, antibilious and antiasthmatic. They are used for asthma, bronchitis, nausea, stomach troubles, biliousness.<br>The <strong>powder of seeds mixed with water</strong> is given orally to cure syphilis.<br>The <strong>seed decoction</strong> is given in urinary troubles and leucorrhea.<br>The <strong>oil extracted from the seeds</strong> is used as a medicated massage oil on head in madness, hysteria, unconsciousness and nervous breakdown.<br><br>The seeds, roots and leaves of <i>Phyllanthus emblica</i> are used to treat stomachic problems, cough and blood pressure.<br><br><i>Sources :</i><br><i>- Arya Vaidya Sala, 1996, Indian Medicinal plants</i><br><i>- Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i><br><i>- Chopra, 1956, Glossary of Indian medicinal plants</i><br><i>- Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</i><br><i>- Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i><br><i>- Useful Tropical Plants Database, Ken Fern, 2014 (http://tropical.theferns.info)</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Phyllanthus emblica is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Phyllanthus emblica</i> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

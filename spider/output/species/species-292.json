@@ -1,0 +1,241 @@
+{
+  "species_id": 292,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=292",
+  "scraped_at": "2025-11-17T17:11:25.527589Z",
+  "basic_info": {
+    "scientific_name": "Aristolochia indica",
+    "authority": null,
+    "family": "Aristolochiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/65c4e43e41bf3_65c4e43e41be8_Ar.in_mp3.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ar.in_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "27 Dec, 2022",
+    "collected_by": "A.A.S, M.D, S.G, S.S",
+    "gps_coordinates": {
+      "latitude": "9°27'29 N",
+      "longitude": "77°34'06 E",
+      "raw": "9°27'29 N - 77°34'06 E"
+    },
+    "locality": "Sanjeevimalai, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Aristolochia indica",
+    "author": "Linnaeus, Carl (1753)",
+    "family": "Aristolochiaceae",
+    "english_names": "Indian Birthwort, Duck flower",
+    "indian_names": null,
+    "synonyms": [
+      "Aristolochia indica var. lanceolata",
+      "Aristolochia indica var. magna",
+      "Aristolochia indica var. oxyphylla",
+      "Aristolochia lanceolata",
+      "Aristolochia maysorensis",
+      "Aristolochia pandurata"
+    ],
+    "etymology": "-\nAristolochia\n: From the Greek\naristo\n\"the best\" and\nlochia\nmeaning \"childbirth\", in reference to its use as a treatment for the pain of childbirth.\n-\nindica\n: From its first identification in India.",
+    "etymology_html": "<p>- <i>Aristolochia</i>: From the Greek <i>aristo</i> \"the best\" and <i>lochia</i> meaning \"childbirth\", in reference to its use as a treatment for the pain of childbirth.<br>- <i>indica</i>: From its first identification in India.<br> </p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The stem of Aristolochia indica are twinning and the branchlets are slender. The stems are smooth, green-white in colour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The stem of Aristolochia indica are twinning and the branchlets are slender. <br>The stems are smooth, green-white in colour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.in_st1.jpg",
+          "caption": "Aristolochia indica main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.in_st2.jpg",
+          "caption": "Aristolochia indica twining stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ar.in_st3.jpg",
+          "caption": "Aristolochia indica stem, petiole and leaf growth"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Aristolochia indica are many in number, flat and winged. They are less than 6 mm across, broadly deltoid in shape.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Aristolochia indica are many in number, flat and winged. <br>They are less than 6 mm across, broadly deltoid in shape.<br> </p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_fr2.jpg",
+          "caption": "Aristolochia indica fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_fr3.jpg",
+          "caption": "Aristolochia indica seeds in an unripe seedpod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_sd7.jpg",
+          "caption": "Aristolochia indica parachute seedpod opening from top"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_sd6.jpg",
+          "caption": "Aristolochia indica seedpod with seeds aligned inside"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_sd1.jpg",
+          "caption": "Aristolochia indica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_sd2.jpg",
+          "caption": "Aristolochia indica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ar.in_sd3.jpg",
+          "caption": "Aristolochia indica seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Aristolochia indica is a globose capsule. The capsule is oblong, septicidal, 6-valved, and it is opening from below upwards. The capsule is 1.5 to 3 cm long and 1.5 to 2 cm wide. The fruit is splitting from the base and looks like a parachute after opening.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Aristolochia indica is a globose capsule. <br>The capsule is oblong, septicidal, 6-valved, and it is opening from below upwards. <br>The capsule is 1.5 to 3 cm long and 1.5 to 2 cm wide. <br>The fruit is splitting from the base and looks like a parachute after opening.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr10.jpg",
+          "caption": "Aristolochia indica fruit on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr5.jpg",
+          "caption": "Aristolochia indica fruit on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr4.jpg",
+          "caption": "Aristolochia indica flower ovary becoming a green fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr6.jpg",
+          "caption": "Aristolochia indica green unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr7.jpg",
+          "caption": "Aristolochia indica unripe fruit cut in half to show immature seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr1.jpg",
+          "caption": "Aristolochia indica unripe capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ar.in_fr2.jpg",
+          "caption": "Aristolochia indica unripe capsules"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Aristolochia indica are grey-green in colour, with a light purple perianth. They are borne in axillary cymes or fascicles. They are 1 to 2 lipped, hairy within dilated limbs which are about 2.5 cm long. The limbs are linear-oblong, rounded at the tip. The bracts are small and lance-shaped. The flower tube is dull brown in colour, about 1.5 cm long. The bulbous base is green. There are 6 stamens. The anthers are adnate to the column and the carpel is 6 locular with 2 ovules. The flower stalks are less than 1 cm long. The flowers are usually foetid in odour.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Aristolochia indica are grey-green in colour, with a light purple perianth. <br>They are borne in axillary cymes or fascicles. <br>They are 1 to 2 lipped, hairy within dilated limbs which are about 2.5 cm long. <br>The limbs are linear-oblong, rounded at the tip. The bracts are small and lance-shaped. <br>The flower tube is dull brown in colour, about 1.5 cm long. The bulbous base is green. <br>There are 6 stamens. The anthers are adnate to the column and the carpel is 6 locular with 2 ovules. <br>The flower stalks are less than 1 cm long. <br>The flowers are usually foetid in odour.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl1.jpg",
+          "caption": "Aristolochia indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl2.jpg",
+          "caption": "Aristolochia indica flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl3.jpg",
+          "caption": "Aristolochia indica green flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl4.jpg",
+          "caption": "Aristolochia indica immature flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl5.jpg",
+          "caption": "Aristolochia indica flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl6.jpg",
+          "caption": "Aristolochia indica green flowers (left) and mature open flower (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl7.jpg",
+          "caption": "Aristolochia indica mature flower (profile view)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl9.jpg",
+          "caption": "Aristolochia indica flower (front view)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl8.jpg",
+          "caption": "Aristolochia indica flowers on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ar.in_fl10.jpg",
+          "caption": "Aristolochia indica flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Aristolochia indica are simple, growing in an alternate arrangement. They are 3.5 to 8 cm long and 2 to 3.5 cm wide. They are ovate or ovate-oblong in shape. The leaf margin is entire, more or less undulated. The base is somewhat cordate, acuminate or obovate, the tip is pointed to tapering. The leaves are hairless, with 3 to 5 nerves at the base. The leaf stalk can be up to 2.5 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Aristolochia indica are simple, growing in an alternate arrangement. <br>They are 3.5 to 8 cm long and 2 to 3.5 cm wide. <br>They are ovate or ovate-oblong in shape. <br>The leaf margin is entire, more or less undulated. <br>The base is somewhat cordate, acuminate or obovate, the tip is pointed to tapering. <br>The leaves are hairless, with 3 to 5 nerves at the base. <br>The leaf stalk can be up to 2.5 cm long.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf1.jpg",
+          "caption": "Aristolochia indica leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf2.jpg",
+          "caption": "Aristolochia indica leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf6.jpg",
+          "caption": "Aristolochia indica leaf on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf3.jpg",
+          "caption": "Aristolochia indica leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf4.jpg",
+          "caption": "Aristolochia indica leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf7.jpg",
+          "caption": "Aristolochia indica leaf base and petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ar.in_lf8.jpg",
+          "caption": "Aristolochia indica leaf and young growth"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Aristolochia indica is a thin perennial creeper with a woody rootstock and beautiful flowers. This twining climber has slender branchlets and can grow up to 8 m long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Aristolochia indica is a thin perennial creeper with a woody rootstock and beautiful flowers. <br>This twining climber has slender branchlets and can grow up to 8 m long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.in_ha1.jpg",
+          "caption": "Aristolochia indica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.in_ha2.jpg",
+          "caption": "Aristolochia indica habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ar.in_ha3.jpg",
+          "caption": "Aristolochia indica fruiting habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

@@ -1,0 +1,180 @@
+{
+  "species_id": 184,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=184",
+  "scraped_at": "2025-10-02T17:59:53.153932Z",
+  "basic_info": {
+    "scientific_name": "Givotia moluccana",
+    "authority": "(L.) Sreem.",
+    "family": "Euphorbiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/givotia_moluccana.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gi.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "15 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99421 N",
+      "longitude": "79.82420 E",
+      "raw": "11.99421 N - 79.82420 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Givotia moluccana",
+    "author": "Sreemadhavan, C. P. (1975)",
+    "family": "Euphorbiaceae",
+    "english_names": "White catamaran tree",
+    "indian_names": {
+      "Kannada": [
+        "Betta thavare"
+      ],
+      "Malayalam": [
+        "Kottathanukk"
+      ],
+      "Marathi": [
+        "Akrot"
+      ],
+      "Tamil": [
+        "Kottai thanakku"
+      ]
+    },
+    "synonyms": [
+      "Croton moluccanus",
+      "Givotia moluccana",
+      "Givotia rottleriformis",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nGivotia\n: For the Danish physician Joachim Otto Voigt (1798-1843).\n-\nMoluccana\n: From Maluku, Indonesia (the Moluccas).",
+    "etymology_html": "<p>- <i>Givotia</i> : For the Danish physician Joachim Otto Voigt (1798-1843).<br>- <i>Moluccana</i> : From Maluku, Indonesia (the Moluccas).</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Givotia moluccana is greyish and pale brown-coloured with shallow longitudinal fissures.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Givotia moluccana</i> is greyish and pale brown-coloured with shallow longitudinal fissures.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/givotia_moluccana_stem1.jpg",
+          "caption": "Givotia moluccana trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/givotia_moluccana_stem2.jpg",
+          "caption": "Givotia moluccana bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gi.mo_st4.jpg",
+          "caption": "Givotia moluccana main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gi.mo_st1.jpg",
+          "caption": "Givotia moluccana branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Gi.mo_st6.jpg",
+          "caption": "Givotia moluccana tomentose leaf petioles"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Givotia moluccana are subglobose or ellipsoid drupes. They are 2.5 cm across. They are densely stellate tomentose. Each drupe contains about 3 oblong seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Givotia moluccana are subglobose or ellipsoid drupes.<br>They are 2.5 cm across. They are densely stellate tomentose.<br>Each drupe contains about 3 oblong seeds. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gi.mo_fr21.jpg",
+          "caption": "Givotia moluccana unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Gi.mo_fr22.jpg",
+          "caption": "Givotia moluccana fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Givotia moluccana grow in terminal or subterminal pendulous panicles. They are fulvous and tomentose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Givotia moluccana grow in terminal or subterminal pendulous panicles.<br>They are fulvous and tomentose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Gy.am_fl1.jpg",
+          "caption": "Givotia moluccana tomentose flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Givotia moluccana grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and woolly-white beneath. The leaf is coriaceous and tomentose beneath. The leaves have a 7-10 cm long petiole . The blade of the leaf of Givotia moluccana is 12-20 cm long and wide. The shape of the blade is ovate, the apex is acuminate, the base is cordate and the margins are dentate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Givotia moluccana</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and woolly-white beneath. The leaf is coriaceous and tomentose beneath.<br>The leaves have a 7-10 cm long <strong>petiole</strong>.<br>The <strong>blade</strong> of the leaf of <i>Givotia moluccana</i> is 12-20 cm long and wide. The shape of the <strong>blade</strong> is ovate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is cordate and the <strong>margins</strong> are dentate.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf1.jpg",
+          "caption": "Givotia moluccana leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf2.jpg",
+          "caption": "Givotia moluccana leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf3.jpg",
+          "caption": "Givotia moluccana new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gi.mo_lf6.jpg",
+          "caption": "Givotia moluccana leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Gi.mo_st5.jpg",
+          "caption": "Givotia moluccana leaf petioles and scars"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf4.jpg",
+          "caption": "Givotia moluccana leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf5.jpg",
+          "caption": "Givotia moluccana leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/givotia_moluccana_leaf6.jpg",
+          "caption": "Givotia moluccana new leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Givotia moluccana is a thornless, medium-sized and deciduous tree growing up to 12-15 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Givotia moluccana</i> is a thornless, medium-sized and <strong>deciduous tree</strong> growing up to 12-15 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/givotia_moluccana_habit1.jpg",
+          "caption": "Givotia moluccana leafless tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gi.mo_ha1.jpg",
+          "caption": "Givotia moluccana growing amongst the rocks (Western ghats, Tamil Nadu)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Gi.mo_ha3.jpg",
+          "caption": "Givotia moluccana growing amongst the rocks (Western ghats, Tamil Nadu)"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Givotia moluccana is dioecious . The species has unisexual flowers on separate trees (either only male or only female flowers). No individual plant of the population produces both pollen and ovules. Givotia moluccana is pollinated by a wide variety of insects. The seeds of Givotia moluccana are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Givotia moluccana</i> is <strong>dioecious</strong>. The species has unisexual flowers on separate trees (either only male or only female flowers). No individual plant of the population produces both pollen and ovules.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Givotia moluccana</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Givotia moluccana</i> are mainly dispersed by frugivorous birds and mammals.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From April to July. From May onwards. From May onwards. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From April to July.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May onwards.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From May onwards.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "Givotia moluccana is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Givotia moluccana</i> is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

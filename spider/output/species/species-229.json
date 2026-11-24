@@ -1,0 +1,191 @@
+{
+  "species_id": 229,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=229",
+  "scraped_at": "2025-10-08T06:44:53.145077Z",
+  "basic_info": {
+    "scientific_name": "Boswellia serrata",
+    "authority": null,
+    "family": "Burseraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/629f25a65779d_629f25a65778e_Bo.se_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Bo.se_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "25 May, 2022",
+    "collected_by": "A.A.S, M.D, R.S",
+    "gps_coordinates": {
+      "raw": "11.5914 N  79.4818 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Boswellia serrata",
+    "author": "Roxburgh, William (1807)",
+    "family": "Burseraceae",
+    "english_names": "Indian frankincense",
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nBoswellia\n: after John Boswell (1710-1780), British botanist\n-\nserrata:\nfrom Latin\nserratus\nsaw-shaped",
+    "etymology_html": "<p>- <i>Boswellia</i>: after John Boswell (1710-1780), British botanist <br>- <i>serrata:</i> from Latin <i>serratus</i> saw-shaped</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Boswellia serrata is fairly thick, smooth, exfoliating in thin, papery flakes. The bark is light green, silvery white with dark blotches. The stem is brittle and exudates transparent yellow-green gum-resin, with a strong smell, from wounds in the bark. The branchlets are pubescent.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Boswellia serrata is fairly thick, smooth, exfoliating in thin, papery flakes. <br>The bark is light green, silvery white with dark blotches. <br>The stem is brittle and exudates transparent yellow-green gum-resin, with a strong smell, from wounds in the bark. <br>The branchlets are pubescent.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f273b2c4be_Bo.se_bk1.jpg",
+          "caption": "Boswellia serrata bark exfoliating in thin, papery flakes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f273dbf2e2_Bo.se_bk2.jpg",
+          "caption": "Boswellia serrata exfoliating trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f2742bad55_Bo.se_bk3.jpg",
+          "caption": "Boswellia serrata trunk exuding transparent gum-resin known for the production of Indian frankincense"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f2747446fd_Bo.se_bk4.jpg",
+          "caption": "Boswellia serrata stem exfoliating in thin, papery flakes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f274dbce1c_Bo.se_st1.jpg",
+          "caption": "Boswellia serrata stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f27523b11c_Bo.se_st2.jpg",
+          "caption": "Boswellia serrata silvery white bark of main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f275da2d44_Bo.se_st3.jpg",
+          "caption": "Boswellia serrata stem dropping habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/629f27670b2f9_Bo.se_st5.jpg",
+          "caption": "Boswellia serrata branchlet"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Boswellia serrata are brown and around 3-5 mm long. They are contained in pyrenes.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Boswellia serrata are brown and around 3-5 mm long. <br>They are contained in pyrenes.</p>    \n    \n    </div>",
+      "images": []
+    },
+    "fruit": {
+      "text": "The fruits of Boswellia serrata are trigonous ovoid drupes. They are 1 to 3 cm across. Each drupe is splitting along 3 valves which contain the pyrenes (small hard nutlets). Each pyrene is one seeded.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Boswellia serrata are trigonous ovoid drupes. <br>They are 1 to 3 cm across. <br>Each drupe is splitting along 3 valves which contain the pyrenes (small hard nutlets). <br>Each pyrene is one seeded.    </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Bo.se_fr1.jpg",
+          "caption": "Boswellia serrata flowers transforming into fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Bo.se_fr2.jpg",
+          "caption": "Boswellia serrata young green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Bo.se_fr3.jpg",
+          "caption": "Boswellia serrata unripe trigonous drupes arranged in terminal racemes"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Boswellia serrata grow in axillary panicles about 10 to 15 cm long. The flowers are small, less than 1 cm across and they are bisexual. They are white in colour. Each flower has 5 to 7 ovate petals, a bell-shaped red calyx-tube, short and pubescent and 10 to 15 brown stamens. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Boswellia serrata grow in axillary panicles about 10 to 15 cm long. <br>The flowers are small, less than 1 cm across and they are bisexual. <br>They are white in colour. <br>Each flower has 5 to 7 ovate petals, a bell-shaped red calyx-tube, short and pubescent and 10 to 15 brown stamens. <br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f26de581a7_Bo.se_fl1.jpg",
+          "caption": "Boswellia serrata white flowers in axillary panicles"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f26e1c098c_Bo.se_fl2.jpg",
+          "caption": "Boswellia serrata flowers after petals fall"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/629f26e6b72a3_Bo.se_fl3.jpg",
+          "caption": "Boswellia serrata discrete flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.se_fl4.jpg",
+          "caption": "Boswellia serrata terminal inflorescence on a barren tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Bo.se_fl5.jpg",
+          "caption": "Boswellia serrata inflorescence"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Boswellia serrata are compound, they are pinnate with an alternate arrangement. The leaves are about 20 cm long and 5 cm wide. There are 10 to 15 pairs of leaflets per compound leaf. The leaflets are oblong in shape, 2.5 to 5 cm long and 1 cm wide. The leaflet base is oblique, the leaflet margin is entire-crenate and the leaflet apex acute. The rachis of the leaf is tomentose and red. The petiole is less than 1 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Boswellia serrata are compound, they are pinnate with an alternate arrangement. <br>The leaves are about 20 cm long and 5 cm wide. <br>There are 10 to 15 pairs of leaflets per compound leaf. <br>The leaflets are oblong in shape, 2.5 to 5 cm long and 1 cm wide. <br>The leaflet base is oblique, the leaflet margin is entire-crenate and the leaflet apex acute. <br>The rachis of the leaf is tomentose and red. <br>The petiole is less than 1 cm long.    </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f261e9e8b1_Bo.se_lf1.jpg",
+          "caption": "Boswellia serrata leaves in alternate arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2623b9ed9_Bo.se_lf2.jpg",
+          "caption": "Boswellia serrata leaves more dense at the end of the branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2629ab628_Bo.se_lf3.jpg",
+          "caption": "Boswellia serrata erected leaves at the end of dropping branch"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f262d4ac5d_Bo.se_lf4.jpg",
+          "caption": "Boswellia serrata new growth of leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2646431f0_Bo.se_lf7.jpg",
+          "caption": "Boswellia serrata pinnate leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2649f31cc_Bo.se_lf8.jpg",
+          "caption": "Boswellia serrata pinnate leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f2652d8010_Bo.se_lf6.jpg",
+          "caption": "Boswellia serrata oblong leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/629f265622cc4_Bo.se_lf5.jpg",
+          "caption": "Boswellia serrata red and tomentose leaf rachis"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Boswellia serrata is a tall deciduous tree growing over 15 m in height. It has a smooth, peeling bark secreting white gum-resin. It is the tree that produces Indian frankincense. The habit of Boswellia serrata has a light, spreading crown and somewhat drooping branches.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Boswellia serrata is a tall deciduous tree growing over 15 m in height.<br>It has a smooth, peeling bark secreting white gum-resin. <br>It is the tree that produces Indian frankincense.<br>The habit of Boswellia serrata has a light, spreading crown and somewhat drooping branches.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f25d229eb4_Bo.se_ha%201.jpg",
+          "caption": "Boswellia serrata habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f25d66563c_Bo.se_ha%202.jpg",
+          "caption": "Boswellia serrata habit of a young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/629f25e0e9ccc_Bo.se_ha3.jpg",
+          "caption": "Boswellia serrata top of canopy"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

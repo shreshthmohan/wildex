@@ -1,0 +1,294 @@
+{
+  "species_id": 143,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=143",
+  "scraped_at": "2025-10-08T06:33:11.721415Z",
+  "basic_info": {
+    "scientific_name": "Butea monosperma",
+    "authority": "(Lam.) Taub.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/butea_monosperma.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Bu.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 Mar, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99391 N",
+      "longitude": "79.82355 E",
+      "raw": "11.99391 N - 79.82355 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Butea monosperma",
+    "author": "Taubert, Paul Hermann Wilhelm (1894)",
+    "family": "Fabaceae",
+    "english_names": "Flame of the forest",
+    "indian_names": {
+      "Hindi": [
+        "Dhak",
+        "palash"
+      ],
+      "Kannada": [
+        "Muttagamara",
+        "palasha"
+      ],
+      "Malayalam": [
+        "Chamata",
+        "plasu"
+      ],
+      "Marathi": [
+        "Dhak",
+        "palas"
+      ],
+      "Sanskrit": [
+        "Palasah"
+      ],
+      "Tamil": [
+        "Murukkan"
+      ],
+      "Telugu": [
+        "Kimsukamu",
+        "moduga"
+      ]
+    },
+    "synonyms": [
+      "Butea braamania",
+      "Butea frondosa",
+      "Butea frondosa",
+      "Butea frondosa var. lutea",
+      "Erythrina monosperma",
+      "Plaso monosperma",
+      "Plaso monosperma var. flava",
+      "Plaso monosperma var. rubra",
+      "Rudolphia frondosa",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nButea\n: Named for John Stuart, third Earl of Bute (1713-1792), who negotiated the end of the Seven Years' War with France.\n-\nMonosperma\n: Single-seeded.",
+    "etymology_html": "<p>- <i>Butea</i> : Named for John Stuart, third Earl of Bute (1713-1792), who negotiated the end of the Seven Years' War with France.<br>- <i>Monosperma</i> : Single-seeded.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Butea monosperma is greyish or pale brown-coloured, longitudinally fissured and transversally cracked.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Butea monosperma</i> is greyish or pale brown-coloured, longitudinally fissured and transversally cracked.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/butea_monosperma_stem1.jpg",
+          "caption": "Butea monosperma trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/butea_monosperma_stem2.jpg",
+          "caption": "Butea monosperma bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Butea monosperma is compressed, ellipsoid and brownish-coloured. The seed is 3-3.5 cm long and 2-2.5 cm wide. There is only one seed per pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Butea monosperma</i> is compressed, ellipsoid and brownish-coloured. The seed is 3-3.5 cm long and 2-2.5 cm wide. There is only one seed per pod.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/butea_monosperma_seed1.jpg",
+          "caption": "Butea monosperma seed"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/butea_monosperma_seed2.jpg",
+          "caption": "Butea monosperma seed"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Butea monosperma is a flattened pod . It is velvety, 12-15 cm long and 5-6 cm wide and light brown-coloured. Each pod contains only one seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Butea monosperma</i> is a flattened <strong>pod</strong>. It is velvety, 12-15 cm long and 5-6 cm wide and light brown-coloured. Each pod contains only one seed.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/butea_monosperma_fruit1.jpg",
+          "caption": "Butea monosperma pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/butea_monosperma_fruit2.jpg",
+          "caption": "Butea monosperma fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/butea_monosperma_fruit3.jpg",
+          "caption": "Butea monosperma pod"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Butea monosperma are grouped in axillary racemes (up to 40 cm long) on leafless branchlets. The flowers have a 3-4 cm long peduncle . The flowers are 5-merous. The calyx-tube is campanulate, 5-lobed and 2 cm long and 1.5 cm across. The calyx is green and finely pubescent. The corolla is composed of 5 bright orange-coloured and pubescent petals. The corolla is about 4-5 cm across. The androecium is composed of a curved and 5-6 cm long staminal sheath with 9 free stamens (1.5-2 cm long) at the end. 1 stamen is completely free. The pistil is composed of a curved and 4-4.5 cm long style and a simple stigma . The ovary is oblong and about 2.5 cm long. The buds are covered with short hairs (velvety). The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Butea monosperma</i> are grouped in axillary racemes (up to 40 cm long) on leafless branchlets.<br>The flowers have a 3-4 cm long <strong>peduncle</strong>.<br>The flowers are 5-merous.<br>The <strong>calyx-tube</strong> is campanulate, 5-lobed and 2 cm long and 1.5 cm across. The calyx is green and finely pubescent.<br>The <strong>corolla</strong> is composed of 5 bright orange-coloured and pubescent petals. The corolla is about 4-5 cm across.<br>The <strong>androecium</strong> is composed of a curved and 5-6 cm long staminal sheath with 9 free stamens (1.5-2 cm long) at the end. 1 stamen is completely free.<br>The <strong>pistil</strong> is composed of a curved and 4-4.5 cm long style and a simple <strong>stigma</strong>.<br>The <strong>ovary</strong> is oblong and about 2.5 cm long.<br>The <strong>buds</strong> are covered with short hairs (velvety).<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower1.jpg",
+          "caption": "Butea monosperma inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower2.jpg",
+          "caption": "Butea monosperma flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower3.jpg",
+          "caption": "Butea monosperma flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower4.jpg",
+          "caption": "Butea monosperma flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower5.jpg",
+          "caption": "Butea monosperma flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower6.jpg",
+          "caption": "Butea monosperma flowering branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower7.jpg",
+          "caption": "Butea monosperma inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower8.jpg",
+          "caption": "Butea monosperma flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower9.jpg",
+          "caption": "Butea monosperma flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/butea_monosperma_flower10.jpg",
+          "caption": "Butea monosperma flower and buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Butea monosperma grow alternately on the stem (spirally arranged). The leaf is compound, trifoliate. The leaflets are dark green-coloured above and paler beneath. The leaf is coriaceous and pubescent on both sides. The leaflets have a 0.8-1 cm long petiole . The leaflet of Butea monosperma is 8-12 cm long and 6-8 cm wide. The shape of the blade is ovate, the apex is acute, the base is cuneate or oblique and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Butea monosperma</i> grow alternately on the stem (spirally arranged).<br>The <strong>leaf</strong> is compound, trifoliate. The <strong>leaflets</strong> are dark green-coloured above and paler beneath. The leaf is coriaceous and pubescent on both sides.<br>The leaflets have a 0.8-1 cm long <strong>petiole</strong>.<br>The leaflet of <i>Butea monosperma</i> is 8-12 cm long and 6-8 cm wide. The shape of the <strong>blade</strong> is ovate, the <strong>apex</strong> is acute, the <strong>base</strong> is cuneate or oblique and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf1.jpg",
+          "caption": "Butea monosperma leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf2.jpg",
+          "caption": "Butea monosperma leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf3.jpg",
+          "caption": "Butea monosperma leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf4.jpg",
+          "caption": "Butea monosperma compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf5.jpg",
+          "caption": "Butea monosperma compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf6.jpg",
+          "caption": "Butea monosperma leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf7.jpg",
+          "caption": "Butea monosperma leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/butea_monosperma_leaf8.jpg",
+          "caption": "Butea monosperma new leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Butea monosperma is a medium-sized and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Butea monosperma</i> is a medium-sized and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/butea_monosperma_habit1.jpg",
+          "caption": "The flame of the forest…"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/butea_monosperma_habit2.jpg",
+          "caption": "Butea monosperma young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/butea_monosperma_habit3.jpg",
+          "caption": "Butea monosperma tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/butea_monosperma_habit4.jpg",
+          "caption": "Butea monosperma young tree with new foliage"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Butea monosperma is \"found throughout the drier parts of India, often gregarious in forests, open grasslands and wastelands. A characteristic tree of the plains, it often forms pure patches in grazing grounds and other open places\". ( Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide )",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Butea monosperma</i> is \"found throughout the drier parts of India, often gregarious in forests, open grasslands and wastelands. A characteristic tree of the plains, it often forms pure patches in grazing grounds and other open places\". (<i>Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i>)</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indian subcontinent, Myanmar, Thailand, Malaysia, Laos, Cambodia, Vietnam, Indonesia.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indian subcontinent, Myanmar, Thailand, Malaysia, Laos, Cambodia, Vietnam, Indonesia.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Butea monosperma is bisexual (each flower of each individual has both male and female structures). Butea monosperma is mainly pollinated by birds. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Butea monosperma</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Butea monosperma</i> is mainly pollinated by birds.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/butea_monosperma_reproduction1.jpg",
+          "caption": "Butea monosperma flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/butea_monosperma_reproduction2.jpg",
+          "caption": "Butea monosperma flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/butea_monosperma_reproduction3.jpg",
+          "caption": "Butea monosperma flower reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/butea_monosperma_reproduction4.jpg",
+          "caption": "Butea monosperma style surrounding by stamens"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From February to April. From April to September. From April to September. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to April.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From April to September.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From April to September.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "In India, the tree is an important host for the lac insect ( Laccifer lacca ), which produces shellac. Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>In India, the tree is an important <strong>host for the lac insect</strong> (<i>Laccifer lacca</i>), which produces shellac.<br><br><i>Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The young leaves of Butea monosperma are a good fodder .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The young leaves of <i>Butea monosperma</i> are a good <strong>fodder</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "A fibre is obtained from the inner bark. It is used for cordage, caulking the seams of boats and making paper. A red exudate is obtained from the bark, hardening into a gum known as \"butea gum\" or \"Bengal kino\". It is used as a dye and as tannin . A bright yellow to deep orange-red dye , known as butein , prepared from the flowers is used especially for dyeing silk and sometimes for cotton. This dye is used by Hindus to mark the forehead. Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>A <strong>fibre</strong> is obtained from the inner bark. It is used for cordage, caulking the seams of boats and making paper.<br><br>A red exudate is obtained from the bark, hardening into a <strong>gum</strong> known as \"butea gum\" or \"Bengal kino\". It is used as a <strong>dye</strong> and as <strong>tannin</strong>.<br><br>A bright yellow to deep orange-red <strong>dye</strong>, known as <i>butein</i>, prepared from the flowers is used especially for dyeing silk and sometimes for cotton. This dye is used by Hindus to mark the forehead.<br><br><i>Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>  \n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The flowers of Butea monosperma are useful in the treatment of liver disorders. The seeds are anthelmintic. The gum is a powerful astringent and it is applied in cases of diarrhoea. Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>flowers</strong> of <i>Butea monosperma</i> are useful in the treatment of liver disorders.<br><br>The <strong>seeds</strong> are anthelmintic.<br><br>The <strong>gum</strong> is a powerful astringent and it is applied in cases of diarrhoea.<br><br><i>Source : Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Butea monosperma is able to flourish in a wide range of soils. It thrives in open areas. The species is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Butea monosperma</i> is able to flourish in a wide range of soils. It thrives in open areas.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

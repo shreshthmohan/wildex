@@ -1,0 +1,174 @@
+{
+  "species_id": 201,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=201",
+  "scraped_at": "2025-10-02T19:04:31.963226Z",
+  "basic_info": {
+    "scientific_name": "Coffea wightiana",
+    "authority": null,
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/626426b9884b8_626426b9884ab_Ps.wi_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ps.wi_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "28 May, 2021",
+    "collected_by": "A.A.S., M.N., M.D.",
+    "gps_coordinates": {
+      "latitude": "11.5915 N",
+      "longitude": "79.4820 E",
+      "raw": "11.5915 N - 79.4820 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Coffea wightiana",
+    "author": "Wallich, Nathaniel (1869)",
+    "family": "Rubiaceae",
+    "english_names": "Wild coffee",
+    "indian_names": {
+      "Tamil": [
+        "Mutti"
+      ]
+    },
+    "synonyms": [],
+    "etymology": "-\nCoffea\n: For the species of coffee plant\n-\nwightiana\n: For Robert Wight (1796-1872), English botanist",
+    "etymology_html": "<p>- <i>Coffea</i>: For the species of coffee plant<br>- <i>wightiana</i>: For Robert Wight (1796-1872), English botanist </p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Coffea wightiana is straight with tiny spines in branches and branchlets. The stem of Coffea wightiana is straight with tiny spines in branches and branchlets.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Coffea wightiana is straight with tiny spines in branches and branchlets. <br>The stem of Coffea wightiana is straight with tiny spines in branches and branchlets.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62297ec0bdf4c_Ps.wi_bk1.jpg",
+          "caption": "Coffea wightiana bark of a mature shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62297ec270893_Ps.wi_st1.jpg",
+          "caption": "Coffea wightiana spinescent branches appearing at regular intervals, at a 90° angle from the main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62297ecac56fb_Ps.wi_st2.jpg",
+          "caption": "Coffea wightiana green stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Coffea wightiana are embedded in a gelatinous membrane in the fruit. There is usually 2 spherical seeds in each fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Coffea wightiana are embedded in a gelatinous membrane in the fruit. <br>There is usually 2 spherical seeds in each fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62297ea1ba660_Ps.wi_sd1.JPG",
+          "caption": "Coffea wightiana dissected fruit with seeds inside and washed seeds (right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62297ea4a1357_Ps.wi_sd2.JPG",
+          "caption": "Coffea wightiana washed seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Coffea wightiana is a berry. Its colour is purple when ripe. The size of the fruit is less than 1 cm.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Coffea wightiana is a berry. <br>Its colour is purple when ripe. <br>The size of the fruit is less than 1 cm.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62297e7cb9f35_Ps.wi_fr1.jpg",
+          "caption": "Coffea wightiana unripe fruits on the plant"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62297e7eec2b9_Ps.wi_fr2.JPG",
+          "caption": "Coffea wightiana ripe fruit appearing at the base of the leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62297e901b5de_Ps.wi_fr3.JPG",
+          "caption": "Coffea wightiana mature fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62297e891f141_Ps.wi_fr4.JPG",
+          "caption": "Coffea wightiana dissected fruit showing the gelatinous membrane and seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flower of Coffea wightiana is white. The flower size is around 2 cm. The flowers appear as solitary or in cymes, the bracteoles forming a calyculus and the calyx appearing irregularly and many toothed. Each flower has 5 to 7 petals, which can be round or sharp. The flower has a mild aroma.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flower of Coffea wightiana is white. <br>The flower size is around 2 cm. <br>The flowers appear as solitary or in cymes, the bracteoles forming a calyculus and the calyx appearing irregularly and many toothed. Each flower has 5 to 7 petals, which can be round or sharp.<br>The flower has a mild aroma.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62297e501f535_Ps.wi_fl1.jpg",
+          "caption": "Coffea wightiana shrub in full bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62297e52db940_Ps.wi_fl2.jpg",
+          "caption": "Coffea wightiana flower mostly with 5 white petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62297e577c4eb_Ps.wi_fl3.jpg",
+          "caption": "Coffea wightiana flower with 6 petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/628f198697bbb_Ps.wi_fl%203.jpg",
+          "caption": "Coffea wightiana flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626423c83403b_Ps.wi_fl5.jpg",
+          "caption": "Coffea wightiana flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626423cc2feaa_Ps.wi_fl6.jpg",
+          "caption": "Coffea wightiana flower with its short style removed from the tubular flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/628f199823007_Ps.wi_fl%204.jpg",
+          "caption": "Coffea wightiana flower"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Coffea wightiana are simple and in opposite arrangement. The length of the leaflet is 3 cm and the width is 1.5 cm. The shape of the leaves is elliptic-ovate, apex obtuse, membranous, with a broad stipule.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Coffea wightiana are simple and in opposite arrangement. <br>The length of the leaflet is 3 cm and the width is 1.5 cm. <br>The shape of the leaves is elliptic-ovate, apex obtuse, membranous, with a broad stipule.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297e26eeaed_Ps.wi_lf1.JPG",
+          "caption": "Coffea wightiana simple leaves on a young plant growing in opposite arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297e284c0f2_Ps.wi_lf2.jpg",
+          "caption": "Coffea wightiana leaves with unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62297e310c65d_Ps.wi_lf3.jpg",
+          "caption": "Coffea wightiana single leaves elliptic-ovate with obtuse apex, upper side (left) and lower side (right)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Coffea wightiana is a small deciduous shrub, growing up to 3 m high. It is usually found in the open or as a component of the understory in a mature forest.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Coffea wightiana is a small deciduous shrub, growing up to 3 m high.  <br>It is usually found in the open or as a component of the understory in a mature forest. </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62297de7064a3_Ps.wi_ha1.jpg",
+          "caption": "Coffea wightiana small shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62297de894f37_Ps.wi_ha2.jpg",
+          "caption": "Coffea wightiana small shrub as a trimmed hedge"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

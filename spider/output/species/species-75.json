@@ -1,0 +1,316 @@
+{
+  "species_id": 75,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=75",
+  "scraped_at": "2025-10-02T18:46:28.178331Z",
+  "basic_info": {
+    "scientific_name": "Gymnosporia emarginata",
+    "authority": "(Willd.) Thwaites",
+    "family": "Celastraceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/63639d4161fef_63639d4161fde_Ma.em_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gy.em_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "16 Sep, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99454 N",
+      "longitude": "79.82243 E",
+      "raw": "11.99454 N - 79.82243 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Gymnosporia emarginata",
+    "author": "Thwaites, George Henry Kendrick (1864)",
+    "family": "Celastraceae",
+    "english_names": "Not specified",
+    "indian_names": {
+      "Hindi": [
+        "Kankero",
+        "malkangni",
+        "vikantata"
+      ],
+      "Kannada": [
+        "Haalu manike",
+        "malega",
+        "malkaamguni",
+        "tandrasi"
+      ],
+      "Malayalam": [
+        "Katou-patsjotti"
+      ],
+      "Marathi": [
+        "Baekar",
+        "bharatti",
+        "vekar",
+        "yekkadi"
+      ],
+      "Tamil": [
+        "Kattangi",
+        "vedippula"
+      ],
+      "Telugu": [
+        "Chinni",
+        "danthi",
+        "peddachintu"
+      ]
+    },
+    "synonyms": [
+      "Catha emarginata",
+      "Celastrus emarginatus",
+      "Maytenus emarginata",
+      "Staphylea vepretum",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nGymnosporia\n: From the Greek\ngymnos\n\"naked\" and\nsporo\n\"seed\", with naked-seed.\n-\nEmarginata\n: Notched at the apex, in reference to the leaves of the plant.",
+    "etymology_html": "<p>-<i>Gymnosporia</i> : From the Greek <i>gymnos</i> \"naked\" and <i>sporo</i> \"seed\", with naked-seed.<br>-<i>Emarginata</i> : Notched at the apex, in reference to the leaves of the plant.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Gymnosporia emarginata is smooth and light brown-coloured. Gymnosporia emarginata has sharp thorns , growing axillary from the branches or apically at the end of the branchlets.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Gymnosporia emarginata</i> is smooth and light brown-coloured.<br><i>Gymnosporia emarginata</i> has sharp <strong>thorns</strong>, growing axillary from the branches or apically at the end of the branchlets.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/gymnosporia_emarginata_stem2.jpg",
+          "caption": "Gymnosporia emarginata thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/gymnosporia_emarginata_stem3.jpg",
+          "caption": "Gymnosporia emarginata trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ma.em_bk2.jpg",
+          "caption": "Gymnosporia emarginata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ma.em_st7.jpg",
+          "caption": "Gymnosporia emarginata leaves and thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/gymnosporia_emarginata_stem1.jpg",
+          "caption": "Gymnosporia emarginata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/gymnosporia_emarginata_stem4.jpg",
+          "caption": "Gymnosporia emarginata thorn"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ma.em_st5.jpg",
+          "caption": "Gymnosporia emarginata stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ma.em_st6.jpg",
+          "caption": "Gymnosporia emarginata branches"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Gymnosporia emarginata are ovoid and 3-4 mm across with a fleshy aril. There are 2 seeds in each valve of the capsule.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Gymnosporia emarginata</i> are ovoid and 3-4 mm across with a fleshy aril. There are 2 seeds in each valve of the capsule.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed1.jpg",
+          "caption": "Gymnosporia emarginata seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed2.jpg",
+          "caption": "Gymnosporia emarginata fruit longitudinal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed3.jpg",
+          "caption": "Gymnosporia emarginata seed (with its white aril)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed4.jpg",
+          "caption": "Gymnosporia emarginata open fruit exposing the seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed5.jpg",
+          "caption": "Gymnosporia emarginata open fruits exposing the seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/gymnosporia_emarginata_seed6.jpg",
+          "caption": "Gymnosporia emarginata seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ma.em_sd7.jpg",
+          "caption": "Gymnosporia emarginata seeds with their capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ma.em_sd8.jpg",
+          "caption": "Gymnosporia emarginata seeds dissected in half"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Gymnosporia emarginata is a subglobose and trilocular capsule. The fruit is 6-8 mm across, dehiscing into 3 valves.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Gymnosporia emarginata</i> is a subglobose and trilocular capsule. The fruit is 6-8 mm across, dehiscing into 3 valves.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit1.jpg",
+          "caption": "Gymnosporia emarginata fruiting branchlet (ripe fruits)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit2.jpg",
+          "caption": "Gymnosporia emarginata fruiting branchlet (unripe fruits)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit3.jpg",
+          "caption": "Gymnosporia emarginata open fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit4.jpg",
+          "caption": "Gymnosporia emarginata unripe fruit on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit6.jpg",
+          "caption": "Gymnosporia emarginata green fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/gymnosporia_emarginata_fruit5.jpg",
+          "caption": "Gymnosporia emarginata fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ma.em_fr5.jpg",
+          "caption": "Gymnosporia emarginata open capsule and red seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ma.em_fr6.jpg",
+          "caption": "Gymnosporia emarginata fruits and seeds"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Gymnosporia emarginata are grouped in short axillary or terminal cymes. The peduncle is reduced. The flowers are 5-merous. The calyx is composed of a 5 mm long tube and 5 mm long lobes. The calyx is light green yellowish-coloured and glabrous. The corolla is composed of 5 white-coloured and glabrous petals. The petals are ovate and 3-4 mm long and 2-3 mm wide. The androecium is composed of 5 stamens with 2-3 mm long filaments and small and ovoid anthers. The style is short with 3 stigmas. The ovary is 3-celled with 2 ovules per cell. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Gymnosporia emarginata</i> are grouped in short axillary or terminal cymes. The <strong>peduncle</strong> is reduced.<br>The flowers are 5-merous.<br>The <strong>calyx</strong> is composed of a 5 mm long tube and 5 mm long lobes. The calyx is light green yellowish-coloured and glabrous.<br>The <strong>corolla</strong> is composed of 5 white-coloured and glabrous petals. The petals are ovate and 3-4 mm long and 2-3 mm wide.<br>The <strong>androecium</strong> is composed of 5 stamens with 2-3 mm long filaments and small and ovoid anthers.<br>The <strong>style</strong> is short with 3 stigmas.<br>The <strong>ovary</strong> is 3-celled with 2 ovules per cell.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower1.jpg",
+          "caption": "Gymnosporia emarginata blooming branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower2.jpg",
+          "caption": "Gymnosporia emarginata inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower4.jpg",
+          "caption": "Gymnosporia emarginata flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower5.jpg",
+          "caption": "Gymnosporia emarginata flower (flower bud on the left)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower6.jpg",
+          "caption": "Gymnosporia emarginata flower (lower and upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower7.jpg",
+          "caption": "Gymnosporia emarginata inflorescences in buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower8.jpg",
+          "caption": "Gymnosporia emarginata inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower9.jpg",
+          "caption": "Gymnosporia emarginata flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/gymnosporia_emarginata_flower10.jpg",
+          "caption": "Gymnosporia emarginata flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Ma.em_fl5%20%281%29.jpg",
+          "caption": "Gymnosporia emarginata flowers on stem"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Gymnosporia emarginata grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 5 mm long petiole . The leaf of Gymnosporia emarginata is 3-5 cm long and 2.5-3.5 cm wide. The shape of the blade is ovate, obovate or spathulate, the apex is obtuse or acute and often emarginate, the base is rounded or cuneate and the margins are entire (somtimes obscurely crenate). The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Gymnosporia emarginata</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 5 mm long <strong>petiole</strong>.<br>The leaf of <i>Gymnosporia emarginata</i> is 3-5 cm long and 2.5-3.5 cm wide. The shape of the <strong>blade</strong> is ovate, obovate or spathulate, the <strong>apex</strong> is obtuse or acute and often emarginate, the <strong>base</strong> is rounded or cuneate and the <strong>margins</strong> are entire (somtimes obscurely crenate).<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf1.jpg",
+          "caption": "Gymnosporia emarginata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf2.jpg",
+          "caption": "Gymnosporia emarginata leaves (upper sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf3.jpg",
+          "caption": "Gymnosporia emarginata leaves (lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf4.jpg",
+          "caption": "Gymnosporia emarginata heart-shaped leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf5.jpg",
+          "caption": "Gymnosporia emarginata branch"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf6.jpg",
+          "caption": "Gymnosporia emarginata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf7.jpg",
+          "caption": "Gymnosporia emarginata leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/gymnosporia_emarginata_leaf8.jpg",
+          "caption": "Gymnosporia emarginata leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ma.em_lf1.jpg",
+          "caption": "Gymnosporia emarginata branchlet with thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ma.em_lf7.jpg",
+          "caption": "Gymnosporia emarginata branchlet with leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Gymnosporia emarginata is a thorny and deciduous shrub , growing up to 5-6 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Gymnosporia emarginata</i> is a thorny and <strong>deciduous shrub</strong>, growing up to 5-6 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/gymnosporia_emarginata_habit1.jpg",
+          "caption": "Gymnosporia emarginata shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/gymnosporia_emarginata_habit2.jpg",
+          "caption": "Gymnosporia emarginata shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/gymnosporia_emarginata_habit3.jpg",
+          "caption": "Gymnosporia emarginata branches"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Gymnosporia emarginata is bisexual (each flower of each individual has both male and female structures). Gymnosporia emarginata is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The ripe and dry capsules of Gymnosporia emarginata opens to scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Gymnosporia emarginata</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Gymnosporia emarginata</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The ripe and dry capsules of <i>Gymnosporia emarginata</i> opens to scatter the seeds.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From December to March. From February to May. From February to May. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From December to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From February to May.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "Gymnosporia emarginata is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight). The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Gymnosporia emarginata</i> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight).<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

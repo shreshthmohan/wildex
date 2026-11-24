@@ -1,0 +1,276 @@
+{
+  "species_id": 132,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=132",
+  "scraped_at": "2025-10-02T17:47:19.543819Z",
+  "basic_info": {
+    "scientific_name": "Dichrostachys cinerea",
+    "authority": "(L.) Wight & Arn.",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/dichrostachys_cinerea.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Di.ci_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99397 N",
+      "longitude": "79.82393 E",
+      "raw": "11.99397 N - 79.82393 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Dichrostachys cinerea",
+    "author": "Wight, Robert and Arnott, George Walker",
+    "family": "Fabaceae",
+    "english_names": "Bell mimosa, sickle bush",
+    "indian_names": {
+      "Hindi": [
+        "Kheri",
+        "kunali"
+      ],
+      "Kannada": [
+        "Odatare"
+      ],
+      "Malayalam": [
+        "Vitattal"
+      ],
+      "Marathi": [
+        "Durangi babool"
+      ],
+      "Sanskrit": [
+        "Vellantarah",
+        "virataruh"
+      ],
+      "Tamil": [
+        "Vadathalla",
+        "vidatheri"
+      ],
+      "Telugu": [
+        "Nellajammi",
+        "veluturu"
+      ]
+    },
+    "synonyms": [
+      "Acacia cinerea",
+      "Cailliea cinerea",
+      "Cailliea cinerea",
+      "Cailliea glomerata",
+      "Desmanthus cinereus",
+      "Desmanthus nutans",
+      "Desmanthus trichostachyus",
+      "Dichrostachys cinerea subsp. cinerea",
+      "Dichrostachys glomerata",
+      "Dichrostachys nutans",
+      "Dichrostachys platycarpa",
+      "Mimosa cinerea",
+      "Mimosa glomerata",
+      "Mimosa nutans",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nDichrostachys\n: From the Greek\ndichroos\n\"two-coloured\" and\nstachys\n\"a spike\", in reference to the two coloured inflorescences of the tree.\n-\nCinerea\n: Ash-coloured, in reference of the colour of the leaves.",
+    "etymology_html": "<p>- <i>Dichrostachys</i> : From the Greek <i>dichroos</i> \"two-coloured\" and <i>stachys</i> \"a spike\", in reference to the two coloured inflorescences of the tree.<br>- <i>Cinerea</i> : Ash-coloured, in reference of the colour of the leaves.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Dichrostachys cinerea is light brown-coloured and deeply longitudinally fissured on old branches and trunk.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Dichrostachys cinerea</i> is light brown-coloured and deeply longitudinally fissured on old branches and trunk.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dichrostachys_cinerea_stem1.jpg",
+          "caption": "Dichrostachys cinerea trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dichrostachys_cinerea_stem2.jpg",
+          "caption": "Dichrostachys cinerea bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/dichrostachys_cinerea_stem3.jpg",
+          "caption": "Dichrostachys cinerea thorn"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Dichrostachys cinerea are ovoid, shiny, compressed and brown-coloured. The seeds are 4-5 mm long and 3-4 mm wide. There are 4 to 6 seeds per pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Dichrostachys cinerea</i> are ovoid, shiny, compressed and brown-coloured. The seeds are 4-5 mm long and 3-4 mm wide. There are 4 to 6 seeds per pod.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/dichrostachys_cinerea_seed1.jpg",
+          "caption": "Dichrostachys cinerea seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/dichrostachys_cinerea_seed2.jpg",
+          "caption": "Dichrostachys cinerea seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Dichrostachys cinerea is a flattened, hairy and brown-coloured pod . The fruit is often coiled, it is about 4 cm long and 5-6 mm wide and it contains 4-6 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Dichrostachys cinerea</i> is a flattened, hairy and brown-coloured <strong>pod</strong>. The fruit is often coiled, it is about 4 cm long and 5-6 mm wide and it contains 4-6 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dichrostachys_cinerea_fruit1.jpg",
+          "caption": "Dichrostachys cinerea fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dichrostachys_cinerea_fruit2.jpg",
+          "caption": "Dichrostachys cinerea pod"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/dichrostachys_cinerea_fruit3.jpg",
+          "caption": "Dichrostachys cinerea cluster of pods"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Dichrostachys cinerea are grouped in pendulous, solitary and axillary spikes. The inflorescences are 3-7 cm long and about 2 cm across. The peduncle is 1.5-2 cm long and pubescent. The upper flowers of the inflorescence are bisexual with 10 stamens and 1 pistil. They are yellow coloured. The lower flowers are sterile with protruding, 6-8 mm long and pink or purple-coloured staminodes. The calyx-tube is campanulate and 5-lobed, 0.5 mm long and 0.8 mm across The flowers are fragrant. The corolla is composed of 5 cream-pinkish or cream-yellowish coloured petals. The petals are lanceolate, 1.5 mm long and 0.5-0.6 mm wide. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Dichrostachys cinerea</i> are grouped in pendulous, solitary and axillary spikes.<br>The <strong>inflorescences</strong> are 3-7 cm long and about 2 cm across. The <strong>peduncle</strong> is 1.5-2 cm long and pubescent.<br>The <strong>upper flowers</strong> of the inflorescence are bisexual with 10 stamens and 1 pistil. They are yellow coloured.<br>The <strong>lower flowers</strong> are sterile with protruding, 6-8 mm long and pink or purple-coloured staminodes.<br>The <strong>calyx-tube</strong> is campanulate and 5-lobed, 0.5 mm long and 0.8 mm across The flowers are fragrant.<br>The <strong>corolla</strong> is composed of 5 cream-pinkish or cream-yellowish coloured petals. The petals are lanceolate, 1.5 mm long and 0.5-0.6 mm wide.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower1.jpg",
+          "caption": "Dichrostachys cinerea flowering branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower2.jpg",
+          "caption": "Dichrostachys cinerea inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower3.jpg",
+          "caption": "Dichrostachys cinerea flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower4.jpg",
+          "caption": "Dichrostachys cinerea flowers (bisexual on the left and sterile flower on the right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower5.jpg",
+          "caption": "Dichrostachys cinerea flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower6.jpg",
+          "caption": "Dichrostachys cinerea flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower7.jpg",
+          "caption": "Dichrostachys cinerea flowering branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower8.jpg",
+          "caption": "Dichrostachys cinerea flowers (the yellow ones are bisexual and the pink ones are sterile)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower9.jpg",
+          "caption": "Dichrostachys cinerea flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/dichrostachys_cinerea_flower10.jpg",
+          "caption": "Dichrostachys cinerea in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Dichrostachys cinerea grow alternately on the stem (spirally arranged). The leaf is compound (biparipinnate), bright green-coloured above and paler beneath. The leaf is pubescent on both sides (ash-coloured hairs). The leaves have a 5 mm long petiole . The compound leaf of Dichrostachys cinerea is 4-7 cm long and 2-2.5 cm wide. The leaflets are 1.3-1.5 mm long and about 0.7 mm wide. They are elliptic, the apex is obtuse, the base is rounded and the margins are entire.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Dichrostachys cinerea</i> grow alternately on the stem (spirally arranged).<br>The leaf is compound (biparipinnate), bright green-coloured above and paler beneath. The leaf is pubescent on both sides (ash-coloured hairs).<br>The leaves have a 5 mm long <strong>petiole</strong>.<br>The compound leaf of <i>Dichrostachys cinerea</i> is 4-7 cm long and 2-2.5 cm wide.<br>The <strong>leaflets</strong> are 1.3-1.5 mm long and about 0.7 mm wide. They are elliptic, the <strong>apex</strong> is obtuse, the <strong>base</strong> is rounded and the <strong>margins</strong> are entire.<br> </p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf1.jpg",
+          "caption": "Dichrostachys cinerea branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf2.jpg",
+          "caption": "Dichrostachys cinerea compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf3.jpg",
+          "caption": "Dichrostachys cinerea compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf4.jpg",
+          "caption": "Dichrostachys cinerea compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf5.jpg",
+          "caption": "Dichrostachys cinerea compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/dichrostachys_cinerea_leaf6.jpg",
+          "caption": "Dichrostachys cinerea foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Dichrostachys cinerea is a thorny, small-sized and deciduous tree growing up to 6-8 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Dichrostachys cinerea</i> is a thorny, small-sized and <strong>deciduous tree</strong> growing up to 6-8 m high.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/dichrostachys_cinerea_habit1.jpg",
+          "caption": "Dichrostachys cinerea tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Dichrostachys cinerea is polygamous , with bisexual and (sterile) male flowers on the same plant. Capparis brevispina is pollinated by a wide variety of insects, by birds and bats. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Dichrostachys cinerea</i> is <strong>polygamous</strong>, with bisexual and (sterile) male flowers on the same plant.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Capparis brevispina</i> is pollinated by a wide variety of insects, by birds and bats.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the pods and germinate on sites with favourable conditions : the ripe dry fruits burst and scatter the seeds.<br> </p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/dichrostachys_cinerea_reproduction1.jpg",
+          "caption": "Dichrostachys cinerea flowers (the yellow ones are bisexual and the pink ones are sterile)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/dichrostachys_cinerea_reproduction2.jpg",
+          "caption": "Dichrostachys cinerea flowers (the yellow ones are bisexual and the pink ones are sterile)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/dichrostachys_cinerea_reproduction3.jpg",
+          "caption": "Dichrostachys cinerea sterile flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/dichrostachys_cinerea_reproduction4.jpg",
+          "caption": "Dichrostachys cinerea bisexual flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/dichrostachys_cinerea_reproduction5.jpg",
+          "caption": "Dichrostachys cinerea bisexual flowers"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "Dichrostachys cinerea is often used as a fertiliser . The plant is widely used for soil conservation .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Dichrostachys cinerea</i> is often used as a <strong>fertiliser</strong>. The plant is widely used for <strong>soil conservation</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The young twig, the leaves and the pods of Dichrostachys cinerea are used as cattle fodder . Source : - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The young twig, the leaves and the pods of <i>Dichrostachys cinerea</i> are used as cattle <strong>fodder</strong>.<br><br><i>Source :</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The bark yields a strong fibre used for various applications such as twine. The debarked roots are used for strong plaiting work such as for racks and baskets. Source : - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The bark yields a strong <strong>fibre</strong> used for various applications such as twine.<br><br>The debarked roots are used for strong <strong>plaiting work</strong> such as for racks and baskets.<br><br><i>Source :</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The fruits and seeds of Dichrostachys cinerea are edible. Source : - Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruits</strong> and <strong>seeds</strong> of <i>Dichrostachys cinerea</i> are edible.<br><br><i>Source :</i><br><i>- Orwa C., Mutua A., Kindt R., Jamnadass R., Anthony S., 2009, Agroforestree Database: a tree reference and selection guide</i></p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Dichrostachys cinerea prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Dichrostachys cinerea</i> prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

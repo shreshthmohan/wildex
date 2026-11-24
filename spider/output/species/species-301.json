@@ -1,0 +1,212 @@
+{
+  "species_id": 301,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=301",
+  "scraped_at": "2025-10-02T18:04:13.448011Z",
+  "basic_info": {
+    "scientific_name": "Syzygium caryophyllatum",
+    "authority": null,
+    "family": "Myrtaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/65251839ab964_65251839ab954_Sy.ca_mp2.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Sy.ca_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "07 Sep, 2023",
+    "collected_by": "A.S, M.D, S.G",
+    "gps_coordinates": {
+      "latitude": "12°10'51 N",
+      "longitude": "79°17'21 E",
+      "raw": "12°10'51 N - 79°17'21 E"
+    },
+    "locality": "Auroville Botanical Gardens and Pakkamalai RF, Gingee, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Syzygium caryophyllatum",
+    "author": "Alston, Arthur Hugh Garfit (1931)",
+    "family": "Myrtaceae",
+    "english_names": "Dwarf black Plum tree, Indian Blackberry",
+    "indian_names": null,
+    "synonyms": [
+      "Calyptranthes caryophyllata",
+      "Jambosa caryophyllata",
+      "Myrtus caryophyllata",
+      "Eugenia",
+      "caryophyllaea",
+      "Eugenia corymbosa",
+      "Syzygium bournei",
+      "Syzygium caryophyllaeum",
+      "Syzygium caryophyllatum var. abrahamianum"
+    ],
+    "etymology": "-\nSyzygium\n: From the Greek\nsyzygos\n\"coupled, joined\", in reference to the paired branches and leaves.\n-\ncaryophyllatum\n: From the Greek\ncaryon\n\"nut\" and\nphyllatum\n\"leaves\", for this tree resembling or associated with the clove plant.",
+    "etymology_html": "<p>- <i>Syzygium</i>: From the Greek <i>syzygos</i> \"coupled, joined\", in reference to the paired branches and leaves.<br>- <i>caryophyllatum</i>: From the Greek <i>caryon</i> \"nut\" and <i>phyllatum</i> \"leaves\", for this tree resembling or associated with the clove plant.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Syzygium caryophyllatum is grey in colour and smooth. The branchlets are subterete and glabrous.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Syzygium caryophyllatum is grey in colour and smooth. <br>The branchlets are subterete and glabrous.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st1.jpg",
+          "caption": "Syzygium caryophyllatum branches on young specimen"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st2.jpg",
+          "caption": "Syzygium caryophyllatum young stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st3.jpg",
+          "caption": "Syzygium caryophyllatum twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Sy.ca_st4%20.jpg",
+          "caption": "Syzygium caryophyllatum leaves on stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Syzygium caryophyllatum is enclosed in the flesh of the berry. It is about 0.5 cm across, light beige in colour. It is composed of 2 half green spheres, protected in a shell.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seed of Syzygium caryophyllatum is enclosed in the flesh of the berry.<br>It is about 0.5 cm across, light beige in colour.<br>It is composed of 2 half green spheres, protected in a shell.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd1.jpg",
+          "caption": "Syzygium caryophyllatum seed enclosed in the berry"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd2.jpg",
+          "caption": "Syzygium caryophyllatum seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Sy.ca_sd3.jpg",
+          "caption": "Syzygium caryophyllatum seeds and their shell"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruits of Syzygium caryophyllatum are globose berries. The berry is crowned with the calyx lobes and it is glabrous. It is 0.5 cm across. The fruits are green, then pink and turn a deep purple or black colour at maturity. The fruits are edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruits of Syzygium caryophyllatum are globose berries. <br>The berry is crowned with the calyx lobes and it is glabrous. <br>It is 0.5 cm across. <br>The fruits are green, then pink and turn a deep purple or black colour at maturity. <br>The fruits are edible.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr1.jpg",
+          "caption": "Syzygium caryophyllatum globose berries"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr2.jpg",
+          "caption": "Syzygium caryophyllatum fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr3.jpg",
+          "caption": "Syzygium caryophyllatum unripe young fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr4.jpg",
+          "caption": "Syzygium caryophyllatum unripe young fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr6.jpg",
+          "caption": "Syzygium caryophyllatum ripe berries"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Sy.ca_fr5.jpg",
+          "caption": "Syzygium caryophyllatum globose berry"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Syzygium caryophyllatum are growing in terminal corymbose cymes. The flowers are bisexual. They are white in colour and 0.5 cm in size. The petals are calyptrate, with numerous stamens which bent inwards at the middle when in bud.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The inflorescences of Syzygium caryophyllatum are growing in terminal corymbose cymes. <br>The flowers are bisexual. <br>They are white in colour and 0.5 cm in size. <br>The petals are calyptrate, with numerous stamens which bent inwards at the middle when in bud.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl1.jpg",
+          "caption": "Syzygium caryophyllatum flowers in cymes"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl2.jpg",
+          "caption": "Syzygium caryophyllatum flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl3.jpg",
+          "caption": "Syzygium caryophyllatum flower with numerous stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Sy.ca_fl4.jpg",
+          "caption": "Syzygium caryophyllatum inflorescence"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Syzygium caryophyllatum are simple, growing in an opposite and decussate arrangement. The petiole is less than 1cm long, canaliculate and glabrous. The leaves are 5 to 10 cm long and 1.5 to 4 cm wide. The leaf is obovate in shape, the apex is obtuse, the base is attenuate to acute and the margin is entire. There are many lateral nerves close, slender and prominent looped at the margin.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Syzygium caryophyllatum are simple, growing in an opposite and decussate arrangement. <br>The petiole is less than 1cm long, canaliculate and glabrous. <br>The leaves are 5 to 10 cm long and 1.5 to 4 cm wide. <br>The leaf is obovate in shape, the apex is obtuse, the base is attenuate to acute and the margin is entire. <br>There are many lateral nerves close, slender and prominent looped at the margin.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf1.jpg",
+          "caption": "Syzygium caryophyllatum leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf2.jpg",
+          "caption": "Syzygium caryophyllatum leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf3.jpg",
+          "caption": "Syzygium caryophyllatum opposite decussate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf4.jpg",
+          "caption": "Syzygium caryophyllatum leaf arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf5.jpg",
+          "caption": "Syzygium caryophyllatum young leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf7.jpg",
+          "caption": "Syzygium caryophyllatum leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf8.jpg",
+          "caption": "Syzygium caryophyllatum leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf9.jpg",
+          "caption": "Syzygium caryophyllatum nervation"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Sy.ca_lf10.jpg",
+          "caption": "Syzygium caryophyllatum leaves on stem"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Syzygium caryophyllatum is a small evergreen tree, growing up to 6 m in height.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Syzygium caryophyllatum is a small evergreen tree, growing up to 6 m in height.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha1.jpg",
+          "caption": "Syzygium caryophyllatum habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha2.jpg",
+          "caption": "Syzygium caryophyllatum foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Sy.ca_ha3.jpg",
+          "caption": "Syzygium caryophyllatum young specimen"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

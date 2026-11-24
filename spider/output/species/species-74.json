@@ -1,0 +1,251 @@
+{
+  "species_id": 74,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=74",
+  "scraped_at": "2025-11-02T17:30:02.984751Z",
+  "basic_info": {
+    "scientific_name": "Grewia carpinifolia",
+    "authority": "Juss.",
+    "family": "Malvaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/grewia_carpinifolia.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Gr.ca_herb1 copy.jpg"
+  },
+  "collection_metadata": {
+    "date": "21 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99408 N",
+      "longitude": "79.82352 E",
+      "raw": "11.99408 N - 79.82352 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Grewia carpinifolia",
+    "author": "Jussieu, Antoine Laurent de (1804)",
+    "family": "Malvaceae",
+    "english_names": "Not specified",
+    "indian_names": {
+      "Tamil": [
+        "Panripputukkan"
+      ]
+    },
+    "synonyms": [
+      "Grewia biflora",
+      "Grewia rautanenii",
+      "Grewia rhamnifolia",
+      "Vinticena carpinifolia",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nGrewia\n: For Nehemiah Grew (1641-1712), a British physician and anatomist, a pioneer microscopist. He is the author of\nThe Anatomy of Plants\npublished in 1682.\n-\nCarpinifolia\n: From the Latin\ncarpinus-folium\nmeaning \"hornbeam-leaved\".",
+    "etymology_html": "<p>-<i>Grewia</i> : For Nehemiah Grew (1641-1712), a British physician and anatomist, a pioneer microscopist. He is the author of <i>The Anatomy of Plants</i> published in 1682.<br>-<i>Carpinifolia</i> : From the Latin <i>carpinus-folium</i> meaning \"hornbeam-leaved\".</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Grewia carpinifolia is greenish and brown-coloured. It is longitudinally fissured and lenticellate.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Grewia carpinifolia</i> is greenish and brown-coloured. It is longitudinally fissured and lenticellate.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_carpinifolia_stem1.jpg",
+          "caption": "Grewia carpinifolia trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/grewia_carpinifolia_stem2.jpg",
+          "caption": "Grewia carpinifolia bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Grewia carpinifolia is enclosed into a 8 mm long and 4-5 mm wide stone. There are 4 stones per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Grewia carpinifolia</i> is enclosed into a 8 mm long and 4-5 mm wide stone. There are 4 stones per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/grewia_carpinifolia_seed1.jpg",
+          "caption": "Grewia carpinifolia stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/grewia_carpinifolia_seed2.jpg",
+          "caption": "Grewia carpinifolia stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Grewia carpinifolia is subglobose and obscurely 3 or 4 lobed drupe . The fruit is 1-1.5 cm across with a 1.5 cm peduncle. It is densely pubescent, greenish turning brown-coloured when ripe. The fruit usually contains 4 stones.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Grewia carpinifolia</i> is subglobose and obscurely 3 or 4 lobed <strong>drupe</strong>. The fruit is 1-1.5 cm across with a 1.5 cm peduncle. It is densely pubescent, greenish turning brown-coloured when ripe. The fruit usually contains 4 stones.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit1.jpg",
+          "caption": "Grewia carpinifolia fruiting twig (unripe fruits)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit2.jpg",
+          "caption": "Grewia carpinifolia ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit3.jpg",
+          "caption": "Grewia carpinifolia unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit4.jpg",
+          "caption": "Grewia carpinifolia unripe fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit5.jpg",
+          "caption": "Grewia carpinifolia unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/grewia_carpinifolia_fruit6.jpg",
+          "caption": "Grewia carpinifolia ripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Grewia carpinifolia are grouped in short axillary or terminal 2-3-flowered cymes (at the upper axils of the leaves). The peduncle is 1-1.5 cm long. The calyx is composed of 5 sepals. The sepals are oblong, recurved, 1.5 cm long and 3-3.5 mm wide. They are white-coloured and glabrous within and greenish rusty-coloured and densely tomentose outside. The corolla is composed of 5 white petals, greenish-coloured and ciliate at the base. The petals are lanceolate and acuminate, 8 mm long and 3 mm wide. The androecium is composed of numerous stamens. The filaments are thin and 6-8 mm long. The anthers are tiny (0.5 mm across) and globular. The style is stout and 1 cm long with a capitate and 4-lobed stigma . The ovary is globose, densely pubescent and 4-celled. The buds are covered with short and rusty-coloured hairs. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Grewia carpinifolia</i> are grouped in short axillary or terminal 2-3-flowered cymes (at the upper axils of the leaves). The <strong>peduncle</strong> is 1-1.5 cm long.<br>The <strong>calyx</strong> is composed of 5 sepals. The <strong>sepals</strong> are oblong, recurved, 1.5 cm long and 3-3.5 mm wide. They are white-coloured and glabrous within and greenish rusty-coloured and densely tomentose outside.<br>The <strong>corolla</strong> is composed of 5 white petals, greenish-coloured and ciliate at the base. The petals are lanceolate and acuminate, 8 mm long and 3 mm wide. <br>The <strong>androecium</strong> is composed of numerous stamens. The filaments are thin and 6-8 mm long. The anthers are tiny (0.5 mm across) and globular.<br>The <strong>style</strong> is stout and 1 cm long with a capitate and 4-lobed <strong>stigma</strong>.<br>The <strong>ovary</strong> is globose, densely pubescent and 4-celled.<br>The <strong>buds</strong> are covered with short and rusty-coloured hairs.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower1.jpg",
+          "caption": "Grewia carpinifolia inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower2.jpg",
+          "caption": "Grewia carpinifolia cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower3.jpg",
+          "caption": "Grewia carpinifolia flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower4.jpg",
+          "caption": "Grewia carpinifolia flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower5.jpg",
+          "caption": "Grewia carpinifolia flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower6.jpg",
+          "caption": "Grewia carpinifolia pollinated flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower7.jpg",
+          "caption": "Grewia carpinifolia flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower8.jpg",
+          "caption": "Grewia carpinifolia flower and bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower9.jpg",
+          "caption": "Grewia carpinifolia flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/grewia_carpinifolia_flower10.jpg",
+          "caption": "Grewia carpinifolia flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Grewia carpinifolia grow alternately on the stem. The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides. The leaves have a 7-8 mm long petiole . The leaf of Grewia carpinifolia is 8-10 cm long and 4-5 cm wide. The shape of the blade is ovate to lanceolate, the apex is acuminate, the base is rounded and the margins are finely crenate. The venation of the leaf is reticulate with 3 prominent veins.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Grewia carpinifolia</i> grow alternately on the stem.<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides.<br>The leaves have a 7-8 mm long <strong>petiole</strong>.<br>The leaf of <i>Grewia carpinifolia</i> is 8-10 cm long and 4-5 cm wide. The shape of the <strong>blade</strong> is ovate to lanceolate, the <strong>apex</strong> is acuminate, the <strong>base</strong> is rounded and the <strong>margins</strong> are finely crenate.<br>The <strong>venation</strong> of the leaf is reticulate with 3 prominent veins.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf1.jpg",
+          "caption": "Grewia carpinifolia branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf2.jpg",
+          "caption": "Grewia carpinifolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf3.jpg",
+          "caption": "Grewia carpinifolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf4.jpg",
+          "caption": "Grewia carpinifolia new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf5.jpg",
+          "caption": "Grewia carpinifolia leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf6.jpg",
+          "caption": "Grewia carpinifolia leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf7.jpg",
+          "caption": "Grewia carpinifolia new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/grewia_carpinifolia_leaf8.jpg",
+          "caption": "Grewia carpinifolia foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Grewia carpinifolia is a thornless, deciduous climbing shrub .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Grewia carpinifolia</i> is a thornless, <strong>deciduous climbing shrub</strong>.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/grewia_carpinifolia_habit1.jpg",
+          "caption": "Grewia carpinifolia climbing on a tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/grewia_carpinifolia_habit2.jpg",
+          "caption": "Grewia carpinifolia climbing on a shrub"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Grewia carpinifolia is found in dry deciduous forest and scrub jungles from the coastal plains up to 500 m in the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Grewia carpinifolia</i> is found in dry deciduous forest and scrub jungles from the coastal plains up to 500 m in the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "India, Sri Lanka, West Africa",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>India, Sri Lanka, West Africa</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Grewia carpinifolia is bisexual (each flower of each individual has both male and female structures). Grewia carpinifolia is pollinated by a wide variety of insects. The seeds of Grewia carpinifolia are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Grewia carpinifolia</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Grewia carpinifolia</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Grewia carpinifolia</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/grewia_carpinifolia_reproduction1.jpg",
+          "caption": "Grewia carpinifolia flower : style surrounding by numerous stamens surrounding by petals"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/grewia_carpinifolia_reproduction2.jpg",
+          "caption": "Grewia carpinifolia flower : style + stigma surrounding by numerous anthers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/grewia_carpinifolia_reproduction3.jpg",
+          "caption": "Grewia carpinifolia pistil and stamens behind"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From June to October. From September to February. From September to February. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From June to October.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From September to February.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From September to February.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "Grewia carpinifolia is used in Siddha medicine. The paste of leaves is applied in wounds and cuts. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p><i>Grewia carpinifolia</i> is used in Siddha medicine.<br><br>The <strong>paste of leaves</strong> is applied in wounds and cuts.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Grewia carpinifolia is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight). The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Grewia carpinifolia</i> is able to flourish in a wide range of soils but all soils need to be free draining. It thrives in open areas (it prefers full sunlight).<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "species_id": 174,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=174",
+  "scraped_at": "2025-10-02T18:26:49.024150Z",
+  "basic_info": {
+    "scientific_name": "Leucaena leucocephala",
+    "authority": "(Lam.) de Wit",
+    "family": "Fabaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/leucaena_leucocephala.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Le.le_herb2.jpg"
+  },
+  "collection_metadata": {
+    "date": "11 Mar, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99415 N",
+      "longitude": "79.82380 E",
+      "raw": "11.99415 N - 79.82380 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Leucaena leucocephala",
+    "author": "de Wit, Hendrik Cornelis Dirk (1961)",
+    "family": "Fabaceae",
+    "english_names": "Lead tree, leucaena, wild tamarind",
+    "indian_names": {
+      "Hindi": [
+        "Safed babool"
+      ],
+      "Malayalam": [
+        "Ippil ippil"
+      ],
+      "Marathi": [
+        "Subabul"
+      ],
+      "Tamil": [
+        "Periya takarai",
+        "soundal"
+      ]
+    },
+    "synonyms": [
+      "Acacia frondosa",
+      "Acacia glauca",
+      "Acacia leucocephala",
+      "Leucaena glabra",
+      "Leucaena glauca",
+      "Leucaena leucocephala subsp. leucocephala",
+      "Mimosa glauca",
+      "Mimosa leucocephala",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nLeucaena\n: From the Greek\nleukos\n\"white\", in reference to the colour of the flowers.\n-\nLeucocephala\n: White-headed, from the Greek\nleukos\n\"white\" and\ncephalus\n\"head\".",
+    "etymology_html": "<p>- <i>Leucaena</i> : From the Greek <i>leukos</i> \"white\", in reference to the colour of the flowers.<br>- <i>Leucocephala</i> : White-headed, from the Greek <i>leukos</i> \"white\" and <i>cephalus</i> \"head\".</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Leucaena leucocephala is grey and brownish-coloured and rough (warty).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Leucaena leucocephala</i> is grey and brownish-coloured and rough (warty).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/leucaena_leucocephala_stem1.jpg",
+          "caption": "Leucaena leucocephala trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/leucaena_leucocephala_stem2.jpg",
+          "caption": "Leucaena leucocephala bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Leucaena leucocephala are ovate, 8 mm long and 5 mm wide. They are glossy and brown-coloured. There are about 30 seeds per pod.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Leucaena leucocephala</i> are ovate, 8 mm long and 5 mm wide. They are glossy and brown-coloured. There are about 30 seeds per pod.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/leucaena_leucocephala_seed1.jpg",
+          "caption": "Leucaena leucocephala seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/leucaena_leucocephala_seed2.jpg",
+          "caption": "Leucaena leucocephala hanging seeds (attached to the fruit by its extensible funicle)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/leucaena_leucocephala_seed3.jpg",
+          "caption": "Leucaena leucocephala seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Leucaena leucocephala is a flat and oblong pod with a 1.5-2 cm long peduncle. The fruit is 15-25 cm long and 2-2.5 cm wide, brown-coloured when ripe. Each pod contains about 30 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Leucaena leucocephala</i> is a flat and oblong <strong>pod</strong> with a 1.5-2 cm long peduncle. The fruit is 15-25 cm long and 2-2.5 cm wide, brown-coloured when ripe. Each pod contains about 30 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit1.jpg",
+          "caption": "Leucaena leucocephala ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit2.jpg",
+          "caption": "Leucaena leucocephala unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit3.jpg",
+          "caption": "Leucaena leucocephala open fruit (seedless)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit4.jpg",
+          "caption": "Leucaena leucocephala ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit5.jpg",
+          "caption": "Leucaena leucocephala fruiting branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/leucaena_leucocephala_fruit6.jpg",
+          "caption": "Leucaena leucocephala in fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Leucaena leucocephala are grouped in compact globose heads with 2-2.5 cm long peduncles . The calyx-tube is campanulate, 5-lobed, 2.5 mm long and 1 mm across. The calyx is white and light green-coloured. The corolla is composed of 5 cream-coloured and glabrous petals. The petals are linear-oblong, 4 mm long and 0.5 mm wide. The androecium is composed of 10 stamens. The filaments are 5 mm long. The style is 6 mm long with a simple stigma at the tip. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Leucaena leucocephala</i> are grouped in compact globose <strong>heads</strong> with 2-2.5 cm long <strong>peduncles</strong>.<br>The <strong>calyx-tube</strong> is campanulate, 5-lobed, 2.5 mm long and 1 mm across. The calyx is white and light green-coloured.<br>The <strong>corolla</strong> is composed of 5 cream-coloured and glabrous petals. The petals are linear-oblong, 4 mm long and 0.5 mm wide.<br>The <strong>androecium</strong> is composed of 10 stamens. The filaments are 5 mm long.<br>The <strong>style</strong> is 6 mm long with a simple <strong>stigma</strong> at the tip.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower1.jpg",
+          "caption": "Leucaena leucocephala inflorescences (in buds)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower2.jpg",
+          "caption": "Leucaena leucocephala inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower3.jpg",
+          "caption": "Leucaena leucocephala inflorescence section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower4.jpg",
+          "caption": "Leucaena leucocephala flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower5.jpg",
+          "caption": "Leucaena leucocephala inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower6.jpg",
+          "caption": "Leucaena leucocephala flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower7.jpg",
+          "caption": "Leucaena leucocephala inflorescences (in buds)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/leucaena_leucocephala_flower8.jpg",
+          "caption": "Leucaena leucocephala in bloom"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Leucaena leucocephala grow alternately on the stem (spirally arranged). The leaf is compound, biparipinnate with numerous pairs of small leaflets. The leaflets are dark green-coloured above and paler beneath. The leaflet is chartaceous and glabrous on both sides. The leaflets are subsessile. The leaflet of Leucaena leucocephala is 1.5 cm long and 0.5 cm wide. The shape of the blade is oblong, the apex is obtuse or shorty acuminate, the base is obliquely rounded and the margins are entire. The venation of the leaflets is pinnate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Leucaena leucocephala</i> grow alternately on the stem (spirally arranged).<br>The leaf is compound, biparipinnate with numerous pairs of small leaflets.<br>The <strong>leaflets</strong> are dark green-coloured above and paler beneath. The leaflet is chartaceous and glabrous on both sides.<br>The leaflets are subsessile.<br>The leaflet of <i>Leucaena leucocephala</i> is 1.5 cm long and 0.5 cm wide. The shape of the <strong>blade</strong> is oblong, the <strong>apex</strong> is obtuse or shorty acuminate, the <strong>base</strong> is obliquely rounded and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaflets is pinnate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf1.jpg",
+          "caption": "Leucaena leucocephala compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf2.jpg",
+          "caption": "Leucaena leucocephala compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf3.jpg",
+          "caption": "Leucaena leucocephala pinna (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf4.jpg",
+          "caption": "Leucaena leucocephala pinna (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf5.jpg",
+          "caption": "Leucaena leucocephala leaflet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf6.jpg",
+          "caption": "Leucaena leucocephala leaflet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf7.jpg",
+          "caption": "Leucaena leucocephala leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/leucaena_leucocephala_leaf8.jpg",
+          "caption": "Leucaena leucocephala branch"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Leucaena leucocephala is a thornless, small-sized and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Leucaena leucocephala</i> is a thornless, small-sized and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/leucaena_leucocephala_habit1.jpg",
+          "caption": "Leucaena leucocephala avenue tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Leucaena leucocephala is bisexual (each flower of each individual has both male and female structures). Leucaena leucocephala is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The seeds disperse from the fruits and germinate on sites with favourable conditions : the ripe dry fruits open to release the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Leucaena leucocephala</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Leucaena leucocephala</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The seeds disperse from the fruits and germinate on sites with favourable conditions : the ripe dry fruits open to release the seeds.<br> </p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "Throughout the year. Throughout the year. Throughout the year. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Throughout the year.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The leaves of Leucaena leucocephala are used as a green manure.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>leaves</strong> of <i>Leucaena leucocephala</i> are used as a green manure.</p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The pod of Leucaena leucocephala provides an excellent source of high-protein cattle fodder .",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>pod</strong> of <i>Leucaena leucocephala</i> provides an excellent source of high-protein <strong>cattle fodder</strong>.</p>      \n    </div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The young pods of Leucaena leucocephala are edible and occasionally eaten as a vegetable.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>young pods</strong> of <i>Leucaena leucocephala</i> are edible and occasionally eaten as a vegetable.</p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Leucaena leucocephala is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds or by cuttings. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Leucaena leucocephala</i> is a light demander and fairly drought resistant. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds or by cuttings.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

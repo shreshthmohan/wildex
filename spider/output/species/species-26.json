@@ -1,0 +1,286 @@
+{
+  "species_id": 26,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=26",
+  "scraped_at": "2025-10-07T08:43:16.553884Z",
+  "basic_info": {
+    "scientific_name": "Aglaia elaeagnoidea",
+    "authority": "(A.Juss.) Benth.",
+    "family": "Meliaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/aglaia_elaeagnoidea.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ag.el_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "09 May, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99495 N",
+      "longitude": "79.82362 E",
+      "raw": "11.99495 N - 79.82362 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Aglaia elaeagnoidea",
+    "author": "Bentham, George",
+    "family": "Meliaceae",
+    "english_names": "Droopy leaf",
+    "indian_names": {
+      "Hindi": [
+        "Priyangu"
+      ],
+      "Kannada": [
+        "Gadagayya",
+        "Thottilu"
+      ],
+      "Malayalam": [
+        "Cheeralam",
+        "Nyalei",
+        "Punniyava"
+      ],
+      "Tamil": [
+        "Chokkala",
+        "Sokkala"
+      ],
+      "Telugu": [
+        "Erranduga",
+        "Kondanduga"
+      ]
+    },
+    "synonyms": [
+      "Aglaia abbreviata",
+      "Aglaia canariifolia",
+      "Aglaia cupreolepidota",
+      "Aglaia elaeagnoidea var. beddomei",
+      "Aglaia elaeagnoidea var. bourdillonii",
+      "Aglaia elaeagnoidea var. courtallensis",
+      "Aglaia elaeagnoidea var. formosana",
+      "Aglaia elaeagnoidea var. pallens",
+      "Aglaia formosana",
+      "Aglaia grata",
+      "Aglaia hoanensis",
+      "Aglaia lepidota",
+      "Aglaia littoralis",
+      "Aglaia midnaporensis",
+      "Aglaia odoratissima",
+      "Aglaia pallens",
+      "Aglaia parvifolia",
+      "Aglaia poilanei",
+      "Aglaia poulocondorensis",
+      "Aglaia roxburghiana",
+      "Aglaia roxburghiana var. beddomei",
+      "Aglaia roxburghiana var. courtallensis",
+      "Aglaia roxburghiana var. obtusa",
+      "Aglaia spanoghei",
+      "Aglaia talbotii",
+      "Aglaia wallichii",
+      "Aglaia wallichii var. brachystachya",
+      "Amoora poulocondorensis",
+      "Milnea roxburghiana",
+      "Nemedra elaeagnoidea",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nAglaia\n: Means \"splendor, beauty, brightness\" in Greek. Aglaia was one of the Three Graces in the Greek mythology (with Euphrosyne and Thalia).\n-\nelaeagnoidea\n: From Greek\neleagnos,\nreferring to a local tree: myrica or sweet gale",
+    "etymology_html": "<p>- <i>Aglaia</i>: Means \"splendor, beauty, brightness\" in Greek. Aglaia was one of the Three Graces in the Greek mythology (with Euphrosyne and Thalia).<br>- <i>elaeagnoidea</i>: From Greek <i>eleagnos,</i> referring to a local tree: myrica or sweet gale</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Aglaia elaeagnoidea is reddish-brown and smooth.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Aglaia elaeagnoidea</i> is reddish-brown and smooth.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/aglaia_elaeagnoidea_stem1.jpg",
+          "caption": "Aglaia elaeagnoidea trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/aglaia_elaeagnoidea_stem2.jpg",
+          "caption": "Aglaia elaeagnoidea bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ag.el_st1.jpg",
+          "caption": "Aglaia elaeagnoidea multi-stem habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ag.el_st2.jpg",
+          "caption": "Aglaia elaeagnoidea branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ag.el_st3.jpg",
+          "caption": "Aglaia elaeagnoidea branches"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Aglaia elaeagnoidea is ovoid and solitary. This seed is coated with a white and thick (edible) pulp.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Aglaia elaeagnoidea</i> is ovoid and solitary. This seed is coated with a white and thick (edible) pulp.<br> </p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/aglaia_elaeagnoidea_seed_1.jpg",
+          "caption": "Aglaia elaeagnoidea seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/aglaia_elaeagnoidea_seed_2.jpg",
+          "caption": "Aglaia elaeagnoidea seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Aglaia elaeagnoidea is a berry . This berry is globose to ovate and 1 to 1.5 cm across. The fruit of Aglaia elaeagnoidea is buff-coloured turning orange when ripe, tomentose and 1-seeded.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Aglaia elaeagnoidea</i> is a <strong>berry</strong>.<br>This <strong>berry</strong> is globose to ovate and 1 to 1.5 cm across.<br>The fruit of <i>Aglaia elaeagnoidea</i> is buff-coloured turning orange when ripe, tomentose and 1-seeded.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit1.jpg",
+          "caption": "Aglaia elaeagnoidea ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit2.jpg",
+          "caption": "Aglaia elaeagnoidea unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit3.jpg",
+          "caption": "Aglaia elaeagnoidea ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit4.jpg",
+          "caption": "Aglaia elaeagnoidea fruit transversal section"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit5.jpg",
+          "caption": "Aglaia elaeagnoidea ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/aglaia_elaeagnoidea_fruit6.jpg",
+          "caption": "Aglaia elaeagnoidea unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescence of Aglaia elaeagnoidea is an axillary panicle . This panicle is pyramidal and 6 to 10 cm long. The flowers of Aglaia elaeagnoidea are 2-3 mm across, yellow-coloured. The calyx is composed of 5 tiny, tomentose and yellow sepals. The yellowish corolla is composed of 5 ovate and imbricate petals (1.5 mm long and 1 mm wide). There are 5 stamens and the ovary is globose and 2-celled. The buds of Aglaia elaeagnoidea are green. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>inflorescence</strong> of <i>Aglaia elaeagnoidea</i> is an axillary <strong>panicle</strong>. This <strong>panicle</strong> is pyramidal and 6 to 10 cm long.<br>The <strong>flowers</strong> of <i>Aglaia elaeagnoidea</i> are 2-3 mm across, yellow-coloured.<br>The <strong>calyx</strong> is composed of 5 tiny, tomentose and yellow sepals.<br>The yellowish <strong>corolla</strong> is composed of 5 ovate and imbricate petals (1.5 mm long and 1 mm wide).<br>There are 5 <strong>stamens</strong> and the <strong>ovary</strong> is globose and 2-celled.<br>The <strong>buds</strong> of <i>Aglaia elaeagnoidea</i> are green.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower1.jpg",
+          "caption": "Aglaia elaeagnoidea inflorescence at the axil of a new leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower2.jpg",
+          "caption": "Aglaia elaeagnoidea panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower3.jpg",
+          "caption": "Aglaia elaeagnoidea panicle subdivision"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower4.jpg",
+          "caption": "Aglaia elaeagnoidea inflorescence in buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower5.jpg",
+          "caption": "Aglaia elaeagnoidea panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower6.jpg",
+          "caption": "Aglaia elaeagnoidea panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower7.jpg",
+          "caption": "Aglaia elaeagnoidea panicle subdivision"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower8.jpg",
+          "caption": "Aglaia elaeagnoidea flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/aglaia_elaeagnoidea_flower9.jpg",
+          "caption": "Aglaia elaeagnoidea buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Aglaia elaeagnoidea grow alternately on the stem (spirally arranged). The leaves have a 2.5 to 3.5 cm long petiole. The leaflets of Aglaia elaeagnoidea are imparipinnate (2-3 pairs of opposite leaflets), dark green coloured above and pale green beneath. They are glabrous on both sides and coriaceous. The leaflets are 5-10 cm long and 2-4 cm wide. They are elliptic to oblanceolate, the apex is acute (sometimes obtuse), the base is cuneate and the margins are entire. The venation of the leaf is reticulate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Aglaia elaeagnoidea</i> grow alternately on the stem (spirally arranged).<br>The leaves have a 2.5 to 3.5 cm long petiole.<br>The <strong>leaflets</strong> of <i>Aglaia elaeagnoidea</i> are imparipinnate (2-3 pairs of opposite leaflets), dark green coloured above and pale green beneath. They are glabrous on both sides and coriaceous.<br>The leaflets are 5-10 cm long and 2-4 cm wide. They are elliptic to oblanceolate, the <strong>apex</strong> is acute (sometimes obtuse), the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aglaia_elaeagnoidea_leaf1.jpg",
+          "caption": "Aglaia elaeagnoidea branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aglaia_elaeagnoidea_leaf2.jpg",
+          "caption": "Aglaia elaeagnoidea compound leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aglaia_elaeagnoidea_leaf3.jpg",
+          "caption": "Aglaia elaeagnoidea leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aglaia_elaeagnoidea_leaf4.jpg",
+          "caption": "Aglaia elaeagnoidea leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/aglaia_elaeagnoidea_leaf5.jpg",
+          "caption": "Aglaia elaeagnoidea branchlet"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Aglaia elaeagnoidea is a medium sized evergreen tree . It is densely branched and foliaceous attaining a height of 15 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Aglaia elaeagnoidea</i> is a medium sized <strong>evergreen tree</strong>. It is densely branched and foliaceous attaining a height of 15 m.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/aglaia_elaeagnoidea_habit1.jpg",
+          "caption": "Aglaia elaeagnoidea young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ag.el_ha1.jpg",
+          "caption": "Aglaia elaeagnoidea habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Ag.el_ha2.jpg",
+          "caption": "Aglaia elaeagnoidea habit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Aglaia elaeagnoidea is a canopy tree in evergreen forests up to 1000 meters. Aglaia elaeagnoidea is sometimes found as an understorey tree in wet evergreen forests ( www.biotik.org ).",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Aglaia elaeagnoidea</i> is a canopy tree in evergreen forests up to 1000 meters.<br><i>Aglaia elaeagnoidea</i> is sometimes found as an understorey tree in wet evergreen forests (<i>www.biotik.org</i>).</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia and Pacific Islands.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia and Pacific Islands.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Aglaia elaeagnoidea is bisexual (each flower of each individual has both male and female structures). Aglaia elaeagnoidea is pollinated by a wide variety of insects. The seeds of Aglaia elaeagnoidea are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Aglaia elaeagnoidea</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Aglaia elaeagnoidea</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Aglaia elaeagnoidea</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From November to March. From May to October. From July to October. Evergreen ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From November to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May to October.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From July to October.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "culinary": {
+      "text": "The white and acid pulp surrounding the seed of Aglaia elaeagnoidea is edible. Source : Basu, B.D., K.R. Kirtikar & I.C.S., 1918, Indian Medicinal Plants. Bahadurganj, India, Sudhindra Nath Basu, Panini office",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The white and acid <strong>pulp</strong> surrounding the seed of <i>Aglaia elaeagnoidea</i> is edible.<br><br><i>Source : Basu, B.D., K.R. Kirtikar &amp; I.C.S., 1918, Indian Medicinal Plants. Bahadurganj, India, Sudhindra Nath Basu, Panini office</i></p>      \n    </div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The fruit of Aglaia elaeagnoidea is cooling, astringent, tonic, antidiarrheal, anti-inflammatory and it is also used for treating skin diseases. The seeds of Aglaia elaeagnoidea are used for painful urination. Source : Chopra, R.N., 1956, Glossary of Indian medicinal plants. Council of Scientific & Industrial Research",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>fruit</strong> of <i>Aglaia elaeagnoidea</i> is cooling, astringent, tonic, antidiarrheal, anti-inflammatory and it is also used for treating skin diseases.<br><br>The <strong>seeds</strong> of <i>Aglaia elaeagnoidea</i> are used for painful urination.<br><br><i>Source : Chopra, R.N., 1956, Glossary of Indian medicinal plants. Council of Scientific &amp; Industrial Research</i></p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Aglaia elaeagnoidea is able to grow in a wide range of soils but all soils need to be free draining. The tree can be planted in half shade. This tree is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Aglaia elaeagnoidea</i> is able to grow in a wide range of soils but all soils need to be free draining. The tree can be planted in half shade.<br>This tree is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

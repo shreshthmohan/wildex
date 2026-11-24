@@ -1,0 +1,231 @@
+{
+  "species_id": 188,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=188",
+  "scraped_at": "2025-10-08T06:12:30.813821Z",
+  "basic_info": {
+    "scientific_name": "Borassus flabellifer",
+    "authority": null,
+    "family": "Arecaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/622605c6b9b3f_622605c69fed7_Bo.fl_mp.jpg",
+    "dry_herbarium": null
+  },
+  "collection_metadata": {
+    "date": "17 May, 2021",
+    "collected_by": "A.A.S., M.N., M.D.",
+    "gps_coordinates": {
+      "latitude": "11.597 N",
+      "longitude": "79.4854 E",
+      "raw": "11.597 N - 79.4854 E"
+    },
+    "locality": "Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Borassus flabellifer",
+    "author": "Linnaeus, Carl von (1767)",
+    "family": "Arecaceae",
+    "english_names": "Palmyra",
+    "indian_names": {
+      "Tamil": [
+        "Panai maram"
+      ],
+      "Hindi": [
+        "Taad"
+      ]
+    },
+    "synonyms": [
+      "Borassus flabelliformis",
+      "Borassus sundaicus",
+      "Borassus tunicatus",
+      "Lontarus domestica",
+      "Pholidocarpus tunicatus",
+      "Thrinax tunicata"
+    ],
+    "etymology": "-\nBorassus\n: From the Greek \"the fruit of the date palm\"\n-\nflabellifer\n: From the Latin \"fan-bearing\" referring to the leaf shape",
+    "etymology_html": "<p>- <i>Borassus</i>: From the Greek \"the fruit of the date palm\"<br>- <i>flabellifer</i>: From the Latin \"fan-bearing\" referring to the leaf shape</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Borassus flabellifer is ringed grey with leaf scars. The trunk is slim, straight, solitary and goes up to 1 m in diameter. Borassus flabellifer is single stemmed. The unbranched cylindrical stem can be more than 1 m wide at the base and crowned by stiffly projecting fan-shaped leaves.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Borassus flabellifer is ringed grey with leaf scars. <br>The trunk is slim, straight, solitary and goes up to 1 m in diameter.<br>Borassus flabellifer is single stemmed. <br>The unbranched cylindrical stem can be more than 1 m wide at the base and crowned by stiffly projecting fan-shaped leaves.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621e03f9423d3_Bo.fl_bk1.jpg",
+          "caption": "Borassus flabellifer trunk with the rest of leaf sheath"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621e03fbf292b_Bo.fl_bk2.jpg",
+          "caption": "Borassus flabellifer trunk cleaned from leaf sheath"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/621e040080ce4_Bo.fl_bk3.jpg",
+          "caption": "Borassus flabellifer bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Borassus flabellifer is a drupe. The young solid or gelatinous endosperm (kernel) of the seeds is eaten fresh.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seed of Borassus flabellifer is a drupe. <br>The young solid or gelatinous endosperm (kernel) of the seeds is eaten fresh.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/623423ab29ed7_Bo.fl_sd1.jpg",
+          "caption": "Borassus flabellifer seed with pointing root below"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/623423af111b3_Bo.fl_sd2.jpg",
+          "caption": "Borassus flabellifer seeds at different stages, cut open to show the white kernel"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/623423b86af07_Bo.fl_sd3.jpg",
+          "caption": "Borassus flabellifer white kernels cut in half"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Borassus flabellifer is a globose to subglobose fleshy brown drupe. Each fruit contain 1 to 3 large seeds. They become rounded or more or less oval. Their size varies from 15 to 20 cm in diameter and weights 1 to 3 kg. The fruits are produced in large clusters pending from the leaf axil. The fruits have a small green cap on the part closest to the stem with overlapping sepals. The ripe fruit has a yellow edible pulp with a distinctive aroma.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Borassus flabellifer is a globose to subglobose fleshy brown drupe. <br>Each fruit contain 1 to 3 large seeds. They become rounded or more or less oval. <br>Their size varies from 15 to 20 cm in diameter and weights 1 to 3 kg. <br>The fruits are produced in large clusters pending from the leaf axil. <br>The fruits have a small green cap on the part closest to the stem with overlapping sepals. <br>The ripe fruit has a yellow edible pulp with a distinctive aroma.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/621e037b3dba0_Bo.fl_fr1.jpg",
+          "caption": "Borassus flabellifer cluster of ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/621e03826cf94_Bo.fl_fr2.jpg",
+          "caption": "Borassus flabellifer cluster of unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/621e038936d3f_Bo.fl_fr3.jpg",
+          "caption": "Borassus flabellifer ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/623423874a3a6_Bo.fl_fr4.jpg",
+          "caption": "Borassus flabellifer fruit, cut open to show 3 jelly-like kernels"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/621e0391541eb_Bo.fl_fr5.jpg",
+          "caption": "Yellow fibrous pulp of Borassus flabellifer ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/621e03952acf3_Bo.fl_fr6.jpg",
+          "caption": "Borassus flabellifer green cap of mature fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The male and female flowers of Borassus flabellifer are borne in separate trees. The species is dioecious (the gender determination happens only until flowering, after 12-20 years). The female inflorescence is a white sparingly branched pendant cluster called a spadix. The male inflorescence is a simple branched spadix. The female flowers are globose, yellow to green. The size of the female flowers can be up to 2 cm. The male flowers are smaller, less than 1 cm long.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The male and female flowers of Borassus flabellifer are borne in separate trees. <br>The species is dioecious (the gender determination happens only until flowering, after 12-20 years). <br>The female inflorescence is a white sparingly branched pendant cluster called a spadix. <br>The male inflorescence is a simple branched spadix. <br>The female flowers are globose, yellow to green. <br>The size of the female flowers can be up to 2 cm. <br>The male flowers are smaller, less than 1 cm long.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/621e033ff305e_Bo.fl_fl1.jpg",
+          "caption": "Borassus flabellifer male inflorescence (spadix)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/621e0341bb3dd_Bo.fl_fl2.jpg",
+          "caption": "Borassus flabellifer male inflorescence (spadix)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/621e0346572cd_Bo.fl_fl3.jpg",
+          "caption": "Borassus flabellifer male inflorescence as a 4 branched spadix"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/621e0349e33e9_Bo.fl_fl4.jpg",
+          "caption": "Borassus flabellifer male yellow flowers on spadix"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62450fba3d6d2_Bo.fl_fl5.jpg",
+          "caption": "Borassus flabellifer male yellow flowers on spadix"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626cd1a2bb98f_Bo.fl_fl6.jpg",
+          "caption": "Borassus flabellifer female flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/626cd1c2eba83_Bo.fl_fl7.jpg",
+          "caption": "Borassus flabellifer female flowers and fruits"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaf of Borassus flabellifer is a fan-shaped palm. The leaves form a globose crown of rigid palmate leaves. Each leaf is 1.50 m to 2.50 m long, and 1 to 3 m wide. They are folded along the midrib. The strong stalks, about 1 m long, are edged with hard spines.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaf of Borassus flabellifer is a fan-shaped palm. <br>The leaves form a globose crown of rigid palmate leaves. <br>Each leaf is 1.50 m to 2.50 m long, and 1 to 3 m wide. <br>They are folded along the midrib. <br>The strong stalks, about 1 m long, are edged with hard spines.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e024f5d601_Bo.fl_lf1.jpg",
+          "caption": "Borassus flabellifer curved fan-shaped leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e02546cfa6_Bo.fl_lf2.jpg",
+          "caption": "Borassus flabellifer crown of fan-shaped leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e02588785f_Bo.fl_lf3.jpg",
+          "caption": "Borassus flabellifer leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e025ce2173_Bo.fl_lf4.jpg",
+          "caption": "Borassus flabellifer leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e02653932d_Bo.fl_lf5.jpg",
+          "caption": "Borassus flabellifer midrib leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e02683a74f_Bo.fl_lf6.jpg",
+          "caption": "Borassus flabellifer midrib leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e027c07b0d_Bo.fl_lf7.jpg",
+          "caption": "Borassus flabellifer midrib leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e0273e09ef_Bo.fl_lf8.jpg",
+          "caption": "Borassus flabellifer tip of a leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/621e027d034cf_Bo.fl_lf9.jpg",
+          "caption": "Borassus flabellifer leaf venation"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Borassus flabellifer is a large evergreen unbranched palm tree growing up to 30 m high. Old leaves remain attached to the trunk for several years before falling cleanly. The stem can be up to 1 m wide at the base, narrowing to 50 cm at around 4 m.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Borassus flabellifer is a large evergreen unbranched palm tree growing up to 30 m high. <br>Old leaves remain attached to the trunk for several years before falling cleanly. <br>The stem can be up to 1 m wide at the base, narrowing to 50 cm at around 4 m.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/621e021bccea7_Bo.fl_ha1.jpg",
+          "caption": "Borassus flabellifer young tree with some dry leaves sheaths on upper part"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/621e02254dc81_Bo.fl_ha2.jpg",
+          "caption": "Borassus flabellifer young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "reforestation and plantation",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p>reforestation and plantation</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n                  </li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reforestation/61cabf60ae33f_Borassus_flabellifer.jpeg",
+          "caption": null
+        }
+      ]
+    }
+  }
+}

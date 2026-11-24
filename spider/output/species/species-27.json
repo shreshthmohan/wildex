@@ -1,0 +1,282 @@
+{
+  "species_id": 27,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=27",
+  "scraped_at": "2025-10-03T13:50:00.353797Z",
+  "basic_info": {
+    "scientific_name": "Atalantia monophylla",
+    "authority": "DC.",
+    "family": "Rutaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/atalantia_monophylla.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/At.mo_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "26 Nov, 2014",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99614 N",
+      "longitude": "79.82154 E",
+      "raw": "11.99614 N - 79.82154 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Atalantia monophylla",
+    "author": "Candolle, Augustin Pyramus de (1824)",
+    "family": "Rutaceae",
+    "english_names": "Indian atalantia, Wild lime",
+    "indian_names": {
+      "Hindi": [
+        "Jangli nimbu"
+      ],
+      "Kannada": [
+        "Kan nimbe"
+      ],
+      "Malayalam": [
+        "Katunarenga",
+        "Mal naranga"
+      ],
+      "Marathi": [
+        "Makad limbu"
+      ],
+      "Sanskrit": [
+        "Atavi-jambira"
+      ],
+      "Tamil": [
+        "Kaattu elumitchai",
+        "Kaatu naarangam"
+      ],
+      "Telugu": [
+        "Adavi nimma"
+      ]
+    },
+    "synonyms": [
+      "Atalantia carissoides",
+      "Atalantia floribunda",
+      "Atalantia malabarica",
+      "Atalantia platystigma",
+      "Atalantia puberula",
+      "Atalantia spinosa",
+      "Atalantia umbellata",
+      "Limonia monophylla",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nAtalantia\n: Named in honor of Atalanta, the renowned and swift-footed huntress of Greek mythology.\n-\nMonophylla\n: Having a single leaf.",
+    "etymology_html": "<p>-<i>Atalantia</i> : Named in honor of Atalanta, the renowned and swift-footed huntress of Greek mythology.<br>-<i>Monophylla</i> : Having a single leaf.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The trunk and the main branches of Atalantia monophylla are fluted aand crooked. The bark is pale brown and smooth. The twigs bear single, axillary, stout and sharp spines (1.5-2 cm long).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>trunk</strong> and the main branches of <i>Atalantia monophylla</i> are fluted aand crooked.<br>The <strong>bark</strong> is pale brown and smooth.<br>The <strong>twigs</strong> bear single, axillary, stout and sharp spines (1.5-2 cm long).</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/atalantia_monophylla_stem1.jpg",
+          "caption": "Atalantia monophylla trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/atalantia_monophylla_stem2.jpg",
+          "caption": "Atalantia monophylla bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/atalantia_monophylla_stem4.jpg",
+          "caption": "Atalantia monophylla young trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/atalantia_monophylla_stem3.jpg",
+          "caption": "Atalantia monophylla twig with thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/At.mo_th2.jpg",
+          "caption": "Atalantia monophylla pair of soft stipular green thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/At.mo_th3.jpg",
+          "caption": "Atalantia monophylla straight grey singular thorn on old branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/At.mo_th1.jpg",
+          "caption": "Atalantia monophylla straight thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Atalantia monophylla are ovoid, 6-7 mm long and 3 mm wide.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Atalantia monophylla</i> are ovoid, 6-7 mm long and 3 mm wide.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/atalantia_monophylla_seed_1.jpg",
+          "caption": "Atalantia monophylla seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/atalantia_monophylla_seed_2.jpg",
+          "caption": "Atalantia monophylla seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Atalantia monophylla is globular-ovoid berry like a miniature orange. This fruit is 1.5-2 cm across, 4-seeded and with a 1 cm long peduncle.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Atalantia monophylla</i> is globular-ovoid <strong>berry</strong> like a miniature orange.<br>This fruit is 1.5-2 cm across, 4-seeded and with a 1 cm long peduncle.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit1.jpg",
+          "caption": "Atalantia monophylla young fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit2.jpg",
+          "caption": "Atalantia monophylla unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit3.jpg",
+          "caption": "Atalantia monophylla fruit transversal section (with seeds)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit4.jpg",
+          "caption": "Atalantia monophylla fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit5.jpg",
+          "caption": "Atalantia monophylla fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/atalantia_monophylla_fruit6.jpg",
+          "caption": "Atalantia monophylla fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Atalantia monophylla are on short axillary racemes (upper axils of the new branchlets). The pedicel is reduced. The calyx-tube is campanulate, irregularly lobed and 3 mm long and 2 mm across. The calyx is light green and glabrous or finely pubescent. The corolla is composed of 4 cream-coloured and glabrous petals. The petals are obovate and recurved, 7-8 cm long and 3-4 cm wide. The androecium is composed of 8 stamens. The filaments are 4 or 6 mm long and connate into a 3 mm long tube with ovoid anthers borne on the free tips of the filaments. The pistil is composed of a stout and 5 mm long style and a globose stigma . The ovary is oblong and 4-celled. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Atalantia monophylla</i> are on short axillary <strong>racemes</strong> (upper axils of the new branchlets). The <strong>pedicel</strong> is reduced.<br>The <strong>calyx-tube</strong> is campanulate, irregularly lobed and 3 mm long and 2 mm across. The calyx is light green and glabrous or finely pubescent.<br>The <strong>corolla</strong> is composed of 4 cream-coloured and glabrous petals. The petals are obovate and recurved, 7-8 cm long and 3-4 cm wide.<br>The <strong>androecium</strong> is composed of 8 stamens. The filaments are 4 or 6 mm long and connate into a 3 mm long tube<br>with ovoid anthers borne on the free tips of the filaments.<br>The <strong>pistil</strong> is composed of a stout and 5 mm long style and a globose <strong>stigma</strong>. The <strong>ovary</strong> is oblong and 4-celled.<br>The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower1.jpg",
+          "caption": "Atalantia monophylla branchlet bearing flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower2.jpg",
+          "caption": "Atalantia monophylla inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower3.jpg",
+          "caption": "Atalantia monophylla flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower4.jpg",
+          "caption": "Atalantia monophylla bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower5.jpg",
+          "caption": "Atalantia monophylla flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower6.jpg",
+          "caption": "Atalantia monophylla flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower7.jpg",
+          "caption": "Atalantia monophylla flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower8.jpg",
+          "caption": "Atalantia monophylla flower bud"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/atalantia_monophylla_flower9.jpg",
+          "caption": "Atalantia monophylla flower in bloom and bud"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Atalantia monophylla grow alternately on the stem (spirally arranged). The leaves have a 0.5 cm long unwinged petiole. The leaf is simple, bright green coloured above, pale green below and glabrous on both sides. The leaf of Atalantia monophylla is 3-6 cm long and 2-4 cm wide. It is ovate-lanceolate or elliptic. The apex is obtuse and emarginate, the base is obtuse and the margins are entire. The venation of the leaf is reticulate. Crushed fresh leaves are very aromatic.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Atalantia monophylla</i> grow alternately on the stem (spirally arranged).<br>The leaves have a 0.5 cm long unwinged petiole.<br>The leaf is simple, bright green coloured above, pale green below and glabrous on both sides.<br>The leaf of <i>Atalantia monophylla</i> is 3-6 cm long and 2-4 cm wide. It is ovate-lanceolate or elliptic.<br>The <strong>apex</strong> is obtuse and emarginate, the <strong>base</strong> is obtuse and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate.<br>Crushed fresh leaves are very aromatic.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf1.jpg",
+          "caption": "Atalantia monophylla branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf2.jpg",
+          "caption": "Atalantia monophylla leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf3.jpg",
+          "caption": "Atalantia monophylla leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf4.jpg",
+          "caption": "Atalantia monophylla leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf5.jpg",
+          "caption": "Atalantia monophylla leaf and thorn at the axil"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf6.jpg",
+          "caption": "Atalantia monophylla leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf7.jpg",
+          "caption": "Atalantia monophylla branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/atalantia_monophylla_leaf8.jpg",
+          "caption": "Atalantia monophylla young leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Atalantia monophylla is a small, much-branched, spinous and evergreen tree . This densely foliaceous tree has a rounded crown with single, stout and sharp spines.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Atalantia monophylla</i> is a small, much-branched, spinous and <strong>evergreen tree</strong>. This densely foliaceous tree has a rounded crown with single, stout and sharp spines.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/atalantia_monophylla_habit1.jpg",
+          "caption": "Atalantia monophylla trees alignment"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/atalantia_monophylla_habit2.jpg",
+          "caption": "Atalantia monophylla tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/atalantia_monophylla_habit3.jpg",
+          "caption": "Atalantia monophylla young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Atalantia monophylla is common in scrub jungles of the plains from the coast up to 1000 m.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Atalantia monophylla</i> is common in scrub jungles of the plains from the coast up to 1000 m.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Indo-Malesia biogeographical region.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Indo-Malesia biogeographical region.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Atalantia monophylla is bisexual (each flower of each individual has both male and female structures). Atalantia monophylla is pollinated by a wide variety of insects. The seeds of Atalantia monophylla are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Atalantia monophylla</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Atalantia monophylla</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Atalantia monophylla</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From September to March. Thoughout the year (the fruits are persistent). Thoughout the year (the fruits are persistent). Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From September to March.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>Thoughout the year (the fruits are persistent).</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>Thoughout the year (the fruits are persistent).</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "The oil extracted from the berries of Atalantia monophylla is used externally in chronic rheumatism and paralysis. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The oil extracted from the leaves and from the berries are antibacterial and antifungal. ( Khare, C.P., 2007, Indian Medicinal Plants, An Illustrated Dictionary ) A decoction of the leaves is applied to cutaneous affections. The essential oil extracted from the leaves is used in paralysis. ( Khare, C.P., 2007, Indian Medicinal Plants, An Illustrated Dictionary ) The leaf juice is an ingredient of a compound liniment used in hemiplegia. ( Basu & Kirtikar, 1918, Indian Medicinal Plants )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>oil</strong> extracted from the berries of <i>Atalantia monophylla</i> is used externally in chronic rheumatism and paralysis. (<i>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i>)<br>The <strong>oil</strong> extracted from the leaves and from the berries are antibacterial and antifungal. (<i>Khare, C.P., 2007, Indian Medicinal Plants, An Illustrated Dictionary</i>)<br><br>A <strong>decoction of the leaves</strong> is applied to cutaneous affections. The <strong>essential oil</strong> extracted from the leaves is used in paralysis. (<i>Khare, C.P., 2007, Indian Medicinal Plants, An Illustrated Dictionary</i>)<br><br>The <strong>leaf juice</strong> is an ingredient of a compound liniment used in hemiplegia. (<i>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</i>)</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Atalantia monophylla is able to grow in a wide range of soils but all soils need to be free draining. This tree is drought tolerant and can be planted in half shade. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Atalantia monophylla</i> is able to grow in a wide range of soils but all soils need to be free draining. This tree is drought tolerant and can be planted in half shade.<br> </p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

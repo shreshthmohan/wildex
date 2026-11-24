@@ -1,0 +1,226 @@
+{
+  "species_id": 51,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=51",
+  "scraped_at": "2026-01-10T08:13:59.273964Z",
+  "basic_info": {
+    "scientific_name": "Barringtonia acutangula",
+    "authority": "(L.) Gaertn.",
+    "family": "Lecythidaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/barringtonia_acutangula.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ba.ac_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "22 Aug, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99586 N",
+      "longitude": "79.82213 E",
+      "raw": "11.99586 N - 79.82213 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Barringtonia acutangula",
+    "author": null,
+    "family": "Lecythidaceae",
+    "english_names": "Freshwater mangrove, Indian oak",
+    "indian_names": {
+      "Bengali": [
+        "Hijal"
+      ],
+      "Hindi": [
+        "Hijagal",
+        "samundarphal"
+      ],
+      "Kannada": [
+        "Dhatripala",
+        "holekavau"
+      ],
+      "Malayalam": [
+        "Attupelu"
+      ],
+      "Marathi": [
+        "Sathaphala",
+        "tiwar"
+      ],
+      "Sanskrit": [
+        "Ambudhiphala",
+        "samudraphalah"
+      ],
+      "Tamil": [
+        "Neerkkadambai",
+        "samuttirappalam.n"
+      ],
+      "Telugu": [
+        "Kanapa",
+        "kurpa"
+      ]
+    },
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Barringtonia acutangula is rough and dark brown-coloured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>bark</b> of <em>Barringtonia acutangula</em> is rough and dark brown-coloured.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/barringtonia_acutangula_stem1.jpg",
+          "caption": "Barringtonia acutangula trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/barringtonia_acutangula_stem2.jpg",
+          "caption": "Barringtonia acutangula bark"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Barringtonia acutangula is a fibrous and quadrangular berry . The fruit is ovoid, 3.5 cm long and 2.5 cm wide. The fruit contains one seed.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>fruit</b> of <em>Barringtonia acutangula</em> is a fibrous and quadrangular <b>berry</b>. The fruit is ovoid, 3.5 cm long and 2.5 cm wide. The fruit contains one seed.      </p>\n    </div>",
+      "images": []
+    },
+    "flower": {
+      "text": "The flowers of Barringtonia acutangula are grouped in long and pendulous  racemes up to 30-40 cm long. The flowers are 4-merous. The calyx-tube is cup-shaped, 4-lobed and 3 mm long and 3 mm across. The calyx is light green and glabrous. The corolla is composed of 4 green pinkish-coloured and glabrous petals. The petals are ovate and imbricate, 5 mm long and 3 mm wide. The androecium is composed of numerous stamens in several rows. The filaments are 1 cm long, filiform and pink. The anthers are globular and 0.5 mm across. The pistil is composed of a filiform and 1.5 cm long style and a small and simple stigma . \nThe ovary is inferior and 2-celled. The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The <b>flowers</b> of <em>Barringtonia acutangula</em> are grouped in long and pendulous  racemes up to 30-40 cm long.<br>\nThe flowers are 4-merous.<br>\nThe <b>calyx-tube</b> is cup-shaped, 4-lobed and 3 mm long and 3 mm across. The calyx is light green and glabrous.<br>\nThe <b>corolla</b> is composed of 4 green pinkish-coloured and glabrous petals. The petals are ovate and imbricate, 5 mm long and 3 mm wide.<br>\nThe <b>androecium</b> is composed of numerous stamens in several rows. The filaments are 1 cm long, filiform and pink. The anthers are globular and 0.5 mm across.<br>\nThe <b>pistil</b> is composed of a filiform and 1.5 cm long style and a small and simple <b>stigma</b>. \nThe <b>ovary</b> is inferior and 2-celled.<br>\nThe flowers are fragrant.<br>      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower1.jpg",
+          "caption": "Barringtonia acutangula inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower2.jpg",
+          "caption": "Barringtonia acutangula inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower3.jpg",
+          "caption": "Barringtonia acutangula flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower4.jpg",
+          "caption": "Barringtonia acutangula flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower5.jpg",
+          "caption": "Barringtonia acutangula calyx and pistil"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower6.jpg",
+          "caption": "Barringtonia acutangula flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower7.jpg",
+          "caption": "Barringtonia acutangula flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower8.jpg",
+          "caption": "Barringtonia acutangula flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower9.jpg",
+          "caption": "Barringtonia acutangula stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/barringtonia_acutangula_flower10.jpg",
+          "caption": "Barringtonia acutangula styles"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Barringtonia acutangula grow alternately on the stem (spirally arranged). The leaf is simple, green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 6-7 cm long petiole . The leaf of Barringtonia acutangula is about 10-20 cm long and 3-6 cm wide. The shape of the blade is oblanceolate or obovate, the apex is acute, the base is cuneate and the margins are serrate. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      The <b>leaves</b> of <em>Barringtonia acutangula</em> grow alternately on the stem (spirally arranged).<br>\nThe leaf is simple, green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>\nThe leaves have a 6-7 cm long <b>petiole</b>.<br>\nThe leaf of <em>Barringtonia acutangula</em> is about 10-20 cm long and 3-6 cm wide. The shape of the <b>blade</b> is oblanceolate or obovate, the <b>apex</b> is acute, the <b>base</b> is cuneate and the <b>margins</b> are serrate.<br>\nThe <b>venation</b> of the leaf is reticulate with a prominent midrib.    </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf1.jpg",
+          "caption": "Barringtonia acutangula twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf2.jpg",
+          "caption": "Barringtonia acutangula leaf (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf3.jpg",
+          "caption": "Barringtonia acutangula leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf4.jpg",
+          "caption": "Barringtonia acutangula leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf5.jpg",
+          "caption": "Barringtonia acutangula shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf6.jpg",
+          "caption": "Barringtonia acutangula leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/barringtonia_acutangula_leaf7.jpg",
+          "caption": "Barringtonia acutangula leaf (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Barringtonia acutangula is a medium-sized and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        <em>Barringtonia acutangula</em> is a medium-sized and <b>deciduous tree</b> growing up to 10-12 m high.      </p>\n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/barringtonia_acutangula_habit1.jpg",
+          "caption": "Barringtonia acutangula tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/barringtonia_acutangula_habit2.jpg",
+          "caption": "Barringtonia acutangula young tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <em>Barringtonia acutangula</em> grows mostly along rivers, on plains regularly inundated or in swamps or freshwater mangroves from sea-level up to 1500 m.<br><br>\n\n<em>Source : http://www.asianplant.net/Lecythidaceae/Barringtonia_acutangula.htm</em>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          From Afghanistan, Pakistan, India and Sri Lanka to Indo-China, Myanmar, Thailand and throughout the Malesian area towards northern Australia.        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><em>Barringtonia acutangula</em> is andromonoecious (both bisexual and male flowers are on the same plant).</li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><em>Barringtonia acutangula</em> is pollinated by a wide variety of insects.</li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span>Mechanical dispersal (barochory) :  dispersal of seeds by gravity.<br>\nDispersal of seeds by water (hydrochory).</li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> From July to October.</li>\n      <li><span class=\"titchap\">Fruiting season :</span> From November to April.</li>\n      <li><span class=\"titchap\">Seeding season :</span> From November to April.</li>\n      <li><span class=\"titchap\">Leaves falling :</span> During the hot season.</li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The bark, the roots and the seeds are used as a fish poison. Source : Chopra, 1956, Glossary of Indian medicinal plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        The bark, the roots and the seeds are used as a fish poison.<br><br>\n\n<em>Source : Chopra, 1956, Glossary of Indian medicinal plants</em>      </p>\n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The wood of Barringtonia acutangula is soft and durable. It is used for furniture, boat building, well construction. The bark is used for tanning. Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    The <b>wood</b> of <em>Barringtonia acutangula</em> is soft and durable. It is used for furniture, boat building, well construction.<br><br>\n\nThe <b>bark</b> is used for tanning.<br><br>\n\n<em>Source : Dastur, 2006, Useful Plants of India and Pakistan</em>  </p>\n</div>",
+      "images": []
+    },
+    "medicinal": {
+      "text": "The roots of Barringtonia acutangula are bitter, cooling, aperient, antipyretic, stimulant and emetic. They are useful in catarrh, fevers and constipation. ( Arya Vaidya Sala, 1996, Indian Medicinal plants ) The leaf juice is given in diarrhea. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The powdered seeds are used as snuff in headache. ( Basu & Kirtikar, 1918, Indian Medicinal Plants ) The fruit of Barringtonia acutangula is bitter, acrid, anthelmintic, haemolytic and  vulnerary. It is prescribed in gingivitis and as an expectorant. ( Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      The <b>roots</b> of <em>Barringtonia acutangula</em> are bitter, cooling, aperient, antipyretic, stimulant and emetic. They are useful in catarrh, fevers and constipation. (<em>Arya Vaidya Sala, 1996, Indian Medicinal plants</em>)<br><br>\n\nThe <b>leaf juice</b> is given in diarrhea. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)<br><br>\n\nThe <b>powdered seeds</b> are used as snuff in headache. (<em>Basu &amp; Kirtikar, 1918, Indian Medicinal Plants</em>)<br><br>\n\nThe <b>fruit</b> of <em>Barringtonia acutangula</em> is bitter, acrid, anthelmintic, haemolytic and  vulnerary. It is prescribed in gingivitis and as an expectorant. (<em>Khare, 2007, Indian Medicinal Plants, An Illustrated Dictionary</em>)      \n    </p>\n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <em>Barringtonia acutangula</em> is a light demander and it is able to grow in a wide variety of situations and soils.<br>\nThe species is propagated by seeds.        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          24 hours of soaking in water accelerates the germination process.        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

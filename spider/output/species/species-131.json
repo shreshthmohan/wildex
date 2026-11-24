@@ -1,0 +1,289 @@
+{
+  "species_id": 131,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=131",
+  "scraped_at": "2025-10-03T04:17:57.914019Z",
+  "basic_info": {
+    "scientific_name": "Capparis brevispina",
+    "authority": "DC.",
+    "family": "Capparaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/capparis_brevispina.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Ca.br_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "15 Feb, 2016",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99371 N",
+      "longitude": "79.82330 E",
+      "raw": "11.99371 N - 79.82330 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Capparis brevispina",
+    "author": "Candolle, Augustin Pyramus de (1824)",
+    "family": "Capparaceae",
+    "english_names": "Indian caper",
+    "indian_names": {
+      "Malayalam": [
+        "Chedimukanthi"
+      ],
+      "Tamil": [
+        "Kaattu aadhandai",
+        "kattukkonchi"
+      ]
+    },
+    "synonyms": [
+      "Capparis brevispina",
+      "Capparis wallichiana",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nCapparis\n: From the Greek\nkapparis\nor\nkappari\nused for the caper plant and its fruit.\n-\nBrevispina\n: With short spines.",
+    "etymology_html": "<p>- <i>Capparis</i> : From the Greek <i>kapparis</i> or <i>kappari</i> used for the caper plant and its fruit.<br>- <i>Brevispina</i> : With short spines.</p>"
+  },
+  "description": {
+    "leaf": {
+      "text": "The leaves of Capparis brevispina grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, chartaceous and glabrous on both sides. The leaves have a 4-5 mm long petiole . The leaf of Capparis brevispina is 6-8 cm long and 2-3 cm wide. The shape of the blade is elliptic or ovate, the apex is acute-acuminate, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib. There is a pair of straight stipular spines at the base of the leaves and singular spines along the branch.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Capparis brevispina</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, chartaceous and glabrous on both sides.<br>The leaves have a 4-5 mm long <strong>petiole</strong>.<br>The leaf of <i>Capparis brevispina</i> is 6-8 cm long and 2-3 cm wide. The shape of the <strong>blade</strong> is elliptic or ovate, the <strong>apex</strong> is acute-acuminate, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.<br>There is a pair of straight stipular spines at the base of the leaves and singular spines along the branch.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf1.jpg",
+          "caption": "Capparis brevispina branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf2.jpg",
+          "caption": "Capparis brevispina leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf3.jpg",
+          "caption": "Capparis brevispina leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf4.jpg",
+          "caption": "Capparis brevispina leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf5.jpg",
+          "caption": "Capparis brevispina leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf6.jpg",
+          "caption": "Capparis brevispina branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf7.jpg",
+          "caption": "Capparis brevispina new leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/capparis_brevispina_leaf8.jpg",
+          "caption": "Capparis brevispina (flowering) branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Ca.br_lf9.jpg",
+          "caption": "Capparis brevispina pair of straight stipular spines at leaf base"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Capparis brevispina is a large, straggling and deciduous climbing shrub . It is armed with thorny stipules.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Capparis brevispina</i> is a large, straggling and <strong>deciduous climbing shrub</strong>. It is armed with thorny stipules.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/capparis_brevispina_habit1.jpg",
+          "caption": "Capparis brevispina shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/capparis_brevispina_habit2.jpg",
+          "caption": "Capparis brevispina young shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/capparis_brevispina_habit3.jpg",
+          "caption": "Capparis brevispina young shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/capparis_brevispina_habit4.jpg",
+          "caption": "Capparis brevispina climbing branches"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The bark of Capparis brevispina is smooth, light-brown coloured and longitudinally fissured on old branches. The young branchlets are green in colour. The stems and branches show straight stipular spines, sometime in pairs at the lefa base.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Capparis brevispina</i> is smooth, light-brown coloured and longitudinally fissured on old branches.<br>The young branchlets are green in colour.<br>The stems and branches show straight stipular spines, sometime in pairs at the lefa base.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/capparis_brevispina_stem1.jpg",
+          "caption": "Capparis brevispina stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/capparis_brevispina_stem2.jpg",
+          "caption": "Capparis brevispina stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/capparis_brevispina_stem4.jpg",
+          "caption": "Capparis brevispina stipular spines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.br_st1.jpg",
+          "caption": "Capparis brevispina small stem with singular straight spines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.di_st2.jpg",
+          "caption": "Capparis brevispina branchlet with pairs of spines"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Ca.di_st3.jpg",
+          "caption": "Capparis brevispina green branchlet when young"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Capparis brevispina are immersed in the white creamy pulp of the red ripe berry. The seeds are less than 0.5 cm in size and numerous inside each fruit. They are coated with opaque-transparent sticky jelly. They are brown in colour when washed and dry.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Capparis brevispina are immersed in the white creamy pulp of the red ripe berry. <br>The seeds are less than 0.5 cm in size and numerous inside each fruit.<br>They are coated with opaque-transparent sticky jelly.<br>They are brown in colour when washed and dry.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ca.br_sd1.jpg",
+          "caption": "Capparis brevispina fleshy fruit cut in half to show the seeds inside"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ca.br_sd3.jpg",
+          "caption": "Capparis brevispina seeds after drying"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Ca.br_sd2b.jpg",
+          "caption": "Capparis brevispina seeds covered in sticky white transparent coat"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Capparis brevispina is a smooth berry . It is oblong in shape, about 6 cm long and 3 cm wide. The fruit is green turning red when ripe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Capparis brevispina</i> is a smooth <strong>berry</strong>. <br>It is oblong in shape, about 6 cm long and 3 cm wide.<br>The fruit is green turning red when ripe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.br_fr1.jpg",
+          "caption": "Capparis brevispina ripe red fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.br_fr2.jpg",
+          "caption": "Capparis brevispina ripe fruit cut in half showing the seeds embedded in the flesh"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.br_fr3.jpg",
+          "caption": "Capparis brevispina unripe fruit on the shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.br_fr4.jpg",
+          "caption": "Capparis brevispina green fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Ca.br_fr5.jpg",
+          "caption": "Capparis brevispina green fruit"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Capparis brevispina are axillary and solitary. The peduncle is 3 cm long and slightly pubescent. The calyx is composed of 4 sepals. The sepals are pubescent, ovate, concave and 8 mm long and 4 mm wide. The corolla is composed of 4 cream-coloured petals. The petals are ovate-oblong, 2.5-3 cm long and about 1 cm wide. The 2 upper petals have a showy yellow (turning red) blotch at the base. The androecium is composed of numerous and showy stamens. The filaments are filiform, 2.5 cm long. The anthers are light-blue, oblong and 2 mm long. The pistil is composed of a filiform and 3 cm long gynophore bearing a 6 mm long ovary and a short and stout style with a simple stigma at the tip.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Capparis brevispina</i> are axillary and solitary. The <strong>peduncle</strong> is 3 cm long and slightly pubescent.<br>The <strong>calyx</strong> is composed of 4 sepals. The sepals are pubescent, ovate, concave and 8 mm long and 4 mm wide.<br>The <strong>corolla</strong> is composed of 4 cream-coloured petals. The petals are ovate-oblong, 2.5-3 cm long and about 1 cm wide. The 2 upper petals have a showy yellow (turning red) blotch at the base.<br>The <strong>androecium</strong> is composed of numerous and showy stamens. The filaments are filiform, 2.5 cm long. The anthers are light-blue, oblong and 2 mm long.<br>The <strong>pistil</strong> is composed of a filiform and 3 cm long <strong>gynophore</strong> bearing a 6 mm long <strong>ovary</strong> and a short and stout <strong>style</strong> with a simple <strong>stigma</strong> at the tip.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower1.jpg",
+          "caption": "Capparis brevispina flowering branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower2.jpg",
+          "caption": "Capparis brevispina flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower3.jpg",
+          "caption": "Capparis brevispina flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower4.jpg",
+          "caption": "Capparis brevispina flower structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower5.jpg",
+          "caption": "Capparis brevispina flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower6.jpg",
+          "caption": "Capparis brevispina flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower7.jpg",
+          "caption": "Capparis brevispina flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower8.jpg",
+          "caption": "Capparis brevispina flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower9.jpg",
+          "caption": "Capparis brevispina flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/capparis_brevispina_flower10.jpg",
+          "caption": "Capparis brevispina in bloom"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Capparis brevispina is found in dry deciduous forests and scrub jungles on dry and rocky ground, from the coastal plains up to 1000 m on the hills.",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Capparis brevispina</i> is found in dry deciduous forests and scrub jungles on dry and rocky ground, from the coastal plains up to 1000 m on the hills.</p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Peninsular India and Sri Lanka",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Peninsular India and Sri Lanka</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Capparis brevispina is bisexual (each flower of each individual has both male and female structures). Capparis brevispina is pollinated by a wide variety of insects. The seeds of Capparis brevispina are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Capparis brevispina</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Capparis brevispina</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Capparis brevispina</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/capparis_brevispina_reproduction1.jpg",
+          "caption": "Capparis brevispina reproductive structures (a style surrounded by numerous stamens)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/capparis_brevispina_reproduction2.jpg",
+          "caption": "Capparis brevispina reproductive structures (a style surrounded by numerous stamens)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/capparis_brevispina_reproduction3.jpg",
+          "caption": "Capparis brevispina reproductive structures (a style surrounded by numerous stamens)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/capparis_brevispina_reproduction4.jpg",
+          "caption": "Capparis brevispina stamens"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/capparis_brevispina_reproduction5.jpg",
+          "caption": "Capparis brevispina stamens"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From January to May. From July to August. From July to August. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From January to May.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From July to August.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From July to August.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "The fruit pickle of Capparis brevispina is used to cure digestive complaints. ( Source : http://www.plantekey.com/ )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>fruit pickle</strong> of <i>Capparis brevispina</i> is used to cure digestive complaints. (<i>Source : http://www.plantekey.com/</i>)</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Capparis brevispina prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Capparis brevispina</i> prefers full sun. It is drought resistant and it will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

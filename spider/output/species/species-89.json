@@ -1,0 +1,280 @@
+{
+  "species_id": 89,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=89",
+  "scraped_at": "2025-10-03T13:02:32.697023Z",
+  "basic_info": {
+    "scientific_name": "Suregada lanceolata",
+    "authority": "(Willd.) Kuntze",
+    "family": "Euphorbiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/62a974e8d80ab_62a974e8d80a1_Su.an_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Su.an_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "24 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99425 N",
+      "longitude": "79.82407 E",
+      "raw": "11.99425 N - 79.82407 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Suregada lanceolata",
+    "author": "Kuntze, Carl (Karl) Ernst (Eduard) Otto (1891)",
+    "family": "Euphorbiaceae",
+    "english_names": "Not specified",
+    "indian_names": {
+      "Kannada": [
+        "Kurudu nandi"
+      ],
+      "Tamil": [
+        "Kakaipalai"
+      ],
+      "Telugu": [
+        "Velidabba"
+      ]
+    },
+    "synonyms": [
+      "Gelonium angustifolium",
+      "Gelonium lanceolatum",
+      "Suregada angustifolia",
+      "Suregada angustifolia",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nSuregada\n: From the Telugu name (from India),\nsoora gade\nfor\nSuregada multiflora\n(Juss.) Baill.\n-\nLanceolata\n: From the Latin\nlancea, lanceae\nand meaning narrowed and tapered at both ends (lanceolate).",
+    "etymology_html": "<p>-<i>Suregada</i> : From the Telugu name (from India), <i>soora gade</i> for <i>Suregada multiflora</i> (Juss.) Baill.<br>-<i>Lanceolata</i> : From the Latin <i>lancea, lanceae</i> and meaning narrowed and tapered at both ends (lanceolate).</p>"
+  },
+  "description": {
+    "flower": {
+      "text": "The flowers of Suregada lanceolata are unisexual on separate individuals. The male flowers are grouped in axillary umbellate (5-8-flowered). The calyx-tube is 5-lobed and 3 mm long and 2 mm across. The calyx-lobes are concave, thick and imbricate and about 3 mm long. The corolla is absent. The androecium is composed of 25 stamens mixed with glands. The filaments are filiform and about 1.5 mm long and connate and the anthers are 1-1.2 mm long. The female flowers are grouped in axillary 3-5-flowered, leaf-opposed and paired clusters. The calyx-lobes are 5, ovate, finely ciliate and 3 mm long. The corolla is absent. The pistil is composed of 3 styles and a globose ovary.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Suregada lanceolata</i> are unisexual on separate individuals. <br>The <strong>male flowers</strong> are grouped in axillary umbellate (5-8-flowered).<br>The <strong>calyx-tube</strong> is 5-lobed and 3 mm long and 2 mm across. The <strong>calyx-lobes</strong> are concave, thick and imbricate and about 3 mm long.<br>The <strong>corolla</strong> is absent.<br>The <strong>androecium</strong> is composed of 25 stamens mixed with glands. The filaments are filiform and about 1.5 mm long and connate and the anthers are 1-1.2 mm long.<br>The <strong>female flowers</strong> are grouped in axillary 3-5-flowered, leaf-opposed and paired clusters.<br>The <strong>calyx-lobes</strong> are 5, ovate, finely ciliate and 3 mm long.<br>The <strong>corolla</strong> is absent.<br>The <strong>pistil</strong> is composed of 3 styles and a globose ovary.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower1.jpg",
+          "caption": "Suregada lanceolata blossoming twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower2.jpg",
+          "caption": "Suregada lanceolata male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower3.jpg",
+          "caption": "Suregada lanceolata male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a972d69964a_Su.an_fl1.jpg",
+          "caption": "Suregada lanceolata female flowers on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower5.jpg",
+          "caption": "Suregada lanceolata male flowers (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower6.jpg",
+          "caption": "Suregada lanceolata male flowers (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower7.jpg",
+          "caption": "Suregada lanceolata male flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/suregada_lanceolata_flower8.jpg",
+          "caption": "Suregada lanceolata male flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/62a972e59db97_Su.an_fl2.jpg",
+          "caption": "Suregada lanceolata blooming male flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Su.an_fl4.jpg",
+          "caption": "Suregada lanceolata flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Suregada lanceolata grow alternately on the stem (spirally arranged). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides. The leaves have a 5 mm long petiole . The leaf of Suregada lanceolata is 6-8 cm long and 3-3.5 cm wide. The shape of the blade is obovate to oblanceolate, the apex is obtuse, the base is cuneate and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Suregada lanceolata</i> grow alternately on the stem (spirally arranged).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous and glabrous on both sides.<br>The leaves have a 5 mm long <strong>petiole</strong>.<br>The leaf of <i>Suregada lanceolata</i> is 6-8 cm long and 3-3.5 cm wide. The shape of the <strong>blade</strong> is obovate to oblanceolate, the <strong>apex</strong> is obtuse, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf1.jpg",
+          "caption": "Suregada lanceolata branchlet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf2.jpg",
+          "caption": "Suregada lanceolata branchlet (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf3.jpg",
+          "caption": "Suregada lanceolata leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf4.jpg",
+          "caption": "Suregada lanceolata leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf5.jpg",
+          "caption": "Suregada lanceolata leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf6.jpg",
+          "caption": "Suregada lanceolata foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf7.jpg",
+          "caption": "Suregada lanceolata foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/suregada_lanceolata_leaf8.jpg",
+          "caption": "Suregada lanceolata foliage"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/62a97256ecec4_Su.an_lf1.jpg",
+          "caption": "Suregada lanceolata alternate leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Su.an_lf10.jpg",
+          "caption": "Suregada lanceolata dark green coriaceous leaves"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Suregada lanceolata is a thornless, small-sized and evergreen tree growing up to 8-10 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Suregada lanceolata</i> is a thornless, small-sized and <strong>evergreen tree</strong> growing up to 8-10 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/suregada_lanceolata_habit1.jpg",
+          "caption": "Suregada lanceolata trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/62a971cfc3f4a_Su.an_ha3.jpg",
+          "caption": "Suregada lanceolata trees"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/suregada_lanceolata_habit3.jpg",
+          "caption": "Suregada lanceolata young tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/suregada_lanceolata_habit4.jpg",
+          "caption": "Suregada lanceolata young trees"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The bark of Suregada lanceolata is dark grey-coloured, smooth and longitudinaly fissured.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Suregada lanceolata</i> is dark grey-coloured, smooth and longitudinaly fissured.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/suregada_lanceolata_stem1.jpg",
+          "caption": "Suregada lanceolata trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/suregada_lanceolata_stem2.jpg",
+          "caption": "Suregada lanceolata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a9749d78128_Su.an_st1.jpg",
+          "caption": "Suregada lanceolata main stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a9749ff2079_Su.an_st2.jpg",
+          "caption": "Suregada lanceolata stem arrangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/62a974c66d1a5_Su.an_bk1.jpg",
+          "caption": "Suregada lanceolata young stem bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Suregada lanceolata are found by 3 in the 3-lobbed smooth capsule. The seeds are globose and have a hard shell. The seeds are dented like tiny golf balls.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Suregada lanceolata are found by 3 in the 3-lobbed smooth capsule. <br>The seeds are globose and have a hard shell. <br>The seeds are dented like tiny golf balls.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a9741eb39d8_Su.an_sd1.jpg",
+          "caption": "Suregada lanceolata 3-lobbed capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a974075b5fa_Su.an_sd2.jpg",
+          "caption": "Suregada lanceolata 3-lobbed capsules"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a9740b8a5f2_Su.an_sd3.jpg",
+          "caption": "Suregada lanceolata seeds with their capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a9740fbed7e_Su.an_sd4.jpg",
+          "caption": "Suregada lanceolata seeds with their capsule"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/62a974156404c_Su.an_sd5.jpg",
+          "caption": "Suregada lanceolata seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Suregada lanceolata is an ovoid and deeply 3-lobed capsule . The fruit is about 1-1.5 cm across. There is one seed per lobe.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Suregada lanceolata</i> is an ovoid and deeply 3-lobed <strong>capsule</strong>. The fruit is about 1-1.5 cm across. There is one seed per lobe.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a9732e1773e_Su.an_fr1.jpg",
+          "caption": "Suregada lanceolata immature green fruit on the tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a9733185c57_Su.an_fr2.jpg",
+          "caption": "Suregada lanceolata mature fruits (yellow-brown) and immature (green)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a97335e2203_Su.an_fr3.jpg",
+          "caption": "Suregada lanceolata immature fruits on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a97339ab8bd_Su.an_fr4.jpg",
+          "caption": "Suregada lanceolata immature fruit cut in half showing 3 unripe seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/62a9733fe8e39_Su.an_fr5.jpg",
+          "caption": "Suregada lanceolata mature fruits, yellow-brown in colour"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": "Suregada lanceolata is found in evergreen forests in coastal zones and in dry evergreen forests in leeward side. Source : BIOTIK - Biodiversity Informatics and co-Operation in Taxonomy for Interactive shared Knowledge base, http://www.biotik.org",
+      "text_html": "<li><span class=\"titchap\">Ecology :</span><br>\n          <p><i>Suregada lanceolata</i> is found in evergreen forests in coastal zones and in dry evergreen forests in leeward side.<br><br><i>Source : BIOTIK - Biodiversity Informatics and co-Operation in Taxonomy for Interactive shared Knowledge base, http://www.biotik.org</i></p>        </li>",
+      "images": []
+    },
+    "distribution": {
+      "text": "Peninsular India and Sri Lanka.",
+      "text_html": "<li><span class=\"titchap\">Distribution :</span><br>\n          <p>Peninsular India and Sri Lanka.</p>        </li>",
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": "Suregada lanceolata is dioecious . The species has unisexual flowers on separate trees (either only male or only female flowers). No individual plant of the population produces both pollen and ovules. Suregada lanceolata is pollinated by a wide variety of insects. Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation. The ripe and dry capsules of Suregada lanceolata opens to scatter the seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Suregada lanceolata</i> is <strong>dioecious</strong>. The species has unisexual flowers on separate trees (either only male or only female flowers). No individual plant of the population produces both pollen and ovules.</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Suregada lanceolata</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>Mechanical dispersal : barochory (dispersal of seeds by gravity), self-propagation.<br>The ripe and dry capsules of <i>Suregada lanceolata</i> opens to scatter the seeds.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From February to June. From August to December. From August to December. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to June.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From August to December.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From August to December.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "medicinal": {
+      "text": "The seed paste of Suregada lanceolata is applied to treat leprosy. ( Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants ) The roots are used in curing fever by tribes of Andhra Pradesh (India). ( eFlora of India, http://efloraindia.nic.in )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n\n      </p><p>The <strong>seed paste</strong> of <i>Suregada lanceolata</i> is applied to treat leprosy. (<i>Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i>)<br><br>The <strong>roots</strong> are used in curing fever by tribes of Andhra Pradesh (India). (<i>eFlora of India, http://efloraindia.nic.in</i>)</p>      \n    \n\n    \n       \n\n  </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Suregada lanceolata can be planted in full sun or half-shade. It will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Suregada lanceolata</i> can be planted in full sun or half-shade. It will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

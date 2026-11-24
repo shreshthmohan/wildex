@@ -1,0 +1,240 @@
+{
+  "species_id": 16,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=16",
+  "scraped_at": "2025-10-02T17:47:23.786241Z",
+  "basic_info": {
+    "scientific_name": "Walsura trifoliolata",
+    "authority": "(A. Juss.) Harms.",
+    "family": "Meliaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/walsura_trifoliata.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Wa.tr_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Feb, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99474 N",
+      "longitude": "79.82408 E",
+      "raw": "11.99474 N - 79.82408 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Walsura trifoliolata",
+    "author": "Harms, Hermann August Theodor (1830)",
+    "family": "Meliaceae",
+    "english_names": "Walsura",
+    "indian_names": {
+      "Kannada": [
+        "Male sagada",
+        "Valursi"
+      ],
+      "Tamil": [
+        "Cattuvakku",
+        "Valsura"
+      ],
+      "Telugu": [
+        "Vaalarasi",
+        "Valsura",
+        "Valsuri"
+      ]
+    },
+    "synonyms": [
+      "Heynea trifolia",
+      "Walsura piscida",
+      "Walsura trifolia",
+      "Walsura ternata",
+      "The Plant List, 2015, http://www.theplantlist.org)"
+    ],
+    "etymology": "-\nWalsura\n: A Telugu and Tamil name for the plant.\n-\nTrifoliolata\n:\nTri-folium\nmeaning trifoliate, having three leaflets.",
+    "etymology_html": "<p>- <i>Walsura</i> : A Telugu and Tamil name for the plant.<br>- <i>Trifoliolata</i> : <i>Tri-folium</i> meaning trifoliate, having three leaflets.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Walsura trifoliolata is pale brown, longitudinally fissured and transversally cracked with age. The branches of Walsura trifoliolata are brittle. The branchlets are velvet-hairy.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Walsura trifoliolata</i> is pale brown, longitudinally fissured and transversally cracked with age.<br>The branches of <i>Walsura trifoliolata</i> are brittle. The branchlets are velvet-hairy.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/walsura_trifoliata_stem1.jpg",
+          "caption": "Walsura trifoliolata trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/walsura_trifoliata_stem2.jpg",
+          "caption": "Walsura trifoliolata bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Wa.tr_st1.jpg",
+          "caption": "Walsura trifoliolata branches"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Wa.tr_st2.jpg",
+          "caption": "Walsura trifoliolata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Wa.tr_st3.jpg",
+          "caption": "Walsura trifoliolata main stem"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Walsura trifoliolata is enclosed into an ovoid stone . The stone is light brown-coloured and about 8 mm x 6 mm. There is one stone per fruit and each stone contains one seed.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Walsura trifoliolata</i> is enclosed into an ovoid <strong>stone</strong>. The stone is light brown-coloured and about 8 mm x 6 mm. There is one stone per fruit and each stone contains one seed.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/walsura_trifoliata_seed1.jpg",
+          "caption": "Walsura trifoliolata stones"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/walsura_trifoliata_seed2.jpg",
+          "caption": "Walsura trifoliolata stones"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Walsura trifoliolata is an ovoid drupe . It is 1.5-2 cm long and 1-1.5 cm wide, tomentose with a solitary stone inside.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Walsura trifoliolata</i> is an ovoid <strong>drupe</strong>. <br>It is 1.5-2 cm long and 1-1.5 cm wide, tomentose with a solitary stone inside.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit1.jpg",
+          "caption": "Walsura trifoliolata ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit2.jpg",
+          "caption": "Walsura trifoliolata ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit3.jpg",
+          "caption": "Walsura trifoliolata fruit pulp"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit4.jpg",
+          "caption": "Walsura trifoliolata ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit5.jpg",
+          "caption": "Walsura trifoliolata ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/walsura_trifoliata_fruit6.jpg",
+          "caption": "Walsura trifoliolata unripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The inflorescences of Walsura trifoliolata are terminal and axillary corymbose panicles up to 15 cm long with 5-8 cm long peduncles . The flowers of Walsura trifoliolata are pentamerous, creamy-white, 6-7 mm across with a 1 mm long pedicel . The calyx is composed of 5 lobes. These calyx-lobes are pubescent, yellow-greenish, triangular and about 1 mm long. The corolla is composed of 5 cream-coloured and puberulous petals . They are ovate-oblong with acute apex and about 2.5 mm long and 1.5 mm wide. There are 10 stamens . They are 1.5 mm long and connate at the base. The ovary is globose, 1.5-2 mm across and 2-locular with 2 ovules in each locule. The style is 1 mm long with a capitate stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>inflorescences</strong> of <i>Walsura trifoliolata</i> are terminal and axillary corymbose panicles up to 15 cm long with 5-8 cm long <strong>peduncles</strong>.<br>The <strong>flowers</strong> of <i>Walsura trifoliolata</i> are pentamerous, creamy-white, 6-7 mm across with a 1 mm long <strong>pedicel</strong>.<br>The <strong>calyx</strong> is composed of 5 lobes. These <strong>calyx-lobes</strong> are pubescent, yellow-greenish, triangular and about 1 mm long.<br>The <strong>corolla</strong> is composed of 5 cream-coloured and puberulous <strong>petals</strong>. They are ovate-oblong with acute apex and about 2.5 mm long and 1.5 mm wide.<br>There are 10 <strong>stamens</strong>. They are 1.5 mm long and connate at the base.<br>The <strong>ovary</strong> is globose, 1.5-2 mm across and 2-locular with 2 ovules in each locule. The <strong>style</strong> is 1 mm long with a capitate <strong>stigma</strong>.<br>The flowers are fragrant.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower1.jpg",
+          "caption": "Walsura trifoliolata terminal inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower2.jpg",
+          "caption": "Walsura trifoliolata axillary inflorescence growing at the axil of a leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower3.jpg",
+          "caption": "Walsura trifoliolata corymbose panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower4.jpg",
+          "caption": "Walsura trifoliolata open flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower5.jpg",
+          "caption": "Walsura trifoliolata flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower6.jpg",
+          "caption": "Walsura trifoliolata panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower7.jpg",
+          "caption": "Walsura trifoliolata flowers and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower8.jpg",
+          "caption": "Walsura trifoliolata flowers in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/walsura_trifoliata_flower9.jpg",
+          "caption": "Walsura trifoliolata buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Walsura trifoliolata grow alternately on the stem (spirally arranged). Walsura trifoliata has trifoliate leaves. These compound leaves are about 8-15 cm long and wide. The leaves have a 2.5-4 cm long petiole . The leaflets are leathery and coriaceous and 5-9 cm long and 2.5-3.5 wide. They are elliptic with a obtuse-retuse apex , rounded-cuneate base and entire margins . The leaflets are glabrous, dark-green glossy above and light-green beneath with prominent midrib. The leaflets have a 4-5 mm long petiolule . The venation of the leaflets is reticulate.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Walsura trifoliolata</i> grow alternately on the stem (spirally arranged).<br><i>Walsura trifoliata</i> has trifoliate leaves. These compound leaves are about 8-15 cm long and wide.<br>The leaves have a 2.5-4 cm long <strong>petiole</strong>.<br>The <strong>leaflets</strong> are leathery and coriaceous and 5-9 cm long and 2.5-3.5 wide. They are elliptic with a obtuse-retuse <strong>apex</strong>, rounded-cuneate <strong>base</strong> and entire <strong>margins</strong>.<br>The leaflets are glabrous, dark-green glossy above and light-green beneath with prominent midrib. The leaflets have a 4-5 mm long <strong>petiolule</strong>.<br>The <strong>venation</strong> of the leaflets is reticulate.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf1.jpg",
+          "caption": "Walsura trifoliolata branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf2.jpg",
+          "caption": "Walsura trifoliolata compound leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf3.jpg",
+          "caption": "Walsura trifoliolata compound leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf4.jpg",
+          "caption": "Walsura trifoliolata leaflet (upper and lower sides)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf5.jpg",
+          "caption": "Walsura trifoliolata leaves"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/walsura_trifoliata_leaf6.jpg",
+          "caption": "Walsura trifoliolata compound leaf"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Walsura trifoliolata is an evergreen and medium-sized tree (up to 12-15 meters) with a dense foliage and short bole. The young shoots and the branchlets are tomentose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Walsura trifoliolata</i> is an <strong>evergreen</strong> and medium-sized <strong>tree</strong> (up to 12-15 meters) with a dense foliage and short bole.<br>The young shoots and the branchlets are tomentose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/walsura_trifoliata_habit1.jpg",
+          "caption": "Walsura trifoliolata in bloom"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/walsura_trifoliata_habit2.jpg",
+          "caption": "Walsura trifoliolata at the edge of a clearing"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/walsura_trifoliata_habit3.jpg",
+          "caption": "Walsura trifoliolata old tree"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/walsura_trifoliata_habit4.jpg",
+          "caption": "Walsura trifoliolata damaged old tree"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Bisexual (each flower of each individual has both male and female structures). Walsura trifoliata is pollinated by a wide variety of insects. The seeds of Walsura trifoliata are dispersed by various fruit-eating birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p>Bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Walsura trifoliata</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Walsura trifoliata</i> are dispersed by various fruit-eating birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From Juanary to April. From May to October. From August to October. Evergreen foliage. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From Juanary to April.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May to October.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From August to October.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>Evergreen foliage.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "Walsura trifoliata is able to grow in a wide range of soils but all soils need to be free draining. The tree can be planted in half shade. This tree is propagated by seeds. 12 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Walsura trifoliata</i> is able to grow in a wide range of soils but all soils need to be free draining. The tree can be planted in half shade.<br>This tree is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>12 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

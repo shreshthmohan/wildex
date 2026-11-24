@@ -1,0 +1,222 @@
+{
+  "species_id": 319,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=319",
+  "scraped_at": "2025-10-02T19:03:15.887079Z",
+  "basic_info": {
+    "scientific_name": "Cordia ramanujamii",
+    "authority": null,
+    "family": "Boraginaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/65cc615e8e369_65cc615e8e35f_Co.ra_mp.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Co.ra_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "09 Dec, 2023",
+    "collected_by": "A.A.S, M.D, S.G",
+    "gps_coordinates": {
+      "latitude": "12°00'22 N",
+      "longitude": "79°49'27 E",
+      "raw": "12°00'22 N - 79°49'27 E"
+    },
+    "locality": "Samridhi forest, Auroville,Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Cordia ramanujamii",
+    "author": "N.Balachandran and Rajendiran (2016)",
+    "family": "Boraginaceae",
+    "english_names": null,
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": "-\nCordia\n: After Valerius Cordus (1514-1544), a German botanist and pharmacist, and considered as one of the fathers of pharmacognostics.\n-\nramanujamii\n: After Dr M. P. Ramanujam (actual) professor of Botany at Kanchimamunivar Centre, Puducherry.",
+    "etymology_html": "<p>- <i>Cordia</i>: After Valerius Cordus (1514-1544), a German botanist and pharmacist, and considered as one of the fathers of pharmacognostics.<br>- <i>ramanujamii</i>: After Dr M. P. Ramanujam (actual) professor of Botany at Kanchimamunivar Centre, Puducherry.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Cordia ramanujamii is grey-green in colour and smooth. The branchlets are slender, lenticellate and the twigs are stellate tomentose.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The bark of Cordia ramanujamii is grey-green in colour and smooth. <br>The branchlets are slender, lenticellate and the twigs are stellate tomentose.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st4.jpg",
+          "caption": "Cordia ramanujamii stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st5.jpg",
+          "caption": "Cordia ramanujamii bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st6.jpg",
+          "caption": "Cordia ramanujamii bark"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st1.jpg",
+          "caption": "Cordia ramanujamii stem detail with axillary glands"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st2.jpg",
+          "caption": "Cordia ramanujamii lenticellate branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/Co.ra_st3.jpg",
+          "caption": "Cordia ramanujamii branchlet"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Cordia ramanujamii are less than 1 cm across. They are ovate in shape, hard with a pronounced wrinkled surface and light brown in colour.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The seeds of Cordia ramanujamii are less than 1 cm across. <br>They are ovate in shape, hard with a pronounced wrinkled surface and light brown in colour.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Co.ra_sd1.jpg",
+          "caption": "Cordia ramanujamii seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/Co.ra_sd2.jpg",
+          "caption": "Cordia ramanujamii seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Cordia ramanujamii is a globose drupe about 1.7 cm across, seated in a saucer-like enlarged green calyx. The mesocarp is sticky mucilagenous. The drupe is pale yellow in colour turning black when ripe. The fruits are edible.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The fruit of Cordia ramanujamii is a globose drupe about 1.7 cm across, seated in a saucer-like enlarged green calyx. <br>The mesocarp is sticky mucilagenous. <br>The drupe is pale yellow in colour turning black when ripe. <br>The fruits are edible.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr1.jpg",
+          "caption": "Cordia ramanujamii fruits in panicle"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr2.jpg",
+          "caption": "Cordia ramanujamii unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr3.jpg",
+          "caption": "Cordia ramanujamii unripe fruit cut in half"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr4.jpg",
+          "caption": "Cordia ramanujamii mucilagenous mesocarp"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr5.jpg",
+          "caption": "Cordia ramanujamii unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr6.jpg",
+          "caption": "Cordia ramanujamii ripe fruits on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/Co.ra_fr7.jpg",
+          "caption": "Cordia ramanujamii fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Cordia ramanujamii are white inflorescences growing in cymes. The inflorescences are 5 to 7 cm long. The flowers are 1.7 cm long by 0.8 cm wide. The calyx is a leathery tube, rusty tomentose half above. The 6 lobes are unequal, 1 mm long, densely brown-silky villous within. The corolla can be up to 2 cm long. There is 6 unequal stamens, 3 shorter and 3 longer, alternate to each other.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The flowers of Cordia ramanujamii are white inflorescences growing in cymes. <br>The inflorescences are 5 to 7 cm long. <br>The flowers are 1.7 cm long by 0.8 cm wide. <br>The calyx is a leathery tube, rusty tomentose half above. <br>The 6 lobes are unequal, 1 mm long, densely brown-silky villous within. <br>The corolla can be up to 2 cm long. <br>There is 6 unequal stamens, 3 shorter and 3 longer, alternate to each other.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl1.jpg",
+          "caption": "Cordia ramanujamii flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl6.jpg",
+          "caption": "Cordia ramanujamii flowers in cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl7.jpg",
+          "caption": "Cordia ramanujamii flowers"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl4.jpg",
+          "caption": "Cordia ramanujamii inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl2.jpg",
+          "caption": "Cordia ramanujamii fast withered inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl3.jpg",
+          "caption": "Cordia ramanujamii withered flower"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/Co.ra_fl5.jpg",
+          "caption": "Cordia ramanujamii withered flowers"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Cordia ramanujamii are simple, growing in an alternate arrangement. The leaf petiole is 0.5 to 2 cm long, canaliculate, pubescent when young turning glabrous at maturity. The leaves are elliptic-oblanceolate in shape. They are 2 to 8 cm long and 1 to 4 cm wide. The leaf apex is acute to acuminate, the leaf base is oblique, obtuse. The leaf margin differs from its lower part which is entire to the upper part which is distantly serrulate. There are 3 nerves at the leaf base and 2 to 4 pairs of lateral nerves. The leaves are glabrous on the upper side, scattered pilose hairy on the lower side.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The leaves of Cordia ramanujamii are simple, growing in an alternate arrangement. <br>The leaf petiole is 0.5 to 2 cm long, canaliculate, pubescent when young turning glabrous at maturity. <br>The leaves are elliptic-oblanceolate in shape. <br>They are 2 to 8 cm long and 1 to 4 cm wide. <br>The leaf apex is acute to acuminate, the leaf base is oblique, obtuse. <br>The leaf margin differs from its lower part which is entire to the upper part which is distantly serrulate. <br>There are 3 nerves at the leaf base and 2 to 4 pairs of lateral nerves. <br>The leaves are glabrous on the upper side, scattered pilose hairy on the lower side.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf1.jpg",
+          "caption": "Cordia ramanujamii leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf2.jpg",
+          "caption": "Cordia ramanujamii leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf3.jpg",
+          "caption": "Cordia ramanujamii leaf arangement"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf4.jpg",
+          "caption": "Cordia ramanujamii leaf petiole"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf6.jpg",
+          "caption": "Cordia ramanujamii petiole and leaf base"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf5.jpg",
+          "caption": "Cordia ramanujamii leaf margin"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf7.jpg",
+          "caption": "Cordia ramanujamii leaves on stem"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf8.jpg",
+          "caption": "Cordia ramanujamii leaf"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/Co.ra_lf9.jpg",
+          "caption": "Cordia ramanujamii leaf arrangement"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Cordia ramanujamii is a small tree, growing up to 2.5 m in height. Its branches are smooth and form a dense ramification.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>Cordia ramanujamii is a small tree, growing up to 2.5 m in height. Its branches are smooth and form a dense ramification.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.ra_ha1.jpg",
+          "caption": "Cordia ramanujamii habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.ra_ha2.jpg",
+          "caption": "Cordia ramanujamii habit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/Co.ra_ha3.jpg",
+          "caption": "Cordia ramanujamii stems"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> </li>\n      <li><span class=\"titchap\">Fruiting season :</span> </li>\n      <li><span class=\"titchap\">Seeding season :</span> </li>\n      <li><span class=\"titchap\">Leaves falling :</span> </li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {}
+}

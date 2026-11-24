@@ -1,0 +1,220 @@
+{
+  "species_id": 52,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=52",
+  "scraped_at": "2025-10-03T03:10:18.677808Z",
+  "basic_info": {
+    "scientific_name": "Benkara malabarica",
+    "authority": "(Lam.) Tirveng.",
+    "family": "Rubiaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/benkara_malabarica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Be.ma_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "12 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99574 N",
+      "longitude": "79.82143 E",
+      "raw": "11.99574 N - 79.82143 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Benkara malabarica",
+    "author": "Tirvengadum, Deva D. (1983)",
+    "family": "Rubiaceae",
+    "english_names": null,
+    "indian_names": {
+      "Malayalam": [
+        "Ben-kara"
+      ],
+      "Tamil": [
+        "Pedalli",
+        "sirukarai"
+      ],
+      "Telugu": [
+        "Pedalli"
+      ]
+    },
+    "synonyms": [
+      "Benkara galia",
+      "Benkara pandacakai",
+      "Catunaregam malabarica",
+      "Gardenia fragrans",
+      "Gardenia pandacakai",
+      "Griffithia fragrans",
+      "Oxyceros malabaricus",
+      "Posoqueria fragrans",
+      "Randia fragrans",
+      "Randia malabarica",
+      "Xeromphis malabarica",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nBenkara\n: From the Malayalam vernacular name used in Kerala,\nben-kara\n-\nMalabarica\n: From the Malabar coast of southwestern India.",
+    "etymology_html": "<p>-<i>Benkara</i> : From the Malayalam vernacular name used in Kerala, <i>ben-kara</i><br>-<i>Malabarica</i> : From the Malabar coast of southwestern India.</p>"
+  },
+  "description": {
+    "stem_bark": {
+      "text": "The bark of Benkara malabarica is brown greyish-coloured and lenticellate.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Benkara malabarica</i> is brown greyish-coloured and lenticellate.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/benkara_malabarica_stem1.jpg",
+          "caption": "Benkara malabarica stems"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/benkara_malabarica_stem2.jpg",
+          "caption": "Benkara malabarica trunks"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/benkara_malabarica_stem3.jpg",
+          "caption": "Benkara malabarica thorns"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/benkara_malabarica_stem4.jpg",
+          "caption": "Benkara malabarica thorns"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seed of Benkara malabarica is subglobose with a flat side. The seed is 6-7 mm across. There are 2 seeds per fruit.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seed</strong> of <i>Benkara malabarica</i> is subglobose with a flat side. The seed is 6-7 mm across. There are 2 seeds per fruit.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/benkara_malabarica_seed1.jpg",
+          "caption": "Benkara malabarica seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/benkara_malabarica_seed2.jpg",
+          "caption": "Benkara malabarica fruit transversal section and seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/benkara_malabarica_seed3.jpg",
+          "caption": "Benkara malabarica seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Benkara malabarica is a globose berry . The fruit is about 0.8-1 cm across with a 1-1.5 cm long peduncle. It is glossy and bright red when ripe with a crown of persistent calyx lobes. The fruit contains usually 2 seeds.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Benkara malabarica</i> is a globose <strong>berry</strong>. The fruit is about 0.8-1 cm across with a 1-1.5 cm long peduncle. It is glossy and bright red when ripe with a crown of persistent calyx lobes. The fruit contains usually 2 seeds.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit1.jpg",
+          "caption": "Benkara malabarica clusters of unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit2.jpg",
+          "caption": "Benkara malabarica unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit3.jpg",
+          "caption": "Benkara malabarica ripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit4.jpg",
+          "caption": "Benkara malabarica ripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit5.jpg",
+          "caption": "Benkara malabarica unripe fruits"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/benkara_malabarica_fruit6.jpg",
+          "caption": "Benkara malabarica ripe fruits"
+        }
+      ]
+    },
+    "flower": {
+      "text": "The flowers of Benkara malabarica are axillary corymbose cymes. The calyx-tube is turbinate, 5 mm long and 2-3 mm wide with 5 triangular teeth. The corolla is white and composed of a 4-5 mm long tube and 5 recurved lobes. The androecium is composed of 5 stamens. The filaments are 0.5 mm long and the anthers are filiform and 6-7 mm long. The pistil is composed of a 5 mm long style and a fusiform and 6 mm long stigma . The flowers are fragrant.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Benkara malabarica</i> are axillary corymbose cymes.<br>The <strong>calyx-tube</strong> is turbinate, 5 mm long and 2-3 mm wide with 5 triangular teeth.<br>The <strong>corolla</strong> is white and composed of a 4-5 mm long tube and 5 recurved lobes.<br>The <strong>androecium</strong> is composed of 5 stamens. The filaments are 0.5 mm long and the anthers are filiform and 6-7 mm long.<br>The <strong>pistil</strong> is composed of a 5 mm long style and a fusiform and 6 mm long <strong>stigma</strong>. The flowers are fragrant.<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/benkara_malabarica_flower1.jpg",
+          "caption": "Benkara malabarica flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Benkara malabarica grow opposite on the stem (decussate). The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides. The leaves have a 5-6 mm long petiole . The leaf of Benkara malabarica is 4-7 cm long and 2-4 cm wide. The shape of the blade is very variable, from rounded to oblanceolate, the apex is obtuse with a tiny mucro, the base is cuneate and the margins are entire. The venation of the leaf is pinnate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Benkara malabarica</i> grow opposite on the stem (decussate).<br>The leaf is simple, bright green-coloured above and paler beneath. The leaf is coriaceous, shiny and glabrous on both sides.<br>The leaves have a 5-6 mm long <strong>petiole</strong>.<br>The leaf of <i>Benkara malabarica</i> is 4-7 cm long and 2-4 cm wide. The shape of the <strong>blade</strong> is very variable, from rounded to oblanceolate, the <strong>apex</strong> is obtuse with a tiny mucro, the <strong>base</strong> is cuneate and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is pinnate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf1.jpg",
+          "caption": "Benkara malabarica branch (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf2.jpg",
+          "caption": "Benkara malabarica branch (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf3.jpg",
+          "caption": "Benkara malabarica leaf shoot"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf4.jpg",
+          "caption": "Benkara malabarica leaf (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf5.jpg",
+          "caption": "Benkara malabarica leaf (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf6.jpg",
+          "caption": "Benkara malabarica leaf shape variations"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf7.jpg",
+          "caption": "Benkara malabarica leaves (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/benkara_malabarica_leaf8.jpg",
+          "caption": "Benkara malabarica foliage"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Benkara malabarica is a thorny and deciduous shrub growing up to 6-7 m high. It has axillary and straight paired spines.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Benkara malabarica</i> is a thorny and <strong>deciduous shrub</strong> growing up to 6-7 m high. It has axillary and straight paired spines.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/benkara_malabarica_habit1.jpg",
+          "caption": "Benkara malabarica shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/benkara_malabarica_habit2.jpg",
+          "caption": "Benkara malabarica shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/benkara_malabarica_habit3.jpg",
+          "caption": "Benkara malabarica shrub"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/benkara_malabarica_habit4.jpg",
+          "caption": "Benkara malabarica in fruit"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Benkara malabarica is bisexual (each flower of each individual has both male and female structures). Benkara malabarica is pollinated by a wide variety of insects. The seeds of Benkara malabarica are mainly dispersed by frugivorous birds and mammals.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Benkara malabarica</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Benkara malabarica</i> is pollinated by a wide variety of insects.</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Benkara malabarica</i> are mainly dispersed by frugivorous birds and mammals.</p></li>\n      \n    </div>",
+      "images": []
+    },
+    "phenology": {
+      "text": "From February to July. From May to December. From September to December. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From February to July.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From May to December.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From September to December.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {},
+  "conservation": {
+    "reforestation": {
+      "text": "Benkara malabarica is a light demander and drought resistant. It will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Benkara malabarica</i> is a light demander and drought resistant. It will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

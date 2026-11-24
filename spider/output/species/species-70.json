@@ -1,0 +1,281 @@
+{
+  "species_id": 70,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=70",
+  "scraped_at": "2025-10-02T19:02:21.374768Z",
+  "basic_info": {
+    "scientific_name": "Wrightia tinctoria",
+    "authority": "R.Br.",
+    "family": "Apocynaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/wrightia_tinctoria.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Wr.ti_herb1.jpg"
+  },
+  "collection_metadata": {
+    "date": "04 May, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99622 N",
+      "longitude": "79.82141 E",
+      "raw": "11.99622 N - 79.82141 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": "Wrightia tinctoria",
+    "author": "Brown, Robert (1810)",
+    "family": "Apocynaceae",
+    "english_names": "Dyers' oleander, Pala indigo, sweet indrajao",
+    "indian_names": {
+      "Hindi": [
+        "Dudhi",
+        "mitha indrajau"
+      ],
+      "Kannada": [
+        "Bepalli",
+        "kirikodasige"
+      ],
+      "Malayalam": [
+        "Ayyappala",
+        "dantappala"
+      ],
+      "Marathi": [
+        "Bhurevada",
+        "kalakuda"
+      ],
+      "Sanskrit": [
+        "Svetakutaja"
+      ],
+      "Tamil": [
+        "Irumpaalai",
+        "veppaalai",
+        "vetpalai"
+      ],
+      "Telugu": [
+        "Jeddapala",
+        "tedlapala"
+      ]
+    },
+    "synonyms": [
+      "Allamanda verticillata",
+      "Alstonia oleandrifolia",
+      "Nerium jaspideum",
+      "Nerium tinctorium",
+      "Nerium tinctorium",
+      "Wrightia laciniata",
+      "Wrightia timorensis",
+      "Wrightia tinctoria subsp. tinctoria",
+      "The Plant List, 2015, http://www.theplantlist.org"
+    ],
+    "etymology": "-\nWrightia\n: In memory of the British botanist and physician William Wright (1735-1819), traveller and fellow of the Royal Society.\n-\nTinctoria\n: From the Latin\ntingo, tingere, tinxi, tinctum\n\"to dye\" and meaning \"used for dyeing\".",
+    "etymology_html": "<p>-<i>Wrightia</i> : In memory of the British botanist and physician William Wright (1735-1819), traveller and fellow of the Royal Society.<br>-<i>Tinctoria</i> : From the Latin <i>tingo, tingere, tinxi, tinctum</i> \"to dye\" and meaning \"used for dyeing\".</p>"
+  },
+  "description": {
+    "flower": {
+      "text": "The flowers of Wrightia tinctoria are grouped in terminal cymes. The peduncle is 2.5-3 cm long. The flowers are 5-merous. The calyx is composed of 5 concave and imbricate sepals. They are 2.5 mm long and 1.5 mm wide. The calyx is light green yellowish-coloured and glabrous. The corolla is composed of 5 pure white-coloured and glabrous petals. The petals are oblong, 1.5-2 cm long and 0.5-0.6 cm wide. They are connate at the base into a 3 mm long tube. The corolla bear radiating, spreading and lacy threads at the throat. The androecium is composed of 5 stamens forming a 5-6 mm long and cream-coloured cone. The style is 5 mm long with a capitate stigma . The ovary is 2 mm across. The flowers are fragrant (strong vanilla fragrance).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>flowers</strong> of <i>Wrightia tinctoria</i> are grouped in terminal cymes. The <strong>peduncle</strong> is 2.5-3 cm long.<br>The flowers are 5-merous.<br>The <strong>calyx</strong> is composed of 5 concave and imbricate sepals. They are 2.5 mm long and 1.5 mm wide. The calyx is light green yellowish-coloured and glabrous.<br>The <strong>corolla</strong> is composed of 5 pure white-coloured and glabrous petals. The petals are oblong, 1.5-2 cm long and 0.5-0.6 cm wide. They are connate at the base into a 3 mm long tube. The corolla bear radiating, spreading and lacy threads at the throat.<br>The <strong>androecium</strong> is composed of 5 stamens forming a 5-6 mm long and cream-coloured cone.<br>The <strong>style</strong> is 5 mm long with a capitate <strong>stigma</strong>. The <strong>ovary</strong> is 2 mm across.<br>The flowers are fragrant (strong vanilla fragrance).<br> </p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower1.jpg",
+          "caption": "Wrightia tinctoria inflorescences"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower2.jpg",
+          "caption": "Wrightia tinctoria cyme"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower3.jpg",
+          "caption": "Wrightia tinctoria flower (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower4.jpg",
+          "caption": "Wrightia tinctoria flower (lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower5.jpg",
+          "caption": "Wrightia tinctoria flower : corolla+stamens (on the left) and peduncle+calyx+pistil (on the right)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower6.jpg",
+          "caption": "Wrightia tinctoria flower buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower7.jpg",
+          "caption": "Wrightia tinctoria inflorescence"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower8.jpg",
+          "caption": "Wrightia tinctoria flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower9.jpg",
+          "caption": "Wrightia tinctoria flower and buds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/flower/wrightia_tinctoria_flower10.jpg",
+          "caption": "Wrightia tinctoria flower buds"
+        }
+      ]
+    },
+    "leaf": {
+      "text": "The leaves of Wrightia tinctoria grow opposite on the stem. The leaf is simple, light green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides. The leaves have a 3-4 mm long petiole . The leaf of Wrightia tinctoria is 8-15 cm long and 4-5 cm wide. The shape of the blade is elliptic, the apex is acute or acuminate, the base is otuse and the margins are entire. The venation of the leaf is reticulate with a prominent midrib.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>leaves</strong> of <i>Wrightia tinctoria</i> grow opposite on the stem.<br>The leaf is simple, light green-coloured above and paler beneath. The leaf is chartaceous and glabrous on both sides.<br>The leaves have a 3-4 mm long <strong>petiole</strong>.<br>The leaf of <i>Wrightia tinctoria</i> is 8-15 cm long and 4-5 cm wide. The shape of the <strong>blade</strong> is elliptic, the <strong>apex</strong> is acute or acuminate, the <strong>base</strong> is otuse and the <strong>margins</strong> are entire.<br>The <strong>venation</strong> of the leaf is reticulate with a prominent midrib.</p>    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/wrightia_tinctoria_leaf1.jpg",
+          "caption": "Wrightia tinctoria branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/wrightia_tinctoria_leaf2.jpg",
+          "caption": "Wrightia tinctoria young branchlet"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/wrightia_tinctoria_leaf3.jpg",
+          "caption": "Wrightia tinctoria leaf (upper and lower side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/wrightia_tinctoria_leaf4.jpg",
+          "caption": "Wrightia tinctoria branchlet (upper side)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/leaf/wrightia_tinctoria_leaf5.jpg",
+          "caption": "Wrightia tinctoria branchlet (lower side)"
+        }
+      ]
+    },
+    "habit": {
+      "text": "Wrightia tinctoria is a small-sized, unarmed and deciduous tree growing up to 10-12 m high.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p><i>Wrightia tinctoria</i> is a small-sized, unarmed and <strong>deciduous tree</strong> growing up to 10-12 m high.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/wrightia_tinctoria_habit1.jpg",
+          "caption": "Wrightia tinctoria tree (Gingee, Tamil Nadu)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/wrightia_tinctoria_habit2.jpg",
+          "caption": "Wrightia tinctoria tree (Gingee, Tamil Nadu)"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/habit/wrightia_tinctoria_habit3.jpg",
+          "caption": "Wrightia tinctoria tree (Pitchandikulam forest)"
+        }
+      ]
+    },
+    "stem_bark": {
+      "text": "The bark of Wrightia tinctoria is pale grey or brownish-couloured and longitudinally fissured. The bark is thin and (as all the parts of the tree) abounding in milky latex.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Wrightia tinctoria</i> is pale grey or brownish-couloured and longitudinally fissured. The bark is thin and (as all the parts of the tree) abounding in milky latex.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/wrightia_tinctoria_stem1.jpg",
+          "caption": "Wrightia tinctoria trunk"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/stem/wrightia_tinctoria_stem2.jpg",
+          "caption": "Wrightia tinctoria bark"
+        }
+      ]
+    },
+    "seed": {
+      "text": "The seeds of Wrightia tinctoria are ovate and beaked. They have an apical tuft of silky hairs.",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><p>The <strong>seeds</strong> of <i>Wrightia tinctoria</i> are ovate and beaked. They have an apical tuft of silky hairs.</p>    \n    \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/wrightia_tinctoria_seed1.jpg",
+          "caption": "Wrightia tinctoria seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/wrightia_tinctoria_seed2.jpg",
+          "caption": "Wrightia tinctoria seed"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/seed/wrightia_tinctoria_seed3.jpg",
+          "caption": "Wrightia tinctoria seeds"
+        }
+      ]
+    },
+    "fruit": {
+      "text": "The fruit of Wrightia tinctoria is composed of 2 hanging, slender, cylindric and diverging follicles. The follicles are 20-25 cm long and 0.5-0.7 cm wide and they are joined at their tips. The fruit is deep-green to black-coloured and dotted with white spots.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>fruit</strong> of <i>Wrightia tinctoria</i> is composed of 2 hanging, slender, cylindric and diverging follicles. The follicles are 20-25 cm long and 0.5-0.7 cm wide and they are joined at their tips. The fruit is deep-green to black-coloured and dotted with white spots.</p>      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit1.jpg",
+          "caption": "Wrightia tinctoria fruiting twig"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit2.jpg",
+          "caption": "Wrightia tinctoria fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit3.jpg",
+          "caption": "Wrightia tinctoria unripe fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit4.jpg",
+          "caption": "Wrightia tinctoria ripe and open fruit"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit5.jpg",
+          "caption": "Wrightia tinctoria ripe fruit releasing the seeds"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/fruit/wrightia_tinctoria_fruit6.jpg",
+          "caption": "Wrightia tinctoria hanging unripe fruits"
+        }
+      ]
+    }
+  },
+  "ecology": {
+    "reproduction_dispersal": {
+      "text": "Wrightia tinctoria is bisexual (each flower of each individual has both male and female structures). Wrightia tinctoria is pollinated by a wide variety of insects (mainly by honey bees). The seeds of Wrightia tinctoria are dispersed by the wind (anemochory).",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Sex distribution :<br></span><p><i>Wrightia tinctoria</i> is bisexual (each flower of each individual has both male and female structures).</p></li>\n        <li><span class=\"titchap\">Mode of pollination :<br></span><p><i>Wrightia tinctoria</i> is pollinated by a wide variety of insects (mainly by honey bees).</p></li>\n        <li><span class=\"titchap\">Seed dispersal :<br></span><p>The seeds of <i>Wrightia tinctoria</i> are dispersed by the wind (anemochory).</p></li>\n      \n    </div>",
+      "images": [
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/wrightia_tinctoria_reproduction1.jpg",
+          "caption": "Wrightia tinctoria anthers forming a cone"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/wrightia_tinctoria_reproduction2.jpg",
+          "caption": "Wrightia tinctoria flower corona surronding the reproductive structures"
+        },
+        {
+          "url": "https://admin.aurovilleherbarium.org/img/plants/reproduction/wrightia_tinctoria_reproduction3.jpg",
+          "caption": "Wrightia tinctoria flower pollinated by an honey bee (Apis dorsata)"
+        }
+      ]
+    },
+    "phenology": {
+      "text": "From April to August. From September to February. From September to February. During the hot season. ( This phenology applies to southeastern Indian plains )",
+      "text_html": "<div id=\"plant_txt\">\n    <p>\n      </p><li><span class=\"titchap\">Flowering season :</span> <p>From April to August.</p></li>\n      <li><span class=\"titchap\">Fruiting season :</span> <p>From September to February.</p></li>\n      <li><span class=\"titchap\">Seeding season :</span> <p>From September to February.</p></li>\n      <li><span class=\"titchap\">Leaves falling :</span> <p>During the hot season.</p></li>\n    \n    <p>\n      (<em>This phenology applies to southeastern Indian plains</em>)\n    </p>\n    </div>",
+      "images": []
+    }
+  },
+  "human_uses": {
+    "others": {
+      "text": "The branches of Wrightia tinctoria are used as a soil improver . \"They are trampled into the puddle soil in rice field for green manuring\". Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The branches of <i>Wrightia tinctoria</i> are used as a <strong>soil improver</strong>. \"They are trampled into the puddle soil in rice field for green manuring\".<br><br><i>Source : Orwa C, A Mutua, Kindt R , Jamnadass R, S Anthony. 2009 Agroforestree Database : a tree reference and selection guide</i></p>      \n    </div>",
+      "images": []
+    },
+    "veterinary": {
+      "text": "The bark of Wrightia tinctoria is crushed in water and applied as an antiinflammatory. The stem bark extract is pounded with garlic and turmeric and given orally in anthrax. Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>bark</strong> of <i>Wrightia tinctoria</i> is crushed in water and applied as an antiinflammatory.<br><br>The <strong>stem bark extract</strong> is pounded with garlic and turmeric and given orally in anthrax.<br><br><i>Source : Quattrocchi, 2012, CRC World Dictionary of Medicinal and Poisonous Plants</i></p>      \n    </div>",
+      "images": []
+    },
+    "handicrafts": {
+      "text": "The white wood of Wrightia tinctoria resembles ivory and is moderately hard. It is used for carving, turning, for making toys, combs, pen-holders, boxes and others small articles. The leaves of Wrightia tinctoria yields a blue dye or indigo-like dye which is known as pala indigo. Source : Dastur, 2006, Useful Plants of India and Pakistan",
+      "text_html": "<div id=\"plant_txt\">\n  <p>\n    </p><p>The white <strong>wood</strong> of <i>Wrightia tinctoria</i> resembles ivory and is moderately hard. It is used for carving, turning, for making toys, combs, pen-holders, boxes and others small articles.<br><br>The leaves of <i>Wrightia tinctoria</i> yields a blue <strong>dye</strong> or indigo-like dye which is known as pala indigo.<br><br><i>Source : Dastur, 2006, Useful Plants of India and Pakistan</i></p>  \n</div>",
+      "images": []
+    },
+    "culinary": {
+      "text": "The latex from the bark and fresh unripe fruits is used for coagulating milk. Source : Arya Vaidya Sala, 1996, Indian Medicinal plants",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><p>The <strong>latex</strong> from the bark and fresh unripe fruits is used for coagulating milk.<br><br><i>Source : Arya Vaidya Sala, 1996, Indian Medicinal plants</i></p>      \n    </div>",
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": "Wrightia tinctoria can be planted in full sun or half-shade. It will grow in a wide variety of situations and soils but all soils need to be free draining. The species is propagated by seeds. 24 hours of soaking in water accelerates the germination process.",
+      "text_html": "<div id=\"plant_txt\">\n      <p>\n        </p><li><span class=\"titchap\">Planting advice and requirements :</span><br>\n          <p><i>Wrightia tinctoria</i> can be planted in full sun or half-shade. It will grow in a wide variety of situations and soils but all soils need to be free draining.<br>The species is propagated by seeds.</p>        </li>\n\n        <li><span class=\"titchap\">Seed treatments :</span><br>\n          <p>24 hours of soaking in water accelerates the germination process.</p>        </li>\n      \n    </div>",
+      "images": []
+    }
+  }
+}

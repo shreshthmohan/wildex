@@ -1,0 +1,107 @@
+{
+  "species_id": 99,
+  "url": "https://aurovilleherbarium.org/herbarium.php?id=99",
+  "scraped_at": "2025-10-03T13:06:12.667440Z",
+  "basic_info": {
+    "scientific_name": "Diospyros malabarica",
+    "authority": "(Desr.) Kostel.",
+    "family": "Ebenaceae"
+  },
+  "images": {
+    "main_specimen": "https://admin.aurovilleherbarium.org/img/plants/main/diospyros_malabarica.jpg",
+    "dry_herbarium": "https://admin.aurovilleherbarium.org/img/dryherbarium/Di.pe_herb3.jpg"
+  },
+  "collection_metadata": {
+    "date": "21 Oct, 2015",
+    "collected_by": "N.L.I.B.",
+    "gps_coordinates": {
+      "latitude": "11.99422 N",
+      "longitude": "79.82393 E",
+      "raw": "11.99422 N - 79.82393 E"
+    },
+    "locality": "Pitchandikulam Forest, Auroville, Tamil Nadu, India"
+  },
+  "nomenclature": {
+    "botanical_name": null,
+    "author": null,
+    "family": null,
+    "english_names": null,
+    "indian_names": null,
+    "synonyms": [],
+    "etymology": null,
+    "etymology_html": null
+  },
+  "description": {
+    "stem_bark": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "fruit": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "leaf": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "habit": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    }
+  },
+  "ecology": {
+    "ecology": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "distribution": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "reproduction_dispersal": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "phenology": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    }
+  },
+  "human_uses": {
+    "veterinary": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "handicrafts": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "culinary": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    },
+    "medicinal": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    }
+  },
+  "conservation": {
+    "reforestation": {
+      "text": null,
+      "text_html": null,
+      "images": []
+    }
+  }
+}
